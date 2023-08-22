@@ -1,0 +1,71 @@
+<?php
+/**
+ * Title: sidebar
+ * Slug: twenty-twenty-four/sidebar
+ * Categories: hidden
+ * Inserter: no
+ */
+?>
+<!-- wp:group {"style":{"spacing":{"blockGap":"2.5rem"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":22,"width":80,"height":80,"scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/avatar_4.jpg" alt="" class="wp-image-22" style="object-fit:cover;width:80px;height:80px" width="80" height="80"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"1.4rem"}}} -->
+<h2 class="wp-block-heading" style="font-size:1.4rem">About the author</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
+<p style="font-size:0.9rem">I'm a seasoned financial writer driven by an insatiable curiosity to unveil the intricate tapestry of finance and economics. Over the span of more than a decade, my journey through the labyrinth of global markets, monetary policies, and economic trends has equipped readers with the tools to navigate the dynamic landscape of finance.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:separator {"backgroundColor":"custom-borders"} -->
+<hr class="wp-block-separator has-text-color has-custom-borders-color has-alpha-channel-opacity has-custom-borders-background-color has-background"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"1.6rem"}}} -->
+<h2 class="wp-block-heading" style="font-size:1.6rem">Latest Posts</h2>
+<!-- /wp:heading -->
+
+<!-- wp:query {"queryId":13,"query":{"perPage":3,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
+<div class="wp-block-query"><!-- wp:post-template -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"0.5rem"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:post-title {"isLink":true,"fontSize":"medium"} /-->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0.22em"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:post-date {"format":"M j, Y"} /-->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"0.8rem"},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
+<p class="has-secondary-color has-text-color has-link-color" style="font-size:0.8rem">—</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:post-author-name /-->
+
+<!-- wp:post-terms {"term":"category","prefix":"in "} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+<!-- /wp:post-template --></div>
+<!-- /wp:query -->
+
+<!-- wp:separator {"backgroundColor":"custom-borders"} -->
+<hr class="wp-block-separator has-text-color has-custom-borders-color has-alpha-channel-opacity has-custom-borders-background-color has-background"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"1.6rem"}}} -->
+<h2 class="wp-block-heading" style="font-size:1.6rem">Links</h2>
+<!-- /wp:heading -->
+
+<!-- wp:query {"queryId":13,"query":{"perPage":3,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
+<div class="wp-block-query"><!-- wp:post-template -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"0.5rem"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:post-title {"isLink":true,"fontSize":"small","fontFamily":"system-font"} /--></div>
+<!-- /wp:group -->
+<!-- /wp:post-template --></div>
+<!-- /wp:query --></div>
+<!-- /wp:group -->
