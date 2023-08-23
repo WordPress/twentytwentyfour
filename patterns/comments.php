@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Comments
- * slug: twenty-twenty-four/comments
+ * slug: twentytwentyfour/comments
  * inserter: no
  */
 

@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: sidebar-writer
- * Slug: twenty-twenty-four/sidebar
+ * Slug: twentytwentyfour/sidebar
  * Categories: hidden
  * Inserter: no
  */

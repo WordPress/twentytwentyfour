@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: home
- * Slug: twenty-twenty-four/home
+ * Slug: twentytwentyfour/home
  * Categories: hidden
  * Inserter: no
  */

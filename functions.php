@@ -9,7 +9,7 @@
  */
 
 
-if ( ! function_exists( 'twenty_twenty_four_support' ) ) :
+if ( ! function_exists( 'twentytwentyfour_support' ) ) :
 
 	/**
 	 * Sets up theme defaults and registers support for various WordPress features.
@@ -18,20 +18,20 @@ if ( ! function_exists( 'twenty_twenty_four_support' ) ) :
 	 *
 	 * @return void
 	 */
-	function twenty_twenty_four_support() {
+	function twentytwentyfour_support() {
 
 		// Enqueue editor styles.
 		add_editor_style( 'style.css' );
 
 		// Make theme available for translation.
-		load_theme_textdomain( 'twenty-twenty-four' );
+		load_theme_textdomain( 'twentytwentyfour' );
 	}
 
 endif;
 
-add_action( 'after_setup_theme', 'twenty_twenty_four_support' );
+add_action( 'after_setup_theme', 'twentytwentyfour_support' );
 
-if ( ! function_exists( 'twenty_twenty_four_styles' ) ) :
+if ( ! function_exists( 'twentytwentyfour_styles' ) ) :
 
 	/**
 	 * Enqueue styles.
@@ -40,21 +40,21 @@ if ( ! function_exists( 'twenty_twenty_four_styles' ) ) :
 	 *
 	 * @return void
 	 */
-	function twenty_twenty_four_styles() {
+	function twentytwentyfour_styles() {
 
 		// Register theme stylesheet.
 		wp_register_style(
-			'twenty_twenty_four-style',
+			'twentytwentyfour-style',
 			get_stylesheet_directory_uri() . '/style.css',
 			array(),
 			wp_get_theme()->get( 'Version' )
 		);
 
 		// Enqueue theme stylesheet.
-		wp_enqueue_style( 'twenty_twenty_four-style' );
+		wp_enqueue_style( 'twentytwentyfour-style' );
 
 	}
 
 endif;
 
-add_action( 'wp_enqueue_scripts', 'twenty_twenty_four_styles' );
+add_action( 'wp_enqueue_scripts', 'twentytwentyfour_styles' );
