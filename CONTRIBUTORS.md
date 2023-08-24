@@ -4,5 +4,5 @@
 | --------------- | --------------------- |
 | @MaggieCabrera | @onemaggie |
 | @luminuu | @luminuu |
-| @lynurth | @lynurth |
+| @lynurth | @lyndauwp |
 
