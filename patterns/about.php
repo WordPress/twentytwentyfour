@@ -7,7 +7,7 @@
 
 ?>
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"italic","fontWeight":"300","lineHeight":"1.2"}},"fontSize":"large","fontFamily":"cardo"} -->
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"italic","fontWeight":"400","lineHeight":"1.2"}},"fontSize":"large","fontFamily":"cardo"} -->
 <p class="has-text-align-center has-cardo-font-family has-large-font-size" style="font-style:italic;font-weight:300;line-height:1.2">
     <?php
         /* Translators: WordPress link. */
