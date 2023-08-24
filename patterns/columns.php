@@ -2,7 +2,8 @@
 /**
  * Title: Columns
  * Slug: twentytwentyfour/columns
- * Inserter: Yes
+ * Categories: text
+
  */
 
 ?>
@@ -18,8 +19,8 @@
 <!-- wp:column {"style":{"spacing":{"blockGap":"5.6em"}}} -->
 <div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"lineHeight":"1.1","fontSize":"22px"}},"fontFamily":"system-font"} -->
-<h4 class="wp-block-heading has-system-font-font-family" style="font-size:22px;line-height:1.1"><strong>Consulting</strong></h4>
+<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"lineHeight":"1.1"}},"fontSize":"medium","fontFamily":"system-font"} -->
+<h4 class="wp-block-heading has-system-font-font-family has-medium-font-size" style="line-height:1.1"><strong>Consulting</strong></h4>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -28,8 +29,8 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"lineHeight":"1.1","fontSize":"22px"}},"fontFamily":"system-font"} -->
-<h4 class="wp-block-heading has-system-font-font-family" style="font-size:22px;line-height:1.1"><strong><strong>Project Management</strong></strong></h4>
+<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"lineHeight":"1.1"}},"fontSize":"medium","fontFamily":"system-font"} -->
+<h4 class="wp-block-heading has-system-font-font-family has-medium-font-size" style="line-height:1.1"><strong><strong>Project Management</strong></strong></h4>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -40,8 +41,8 @@
 
 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"lineHeight":"1.1","fontSize":"22px"}},"fontFamily":"system-font"} -->
-<h4 class="wp-block-heading has-system-font-font-family" style="font-size:22px;line-height:1.1"><strong>Design</strong></h4>
+<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"lineHeight":"1.1"}},"fontSize":"medium","fontFamily":"system-font"} -->
+<h4 class="wp-block-heading has-system-font-font-family has-medium-font-size" style="line-height:1.1"><strong>Design</strong></h4>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -50,8 +51,8 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"lineHeight":"1.1","fontSize":"22px"}},"fontFamily":"system-font"} -->
-<h4 class="wp-block-heading has-system-font-font-family" style="font-size:22px;line-height:1.1"><strong>Maintenance</strong></h4>
+<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"lineHeight":"1.1"}},"fontSize":"medium","fontFamily":"system-font"} -->
+<h4 class="wp-block-heading has-system-font-font-family has-medium-font-size" style="line-height:1.1"><strong>Maintenance</strong></h4>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
