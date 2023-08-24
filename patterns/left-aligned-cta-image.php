@@ -2,7 +2,7 @@
 /**
  * Title: Left Aligned Call to Action with Image
  * Slug: twentytwentyfour/left-aligned-cta-image
- * Category:
+ * Categories: call-to-action
  */
 ?>
 
