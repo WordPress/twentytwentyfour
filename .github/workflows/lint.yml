@@ -1,14 +1,12 @@
 name: Code Quality
 
 on:
+  pull_request:
   push:
     branches:
       - trunk
-    pull_request:
-      types:
-        - opened
-        - synchronize
-        - ready_for_review
+      - "release/**"
+      - "wp/**"
 
 # Cancel previous workflow run groups that have not completed.
 concurrency:
