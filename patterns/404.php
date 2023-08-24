@@ -12,5 +12,5 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><?php echo  esc_html__( 'It looks like nothing was found at this location. Maybe try a search?', 'twentytwentyfour' ); ?></p>
+<p><?php echo esc_html__( 'It looks like nothing was found at this location. Maybe try a search?', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
