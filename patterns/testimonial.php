@@ -7,7 +7,7 @@
  */
 ?>
 
-<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"140px","bottom":"140px"}}},"backgroundColor":"contrast","textColor":"tertiary","layout":{"type":"constrained"}} -->
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"140px","bottom":"140px"}}},"backgroundColor":"contrast","textColor":"tertiary","layout":{"type":"default"}} -->
 <div class="wp-block-group alignwide has-tertiary-color has-contrast-background-color has-text-color has-background" style="padding-top:140px;padding-bottom:140px"><!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"bottom":"32px"}},"typography":{"lineHeight":"1.2"}},"textColor":"tertiary","fontSize":"x-large","fontFamily":"cardo"} -->
   <p class="has-text-align-center has-tertiary-color has-text-color has-cardo-font-family has-x-large-font-size" style="margin-bottom:32px;line-height:1.2"><em><?php echo esc_html__('“Études has saved us thousands of hours of work and has unlocked insights we never thought possible.”', 'twentytwentyfour'); ?></em></p>
   <!-- /wp:paragraph -->
