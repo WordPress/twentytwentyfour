@@ -19,12 +19,8 @@ if ( ! function_exists( 'twentytwentyfour_support' ) ) :
 	 * @return void
 	 */
 	function twentytwentyfour_support() {
-
 		// Enqueue editor styles.
 		add_editor_style( 'style.css' );
-
-		// Make theme available for translation.
-		load_theme_textdomain( 'twentytwentyfour' );
 	}
 
 endif;
