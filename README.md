@@ -38,6 +38,22 @@ To get started with development:
 
 Some theme features / PRs may require Gutenberg trunk and will be described or tagged accordingly.
 
+### Testing
+
+Optionally, to run tests locally, you will also need:
+
+- [Node.js](https://nodejs.org/en/)
+  - It's recommended that you install Node through [nvm](https://github.com/nvm-sh/nvm#intro), since it's the tool used by the CLI to select the node version being used.
+- [Composer](https://getcomposer.org/)
+
+You can install the test-specific development dependencies by running `npm i && composer install`. The following test commands are then available:
+
+- `npm run lint:css` lints and autofixes where possible the CSS
+- `composer run analyze [filename.php]` statically analyzes PHP for bugs
+- `composer run lint` checks PHP for syntax errors
+- `composer run standards:check` checks PHP for standards errors according to [WordPress coding standards](https://developer.wordpress.org/coding-standards/)
+- `composer run standards:fix` attemps to automatically fix errors
+
 ## Resources
 
 - [Twenty Twenty-Four Figma Mockups](https://www.figma.com/file/AlYr03vh4dVimwYwQkTdf6/Twenty-Twenty-Four?type=design&node-id=16%3A14852&mode=design&t=yad81XRtp200JLes-1)
