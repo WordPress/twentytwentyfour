@@ -2,8 +2,7 @@
 /**
  * Title: Team
  * Slug: twentytwentyfour/team
- * Categories: team
- * Block Types: core/template-part/team
+ * Categories: gallery
  */
 ?>
 
