@@ -406,11 +406,6 @@
 					}
 				}
 			},
-			"core/image": {
-				"border": {
-					"radius": "16px"
-				}
-			},
 			"core/list": {
 				"spacing": {
 					"padding": {
