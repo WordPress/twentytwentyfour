@@ -13,21 +13,21 @@
 		<!-- wp:column {"width":"642px","style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}}} -->
 		<div class="wp-block-column" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px;flex-basis:642px">
 			<!-- wp:heading -->
-			<h2 class="wp-block-heading"><?php esc_html_e( 'Enhance your architectural journey with the Études Architect App', 'twentytwentyfour' ); ?></h2>
+			<h2 class="wp-block-heading"><?php echo esc_html_x( 'Enhance your architectural journey with the Études Architect App', 'sample content for call to action', 'twentytwentyfour' ); ?></h2>
 			<!-- /wp:heading -->
 
 			<!-- wp:list {"style":{"typography":{"lineHeight":"1.75"}}} -->
 			<ul style="line-height:1.75">
 				<!-- wp:list-item -->
-				<li><?php esc_html_e( 'Collaborate with fellow architects', 'twentytwentyfour' ); ?></li>
+				<li><?php echo esc_html_x( 'Collaborate with fellow architects', 'sample content for call to action', 'twentytwentyfour' ); ?></li>
 				<!-- /wp:list-item -->
 
 				<!-- wp:list-item -->
-				<li><?php esc_html_e( 'Showcase your projects', 'twentytwentyfour' ); ?></li>
+				<li><?php echo esc_html_x( 'Showcase your projects', 'sample content for call to action', 'twentytwentyfour' ); ?></li>
 				<!-- /wp:list-item -->
 
 				<!-- wp:list-item -->
-				<li><?php esc_html_e( 'Experience the world of architecture like never before', 'twentytwentyfour' ); ?></li>
+				<li><?php echo esc_html_x( 'Experience the world of architecture like never before', 'sample content for call to action', 'twentytwentyfour' ); ?></li>
 				<!-- /wp:list-item -->
 			</ul>
 			<!-- /wp:list -->
@@ -36,13 +36,13 @@
 			<div class="wp-block-buttons">
 				<!-- wp:button {"className":"is-style-outline"} -->
 				<div class="wp-block-button is-style-outline">
-					<a class="wp-block-button__link wp-element-button"><?php esc_html_e( 'Learn More', 'twentytwentyfour' ); ?></a>
+					<a class="wp-block-button__link wp-element-button"><?php echo esc_html_x( 'Learn More', 'sample content for call to action button', 'twentytwentyfour' ); ?></a>
 				</div>
 				<!-- /wp:button -->
 
 				<!-- wp:button -->
 				<div class="wp-block-button">
-					<a class="wp-block-button__link wp-element-button"><?php esc_html_e( 'Get Started', 'twentytwentyfour' ); ?></a>
+					<a class="wp-block-button__link wp-element-button"><?php echo esc_html_x( 'Get Started', 'sample content for call to action button', 'twentytwentyfour' ); ?></a>
 				</div>
 				<!-- /wp:button -->
 			</div>
