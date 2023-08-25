@@ -15,4 +15,4 @@
 	<p class="has-contrast-color has-text-color has-link-color"><?php echo esc_html__( 'The page you are looking for doesn’t exist, or it has been moved. Please try searching using the form below.', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:search {"label":"","showLabel":false,"width":620,"widthUnit":"px","buttonText":"Search","style":{"border":{"radius":"6px"}}} /-->
+<!-- wp:search {"label":"","showLabel":false,"width":620,"widthUnit":"px","buttonText":"<?php echo esc_html__( 'Search', 'twentytwentyfour' ); ?>","style":{"border":{"radius":"6px"}}} /-->
