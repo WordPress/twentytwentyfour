@@ -17,7 +17,11 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
-<p style="font-size:0.9rem"><?php echo esc_html__( 'I\'m a seasoned financial writer driven by an insatiable curiosity to unveil the intricate tapestry of finance and economics. Over the span of more than a decade, my journey through the labyrinth of global markets, monetary policies, and economic trends has equipped readers with the tools to navigate the dynamic landscape of finance.', 'twentytwentyfour' ); ?></p>
+<p style="font-size:0.9rem"><?php echo esc_html_x( 'I\'m a seasoned financial writer driven by an insatiable curiosity to unveil the intricate tapestry of finance and economics.', 'sample content for sidebar', 'twentytwentyfour' ); ?></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
+<p style="font-size:0.9rem"><?php echo esc_html_x( 'Over the span of more than a decade, my journey through the labyrinth of global markets, monetary policies, and economic trends has equipped readers with the tools to navigate the dynamic landscape of finance.', 'sample content for sidebar', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
