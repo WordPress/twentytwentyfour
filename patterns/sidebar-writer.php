@@ -13,11 +13,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"style":{"typography":{"fontSize":"1.4rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:1.4rem">Sur l'auteur</h2>
+<h2 class="wp-block-heading" style="font-size:1.4rem"><?php echo esc_html__( 'Sur l\'auteur', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
-<p style="font-size:0.9rem">Je suis Adele Diouf, et je suis animée par une curiosité insatiable de dévoiler la tapisserie complexe de la finance et de l'économie. Au cours de plus d'une décennie, mon voyage à travers le labyrinthe des marchés mondiaux, des politiques monétaires et des tendances économiques a fourni aux lecteurs les outils nécessaires pour naviguer dans le paysage dynamique de la finance.</p>
+<p style="font-size:0.9rem"><?php echo esc_html_x( 'Je suis Adele Diouf, et je suis animée par une curiosité insatiable de dévoiler la tapisserie complexe de la finance et de l\'économie. Au cours de plus d\'une décennie, mon voyage à travers le labyrinthe des marchés mondiaux, des politiques monétaires et des tendances économiques a fourni aux lecteurs les outils nécessaires pour naviguer dans le paysage dynamique de la finance.', 'sample content for sidebar-writer', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -26,7 +26,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"style":{"typography":{"fontSize":"1.6rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:1.6rem">Derniers articles</h2>
+<h2 class="wp-block-heading" style="font-size:1.6rem"><?php echo esc_html__( 'Derniers articles', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:query {"queryId":13,"query":{"perPage":3,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
@@ -60,21 +60,21 @@
 <!-- wp:group {"style":{"spacing":{"blockGap":"1.6rem"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"0.3rem"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontSize":"1.6rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:1.6rem">Des connections utiles</h2>
+<h2 class="wp-block-heading" style="font-size:1.6rem"><?php echo esc_html__( 'Des connections utiles', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
-<p style="font-size:0.9rem">Des choses que je trouve utiles et que je voulais partager avec vous.</p>
+<p style="font-size:0.9rem"><?php echo esc_html_x( 'Des choses que je trouve utiles et que je voulais partager avec vous.', 'sample content for sidebar-writer', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0.6rem"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
-<p style="font-size:0.9rem"><a href="https://tt4writer.mystagingwebsite.com">Dernier rapport sur l'inflation </a>↗</p>
+<p style="font-size:0.9rem"><a href="https://tt4writer.mystagingwebsite.com"><?php echo esc_html_x( 'Dernier rapport sur l\'inflation', 'sample content for sidebar-writer', 'twentytwentyfour' ); ?></a>↗</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
-<p style="font-size:0.9rem"><a href="https://tt4writer.mystagingwebsite.com">Applications financières pour les familles </a>↗</p>
+<p style="font-size:0.9rem"><a href="https://tt4writer.mystagingwebsite.com"><?php echo esc_html_x( 'Applications financières pour les familles', 'sample content for sidebar-writer', 'twentytwentyfour' ); ?></a>↗</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
