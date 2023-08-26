@@ -13,11 +13,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"style":{"typography":{"fontSize":"1.4rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:1.4rem">About the author</h2>
+<h2 class="wp-block-heading" style="font-size:1.4rem"><?php echo esc_html__( 'About the author', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
-<p style="font-size:0.9rem">I'm a seasoned financial writer driven by an insatiable curiosity to unveil the intricate tapestry of finance and economics. Over the span of more than a decade, my journey through the labyrinth of global markets, monetary policies, and economic trends has equipped readers with the tools to navigate the dynamic landscape of finance.</p>
+<p style="font-size:0.9rem"><?php echo esc_html_x( 'I\'m a seasoned financial writer driven by an insatiable curiosity to unveil the intricate tapestry of finance and economics. Over the span of more than a decade, my journey through the labyrinth of global markets, monetary policies, and economic trends has equipped readers with the tools to navigate the dynamic landscape of finance.', 'sample content for sidebar', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -26,7 +26,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"style":{"typography":{"fontSize":"1.6rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:1.6rem">Latest Posts</h2>
+<h2 class="wp-block-heading" style="font-size:1.6rem"><?php echo esc_html__( 'Latest Posts', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:query {"queryId":13,"query":{"perPage":3,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
@@ -58,7 +58,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"style":{"typography":{"fontSize":"1.6rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:1.6rem">Links</h2>
+<h2 class="wp-block-heading" style="font-size:1.6rem"><?php echo esc_html__( 'Links', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:query {"queryId":13,"query":{"perPage":3,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
