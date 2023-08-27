@@ -4,6 +4,7 @@
 | --------------- | --------------------- |
 | @MaggieCabrera | @onemaggie |
 | @luminuu | @luminuu |
+| @beafialho | @beafialho |
 | @chrisdesrochers | @chrisdesrochers |
 | @amedv | @ |
 | @melchoyce | @melchoyce |
