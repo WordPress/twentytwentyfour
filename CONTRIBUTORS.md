@@ -19,3 +19,4 @@
 | @jordesign | @jordesign |
 | @vcanales | @vcanales |
 | @shail-mehta | @shailu25 |
+| @jessynd | @jessplease |
