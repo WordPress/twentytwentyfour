@@ -2,6 +2,7 @@
 	"settings": {
 		"appearanceTools": true,
 		"color": {
+			"defaultDuotone": false,
 			"duotone": [
 				{
 					"colors": [
