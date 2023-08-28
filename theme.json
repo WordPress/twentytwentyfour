@@ -2,6 +2,48 @@
 	"settings": {
 		"appearanceTools": true,
 		"color": {
+			"duotone": [
+				{
+					"colors": [
+						"#111111",
+						"#ffffff"
+					],
+					"slug": "black-and-white",
+					"name": "Duotone 1"
+				},
+				{
+					"colors": [
+						"#111111",
+						"#C2A990"
+					],
+					"slug": "duotone-1",
+					"name": "Duotone 1"
+				},
+				{
+					"colors": [
+						"#111111",
+						"#D26E57"
+					],
+					"slug": "duotone-2",
+					"name": "Duotone 2"
+				},
+				{
+					"colors": [
+						"#111111",
+						"#B1C5A4"
+					],
+					"slug": "duotone-3",
+					"name": "Duotone 3"
+				},
+				{
+					"colors": [
+						"#111111",
+						"#B5BDBC"
+					],
+					"slug": "duotone-4",
+					"name": "Duotone 4"
+				}
+			],
 			"palette": [
 				{
 					"color": "#f9f9f9",
