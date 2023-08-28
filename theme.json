@@ -26,7 +26,7 @@
 				{
 					"color": "#636363",
 					"name": "Contrast / Two",
-					"slug": "secondary"
+					"slug": "contrast-2"
 				},
 				{
 					"color": "#A4A4A4",
@@ -292,12 +292,12 @@
 			},
 			"core/comment-date": {
 				"color": {
-					"text": "var(--wp--preset--color--secondary)"
+					"text": "var(--wp--preset--color--contrast-2)"
 				},
 				"elements": {
 					"link": {
 						"color": {
-							"text": "var(--wp--preset--color--secondary)"
+							"text": "var(--wp--preset--color--contrast-2)"
 						}
 					}
 				},
@@ -309,7 +309,7 @@
 				"elements": {
 					"link": {
 						"color": {
-							"text": "var(--wp--preset--color--secondary)"
+							"text": "var(--wp--preset--color--contrast-2)"
 						}
 					}
 				},
@@ -321,7 +321,7 @@
 				"elements": {
 					"link": {
 						"color": {
-							"text": "var(--wp--preset--color--secondary)"
+							"text": "var(--wp--preset--color--contrast-2)"
 						}
 					}
 				},
@@ -413,7 +413,7 @@
 			},
 			"core/post-date": {
 				"color": {
-					"text": "var(--wp--preset--color--secondary)"
+					"text": "var(--wp--preset--color--contrast-2)"
 				},
 				"elements": {
 					"link": {
@@ -423,7 +423,7 @@
 							}
 						},
 						"color": {
-							"text": "var(--wp--preset--color--secondary)"
+							"text": "var(--wp--preset--color--contrast-2)"
 						},
 						"typography": {
 							"textDecoration": "none"
@@ -603,7 +603,7 @@
 				},
 				":hover": {
 					"color": {
-						"background": "var(--wp--preset--color--secondary)",
+						"background": "var(--wp--preset--color--contrast-2)",
 						"text": "var(--wp--preset--color--base)"
 					}
 				},
@@ -617,7 +617,7 @@
 			},
 			"caption": {
 				"color": {
-					"text": "var(--wp--preset--color--secondary)"
+					"text": "var(--wp--preset--color--contrast-2)"
 				},
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--system-font)",

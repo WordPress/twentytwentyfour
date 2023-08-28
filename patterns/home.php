@@ -256,8 +256,8 @@
 <p style="font-size:0.9rem"><strong>Annie Steiner</strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"fontSize":"0.9rem"}},"textColor":"secondary"} -->
-<p class="has-secondary-color has-text-color has-link-color" style="font-size:0.9rem">CEO, Greenprint</p>
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}},"typography":{"fontSize":"0.9rem"}},"textColor":"contrast-2"} -->
+<p class="has-base-2-color has-text-color has-link-color" style="font-size:0.9rem">CEO, Greenprint</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
@@ -280,13 +280,13 @@
 <!-- wp:group {"style":{"spacing":{"blockGap":"0.3em","padding":{"top":"0","bottom":"0"}}},"layout":{"type":"flex","flexWrap":"wrap"}} -->
 <div class="wp-block-group" style="padding-top:0;padding-bottom:0"><!-- wp:post-date {"format":"M j, Y"} /-->
 
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
-<p class="has-secondary-color has-text-color has-link-color">—</p>
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}}},"textColor":"contrast-2"} -->
+<p class="has-base-2-color has-text-color has-link-color">—</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:post-author-name /-->
 
-<!-- wp:post-terms {"term":"category","prefix":"in ","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"secondary"} /--></div>
+<!-- wp:post-terms {"term":"category","prefix":"in ","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast-2"} /--></div>
 <!-- /wp:group -->
 
 <!-- wp:post-excerpt {"moreText":"","fontSize":"small"} /--></div>
@@ -308,13 +308,13 @@
 <!-- wp:group {"style":{"spacing":{"blockGap":"0.3em","padding":{"top":"0","bottom":"0"}}},"layout":{"type":"flex","flexWrap":"wrap"}} -->
 <div class="wp-block-group" style="padding-top:0;padding-bottom:0"><!-- wp:post-date {"format":"M j, Y"} /-->
 
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
-<p class="has-secondary-color has-text-color has-link-color">—</p>
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}}},"textColor":"contrast-2"} -->
+<p class="has-base-2-color has-text-color has-link-color">—</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:post-author-name /-->
 
-<!-- wp:post-terms {"term":"category","prefix":"in ","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"secondary"} /--></div>
+<!-- wp:post-terms {"term":"category","prefix":"in ","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast-2"} /--></div>
 <!-- /wp:group -->
 
 <!-- wp:post-excerpt {"moreText":"","style":{"typography":{"fontSize":"0.9rem"}}} /--></div>
