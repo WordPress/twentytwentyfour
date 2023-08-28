@@ -2,6 +2,7 @@
 	"settings": {
 		"appearanceTools": true,
 		"color": {
+			"defaultPalette": false,
 			"palette": [
 				{
 					"color": "#f9f9f9",
