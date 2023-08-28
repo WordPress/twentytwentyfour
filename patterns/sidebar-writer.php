@@ -21,8 +21,8 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:separator {"backgroundColor":"custom-borders"} -->
-<hr class="wp-block-separator has-text-color has-custom-borders-color has-alpha-channel-opacity has-custom-borders-background-color has-background"/>
+<!-- wp:separator {"backgroundColor":"base-3"} -->
+<hr class="wp-block-separator has-text-color has-base-3-color has-alpha-channel-opacity has-custom-borders-background-color has-background"/>
 <!-- /wp:separator -->
 
 <!-- wp:heading {"style":{"typography":{"fontSize":"1.6rem"}}} -->
@@ -53,8 +53,8 @@
 <!-- /wp:post-template --></div>
 <!-- /wp:query -->
 
-<!-- wp:separator {"backgroundColor":"custom-borders"} -->
-<hr class="wp-block-separator has-text-color has-custom-borders-color has-alpha-channel-opacity has-custom-borders-background-color has-background"/>
+<!-- wp:separator {"backgroundColor":"base-3"} -->
+<hr class="wp-block-separator has-text-color has-base-3-color has-alpha-channel-opacity has-custom-borders-background-color has-background"/>
 <!-- /wp:separator -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"1.6rem"}},"layout":{"type":"flex","orientation":"vertical"}} -->
