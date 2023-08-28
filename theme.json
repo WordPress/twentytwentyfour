@@ -794,6 +794,64 @@
 			"title": "Post Meta"
 		}
 	],
+	"customTemplates": [
+		{
+			"name": "home-portfolio",
+			"postTypes": [
+				"page"
+			],
+			"title": "Home Portfolio"
+		},
+		{
+			"name": "home-writer",
+			"postTypes": [
+				"page"
+			],
+			"title": "Home Writer"
+		},
+		{
+			"name": "page-no-title",
+			"postTypes": [
+				"page"
+			],
+			"title": "Page No Title"
+		},
+		{
+			"name": "page-writer",
+			"postTypes": [
+				"page"
+			],
+			"title": "Page Writer"
+		},
+		{
+			"name": "page-portfolio",
+			"postTypes": [
+				"page"
+			],
+			"title": "Page Portfolio"
+		},
+		{
+			"name": "page-alternative",
+			"postTypes": [
+				"page"
+			],
+			"title": "Page Alternative"
+		},
+		{
+			"name": "single-writer",
+			"postTypes": [
+				"page"
+			],
+			"title": "Single Writer"
+		},
+		{
+			"name": "single-with-sidebar",
+			"postTypes": [
+				"page"
+			],
+			"title": "Single with Sidebar"
+		}
+	],
 	"version": 2,
 	"$schema": "https://schemas.wp.org/trunk/theme.json"
 }
