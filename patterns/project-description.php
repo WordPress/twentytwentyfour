@@ -22,6 +22,6 @@
 <!-- /wp:columns -->
 
 <!-- wp:image {"id":26,"aspectRatio":"16/9","scale":"cover","sizeSlug":"large","linkDestination":"none","className":"is-style-default"} -->
-<figure class="wp-block-image size-large is-style-default"><img src="<?php esc_url(get_template_directory_uri().'assets/small-boat-in-big-water-1024x495.jpg';?>" alt="" class="wp-image-26" style="aspect-ratio:16/9;object-fit:cover"/></figure>
+<figure class="wp-block-image size-large is-style-default"><img src="<?php esc_url(get_template_directory_uri().'assets/small-boat-in-big-water-1024x495.jpg');?>" alt="" class="wp-image-26" style="aspect-ratio:16/9;object-fit:cover"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
