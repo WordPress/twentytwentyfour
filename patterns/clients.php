@@ -9,7 +9,7 @@
 <!-- wp:group {"tagName":"main","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","right":"var:preset|spacing|20","bottom":"var:preset|spacing|80","left":"var:preset|spacing|20"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"white","layout":{"type":"constrained","contentSize":"1320px","wideSize":"100%"}} -->
 <main class="wp-block-group has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--80);padding-left:var(--wp--preset--spacing--20)"><!-- wp:group {"layout":{"type":"constrained","contentSize":"100%"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( 'We’ve worked with some of the best companies.', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html_x( 'We’ve worked with some of the best companies.', 'Sample content explaining that you have worked with the companies listed below.', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
