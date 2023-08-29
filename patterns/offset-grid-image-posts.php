@@ -2,7 +2,7 @@
 /**
  * Title: Offset Grid of Image Posts
  * Slug: twentytwentyfour/offset-grid-image-posts
- * Categories: Posts
+ * Categories: posts
  */
 
 ?>
