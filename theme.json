@@ -2,6 +2,7 @@
 	"settings": {
 		"appearanceTools": true,
 		"color": {
+			"defaultPalette": false,
 			"palette": [
 				{
 					"color": "#f9f9f9",
@@ -65,13 +66,38 @@
 			"wideSize": "1280px"
 		},
 		"spacing": {
-			"spacingScale": {
-				"increment": 1.5,
-				"mediumStep": 1.5,
-				"operator": "*",
-				"steps": 7,
-				"unit": "rem"
-			},
+			"spacingSizes": [
+				{
+					"name": "1",
+					"size": "min(1rem, 2vw)",
+					"slug": "10"
+				},
+				{
+					"name": "2",
+					"size": "min(1.5rem, 3vw)",
+					"slug": "20"
+				},
+				{
+					"name": "3",
+					"size": "min(2.5rem, 5vw)",
+					"slug": "30"
+				},
+				{
+					"name": "4",
+					"size": "min(4rem, 8vw)",
+					"slug": "40"
+				},
+				{
+					"name": "5",
+					"size": "min(6.5rem, 13vw)",
+					"slug": "50"
+				},
+				{
+					"name": "6",
+					"size": "min(10.5rem, 24vw)",
+					"slug": "60"
+				}
+			],
 			"units": [
 				"%",
 				"px",
@@ -742,6 +768,64 @@
 			"area": "uncategorized",
 			"name": "post-meta",
 			"title": "Post Meta"
+		}
+	],
+	"customTemplates": [
+		{
+			"name": "home-portfolio",
+			"postTypes": [
+				"page"
+			],
+			"title": "Home Portfolio"
+		},
+		{
+			"name": "home-writer",
+			"postTypes": [
+				"page"
+			],
+			"title": "Home Writer"
+		},
+		{
+			"name": "page-no-title",
+			"postTypes": [
+				"page"
+			],
+			"title": "Page No Title"
+		},
+		{
+			"name": "page-writer",
+			"postTypes": [
+				"page"
+			],
+			"title": "Page Writer"
+		},
+		{
+			"name": "page-portfolio",
+			"postTypes": [
+				"page"
+			],
+			"title": "Page Portfolio"
+		},
+		{
+			"name": "page-alternative",
+			"postTypes": [
+				"page"
+			],
+			"title": "Page Alternative"
+		},
+		{
+			"name": "single-writer",
+			"postTypes": [
+				"page"
+			],
+			"title": "Single Writer"
+		},
+		{
+			"name": "single-with-sidebar",
+			"postTypes": [
+				"page"
+			],
+			"title": "Single with Sidebar"
 		}
 	],
 	"version": 2,
