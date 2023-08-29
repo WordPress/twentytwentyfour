@@ -7,28 +7,18 @@
 
 ?>
 
-<<<<<<< Updated upstream
-<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"300px","bottom":"300px","left":"80px","right":"80px"},"blockGap":"20px"}},"backgroundColor":"custom-brick","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignwide has-custom-brick-background-color has-background" style="padding-top:300px;padding-right:80px;padding-bottom:300px;padding-left:80px"><!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:image {"align":"center","id":8,"width":45,"height":49,"scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/message_icon.png" alt="" class="wp-image-8" style="object-fit:cover;width:45px;height:49px" width="45" height="49"/></figure>
-=======
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}},"backgroundColor":"accent-3","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-accent-3-background-color has-background" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)"><!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:image {"align":"center","width":45,"height":49,"scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<div class="wp-block-group alignfull has-accent-3-background-color has-background" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)"><!-- wp:image {"align":"center","width":45,"height":49,"scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/icon-message.png" alt="" style="object-fit:cover;width:45px;height:49px" width="45" height="49"/></figure>
->>>>>>> Stashed changes
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","style":{"typography":{"lineHeight":"1.5"}},"fontSize":"x-large","fontFamily":"cardo"} -->
-<h2 class="wp-block-heading has-text-align-center has-cardo-font-family has-x-large-font-size" style="line-height:1.5"><?php echo esc_html__( 'Subscribe to the newsletter and stay connected with our community.', 'twentytwentyfour' ); ?></h2>
+<!-- wp:heading {"textAlign":"center","fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-text-align-center has-x-large-font-size"><?php echo esc_html__( 'Subscribe to the newsletter and stay connected with our community', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"textAlign":"center","style":{"spacing":{"padding":{"left":"28px","right":"28px","top":"17px","bottom":"17px"}},"border":{"radius":"6px"},"typography":{"fontStyle":"normal","fontWeight":"800","fontSize":"16px"}}} -->
-<div class="wp-block-button has-custom-font-size" style="font-size:16px;font-style:normal;font-weight:800"><a class="wp-block-button__link has-text-align-center wp-element-button" style="border-radius:6px;padding-top:17px;padding-right:28px;padding-bottom:17px;padding-left:28px"><?php echo esc_html__( 'Sign Up', 'twentytwentyfour' ); ?></a></div>
+<div class="wp-block-buttons"><!-- wp:button {"textAlign":"center"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button"><?php echo esc_html__( 'Sign Up', 'twentytwentyfour' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
-<!-- /wp:group --></div>
 <!-- /wp:group -->
-
