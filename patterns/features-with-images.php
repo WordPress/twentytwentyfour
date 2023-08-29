@@ -13,11 +13,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center"><?php echo esc_html_x('An array of resources','Sample content for heading of the section.','twentytwentyfour'); ?></h2>
+<h2 class="wp-block-heading has-text-align-center"><?php echo esc_html_x('An array of resources', 'Sample content for heading of the section.', 'twentytwentyfour'); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"layout":{"selfStretch":"fit","flexSize":null},"spacing":{"padding":{"right":"0","left":"0"}}},"fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size" style="padding-right:0;padding-left:0"><?php echo esc_html_x('Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers.','Sample content for the subheading for this pattern.','twentytwentyfour'); ?></p>
+<p class="has-text-align-center has-small-font-size" style="padding-right:0;padding-left:0"><?php echo esc_html_x('Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers.', 'Sample content for the subheading for this pattern.', 'twentytwentyfour'); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -33,7 +33,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3,"fontSize":"large"} -->
-<h3 class="wp-block-heading has-large-font-size"><?php echo esc_html__('Études Architect App','twentytwentyfour'); ?></h3>
+<h3 class="wp-block-heading has-large-font-size"><?php echo esc_html__('Études Architect App', 'twentytwentyfour'); ?></h3>
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
