@@ -41,7 +41,7 @@ if ( ! function_exists( 'twentytwentyfour_styles' ) ) :
 		// Register theme stylesheet.
 		wp_register_style(
 			'twentytwentyfour-style',
-			get_stylesheet_directory_uri() . '/style.css',
+			get_template_directory_uri() . '/style.css',
 			array(),
 			wp_get_theme()->get( 'Version' )
 		);
