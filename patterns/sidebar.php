@@ -38,7 +38,7 @@
 <div class="wp-block-group"><!-- wp:post-date {"format":"M j, Y"} /-->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.8rem"},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
-<p class="has-secondary-color has-text-color has-link-color" style="font-size:0.8rem">—</p>
+<p class="has-secondary-color has-text-color has-link-color" style="font-size:0.8rem"><?php echo esc_html__( '—', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:post-author-name /-->
