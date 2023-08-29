@@ -39,11 +39,13 @@ if ( ! function_exists( 'twentytwentyfour_styles' ) ) :
 	function twentytwentyfour_styles() {
 
 		// Register theme stylesheet.
+		$version_string = is_string( $theme_version ) ? $theme_version : false;
+		
 		wp_register_style(
 			'twentytwentyfour-style',
-			get_stylesheet_directory_uri() . '/style.css',
+			get_template_directory_uri() . '/style.css',
 			array(),
-			wp_get_theme()->get( 'Version' )
+			$version_string
 		);
 
 		// Enqueue theme stylesheet.
