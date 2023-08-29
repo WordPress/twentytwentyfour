@@ -4,8 +4,8 @@
  * Slug: twentytwentyfour/features-with-images
  * Categories: featured
  */
-
 ?>
+
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"6vh","bottom":"8vh"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:6vh;padding-bottom:8vh"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"layout":{"selfStretch":"fit","flexSize":null},"spacing":{"padding":{"right":"0","left":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|custom-borders"}}}},"textColor":"custom-borders","fontSize":"large"} -->
