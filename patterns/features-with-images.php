@@ -40,15 +40,15 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph -->
-<p><strong>✓ </strong><?php echo esc_html__( 'Collaborate with fellow architects', 'twentytwentyfour' ); ?></p>
+<p><strong><?php echo esc_html__( '✓', 'twentytwentyfour' ); ?> </strong><?php echo esc_html__( 'Collaborate with fellow architects', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>✓ </strong><?php echo esc_html__( 'Showcase your projects', 'twentytwentyfour' ); ?></p>
+<p><strong><?php echo esc_html__( '✓', 'twentytwentyfour' ); ?> </strong><?php echo esc_html__( 'Showcase your projects', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>✓ </strong><?php echo esc_html__( 'Experience the world of architecture like never before', 'twentytwentyfour' ); ?></p>
+<p><strong><?php echo esc_html__( '✓', 'twentytwentyfour' ); ?> </strong><?php echo esc_html__( 'Experience the world of architecture like never before', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -84,15 +84,15 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph -->
-<p><strong>✓ </strong><?php echo esc_html__( 'Dive into a world of thought-provoking articles', 'twentytwentyfour' ); ?></p>
+<p><strong><?php echo esc_html__( '✓', 'twentytwentyfour' ); ?> </strong><?php echo esc_html__( 'Dive into a world of thought-provoking articles', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>✓ </strong><?php echo esc_html__( 'Read case studies that celebrate the artistry of architecture', 'twentytwentyfour' ); ?></p>
+<p><strong><?php echo esc_html__( '✓', 'twentytwentyfour' ); ?> </strong><?php echo esc_html__( 'Read case studies that celebrate the artistry of architecture', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>✓ </strong><?php echo esc_html__( 'Gain exclusive access to design insights', 'twentytwentyfour' ); ?></p>
+<p><strong><?php echo esc_html__( '✓', 'twentytwentyfour' ); ?> </strong><?php echo esc_html__( 'Gain exclusive access to design insights', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
