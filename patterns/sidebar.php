@@ -13,20 +13,20 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"style":{"typography":{"fontSize":"1.4rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:1.4rem">About the author</h2>
+<h2 class="wp-block-heading" style="font-size:1.4rem"><?php echo esc_html__( 'About the author', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
-<p style="font-size:0.9rem">I'm a seasoned financial writer driven by an insatiable curiosity to unveil the intricate tapestry of finance and economics. Over the span of more than a decade, my journey through the labyrinth of global markets, monetary policies, and economic trends has equipped readers with the tools to navigate the dynamic landscape of finance.</p>
+<p style="font-size:0.9rem"><?php echo esc_html_x( 'I\'m a seasoned financial writer driven by an insatiable curiosity to unveil the intricate tapestry of finance and economics. Over the span of more than a decade, my journey through the labyrinth of global markets, monetary policies, and economic trends has equipped readers with the tools to navigate the dynamic landscape of finance.', 'sample content for sidebar', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:separator {"backgroundColor":"custom-borders"} -->
-<hr class="wp-block-separator has-text-color has-custom-borders-color has-alpha-channel-opacity has-custom-borders-background-color has-background"/>
+<!-- wp:separator {"backgroundColor":"base-3"} -->
+<hr class="wp-block-separator has-text-color has-base-3-color has-alpha-channel-opacity has-custom-borders-background-color has-background"/>
 <!-- /wp:separator -->
 
 <!-- wp:heading {"style":{"typography":{"fontSize":"1.6rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:1.6rem">Latest Posts</h2>
+<h2 class="wp-block-heading" style="font-size:1.6rem"><?php echo esc_html__( 'Latest Posts', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:query {"queryId":13,"query":{"perPage":3,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
@@ -37,8 +37,8 @@
 <!-- wp:group {"style":{"spacing":{"blockGap":"0.22em"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:post-date {"format":"M j, Y"} /-->
 
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"0.8rem"},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
-<p class="has-secondary-color has-text-color has-link-color" style="font-size:0.8rem">—</p>
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"0.8rem"},"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}}},"textColor":"contrast-2"} -->
+<p class="has-base-2-color has-text-color has-link-color" style="font-size:0.8rem"><?php echo esc_html__( '—', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:post-author-name /-->
@@ -53,12 +53,12 @@
 <!-- /wp:post-template --></div>
 <!-- /wp:query -->
 
-<!-- wp:separator {"backgroundColor":"custom-borders"} -->
-<hr class="wp-block-separator has-text-color has-custom-borders-color has-alpha-channel-opacity has-custom-borders-background-color has-background"/>
+<!-- wp:separator {"backgroundColor":"base-3"} -->
+<hr class="wp-block-separator has-text-color has-base-3-color has-alpha-channel-opacity has-custom-borders-background-color has-background"/>
 <!-- /wp:separator -->
 
 <!-- wp:heading {"style":{"typography":{"fontSize":"1.6rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:1.6rem">Links</h2>
+<h2 class="wp-block-heading" style="font-size:1.6rem"><?php echo esc_html__( 'Links', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:query {"queryId":13,"query":{"perPage":3,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
