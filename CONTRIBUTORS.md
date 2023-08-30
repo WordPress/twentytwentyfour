@@ -6,7 +6,7 @@
 | @luminuu | @luminuu |
 | @beafialho | @beafialho |
 | @chrisdesrochers | @chrisdesrochers |
-| @amedv | @ |
+| @amedv | @amedv |
 | @melchoyce | @melchoyce |
 | @kafleg | @kafleg |
 | @jeffikus | @jeffikus |
