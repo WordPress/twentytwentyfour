@@ -4,9 +4,7 @@
  * Slug: twentytwentyfour/project-description
  * Categories: portfolio, media
  */
-
 ?>
-
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"6rem","right":"6rem","bottom":"6rem","left":"6rem"},"margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"accent-2","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-accent-2-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:6rem;padding-right:6rem;padding-bottom:6rem;padding-left:6rem"><!-- wp:columns {"align":"wide","style":{"spacing":{"margin":{"bottom":"6rem"}}}} -->
 <div class="wp-block-columns alignwide" style="margin-bottom:6rem"><!-- wp:column {"width":"50%"} -->
