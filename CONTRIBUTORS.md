@@ -20,3 +20,13 @@
 | @vcanales | @vcanales |
 | @shail-mehta | @shailu25 |
 | @jessynd | @jessplease |
+| @juanfra | @juanfra |
+| @maneshtimilsina | @maneshtimilsina |
+| @sabernhardt | @sabernhardt |
+| @richtabor | @richtabor |
+| @00travelgirl00 | @travel_girl |
+| @kishanjasani | @kishanjasani |
+| @sofiakanopi | @ |
+| @nudgeD | @nudge |
+| @gnanasekaranl | @gnanasekaran |
+| @marcelle42 | @marcelle42 |
