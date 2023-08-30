@@ -17,7 +17,7 @@
 
 <!-- wp:column {"width":"50%"} -->
 <div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph {"style":{"layout":{"selfStretch":"fixed","flexSize":"50%"},"typography":{"fontSize":"2.38rem","lineHeight":"1.3","fontStyle":"normal","fontWeight":"400"}},"fontFamily":"cardo"} -->
-<p class="has-cardo-font-family" style="font-size:2.38rem;font-style:normal;font-weight:400;line-height:1.3"><?php echo esc_html__( 'Sessione fotografica per il Piva Arts &amp; Crafts Hotel vicino al lago Piva, in Montenegro. Un lago artificiale è stato costruito nel 1975, dividendo il Piva Kanyon per costruire una diga Mratinje.', 'twentytwentyfour' ); ?></p>
+<p class="has-cardo-font-family" style="font-size:2.38rem;font-style:normal;font-weight:400;line-height:1.3"><?php echo esc_html__( 'Photo session for the Piva Arts &amp; Crafts Hotel near Lake Piva, Montenegro. An artificial lake was built in 1975 by dividing the Piva Kanyon to build a dam Mratinje.', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
