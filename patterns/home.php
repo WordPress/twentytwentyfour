@@ -180,7 +180,7 @@
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
-<!-- wp:list {"style":{"spacing":{"padding":{"right":"0","left":"0"}}},"className":"is-style-checkmark-list"} -->
+<!-- wp:list {"style":{"spacing":{"padding":{"right":"0","left":"var:preset|spacing|10"}}},"className":"is-style-checkmark-list"} -->
 <ul class="is-style-checkmark-list" style="padding-right:0;padding-left:0"><!-- wp:list-item -->
 <li>Collaborate with fellow architects</li>
 <!-- /wp:list-item -->
@@ -224,7 +224,7 @@
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
-<!-- wp:list {"style":{"spacing":{"padding":{"right":"0","left":"0"}}},"className":"is-style-checkmark-list"} -->
+<!-- wp:list {"style":{"spacing":{"padding":{"right":"0","left":"var:preset|spacing|10"}}},"className":"is-style-checkmark-list"} -->
 <ul class="is-style-checkmark-list" style="padding-right:0;padding-left:0"><!-- wp:list-item -->
 <li>Dive into a world of thought-provoking articles</li>
 <!-- /wp:list-item -->
