@@ -23,7 +23,7 @@
 <!-- /wp:columns -->
 
 <!-- wp:image {"align":"wide","id":47365,"sizeSlug":"large","linkDestination":"none","style":{"layout":{"selfStretch":"fill","flexSize":null},"border":{"radius":"14px"}}} -->
-<figure class="wp-block-image alignwide size-large has-custom-border"><img src="http://theme-building.local/wp-content/uploads/2023/08/image-from-rawpixel-id-3286605-jpeg-1-1024x494.jpg" alt="" class="wp-image-47365" style="border-radius:14px"/></figure>
+<figure class="wp-block-image alignwide size-large has-custom-border"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_project_description.jpg" alt="Photo of a kayak in the middle of a blue-green lake" class="wp-image-47365" style="border-radius:14px"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
