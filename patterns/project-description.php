@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: Projects - Description
+ * Title: Project Description
  * Slug: twentytwentyfour/project-description
  * Categories: portfolio, media
  */
