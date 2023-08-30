@@ -21,3 +21,14 @@
 | @shail-mehta | @shailu25 |
 | @jessynd | @jessplease |
 | @lynurth | @lyndauwp |
+| @juanfra | @juanfra |
+| @maneshtimilsina | @maneshtimilsina |
+| @sabernhardt | @sabernhardt |
+| @richtabor | @richtabor |
+| @00travelgirl00 | @travel_girl |
+| @kishanjasani | @kishanjasani |
+| @sofiakanopi | @ |
+| @nudgeD | @nudge |
+| @gnanasekaranl | @gnanasekaran |
+| @marcelle42 | @marcelle42 |
+
