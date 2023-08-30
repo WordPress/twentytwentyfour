@@ -1,11 +1,11 @@
 <?php
 /**
- * Twenty Twenty Four functions and definitions
+ * Twenty Twenty-Four functions and definitions
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
- * @package Twenty Twenty Four
- * @since Twenty Twenty Four 1.0
+ * @package Twenty Twenty-Four
+ * @since Twenty Twenty-Four 1.0
  */
 
 
@@ -14,7 +14,7 @@ if ( ! function_exists( 'twentytwentyfour_support' ) ) :
 	/**
 	 * Sets up theme defaults and registers support for various WordPress features.
 	 *
-	 * @since Twenty Twenty Four 1.0
+	 * @since Twenty Twenty-Four 1.0
 	 *
 	 * @return void
 	 */
@@ -32,7 +32,7 @@ if ( ! function_exists( 'twentytwentyfour_styles' ) ) :
 	/**
 	 * Enqueue styles.
 	 *
-	 * @since Twenty Twenty Four 1.0
+	 * @since Twenty Twenty-Four 1.0
 	 *
 	 * @return void
 	 */
