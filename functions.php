@@ -54,3 +54,27 @@ if ( ! function_exists( 'twentytwentyfour_styles' ) ) :
 endif;
 
 add_action( 'wp_enqueue_scripts', 'twentytwentyfour_styles' );
+
+if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
+
+	/**
+	 * Register custom block styles
+	 *
+	 * @since Twenty Twenty-Four 1.0
+	 *
+	 * @return void
+	 */
+	function twentytwentyfour_block_styles() {
+		register_block_style(
+			'core/list',
+			array(
+				'name'         => 'checkmark-list',
+				'label'        => __( 'Checkmarks', 'twentytwentyfour' ),
+				'is_default'   => false,
+			)
+		);
+	}
+
+endif;
+
+add_action( 'init', 'twentytwentyfour_block_styles' );
