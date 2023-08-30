@@ -47,5 +47,5 @@ a {
 }
 
 .wp-block-list.is-style-checkmark-list li {
-	padding-inline-start: 1ch;
+	padding-inline-start: 0.5ch;
 }
