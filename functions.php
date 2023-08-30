@@ -65,6 +65,8 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 	 * @return void
 	 */
 	function twentytwentyfour_block_styles() {
+
+		// Register a custom Checkmark style for the list block.
 		register_block_style(
 			'core/list',
 			array(
