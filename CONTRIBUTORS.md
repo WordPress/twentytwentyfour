@@ -26,7 +26,7 @@
 | @richtabor | @richtabor |
 | @00travelgirl00 | @travel_girl |
 | @kishanjasani | @kishanjasani |
-| @sofiakanopi | @ |
+| @sofiakanopi | @sofiashendi |
 | @nudgeD | @nudge |
 | @gnanasekaranl | @gnanasekaran |
 | @marcelle42 | @marcelle42 |
