@@ -72,7 +72,6 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 			array(
 				'name'         => 'checkmark-list',
 				'label'        => __( 'Checkmarks', 'twentytwentyfour' ),
-				'is_default'   => false,
 			)
 		);
 	}
