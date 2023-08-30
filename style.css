@@ -33,3 +33,19 @@ a {
 	text-decoration-thickness: .0625em !important;
 	text-underline-offset: .15em;
 }
+
+/*
+ * Styles for the custom checkmark list block style
+ * https://github.com/WordPress/twentytwentyfour/issues/46
+ */
+.wp-block-list.is-style-checkmark-list {
+	list-style-type: "✓";
+}
+
+.wp-block-list.is-style-checkmark-list li::marker {
+	font-weight: bold;
+}
+
+.wp-block-list.is-style-checkmark-list li {
+	padding-inline-start: 1ch;
+}
