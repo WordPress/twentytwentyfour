@@ -180,19 +180,19 @@
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:paragraph -->
-<p><strong><?php echo esc_html__( '✓', 'twentytwentyfour' ); ?></strong>&nbsp;<?php echo esc_html__( 'Collaborate with fellow architects', 'twentytwentyfour' ); ?></p>
-<!-- /wp:paragraph -->
+<!-- wp:list {"style":{"spacing":{"padding":{"right":"0","left":"0"}}},"className":"is-style-checkmark-list"} -->
+<ul class="is-style-checkmark-list" style="padding-right:0;padding-left:0"><!-- wp:list-item -->
+<li>Collaborate with fellow architects</li>
+<!-- /wp:list-item -->
 
-<!-- wp:paragraph -->
-<p><strong><?php echo esc_html__( '✓', 'twentytwentyfour' ); ?></strong>&nbsp;<?php echo esc_html__( 'Showcase your projects', 'twentytwentyfour' ); ?></p>
-<!-- /wp:paragraph -->
+<!-- wp:list-item -->
+<li>Showcase your projects</li>
+<!-- /wp:list-item -->
 
-<!-- wp:paragraph -->
-<p><strong><?php echo esc_html__( '✓', 'twentytwentyfour' ); ?></strong>&nbsp;<?php echo esc_html__( 'Experience the world of architecture like never before', 'twentytwentyfour' ); ?></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
+<!-- wp:list-item -->
+<li>Experience the world of architecture like never before</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
