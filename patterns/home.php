@@ -224,19 +224,19 @@
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:paragraph -->
-<p><strong><?php echo esc_html__( '✓', 'twentytwentyfour' ); ?></strong>&nbsp;<?php echo esc_html__( 'Dive into a world of thought-provoking articles', 'twentytwentyfour' ); ?></p>
-<!-- /wp:paragraph -->
+<!-- wp:list {"style":{"spacing":{"padding":{"right":"0","left":"0"}}},"className":"is-style-checkmark-list"} -->
+<ul class="is-style-checkmark-list" style="padding-right:0;padding-left:0"><!-- wp:list-item -->
+<li>Dive into a world of thought-provoking articles</li>
+<!-- /wp:list-item -->
 
-<!-- wp:paragraph -->
-<p><strong><?php echo esc_html__( '✓', 'twentytwentyfour' ); ?></strong>&nbsp;<?php echo esc_html__( 'Read case studies that celebrate the artistry of architecture', 'twentytwentyfour' ); ?></p>
-<!-- /wp:paragraph -->
+<!-- wp:list-item -->
+<li>Read case studies that celebrate the artistry of architecture</li>
+<!-- /wp:list-item -->
 
-<!-- wp:paragraph -->
-<p><strong><?php echo esc_html__( '✓', 'twentytwentyfour' ); ?></strong>&nbsp;<?php echo esc_html__( 'Gain exclusive access to design insights', 'twentytwentyfour' ); ?></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
+<!-- wp:list-item -->
+<li>Gain exclusive access to design insights</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
