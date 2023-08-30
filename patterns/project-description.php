@@ -26,4 +26,3 @@
 <figure class="wp-block-image alignwide size-large has-custom-border"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_project_description.jpg" alt="<?php echo esc_attr_x( 'Photo of a kayak in the middle of a blue-green lake" class="wp-image-47365" style="border-radius:14px"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
-
