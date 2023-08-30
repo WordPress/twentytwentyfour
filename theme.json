@@ -18,32 +18,32 @@
 						"#111111",
 						"#C2A990"
 					],
-					"slug": "duotone-1",
-					"name": "Duotone 1"
+					"slug": "black-and-beige",
+					"name": "Black and beige"
 				},
 				{
 					"colors": [
 						"#111111",
-						"#D26E57"
+						"#D8613C"
 					],
-					"slug": "duotone-2",
-					"name": "Duotone 2"
+					"slug": "black and orange",
+					"name": "Black and orange"
 				},
 				{
 					"colors": [
 						"#111111",
 						"#B1C5A4"
 					],
-					"slug": "duotone-3",
-					"name": "Duotone 3"
+					"slug": "black-and-pastel-green",
+					"name": "Black and pastel green"
 				},
 				{
 					"colors": [
 						"#111111",
 						"#B5BDBC"
 					],
-					"slug": "duotone-4",
-					"name": "Duotone 4"
+					"slug": "black-and-pastel-blue",
+					"name": "Black and pastel blue"
 				}
 			],
 			"palette": [
