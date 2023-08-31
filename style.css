@@ -40,6 +40,9 @@ a {
  */
 .wp-block-list.is-style-checkmark-list {
 	list-style-type: "✓";
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
 }
 
 .wp-block-list.is-style-checkmark-list li::marker {
@@ -47,5 +50,5 @@ a {
 }
 
 .wp-block-list.is-style-checkmark-list li {
-	padding-inline-start: 0.5ch;
+	padding-inline-start: 1ch;
 }
