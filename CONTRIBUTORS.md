@@ -30,4 +30,3 @@
 | @nudgeD | @nudge |
 | @gnanasekaranl | @gnanasekaran |
 | @marcelle42 | @marcelle42 |
-| @nudged          | @nudge |
