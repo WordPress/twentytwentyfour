@@ -180,8 +180,8 @@
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
-<!-- wp:list {"style":{"spacing":{"padding":{"right":"0","left":"var:preset|spacing|10"}}},"className":"is-style-checkmark-list"} -->
-<ul class="is-style-checkmark-list" style="padding-right:0;padding-left:0"><!-- wp:list-item -->
+<!-- wp:list {"style":{"spacing":{"padding":{"right":"0","left":"var:preset|spacing|10"},"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"className":"is-style-checkmark-list"} -->
+<ul class="is-style-checkmark-list" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30);padding-right:0;padding-left:var(--wp--preset--spacing--10)"><!-- wp:list-item -->
 <li>Collaborate with fellow architects</li>
 <!-- /wp:list-item -->
 
@@ -224,8 +224,8 @@
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
-<!-- wp:list {"style":{"spacing":{"padding":{"right":"0","left":"var:preset|spacing|10"}}},"className":"is-style-checkmark-list"} -->
-<ul class="is-style-checkmark-list" style="padding-right:0;padding-left:0"><!-- wp:list-item -->
+<!-- wp:list {"style":{"spacing":{"padding":{"right":"0","left":"var:preset|spacing|10"},"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"className":"is-style-checkmark-list"} -->
+<ul class="is-style-checkmark-list" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30);padding-right:0;padding-left:var(--wp--preset--spacing--10)"><!-- wp:list-item -->
 <li>Dive into a world of thought-provoking articles</li>
 <!-- /wp:list-item -->
 
