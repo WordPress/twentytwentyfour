@@ -38,17 +38,18 @@ a {
  * Styles for the custom checkmark list block style
  * https://github.com/WordPress/twentytwentyfour/issues/46
  */
-.wp-block-list.is-style-checkmark-list {
+ul.is-style-checkmark-list {
 	list-style-type: "✓";
-	display: flex;
-	flex-direction: column;
-	gap: 1rem;
 }
 
-.wp-block-list.is-style-checkmark-list li::marker {
+ul.is-style-checkmark-list li::marker {
 	font-weight: bold;
 }
 
-.wp-block-list.is-style-checkmark-list li {
+ul.is-style-checkmark-list li {
 	padding-inline-start: 1ch;
+}
+
+ul.is-style-checkmark-list > li + li {
+	margin-block-start: 1rem;
 }
