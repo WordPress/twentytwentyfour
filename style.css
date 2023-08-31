@@ -70,8 +70,8 @@ a {
 .is-style-faq-checkmark-list.is-style-faq-check-list li {
 	padding-inline-start:10px;
 	padding: 12px 0px;
-	border-top:1px solid rgba(255, 255, 255, 0.20);	;
-	border-bottom:1px solid rgba(255, 255, 255, 0.20);;
+	border-top:1px solid rgba(255, 255, 255, 0.20);
+	border-bottom:1px solid rgba(255, 255, 255, 0.20);
 	display:block;
 	font-size: var(--wp--preset--font-size--medium) !important;
 }
