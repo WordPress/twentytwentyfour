@@ -12,3 +12,7 @@
 <!-- 1. Activate the theme. -->
 <!-- 2. Visit the archives page. -->
 <!-- 3. etc. -->
+
+**Contributors**
+
+<!-- Please ensure anyone who contributed on linked issues and within this pull request have _AT LEAST_ their GitHub Username listed in the `CONTRIBUTORS.md` file as part of this PR. -->
