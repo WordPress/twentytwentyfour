@@ -18,21 +18,19 @@
 
 <!-- wp:column {"style":{"spacing":{"blockGap":"30px"}}} -->
 <div class="wp-block-column"><!-- wp:heading {"style":{"typography":{"fontSize":"40px","fontStyle":"normal","fontWeight":"400"}},"fontFamily":"cardo"} -->
-<h2 class="wp-block-heading has-cardo-font-family" style="font-size:40px;font-style:normal;font-weight:400"><?php echo esc_html__( 'Guiding your business through the project', 'twentytwentyfour' ); ?></h2>
+<h2 class="wp-block-heading has-cardo-font-family" style="font-size:40px;font-style:normal;font-weight:400"><?php echo esc_html_x( 'Guiding your business through the project', 'Heading of The Service Call to Action', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"16px","fontStyle":"normal","fontWeight":"400"}}} -->
-<p style="font-size:16px;font-style:normal;font-weight:400"><?php echo esc_html__( 'Experience the fusion of imagination and expertise with Études—the catalyst for architectural transformations that enrich the world around us.', 'twentytwentyfour' ); ?></p>
+<p style="font-size:16px;font-style:normal;font-weight:400"><?php echo esc_html_x( 'Experience the fusion of imagination and expertise with Études—the catalyst for architectural transformations that enrich the world around us.', 'Service Description of Call to Action', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"style":{"typography":{"fontSize":"16px","fontStyle":"normal","fontWeight":"600"},"border":{"radius":"6px"},"spacing":{"padding":{"left":"28px","right":"28px","top":"17px","bottom":"17px"}}}} -->
-<div class="wp-block-button has-custom-font-size" style="font-size:16px;font-style:normal;font-weight:600"><a class="wp-block-button__link wp-element-button" style="border-radius:6px;padding-top:17px;padding-right:28px;padding-bottom:17px;padding-left:28px"><?php echo esc_html__( 'Learn More', 'twentytwentyfour' ); ?></a></div>
+<div class="wp-block-button has-custom-font-size" style="font-size:16px;font-style:normal;font-weight:600"><a class="wp-block-button__link wp-element-button" style="border-radius:6px;padding-top:17px;padding-right:28px;padding-bottom:17px;padding-left:28px"><?php echo esc_html_x( 'Learn More', 'Call to Action Button Text', 'twentytwentyfour' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
-
-
