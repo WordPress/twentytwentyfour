@@ -279,13 +279,13 @@
 <div class="wp-block-group"><!-- wp:post-title {"isLink":true,"fontSize":"large"} /-->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0.3em","padding":{"top":"0","bottom":"0"}}},"layout":{"type":"flex","flexWrap":"wrap"}} -->
-<div class="wp-block-group" style="padding-top:0;padding-bottom:0"><!-- wp:post-date {"format":"M j, Y"} /-->
+<div class="wp-block-group" style="padding-top:0;padding-bottom:0"><!-- wp:post-date {"format":"M j, Y","isLink":true} /-->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}}},"textColor":"contrast-2"} -->
 <p class="has-base-2-color has-text-color has-link-color"><?php echo esc_html__( '—', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:post-author-name /-->
+<!-- wp:post-author-name {"isLink":true} /-->
 
 <!-- wp:post-terms {"term":"category","prefix":"in ","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast-2"} /--></div>
 <!-- /wp:group -->
@@ -307,13 +307,13 @@
 <div class="wp-block-group"><!-- wp:post-title {"isLink":true,"style":{"typography":{"fontSize":"1.7rem"}}} /-->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0.3em","padding":{"top":"0","bottom":"0"}}},"layout":{"type":"flex","flexWrap":"wrap"}} -->
-<div class="wp-block-group" style="padding-top:0;padding-bottom:0"><!-- wp:post-date {"format":"M j, Y"} /-->
+<div class="wp-block-group" style="padding-top:0;padding-bottom:0"><!-- wp:post-date {"format":"M j, Y","isLink":true} /-->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}}},"textColor":"contrast-2"} -->
 <p class="has-base-2-color has-text-color has-link-color"><?php echo esc_html__( '—', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:post-author-name /-->
+<!-- wp:post-author-name {"isLink":true} /-->
 
 <!-- wp:post-terms {"term":"category","prefix":"in ","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast-2"} /--></div>
 <!-- /wp:group -->
