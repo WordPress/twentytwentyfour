@@ -195,6 +195,10 @@
 				}
 			},
 			"core/button": {
+				"color": {
+					"background": "var(--wp--preset--color--contrast)",
+					"text": "var(--wp--preset--color--base)"
+				},
 				"border": {
 					"radius": "6px"
 				},
