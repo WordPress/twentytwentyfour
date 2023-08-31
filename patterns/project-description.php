@@ -21,6 +21,6 @@
 <!-- /wp:columns -->
 
 <!-- wp:image {"align":"wide","id":47365,"sizeSlug":"large","linkDestination":"none","style":{"layout":{"selfStretch":"fill","flexSize":null},"border":{"radius":"14px"}}} -->
-<figure class="wp-block-image alignwide size-large has-custom-border"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_project_description.jpg" alt="<?php echo esc_attr_x( 'Photo of a kayak in the middle of a blue-green lake', 'alt text for sample image' , 'twentytwentyfour' ); ?>" class="wp-image-47365" style="border-radius:14px"/></figure>
+<figure class="wp-block-image alignwide size-large has-custom-border"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_project_description.jpg" alt="<?php echo esc_attr_x( 'Photo of a kayak in the middle of a blue-green lake', 'alt text for sample image', 'twentytwentyfour' ); ?>" class="wp-image-47365" style="border-radius:14px"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
