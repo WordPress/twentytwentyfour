@@ -31,7 +31,7 @@
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"6vh","bottom":"10vh"}},"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"backgroundColor":"tertiary","textColor":"contrast","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-contrast-color has-tertiary-background-color has-text-color has-background has-link-color" style="padding-top:6vh;padding-bottom:10vh"><!-- wp:paragraph {"align":"center","style":{"layout":{"selfStretch":"fit","flexSize":null},"spacing":{"padding":{"right":"0","left":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|custom-borders"}}}},"textColor":"base-3","fontSize":"large"} -->
-<p class="has-text-align-center has-base-3-color has-text-color has-link-color has-large-font-size" style="padding-right:0;padding-left:0"><?php echo esc_html__( '✳︎', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-center has-base-3-color has-text-color has-link-color has-large-font-size" style="padding-right:0;padding-left:0" aria-hidden="true"><?php echo esc_html__( '✳︎', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
@@ -52,7 +52,7 @@
 <div class="wp-block-columns alignwide" style="padding-top:0px;padding-bottom:0px"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|custom-borders"}}}},"textColor":"base-3","fontSize":"large"} -->
-<p class="has-text-align-center has-base-3-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( '✳', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-center has-base-3-color has-text-color has-link-color has-large-font-size" aria-hidden="true"><?php echo esc_html__( '✳', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"small"} -->
@@ -68,7 +68,7 @@
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|custom-borders"}}}},"textColor":"base-3","fontSize":"large"} -->
-<p class="has-text-align-center has-base-3-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( '✳', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-center has-base-3-color has-text-color has-link-color has-large-font-size" aria-hidden="true"><?php echo esc_html__( '✳', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"small"} -->
@@ -84,7 +84,7 @@
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|custom-borders"}}}},"textColor":"base-3","fontSize":"large"} -->
-<p class="has-text-align-center has-base-3-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( '✳', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-center has-base-3-color has-text-color has-link-color has-large-font-size" aria-hidden="true"><?php echo esc_html__( '✳', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"small"} -->
@@ -102,7 +102,7 @@
 <div class="wp-block-columns alignwide" style="padding-top:0px;padding-bottom:0px"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|custom-borders"}}}},"textColor":"base-3","fontSize":"large"} -->
-<p class="has-text-align-center has-base-3-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( '✳', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-center has-base-3-color has-text-color has-link-color has-large-font-size" aria-hidden="true"><?php echo esc_html__( '✳', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"small"} -->
@@ -118,7 +118,7 @@
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|custom-borders"}}}},"textColor":"base-3","fontSize":"large"} -->
-<p class="has-text-align-center has-base-3-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( '✳', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-center has-base-3-color has-text-color has-link-color has-large-font-size" aria-hidden="true"><?php echo esc_html__( '✳', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"small"} -->
@@ -134,7 +134,7 @@
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|custom-borders"}}}},"textColor":"base-3","fontSize":"large"} -->
-<p class="has-text-align-center has-base-3-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( '✳', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-center has-base-3-color has-text-color has-link-color has-large-font-size" aria-hidden="true"><?php echo esc_html__( '✳', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"small"} -->
@@ -152,7 +152,7 @@
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"6vh","bottom":"8vh"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:6vh;padding-bottom:8vh"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"layout":{"selfStretch":"fit","flexSize":null},"spacing":{"padding":{"right":"0","left":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|custom-borders"}}}},"textColor":"base-3","fontSize":"large"} -->
-<p class="has-text-align-center has-base-3-color has-text-color has-link-color has-large-font-size" style="padding-right:0;padding-left:0"><?php echo esc_html__( '✳︎', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-center has-base-3-color has-text-color has-link-color has-large-font-size" style="padding-right:0;padding-left:0" aria-hidden="true"><?php echo esc_html__( '✳︎', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textAlign":"center"} -->
@@ -172,7 +172,7 @@
 <div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"align":"left","style":{"layout":{"selfStretch":"fit","flexSize":null},"spacing":{"padding":{"right":"0","left":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|custom-borders"}}}},"textColor":"base-3","fontSize":"large"} -->
-<p class="has-text-align-left has-base-3-color has-text-color has-link-color has-large-font-size" style="padding-right:0;padding-left:0"><?php echo esc_html__( '✳︎', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-left has-base-3-color has-text-color has-link-color has-large-font-size" style="padding-right:0;padding-left:0" aria-hidden="true"><?php echo esc_html__( '✳︎', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3,"fontSize":"large"} -->
@@ -216,7 +216,7 @@
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"align":"left","style":{"layout":{"selfStretch":"fit","flexSize":null},"spacing":{"padding":{"right":"0","left":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|custom-borders"}}}},"textColor":"base-3","fontSize":"large"} -->
-<p class="has-text-align-left has-base-3-color has-text-color has-link-color has-large-font-size" style="padding-right:0;padding-left:0"><?php echo esc_html__( '✳︎', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-left has-base-3-color has-text-color has-link-color has-large-font-size" style="padding-right:0;padding-left:0" aria-hidden="true"><?php echo esc_html__( '✳︎', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3,"fontSize":"large"} -->
