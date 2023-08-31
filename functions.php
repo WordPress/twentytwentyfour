@@ -61,23 +61,26 @@ add_action( 'wp_enqueue_scripts', 'twentytwentyfour_styles' );
 */
 if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 
-/**
- * Register custom block styles
- *
- * @since Twenty Twenty-Four 1.0
- *
- * @return void
- */
+    /**
+    * Register custom block styles
+    *
+    * @since Twenty Twenty-Four 1.0
+    *
+    * @return void
+    */
+
 	function twentytwentyfour_block_styles() {
 		{
 		register_block_style(
 			'core/list',
 			[
-			'name' => 'faq-check-lists',
-			'label' => __( 'Faq Checklist item', 'twentytwentyfour' ),
+			'name'=> 'faq-check-lists',
+			'label'=> __( 'Faq Checklist item', 'twentytwentyfour' ),
 			]
 			);
 		}
 	}
-	add_action( 'init', 'twentytwentyfour_block_styles' );
 endif;
+
+add_action( 'init', 'twentytwentyfour_block_styles' );
+
