@@ -13,17 +13,17 @@
 <h2 class="wp-block-heading"><?php echo esc_html__( 'Enhance your architectural journey with the Études Architect App', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
-<!-- wp:list {"style":{"typography":{"lineHeight":"1.75"}}} -->
-<ul style="line-height:1.75"><!-- wp:list-item -->
-<li><?php echo esc_html__( 'Collaborate with fellow architects', 'twentytwentyfour' ); ?></li>
+<!-- wp:list {"style":{"spacing":{"padding":{"left":"var:preset|spacing|10"}}},"className":"is-style-checkmark-list"} -->
+<ul class="is-style-checkmark-list" style="padding-left:var(--wp--preset--spacing--10)"><!-- wp:list-item -->
+<li>Collaborate with fellow architects</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><?php echo esc_html__( 'Showcase your projects', 'twentytwentyfour' ); ?></li>
+<li>Showcase your projects</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><?php echo esc_html__( 'Experience the world of architecture like never before', 'twentytwentyfour' ); ?></li>
+<li>Experience the world of architecture like never before</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
