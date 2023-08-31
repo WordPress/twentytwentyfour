@@ -33,3 +33,45 @@ a {
 	text-decoration-thickness: .0625em !important;
 	text-underline-offset: .15em;
 }
+
+
+
+
+/*
+ * Styles for the custom checkmark list block style
+ * https://github.com/WordPress/twentytwentyfour/issues/46
+ */
+ .wp-block-list.is-style-faq-checkmark-list {
+	list-style-type: "↓";
+}
+
+.wp-block-list.is-style-faq-checkmark-list li::marker {
+	font-weight: bold;
+}
+
+.wp-block-list.is-style-faq-checkmark-list li {
+	padding-inline-start: 0.5ch;
+}
+
+
+/*
+ * Styles for the custom Faq checkmark list block style
+ * https://github.com/WordPress/twentytwentyfour/issues/46
+ */
+ .is-style-faq-check-list {
+	list-style-type: "↓";
+	padding-left: 0px;
+}
+
+.is-style-faq-checkmark-list.is-style-faq-check-list li::marker {
+	font-weight: bold;
+}
+
+.is-style-faq-checkmark-list.is-style-faq-check-list li {
+	padding-inline-start:10px;
+	padding: 12px 0px;
+	border-top:1px solid rgba(255, 255, 255, 0.20);	;
+	border-bottom:1px solid rgba(255, 255, 255, 0.20);;
+	display:block;
+	font-size: var(--wp--preset--font-size--medium) !important;
+}
