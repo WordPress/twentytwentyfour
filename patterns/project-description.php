@@ -9,7 +9,7 @@
 <div class="wp-block-group has-accent-2-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:6rem;padding-right:6rem;padding-bottom:6rem;padding-left:6rem"><!-- wp:columns {"align":"wide","style":{"spacing":{"margin":{"bottom":"6rem"}}}} -->
 <div class="wp-block-columns alignwide" style="margin-bottom:6rem"><!-- wp:column {"width":"50%"} -->
 <div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph {"align":"left","fontSize":"small"} -->
-<p class="has-text-align-left has-small-font-size"><?php echo esc_attr_x( 'Piva Hotel - Overview','Sample content for project title', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-left has-small-font-size"><?php echo esc_attr_x( 'Piva Hotel - Overview', 'Sample content for project title', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
