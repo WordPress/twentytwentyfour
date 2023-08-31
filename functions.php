@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Twenty Twenty-Four functions and definitions
  *
@@ -9,7 +8,7 @@
  * @since Twenty Twenty-Four 1.0
  */
 
-if (!function_exists('twentytwentyfour_support')):
+if ( ! function_exists( 'twentytwentyfour_support' ) ):
 
     /**
      * Sets up theme defaults and registers support for various WordPress features.
@@ -20,14 +19,14 @@ if (!function_exists('twentytwentyfour_support')):
      */
     function twentytwentyfour_support() {
         // Enqueue editor styles.
-        add_editor_style('style.css');
+        add_editor_style( 'style.css') ;
     }
 
 endif;
 
-add_action('after_setup_theme', 'twentytwentyfour_support');
+add_action( 'after_setup_theme', 'twentytwentyfour_support' );
 
-if (!function_exists('twentytwentyfour_styles')):
+if ( ! function_exists( 'twentytwentyfour_styles' ) ):
 
     /**
      * Enqueue styles.
@@ -43,11 +42,11 @@ if (!function_exists('twentytwentyfour_styles')):
             'twentytwentyfour-style',
             get_template_directory_uri() . '/style.css',
             [],
-            wp_get_theme()->get('Version')
+            wp_get_theme()->get( 'Version' )
         );
 
         // Enqueue theme stylesheet.
-        wp_enqueue_style('twentytwentyfour-style');
+        wp_enqueue_style( 'twentytwentyfour-style' );
     }
 
 endif;
