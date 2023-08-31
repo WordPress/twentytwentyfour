@@ -577,17 +577,17 @@
 			"button": {
 				":active": {
 					"color": {
-						"background": "var(--wp--preset--color--primary)",
+						"background": "var(--wp--preset--color--contrast)",
 						"text": "var(--wp--preset--color--base)"
 					}
 				},
 				":focus": {
 					"color": {
-						"background": "var(--wp--preset--color--primary)",
+						"background": "var(--wp--preset--color--contrast-2)",
 						"text": "var(--wp--preset--color--base)"
 					},
 					"outline": {
-						"color": "var(--wp--preset--color--primary)",
+						"color": "var(--wp--preset--color--contrast)",
 						"offset": "2px",
 						"style": "dotted",
 						"width": "1px"
