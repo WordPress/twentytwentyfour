@@ -1,9 +1,9 @@
 <?php
 /**
- * Title: faq
- * Slug: twentytwentyfour/faq
- * Categories: about
- */
+* Title: faq
+* Slug: twentytwentyfour/faq
+* Categories: about
+*/
 ?>
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"8vh","bottom":"8vh","left":"6px","right":"6px"}}},"backgroundColor":"contrast","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-contrast-background-color has-background" style="padding-top:8vh;padding-right:6px;padding-bottom:8vh;padding-left:6px"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}},"typography":{"fontSize":"10rem","letterSpacing":"-0.02em"}},"textColor":"base-2"} -->
