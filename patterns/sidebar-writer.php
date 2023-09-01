@@ -17,7 +17,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
-<p style="font-size:0.9rem"><?php echo esc_html__( 'Je suis Adele Diouf, et je suis animée par une curiosité insatiable de dévoiler la tapisserie complexe de la finance et de l\'économie. Au cours de plus d\'une décennie, mon voyage à travers le labyrinthe des marchés mondiaux, des politiques monétaires et des tendances économiques a fourni aux lecteurs les outils nécessaires pour naviguer dans le paysage dynamique de la finance.', 'twentytwentyfour' ); ?></p>
+<p style="font-size:0.9rem"><?php echo esc_html_x( 'Je suis Adele Diouf, et je suis animée par une curiosité insatiable de dévoiler la tapisserie complexe de la finance et de l\'économie. Au cours de plus d\'une décennie, mon voyage à travers le labyrinthe des marchés mondiaux, des politiques monétaires et des tendances économiques a fourni aux lecteurs les outils nécessaires pour naviguer dans le paysage dynamique de la finance.', 'Description de l\'écrivain de la barre latérale', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -64,7 +64,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
-<p style="font-size:0.9rem"><?php echo esc_html__( 'Des choses que je trouve utiles et que je voulais partager avec vous.', 'twentytwentyfour' ); ?></p>
+<p style="font-size:0.9rem"><?php echo esc_html_x( 'Des choses que je trouve utiles et que je voulais partager avec vous.', 'Description de l\'écrivain de la barre latérale', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
