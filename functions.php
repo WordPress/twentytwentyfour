@@ -1,12 +1,12 @@
 <?php
 /**
- * Twenty Twenty Four functions and definitions
- *
- * @link https://developer.wordpress.org/themes/basics/theme-functions/
- *
- * @package Twenty Twenty Four
- * @since Twenty Twenty Four 1.0
- */
+* Twenty Twenty Four functions and definitions
+*
+* @link https://developer.wordpress.org/themes/basics/theme-functions/
+*
+* @package Twenty Twenty Four
+* @since Twenty Twenty Four 1.0
+*/
 
 
 if ( ! function_exists( 'twentytwentyfour_support' ) ) :
@@ -55,18 +55,18 @@ endif;
 
 add_action( 'wp_enqueue_scripts', 'twentytwentyfour_styles' );
 
-
 /**
- * Register block Styles
- */
+* Register block Styles
+*/
+
 if ( ! function_exists( 'twentytwentyfour_block_styles' ) ):
-    /**
-     * Register custom block styles
-     *
-     * @since Twenty Twenty-Four 1.0
-     *
-     * @return void
-     */
+	/**
+	* Register custom block styles
+	*
+	* @since Twenty Twenty-Four 1.0
+	*
+	* @return void
+	*/
     function twentytwentyfour_block_styles() {
         register_block_style(
             'core/list',
