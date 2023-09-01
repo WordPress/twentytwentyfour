@@ -30,7 +30,6 @@
 | @nudgeD | @nudge |
 | @gnanasekaranl | @gnanasekaran |
 | @marcelle42 | @marcelle42 |
-| @jordesign | @jordesign |
 | @kamrulhasanj | @bosskhj |
 | @graylaurenm | @oncecoupled |
 | @bijayyadav | @bijayyadav |
