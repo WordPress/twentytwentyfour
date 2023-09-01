@@ -25,9 +25,9 @@
 	<p>Contattami</p>
 	<!-- /wp:paragraph -->
 
-	<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}}},"textColor":"contrast-2"} -->
-	<p class="has-contrast-2-color has-text-color has-link-color">example@wordpress.org</p>
-	<!-- /wp:paragraph --></div>
+	<!-- wp:social-links {"iconColor":"contrast-2","iconColorValue":"#636363","showLabels":true,"size":"has-normal-icon-size","className":"is-style-logos-only","layout":{"type":"flex","flexWrap":"nowrap","orientation":"horizontal","justifyContent":"left"}} -->
+    <ul class="wp-block-social-links has-normal-icon-size has-visible-labels has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"example@wordpress.org","service":"mail","label":"example@wordpress.org"} /--></ul>
+    <!-- /wp:social-links --></div>
 	<!-- /wp:group --></div>
 	<!-- /wp:column -->
 
@@ -39,9 +39,19 @@
 	<p>Seguimi</p>
 	<!-- /wp:paragraph -->
 
-	<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}}},"textColor":"contrast-2"} -->
-	<p class="has-contrast-2-color has-text-color has-link-color">Instagram / Facebook</p>
-	<!-- /wp:paragraph --></div>
+	<!-- wp:group {"textColor":"contrast-2","layout":{"type":"flex","flexWrap":"nowrap"},"fontSize":"small"} -->
+    <div class="wp-block-group has-contrast-2-color has-text-color has-small-font-size"><!-- wp:social-links {"iconColor":"contrast-2","iconColorValue":"#636363","showLabels":true,"className":"is-style-logos-only"} -->
+		<ul class="wp-block-social-links has-visible-labels has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"#","service":"instagram","label":"Instagram"} /--></ul>
+		<!-- /wp:social-links -->
+
+		<!-- wp:paragraph -->
+		<p>/</p>
+		<!-- /wp:paragraph -->
+
+		<!-- wp:social-links {"iconColor":"contrast-2","iconColorValue":"#636363","showLabels":true,"className":"is-style-logos-only"} -->
+		<ul class="wp-block-social-links has-visible-labels has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"#","service":"facebook","label":"Facebook"} /--></ul>
+		<!-- /wp:social-links --></div>
+	<!-- /wp:group --></div>
 	<!-- /wp:group --></div>
 	<!-- /wp:column --></div>
 	<!-- /wp:columns --></div>
