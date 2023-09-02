@@ -16,9 +16,8 @@
 <h2 class="wp-block-heading" style="font-size:1.4rem"><?php echo esc_html__( 'Sur l\'auteur', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
 <!-- wp:post-author-biography /-->
-<!-- /wp:paragraph --></div>
+</div>
 <!-- /wp:group -->
 
 <!-- wp:separator {"backgroundColor":"base-3"} -->
