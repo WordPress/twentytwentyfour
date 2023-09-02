@@ -17,7 +17,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
-<p style="font-size:0.9rem"><?php echo esc_html_x( 'I\'m Adele Diouf, and I\'m driven by an insatiable curiosity to unravel the intricate tapestry of finance and economics. Over the course of more than a decade, my journey through the maze of global markets, monetary policies, and economic trends has provided readers with the tools necessary to navigate the dynamic landscape of finance.', 'sample content for sidebar-writer', 'twentytwentyfour' ); ?></p>
+<!-- wp:post-author-biography /-->
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
