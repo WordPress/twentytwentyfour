@@ -13,7 +13,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center"><?php echo esc_html_x('An array of resources', 'Sample content for heading of the section.', 'twentytwentyfour'); ?></h2>
+<h2 class="wp-block-heading has-text-align-center"><?php echo esc_html_x('An array of resources', 'Sample content for heading of the section.', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"layout":{"selfStretch":"fit","flexSize":null},"spacing":{"padding":{"right":"0","left":"0"}}},"fontSize":"small"} -->
