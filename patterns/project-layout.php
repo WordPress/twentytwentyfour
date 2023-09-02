@@ -16,7 +16,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.8rem"}}} -->
-<p style="font-size:0.8rem"><?php echo esc_html__("1. Queste basi mi hanno permesso di affrontare la sessione con un profondo apprezzamento per l'identità dell'hotel e una chiara visione della storia che volevo raccontare attraverso il mio obiettivo.", "twentytwentyfour"); ?></p>
+<p style="font-size:0.8rem"><?php echo esc_html__( "1. Queste basi mi hanno permesso di affrontare la sessione con un profondo apprezzamento per l'identità dell'hotel e una chiara visione della storia che volevo raccontare attraverso il mio obiettivo.", 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -24,12 +24,12 @@
 <!-- wp:column {"width":"33%"} -->
 <div class="wp-block-column" style="flex-basis:33%"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","verticalAlignment":"space-between","justifyContent":"stretch"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2","fontSize":"1.4rem"}}} -->
-<p style="font-size:1.4rem;line-height:1.2"><strong><?php echo esc_html__("La mia missione era tradurre la miscela unica di arte, artigianato e bellezza naturale dell'hotel in una raccolta di fotografie evocative che risuonassero con gli spettatori e trasmettessero lo spirito di questa incantevole destinazione. Mi sono avvicinato all'incarico con l'obiettivo di catturare il carattere dell'hotel nella sua interezza. Ogni fotografia è diventata una testimonianza della fusione tra arte e natura, celebrando l'impegno dell'hotel per l'autenticità e la sua armoniosa convivenza con il paesaggio circostante.", 'twentytwentyfour');?></strong></p>
+<p style="font-size:1.4rem;line-height:1.2"><strong><?php echo esc_html__( "La mia missione era tradurre la miscela unica di arte, artigianato e bellezza naturale dell'hotel in una raccolta di fotografie evocative che risuonassero con gli spettatori e trasmettessero lo spirito di questa incantevole destinazione. Mi sono avvicinato all'incarico con l'obiettivo di catturare il carattere dell'hotel nella sua interezza. Ogni fotografia è diventata una testimonianza della fusione tra arte e natura, celebrando l'impegno dell'hotel per l'autenticità e la sua armoniosa convivenza con il paesaggio circostante.", 'twentytwentyfour' ); ?></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"4vh"}}},"layout":{"type":"default"}} -->
 <div class="wp-block-group" style="padding-top:4vh"><!-- wp:paragraph {"style":{"typography":{"fontSize":"0.8rem"}}} -->
-<p style="font-size:0.8rem"><?php echo esc_html__('2. Un racconto visivo di un ritiro intriso di arte, immagini che trascendono il regno delle semplici immagini.','twentytwentyfour');?></p>
+<p style="font-size:0.8rem"><?php echo esc_html__( '2. Un racconto visivo di un ritiro intriso di arte, immagini che trascendono il regno delle semplici immagini.', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":107,"sizeSlug":"large","linkDestination":"none"} -->
