@@ -2,7 +2,50 @@
 	"settings": {
 		"appearanceTools": true,
 		"color": {
+			"defaultDuotone": false,
 			"defaultPalette": false,
+			"duotone": [
+				{
+					"colors": [
+						"#111111",
+						"#ffffff"
+					],
+					"slug": "black-and-white",
+					"name": "Black and white"
+				},
+				{
+					"colors": [
+						"#111111",
+						"#C2A990"
+					],
+					"slug": "black-and-beige",
+					"name": "Black and beige"
+				},
+				{
+					"colors": [
+						"#111111",
+						"#D8613C"
+					],
+					"slug": "black-and-orange",
+					"name": "Black and orange"
+				},
+				{
+					"colors": [
+						"#111111",
+						"#B1C5A4"
+					],
+					"slug": "black-and-pastel-green",
+					"name": "Black and pastel green"
+				},
+				{
+					"colors": [
+						"#111111",
+						"#B5BDBC"
+					],
+					"slug": "black-and-pastel-blue",
+					"name": "Black and pastel blue"
+				}
+			],
 			"palette": [
 				{
 					"color": "#f9f9f9",
