@@ -2,7 +2,50 @@
 	"settings": {
 		"appearanceTools": true,
 		"color": {
+			"defaultDuotone": false,
 			"defaultPalette": false,
+			"duotone": [
+				{
+					"colors": [
+						"#111111",
+						"#ffffff"
+					],
+					"slug": "black-and-white",
+					"name": "Black and white"
+				},
+				{
+					"colors": [
+						"#111111",
+						"#C2A990"
+					],
+					"slug": "black-and-beige",
+					"name": "Black and beige"
+				},
+				{
+					"colors": [
+						"#111111",
+						"#D8613C"
+					],
+					"slug": "black-and-orange",
+					"name": "Black and orange"
+				},
+				{
+					"colors": [
+						"#111111",
+						"#B1C5A4"
+					],
+					"slug": "black-and-pastel-green",
+					"name": "Black and pastel green"
+				},
+				{
+					"colors": [
+						"#111111",
+						"#B5BDBC"
+					],
+					"slug": "black-and-pastel-blue",
+					"name": "Black and pastel blue"
+				}
+			],
 			"palette": [
 				{
 					"color": "#f9f9f9",
@@ -122,7 +165,7 @@
 							"fontStyle": "normal",
 							"fontWeight": "400",
 							"src": [
-								"file:./assets/fonts/cardo_normal_400.ttf"
+								"file:./assets/fonts/cardo_normal_400.woff2"
 							]
 						},
 						{
@@ -130,7 +173,7 @@
 							"fontStyle": "italic",
 							"fontWeight": "400",
 							"src": [
-								"file:./assets/fonts/cardo_italic_400.ttf"
+								"file:./assets/fonts/cardo_italic_400.woff2"
 							]
 						},
 						{
@@ -138,7 +181,7 @@
 							"fontStyle": "normal",
 							"fontWeight": "700",
 							"src": [
-								"file:./assets/fonts/cardo_normal_700.ttf"
+								"file:./assets/fonts/cardo_normal_700.woff2"
 							]
 						}
 					],
@@ -195,6 +238,10 @@
 				}
 			},
 			"core/button": {
+				"color": {
+					"background": "var(--wp--preset--color--contrast)",
+					"text": "var(--wp--preset--color--base)"
+				},
 				"border": {
 					"radius": "6px"
 				},
@@ -573,17 +620,17 @@
 			"button": {
 				":active": {
 					"color": {
-						"background": "var(--wp--preset--color--primary)",
+						"background": "var(--wp--preset--color--contrast)",
 						"text": "var(--wp--preset--color--base)"
 					}
 				},
 				":focus": {
 					"color": {
-						"background": "var(--wp--preset--color--primary)",
+						"background": "var(--wp--preset--color--contrast-2)",
 						"text": "var(--wp--preset--color--base)"
 					},
 					"outline": {
-						"color": "var(--wp--preset--color--primary)",
+						"color": "var(--wp--preset--color--contrast)",
 						"offset": "2px",
 						"style": "dotted",
 						"width": "1px"

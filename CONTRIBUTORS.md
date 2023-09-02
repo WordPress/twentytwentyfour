@@ -6,7 +6,7 @@
 | @luminuu | @luminuu |
 | @beafialho | @beafialho |
 | @chrisdesrochers | @chrisdesrochers |
-| @amedv | @ |
+| @amedv | @amedv |
 | @melchoyce | @melchoyce |
 | @kafleg | @kafleg |
 | @jeffikus | @jeffikus |
@@ -27,8 +27,13 @@
 | @richtabor | @richtabor |
 | @00travelgirl00 | @travel_girl |
 | @kishanjasani | @kishanjasani |
-| @sofiakanopi | @ |
+| @sofiakanopi | @sofiashendi |
 | @nudgeD | @nudge |
 | @gnanasekaranl | @gnanasekaran |
 | @marcelle42 | @marcelle42 |
-
+| @kamrulhasanj | @bosskhj |
+| @graylaurenm | @oncecoupled |
+| @bijayyadav | @bijayyadav |
+| @ZtMbam | @barbmiller |
+| @devmuhib009 | @devmuhib |
+| @kraftbj | @kraftbj |
