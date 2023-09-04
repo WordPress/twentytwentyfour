@@ -37,3 +37,9 @@
 | @devmuhib009 | @devmuhib |
 | @lynurth | @lyndauwp |
 | @kraftbj | @kraftbj |
+| @alaminfirdows | @alaminfirdows |
+| @LittleBigThing | @littlebigthing |
+| @dhamibirendra | @dhamibirendra |
+| @jeffpaul | @jeffpaul |
+| @itsmekopila | @kopila47 |
+| @ernilambar | @rabmalin |
