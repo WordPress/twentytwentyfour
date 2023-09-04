@@ -24,13 +24,13 @@
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:post-date /-->
 
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"0.8rem"}},"textColor":"secondary"} -->
-<p class="has-secondary-color has-text-color" style="font-size:0.8rem">—</p>
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"0.8rem"}},"textColor":"contrast-2"} -->
+<p class="has-contrast-2-color has-text-color" style="font-size:0.8rem">—</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:post-author-name {"isLink":true,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} /-->
+<!-- wp:post-author-name {"isLink":true,"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}}},"textColor":"contrast-2"} /-->
 
-<!-- wp:post-terms {"term":"category","prefix":"in ","style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} /--></div>
+<!-- wp:post-terms {"term":"category","prefix":"in ","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}}},"textColor":"contrast-2"} /--></div>
 <!-- /wp:group -->
 <!-- /wp:post-template --></div>
 <!-- /wp:query --></div>
@@ -48,13 +48,13 @@
 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:post-date /-->
 
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"0.8rem"}},"textColor":"secondary"} -->
-<p class="has-secondary-color has-text-color" style="font-size:0.8rem">—</p>
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"0.8rem"}},"textColor":"contrast-2"} -->
+<p class="has-contrast-2-color has-text-color" style="font-size:0.8rem">—</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:post-author-name {"isLink":true,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} /-->
+<!-- wp:post-author-name {"isLink":true,"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}}},"textColor":"contrast-2"} /-->
 
-<!-- wp:post-terms {"term":"category","prefix":"in ","style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} /--></div>
+<!-- wp:post-terms {"term":"category","prefix":"in ","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}}},"textColor":"contrast-2"} /--></div>
 <!-- /wp:group -->
 <!-- /wp:post-template --></div>
 <!-- /wp:query --></div>
