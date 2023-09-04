@@ -9,7 +9,7 @@
 
 <!-- wp:comments {"className":"wp-block-comments-query-loop"} -->
 <div class="wp-block-comments wp-block-comments-query-loop">
-	<!-- wp:comments-title {"level":3} /-->
+	<!-- wp:comments-title {"level":2} /-->
 
 	<!-- wp:comment-template -->
 		<!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"var:preset|spacing|50"}}}} -->
