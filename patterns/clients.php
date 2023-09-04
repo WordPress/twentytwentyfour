@@ -2,7 +2,7 @@
 /**
  * Title: Clients
  * Slug: twentytwentyfour/clients
- * Categories: columns
+ * Categories: text
  */
 
 ?>
