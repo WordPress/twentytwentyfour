@@ -40,7 +40,7 @@
 
 <!-- wp:column {"verticalAlignment":"center","width":"574px"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:574px"><!-- wp:image {"sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":"16px"}},"className":"is-resized is-style-rounded"} -->
-<figure class="wp-block-image size-large has-custom-border is-resized is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_left-aligned-cta-image.jpeg" alt="" style="border-radius:16px"/></figure>
+<figure class="wp-block-image size-large has-custom-border is-resized is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_left-aligned-cta-image.jpeg" alt="<?php echo esc_attr__( 'Facade of a modern building', 'twentytwentyfour' ); ?>" style="border-radius:16px"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>

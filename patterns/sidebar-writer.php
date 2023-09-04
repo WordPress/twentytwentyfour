@@ -10,7 +10,7 @@
 <!-- wp:group {"style":{"spacing":{"blockGap":"2.5rem"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
 <div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:image {"width":80,"height":80,"scale":"cover","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_writer_avatar-1024x1024.jpg" alt="" style="object-fit:cover;width:80px;height:80px" width="80" height="80"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_writer_avatar-1024x1024.jpg" alt="<?php echo esc_attr__( 'Portrait of a woman smiling', 'twentytwentyfour' ); ?>" style="object-fit:cover;width:80px;height:80px" width="80" height="80"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"style":{"typography":{"fontSize":"1.4rem"}}} -->
