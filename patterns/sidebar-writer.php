@@ -16,9 +16,8 @@
 <h2 class="wp-block-heading" style="font-size:1.4rem"><?php echo esc_html__( 'Sur l\'auteur', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
-<p style="font-size:0.9rem"><?php echo esc_html__( 'Je suis Adele Diouf, et je suis animée par une curiosité insatiable de dévoiler la tapisserie complexe de la finance et de l\'économie. Au cours de plus d\'une décennie, mon voyage à travers le labyrinthe des marchés mondiaux, des politiques monétaires et des tendances économiques a fourni aux lecteurs les outils nécessaires pour naviguer dans le paysage dynamique de la finance.', 'twentytwentyfour' ); ?></p>
-<!-- /wp:paragraph --></div>
+<!-- wp:post-author-biography /-->
+</div>
 <!-- /wp:group -->
 
 <!-- wp:separator {"backgroundColor":"base-3"} -->
@@ -64,17 +63,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
-<p style="font-size:0.9rem"><?php echo esc_html__( 'Des choses que je trouve utiles et que je voulais partager avec vous.', 'twentytwentyfour' ); ?></p>
+<p style="font-size:0.9rem"><?php echo esc_html_x( 'Things that I find useful and wanted to share with you.', 'sample content for sidebar-writer', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0.6rem"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
-<p style="font-size:0.9rem"><a href="https://tt4writer.mystagingwebsite.com"><?php echo esc_html__( 'Dernier rapport sur l\'inflation', 'twentytwentyfour' ); ?></a><?php echo esc_html__( '↗', 'twentytwentyfour' ); ?></p>
+<p style="font-size:0.9rem"><a href="https://tt4writer.mystagingwebsite.com"><?php echo esc_html__( 'Latest inflation report', 'twentytwentyfour' ); ?></a><?php echo esc_html__( '↗', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
-<p style="font-size:0.9rem"><a href="https://tt4writer.mystagingwebsite.com"><?php echo esc_html__( 'Applications financières pour les familles', 'twentytwentyfour' ); ?></a><?php echo esc_html__( '↗', 'twentytwentyfour' ); ?></p>
+<p style="font-size:0.9rem"><a href="https://tt4writer.mystagingwebsite.com"><?php echo esc_html__( 'Financial apps for families', 'twentytwentyfour' ); ?></a><?php echo esc_html__( '↗', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
