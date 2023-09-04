@@ -39,7 +39,7 @@
 | @kraftbj | @kraftbj |
 | @alaminfirdows | @alaminfirdows |
 | @LittleBigThing | @littlebigthing |
-| @dhamibirendra | dhamibirendra |
+| @dhamibirendra | @dhamibirendra |
 | @jeffpaul | @jeffpaul |
 | @itsmekopila | @kopila47 |
 | @ernilambar | @rabmalin |
