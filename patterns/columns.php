@@ -3,18 +3,13 @@
  * Title: Columns
  * Slug: twentytwentyfour/columns
  * Categories: text
-
  */
-
 ?>
-
-
-
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","right":"var:preset|spacing|40","bottom":"var:preset|spacing|50","left":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--40)"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"33%","style":{"spacing":{"blockGap":"","padding":{"right":"12%"}}}} -->
 <div class="wp-block-column" style="padding-right:12%;flex-basis:33%"><!-- wp:heading {"fontSize":"large"} -->
-<h2 class="wp-block-heading has-large-font-size"><?php echo esc_html__( 'We recognize the crucial role architecture plays in shaping a sustainable future.', 'twentytwentyfour' ); ?></h2>
+<h2 class="wp-block-heading has-large-font-size"><?php echo esc_html_x( 'We recognize the crucial role architecture plays in shaping a sustainable future.', 'sample content for columns', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -26,7 +21,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'twentytwentyfour' ); ?></p>
+<p><?php echo esc_html_x( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'sample content for columns', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -36,7 +31,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'twentytwentyfour' ); ?></p>
+<p><?php echo esc_html_x( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'sample content for columns', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
@@ -48,7 +43,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'twentytwentyfour' ); ?></p>
+<p><?php echo esc_html_x( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'sample content for columns', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -58,7 +53,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'twentytwentyfour' ); ?></p>
+<p><?php echo esc_html_x( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'sample content for columns', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
