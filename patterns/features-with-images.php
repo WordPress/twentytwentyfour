@@ -6,8 +6,8 @@
  */
 ?>
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"6vh","bottom":"8vh"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:6vh;padding-bottom:8vh"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"6vh","bottom":"8vh"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide" style="padding-top:6vh;padding-bottom:8vh"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"layout":{"selfStretch":"fit","flexSize":null},"spacing":{"padding":{"right":"0","left":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|custom-borders"}}}},"textColor":"custom-borders","fontSize":"large"} -->
 <p class="has-text-align-center has-custom-borders-color has-text-color has-link-color has-large-font-size" style="padding-right:0;padding-left:0">✳︎</p>
 <!-- /wp:paragraph -->
