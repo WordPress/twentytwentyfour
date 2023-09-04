@@ -1,11 +1,12 @@
 <?php
 /**
- * Title: sidebar-writer
- * Slug: twentytwentyfour/sidebar
+ * Title: Writer's sidebar
+ * Slug: twentytwentyfour/sidebar-witer
  * Categories: hidden
  * Inserter: no
  */
 ?>
+
 <!-- wp:group {"style":{"spacing":{"blockGap":"2.5rem"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
 <div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":60,"width":80,"height":80,"scale":"cover","sizeSlug":"large","linkDestination":"none"} -->

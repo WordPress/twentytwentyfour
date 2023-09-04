@@ -1,10 +1,9 @@
 <?php
 /**
- * Title: Landing Page - Call To Action
+ * Title: Call To Action
  * Slug: twentytwentyfour/landing-page-cta
  * Categories: call-to-action
  */
-
 ?>
 
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}},"backgroundColor":"accent-3","layout":{"type":"constrained"}} -->

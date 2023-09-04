@@ -1,11 +1,12 @@
 <?php
 /**
- * Title: home
+ * Title: Home page
  * Slug: twentytwentyfour/home
- * Categories: hidden
- * Inserter: no
+ * Categories: featured
+ * Block Types: core/post-content
  */
 ?>
+
 <!-- wp:group {"tagName":"main","layout":{"type":"default"}} -->
 <main class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"6vh","bottom":"6vh"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:6vh;padding-bottom:6vh"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40","margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|80"}}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->

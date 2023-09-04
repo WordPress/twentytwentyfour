@@ -4,7 +4,6 @@
  * Slug: twentytwentyfour/cta
  * Categories: call-to-action
  */
-
 ?>
 
 <!-- wp:group {"align":"wide","style":{"border":{"radius":"16px"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}}},"backgroundColor":"base-2","layout":{"type":"constrained"}} -->

@@ -1,10 +1,9 @@
 <?php
 /**
- * Title: About
+ * Title: About text
  * Slug: twentytwentyfour/about
- * Categories: about
+ * Categories: text
  */
-
 ?>
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"italic","fontWeight":"400","lineHeight":"1.3"},"spacing":{"padding":{"top":"6.25rem","bottom":"6.25rem"}}},"backgroundColor":"base","fontSize":"large","fontFamily":"cardo"} -->

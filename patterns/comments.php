@@ -2,9 +2,8 @@
 /**
  * Title: Comments
  * slug: twentytwentyfour/comments
- * inserter: no
+ * Inserter: no
  */
-
 ?>
 
 <!-- wp:comments {"className":"wp-block-comments-query-loop"} -->

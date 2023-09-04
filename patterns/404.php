@@ -4,7 +4,6 @@
  * Slug: twentytwentyfour/404
  * Inserter: no
  */
-
 ?>
 
 <!-- wp:heading {"textAlign":"left","level":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast","fontSize":"x-large"} -->

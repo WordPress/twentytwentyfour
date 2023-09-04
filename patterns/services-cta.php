@@ -1,10 +1,9 @@
 <?php
 /**
- * Title: Services - Call To Action
+ * Title: Services Call To Action
  * Slug: twentytwentyfour/services-cta
  * Categories: call-to-action
  */
-
 ?>
 
 <!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
