@@ -764,11 +764,6 @@
 			"title": "Footer: Writer"
 		},
 		{
-			"area": "footer",
-			"name": "footer-copy",
-			"title": "Footer: Copy"
-		},
-		{
 			"area": "uncategorized",
 			"name": "sidebar",
 			"title": "Sidebar"
