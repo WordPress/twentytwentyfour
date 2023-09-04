@@ -8,7 +8,7 @@
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:heading {"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|60"}}}} -->
-<h2 class="wp-block-heading alignwide" style="margin-bottom:var(--wp--preset--spacing--60)">Watch, Read, Listen</h2>
+<h2 class="wp-block-heading alignwide" style="margin-bottom:var(--wp--preset--spacing--60)"><?php echo esc_html_x( 'Watch, Read, Listen', 'Heading before a list of posts', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"left":"var:preset|spacing|60"}}}} -->
@@ -25,7 +25,7 @@
 <div class="wp-block-group"><!-- wp:post-date /-->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.8rem"}},"textColor":"contrast-2"} -->
-<p class="has-contrast-2-color has-text-color" style="font-size:0.8rem">—</p>
+<p class="has-contrast-2-color has-text-color" style="font-size:0.8rem"><?php echo esc_html_x( '—', 'Separator between post date and author name', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:post-author-name {"isLink":true,"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}}},"textColor":"contrast-2"} /-->
@@ -49,7 +49,7 @@
 <div class="wp-block-group"><!-- wp:post-date /-->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.8rem"}},"textColor":"contrast-2"} -->
-<p class="has-contrast-2-color has-text-color" style="font-size:0.8rem">—</p>
+<p class="has-contrast-2-color has-text-color" style="font-size:0.8rem"><?php echo esc_html_x( '—', 'Separator between post date and author name', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:post-author-name {"isLink":true,"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}}},"textColor":"contrast-2"} /-->
