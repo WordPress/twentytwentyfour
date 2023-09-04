@@ -23,7 +23,7 @@
 <h2 class="wp-block-heading"><?php echo esc_html__( 'With meticulous attention to detail and a commitment to excellence, we create spaces that inspire, elevate, and enrich the lives of those who inhabit them.', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
-<!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"0","left":"var:preset|spacing|30"}}}} -->
+<!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|30","left":"var:preset|spacing|30"}}}} -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.4"}}} -->
 <p style="line-height:1.4"><?php echo esc_html__( 'The revitalized Art Gallery is set to redefine the cultural landscape of Toronto, serving as a nexus of artistic expression, community engagement, and architectural marvel. The expansion and renovation project pay homage to the Art Gallery’s rich history while embracing the future, ensuring that the gallery remains a beacon of inspiration for generations to come.', 'twentytwentyfour' ); ?></p>
