@@ -56,7 +56,7 @@ As a default WordPress theme, it is important to leverage the existing design sy
 ### Spacing presets
 
 | Figma Token | CSS Variable | `theme.json` value | `theme.json` slug |
-|---------|------|-------|------|
+|-------------|--------------|--------------------|-------------------|
 | `Spacing/10` | `--wp--preset--spacing--10` | `min(1rem, 2vw)` | `10` |
 | `Spacing/20` | `--wp--preset--spacing--20` | `min(1.5rem, 3vw)` | `20` |
 | `Spacing/30` | `--wp--preset--spacing--30` | `min(2.5rem, 5vw)` | `30` |
