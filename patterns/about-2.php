@@ -3,6 +3,7 @@
  * Title: About 2
  * Slug: twentytwentyfour/about-2
  * Categories: about, featured, text
+ * Viewport width: 1400
  */
 
 ?>
