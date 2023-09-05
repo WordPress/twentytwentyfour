@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: About 2
- * Slug: twentytwentyfour/about
+ * Slug: twentytwentyfour/about-2
  * Categories: about, featured, text
  */
 
