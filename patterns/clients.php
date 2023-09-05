@@ -11,8 +11,8 @@
 <p class="has-text-align-center"><?php echo esc_html_x( 'We’ve worked with some of the best companies.', 'Sample content above the list of companies.', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:spacer {"height":"2.6rem","style":{"layout":{}}} -->
-<div style="height:2.6rem" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:spacer {"height":"var:preset|spacing|30","style":{"layout":{}}} -->
+<div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"center"}} -->
