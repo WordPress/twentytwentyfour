@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Grid of Features
- * Slug: twentytwentyfour/grid-of-features
+ * Title: Feature grid
+ * Slug: twentytwentyfour/feature-grid
  * Categories: featured, text
  */
 ?>
