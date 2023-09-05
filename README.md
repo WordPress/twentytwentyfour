@@ -46,6 +46,13 @@ As a default WordPress theme, it is important to leverage the existing design sy
 | `Accent/Four` | `--wp--preset--color--accent-4` | `#b1c5a4` | Accent / Four | `accent-4` | ![#b1c5a4](https://placehold.co/15x15/b1c5a4/b1c5a4.png) |
 | `Accent/Five` | `--wp--preset--color--accent-5` | `#b5bdbc` | Accent / Five | `accent-5` | ![#b5bdbc](https://placehold.co/15x15/b5bdbc/b5bdbc.png) |
 
+### Layout presets
+
+| `theme.json` preset | `theme.json` value |
+|---------------|---------|
+| `contentSize` | `620px` |
+| `wideSize`    | `1280px` |
+
 ### Spacing presets
 
 | Figma Token | CSS Variable | `theme.json` value | `theme.json` slug |
