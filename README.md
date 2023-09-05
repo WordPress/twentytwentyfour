@@ -30,6 +30,22 @@ As a default WordPress theme, it is important to leverage the existing design sy
 
 ## Token Cheat-sheet
 
+### Colors
+
+| Figma Token | CSS Variable | `color` | `name` | `slug` | image |
+|------------|-----------------------------|-----------|------|--------|----------------------------------------------------------|
+| `Base/One` | `--wp--preset--color--base` | `#f9f9f9` | Base | `base` | ![#f9f9f9](https://placehold.co/15x15/f9f9f9/f9f9f9.png) |
+| `Base/Two` | `--wp--preset--color--base-2` | `#ffffff` | Base / Two | `base-2` | ![#ffffff](https://placehold.co/15x15/ffffff/ffffff.png) |
+| `Base/Three` | `--wp--preset--color--base-3` | `#00000025` | Base / Three | `base-3` | ![#00000025](https://placehold.co/15x15/00000025/00000025.png) |
+| `Contrast/One` | `--wp--preset--color--contrast` | `#222222` | Contrast | `contrast` | ![#222222](https://placehold.co/15x15/222222/222222.png) |
+| `Contrast/Two` | `--wp--preset--color--contrast-2` | `#636363` | Contrast / Two | `contrast-2` | ![#636363](https://placehold.co/15x15/636363/636363.png) |
+| `Contrast/Three` | `--wp--preset--color--contrast-3` | `#a4a4a4` | Contrast / Three | `contrast-2` | ![#a4a4a4](https://placehold.co/15x15/a4a4a4/a4a4a4.png) |
+| `Accent/One` | `--wp--preset--color--accent` | `#cfcabe` | Accent | `accent` | ![#cfcabe](https://placehold.co/15x15/cfcabe/cfcabe.png) |
+| `Accent/Two` | `--wp--preset--color--accent-2` | `#c2a990` | Accent / Two | `accent-2` | ![#c2a990](https://placehold.co/15x15/c2a990/c2a990.png) |
+| `Accent/Three` | `--wp--preset--color--accent-3` | `#d8613c` | Accent / Three | `accent-3` | ![#d8613c](https://placehold.co/15x15/d8613c/d8613c.png) |
+| `Accent/Four` | `--wp--preset--color--accent-4` | `#b1c5a4` | Accent / Four | `accent-4` | ![#b1c5a4](https://placehold.co/15x15/b1c5a4/b1c5a4.png) |
+| `Accent/Five` | `--wp--preset--color--accent-5` | `#b5bdbc` | Accent / Five | `accent-5` | ![#b5bdbc](https://placehold.co/15x15/b5bdbc/b5bdbc.png) |
+
 ### Spacing presets
 
 | Figma Token | CSS Variable | `theme.json` value | `theme.json` slug |
