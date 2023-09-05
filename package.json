@@ -1,0 +1,30 @@
+{
+	"name": "twentytwentyfour",
+	"private": true,
+	"version": "0.0.1",
+	"description": "The default WordPress theme for 2024",
+	"author": "WordPress",
+	"license": "GPL-2.0-or-later",
+	"keywords": [
+		"WordPress",
+		"theme"
+	],
+	"homepage": "https://github.com/WordPress/twentytwentyfour#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/WordPress/twentytwentyfour.git"
+	},
+	"bugs": {
+		"url": "https://github.com/WordPress/twentytwentyfour/issues"
+	},
+	"devDependencies": {
+		"@wordpress/stylelint-config": "^20.0.2",
+		"stylelint": "^14.10.0"
+	},
+	"scripts": {
+		"lint:css": "stylelint **/*.css -i .gitignore",
+		"lint:css:fix": "stylelint **/*.css -i .gitignore --fix",
+		"lint:php": "./vendor/bin/phpcs",
+		"lint:php:fix": "./bin/phpcbf.sh"
+	}
+}
