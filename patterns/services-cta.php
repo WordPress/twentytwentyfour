@@ -7,10 +7,10 @@
 
 ?>
 
-<!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"},"blockGap":{"top":"var:preset|spacing|30","left":"var:preset|spacing|50"}}},"backgroundColor":"contrast-3"} -->
-<div class="wp-block-columns alignwide has-contrast-3-background-color has-background" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":112,"aspectRatio":"4/3","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://twentytwenty-four.test/wp-content/uploads/2023/09/tt4_services_1.png" alt="" class="wp-image-112" style="aspect-ratio:4/3;object-fit:cover"/></figure>
+<!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"},"blockGap":{"top":"var:preset|spacing|30","left":"var:preset|spacing|50"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"contrast-3"} -->
+<div class="wp-block-columns alignwide has-contrast-3-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"aspectRatio":"4/3","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_services_1.png" alt="" style="aspect-ratio:4/3;object-fit:cover"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -24,8 +24,8 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"style":{"typography":{"fontSize":"16px","fontStyle":"normal","fontWeight":"600"},"border":{"radius":"6px"},"spacing":{"padding":{"left":"28px","right":"28px","top":"17px","bottom":"17px"}}}} -->
-<div class="wp-block-button has-custom-font-size" style="font-size:16px;font-style:normal;font-weight:600"><a class="wp-block-button__link wp-element-button" style="border-radius:6px;padding-top:17px;padding-right:28px;padding-bottom:17px;padding-left:28px">Learn More</a></div>
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Learn More</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column --></div>
