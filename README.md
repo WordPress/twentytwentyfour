@@ -6,6 +6,8 @@ Welcome to the development repository for the default theme that will launch wit
 
 Twenty Twenty-Four is built as a [block theme](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/). The theme aims to ship with as little CSS as possible: our goal is for all theme styles to be configured through [`theme.json`](https://developer.wordpress.org/block-editor/how-to-guides/themes/theme-json/) and editable through Global Styles. The theme development team will work closely with [Gutenberg](https://github.com/wordpress/gutenberg) contributors to build design tools in the block editor that enable this goal.
 
+You can view a demo of this theme at [2024.wordpress.net](https://2024.wordpress.net/), which is synced to `trunk` branch of this repository every 2 minutes.
+
 ## Contributing
 
 If you would like to contribute code, the list of [open issues](https://github.com/WordPress/twentytwentyfour/issues) is a great place to start looking for tasks — but contributing is not just for developers. There are many opportunities to help with testing, triage, discussion, design, building [patterns](https://github.com/WordPress/twentytwentyfour/issues?q=is%3Aissue+is%3Aopen+label%3A%22%5BComponent%5D+Block+Patterns%22) and templates, and more. 
