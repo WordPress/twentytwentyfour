@@ -2,8 +2,9 @@
 /**
  * Title: Business About
  * Slug: twentytwentyfour/business-about
- * Categories: featured
+ * Categories: about
  * Block Types: core/post-content
+ * Post Types: page
  */
 ?>
 
