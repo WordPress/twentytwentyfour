@@ -39,8 +39,8 @@
 <div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"medium"} -->
-<p class="has-text-align-center has-medium-font-size" style="font-style:normal;font-weight:600"><?php echo esc_html_x( 'Consulting', 'Sample feature heading', 'twentytwentyfour' ); ?></p>
+<!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
+<p class="has-text-align-center has-medium-font-size"><strong><?php echo esc_html_x( 'Consulting', 'Sample feature heading', 'twentytwentyfour' ); ?></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"0px","style":{"layout":{"flexSize":"0.75rem","selfStretch":"fixed"}}} -->
@@ -63,8 +63,8 @@
 <div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"medium"} -->
-<p class="has-text-align-center has-medium-font-size" style="font-style:normal;font-weight:600"><?php echo esc_html_x( 'Project Management', 'Sample feature heading', 'twentytwentyfour' ); ?></p>
+<!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
+<p class="has-text-align-center has-medium-font-size"><strong><?php echo esc_html_x( 'Project Management', 'Sample feature heading', 'twentytwentyfour' ); ?></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"0px","style":{"layout":{"flexSize":"0.75rem","selfStretch":"fixed"}}} -->
@@ -87,8 +87,8 @@
 <div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"medium"} -->
-<p class="has-text-align-center has-medium-font-size" style="font-style:normal;font-weight:600"><?php echo esc_html_x( 'Architectural Solutions', 'Sample feature heading', 'twentytwentyfour' ); ?></p>
+<!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
+<p class="has-text-align-center has-medium-font-size"><strong><?php echo esc_html_x( 'Architectural Solutions', 'Sample feature heading', 'twentytwentyfour' ); ?></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"0px","style":{"layout":{"flexSize":"0.75rem","selfStretch":"fixed"}}} -->
@@ -117,8 +117,8 @@
 <div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"medium"} -->
-<p class="has-text-align-center has-medium-font-size" style="font-style:normal;font-weight:600"><?php echo esc_html_x( 'Renovation and restoration', 'Sample feature heading', 'twentytwentyfour' ); ?></p>
+<!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
+<p class="has-text-align-center has-medium-font-size"><strong><?php echo esc_html_x( 'Renovation and restoration', 'Sample feature heading', 'twentytwentyfour' ); ?></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"0px","style":{"layout":{"flexSize":"0.75rem","selfStretch":"fixed"}}} -->
@@ -141,8 +141,8 @@
 <div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"medium"} -->
-<p class="has-text-align-center has-medium-font-size" style="font-style:normal;font-weight:600"><?php echo esc_html_x( 'Continuous Support', 'Sample feature heading', 'twentytwentyfour' ); ?></p>
+<!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
+<p class="has-text-align-center has-medium-font-size"><strong><?php echo esc_html_x( 'Continuous Support', 'Sample feature heading', 'twentytwentyfour' ); ?></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"0px","style":{"layout":{"flexSize":"0.75rem","selfStretch":"fixed"}}} -->
@@ -165,8 +165,8 @@
 <div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"medium"} -->
-<p class="has-text-align-center has-medium-font-size" style="font-style:normal;font-weight:600"><strong><?php echo esc_html_x( 'App Access', 'Sample feature heading', 'twentytwentyfour' ); ?></strong></p>
+<!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
+<p class="has-text-align-center has-medium-font-size"><strong><?php echo esc_html_x( 'App Access', 'Sample feature heading', 'twentytwentyfour' ); ?></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"0px","style":{"layout":{"flexSize":"0.75rem","selfStretch":"fixed"}}} -->
