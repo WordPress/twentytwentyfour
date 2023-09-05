@@ -12,9 +12,9 @@
 	<?php
 		echo sprintf(
 			'%1$s<em>%2$s</em>%3$s',
-			esc_html__( 'These photographs not only captured the physical beauty of the ', 'twentytwentyfour' ),
+			esc_html__( 'Queste fotografie non solo hanno catturato la bellezza fisica del ', 'twentytwentyfour' ),
 			esc_html__( 'Piva Arts &amp; Crafts Hotel', 'twentytwentyfour' ),
-			esc_html__( ', but also conveyed the emotions and feelings the hotel evokes in its guests', 'twentytwentyfour' )
+			esc_html__( ", ma hanno anche trasmesso le emozioni e le sensazioni che l'hotel evoca nei suoi ospiti", 'twentytwentyfour' )
 		);
 		?>
 </p>
