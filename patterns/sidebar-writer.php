@@ -25,7 +25,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"style":{"typography":{"fontSize":"1.6rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:1.6rem"><?php echo esc_html__( 'Derniers articles', 'twentytwentyfour' ); ?></h2>
+<h2 class="wp-block-heading" style="font-size:1.6rem"><?php echo esc_html__( 'Derniers articles', 'à propos du titre des Derniers articles', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:query {"queryId":13,"query":{"perPage":3,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
@@ -63,17 +63,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
-<p style="font-size:0.9rem"><?php echo esc_html_x( 'Things that I find useful and wanted to share with you.', 'sample content for sidebar-writer', 'twentytwentyfour' ); ?></p>
+<p style="font-size:0.9rem"><?php echo esc_html_x( 'Des choses que je trouve utiles et que je voulais partager avec vous.', 'De précieuses découvertes à partager', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0.6rem"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
-<p style="font-size:0.9rem"><a href="https://tt4writer.mystagingwebsite.com"><?php echo esc_html__( 'Latest inflation report', 'twentytwentyfour' ); ?></a><?php echo esc_html__( '↗', 'twentytwentyfour' ); ?></p>
+<p style="font-size:0.9rem"><a href="https://tt4writer.mystagingwebsite.com"><?php echo esc_html__( 'Dernier rapport sur l\'inflation', 'twentytwentyfour' ); ?></a><?php echo esc_html__( '↗', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
-<p style="font-size:0.9rem"><a href="https://tt4writer.mystagingwebsite.com"><?php echo esc_html__( 'Financial apps for families', 'twentytwentyfour' ); ?></a><?php echo esc_html__( '↗', 'twentytwentyfour' ); ?></p>
+<p style="font-size:0.9rem"><a href="https://tt4writer.mystagingwebsite.com"><?php echo esc_html__( 'Applications financières pour les familles', 'twentytwentyfour' ); ?></a><?php echo esc_html__( '↗', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
