@@ -10,11 +10,11 @@
 <main class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"6vh","bottom":"6vh"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:6vh;padding-bottom:6vh"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40","margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|80"}}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center"><?php echo esc_html__( 'A commitment to innovation and sustainability', 'twentytwentyfour' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center"><?php echo esc_html_x( 'A commitment to innovation and sustainability', 'Heading of Home', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"layout":{"selfStretch":"fit","flexSize":null},"spacing":{"padding":{"right":"0","left":"0"}}},"fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size" style="padding-right:0;padding-left:0"><?php echo esc_html_x( 'Études is a pioneering firm that seamlessly merges creativity and functionality to redefine architectural excellence.', 'sample content for home', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-center has-small-font-size" style="padding-right:0;padding-left:0"><?php echo esc_html_x( 'Études is a pioneering firm that seamlessly merges creativity and functionality to redefine architectural excellence.', 'Description Of Architectural Excellence with Études for home', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
@@ -40,7 +40,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"layout":{"selfStretch":"fit","flexSize":null},"spacing":{"padding":{"right":"0","left":"0"}}},"fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size" style="padding-right:0;padding-left:0"><?php echo esc_html_x( 'Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers.', 'sample content for home', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-center has-small-font-size" style="padding-right:0;padding-left:0"><?php echo esc_html_x( 'Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers.', 'professional services content for home', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -60,7 +60,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"left"} -->
-<p class="has-text-align-left"><?php echo esc_html_x( 'Experience the fusion of imagination and expertise with Études Architectural Solutions.', 'sample content for home', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-left"><?php echo esc_html_x( 'Experience the fusion of imagination and expertise with Études Architectural Solutions.', 'Experience & expertise content for home', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -76,7 +76,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"left"} -->
-<p class="has-text-align-left"><?php echo esc_html_x( 'Experience the fusion of imagination and expertise with Études Architectural Solutions.', 'sample content for home', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-left"><?php echo esc_html_x( 'Experience the fusion of imagination and expertise with Études Architectural Solutions.', 'Experience & expertise content for home', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -92,7 +92,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"left"} -->
-<p class="has-text-align-left"><?php echo esc_html_x( 'Experience the fusion of imagination and expertise with Études Architectural Solutions.', 'sample content for home', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-left"><?php echo esc_html_x( 'Experience the fusion of imagination and expertise with Études Architectural Solutions.', 'Experience & expertise content for home', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
@@ -110,7 +110,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"left"} -->
-<p class="has-text-align-left"><?php echo esc_html_x( 'Experience the fusion of imagination and expertise with Études Architectural Solutions.', 'sample content for home', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-left"><?php echo esc_html_x( 'Experience the fusion of imagination and expertise with Études Architectural Solutions.', 'Experience & expertise content for home', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -126,7 +126,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"left"} -->
-<p class="has-text-align-left"><?php echo esc_html_x( 'Experience the fusion of imagination and expertise with Études Architectural Solutions.', 'sample content for home', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-left"><?php echo esc_html_x( 'Experience the fusion of imagination and expertise with Études Architectural Solutions.', 'Experience & expertise content for home', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -142,7 +142,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"left"} -->
-<p class="has-text-align-left"><?php echo esc_html_x( 'Experience the fusion of imagination and expertise with Études Architectural Solutions.', 'sample content for home', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-left"><?php echo esc_html_x( 'Experience the fusion of imagination and expertise with Études Architectural Solutions.', 'Experience & expertise content for home', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
@@ -160,7 +160,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"layout":{"selfStretch":"fit","flexSize":null},"spacing":{"padding":{"right":"0","left":"0"}}},"fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size" style="padding-right:0;padding-left:0"><?php echo esc_html_x( 'Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers.', 'sample content for home', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-center has-small-font-size" style="padding-right:0;padding-left:0"><?php echo esc_html_x( 'Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers.', 'professional services content for home', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -244,7 +244,7 @@
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"12vh","bottom":"12vh","left":"6vw","right":"6vw"}},"elements":{"link":{"color":{"text":"var:preset|color|base"}}}},"backgroundColor":"contrast","textColor":"base","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-base-color has-contrast-background-color has-text-color has-background has-link-color" style="padding-top:12vh;padding-right:6vw;padding-bottom:12vh;padding-left:6vw"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
 <div class="wp-block-group alignwide"><!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":"1.2","letterSpacing":"-0.02em"}},"fontSize":"x-large","fontFamily":"cardo"} -->
-<p class="has-text-align-center has-cardo-font-family has-x-large-font-size" style="letter-spacing:-0.02em;line-height:1.2"><em><?php echo esc_html_x( '“Études has saved us thousands of hours of work and has unlocked insights we never thought possible.”', 'sample content for home', 'twentytwentyfour' ); ?></em></p>
+<p class="has-text-align-center has-cardo-font-family has-x-large-font-size" style="letter-spacing:-0.02em;line-height:1.2"><em><?php echo esc_html_x( '“Études has saved us thousands of hours of work and has unlocked insights we never thought possible.”', 'Unlocking Unprecedented Insights with Études content for home', 'twentytwentyfour' ); ?></em></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
