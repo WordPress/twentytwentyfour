@@ -25,7 +25,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"style":{"typography":{"fontSize":"1.6rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:1.6rem"><?php echo esc_html__( 'Derniers articles', 'à propos du titre des Derniers articles', 'twentytwentyfour' ); ?></h2>
+<h2 class="wp-block-heading" style="font-size:1.6rem"><?php echo esc_html_x( 'Derniers articles', 'à propos du titre des Derniers articles', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:query {"queryId":13,"query":{"perPage":3,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
