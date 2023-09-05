@@ -28,6 +28,18 @@ The theme is designed in [Figma](https://www.figma.com/file/AlYr03vh4dVimwYwQkTd
 
 As a default WordPress theme, it is important to leverage the existing design system wherever possible. That is the font sizes, [color palette choices](https://github.com/WordPress/twentytwentyfour/pull/106), and [spacing presets](https://github.com/WordPress/twentytwentyfour/pull/102). All patterns and templates will leverage this systems extensively. 
 
+## Token Cheat-sheet
+
+### Spacing presets
+
+| Figma Token | CSS Variable | `theme.json` value | `theme.json` slug |
+|---------|------|-------|------|
+| `Spacing/10` | `--wp--preset--spacing--10` | `min(1rem, 2vw)` | `10` |
+| `Spacing/20` | `--wp--preset--spacing--20` | `min(1.5rem, 3vw)` | `20` |
+| `Spacing/30` | `--wp--preset--spacing--30` | `min(2.5rem, 5vw)` | `30` |
+| `Spacing/40` | `--wp--preset--spacing--40` | `min(4rem, 8vw)` | `40` |
+| `Spacing/50` | `--wp--preset--spacing--50` | `min(6.5rem, 13vw)` | `50` |
+| `Spacing/60` | `--wp--preset--spacing--60` | `min(10.5rem, 24vw)` | `60` |
 
 ### Tips for Contributors
 
