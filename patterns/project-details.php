@@ -6,8 +6,8 @@
  */
 
 ?>
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"8vh","bottom":"8vh","right":"6vw","left":"6vw"}}},"backgroundColor":"base","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-base-background-color has-background" style="padding-top:8vh;padding-right:6vw;padding-bottom:8vh;padding-left:6vw"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"2em","left":"2em"}}}} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|20","right":"var:preset|spacing|20"}}},"backgroundColor":"base","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-base-background-color has-background" style="padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--20)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"2em","left":"2em"}}}} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"15%"} -->
 <div class="wp-block-column" style="flex-basis:15%"><!-- wp:paragraph {"style":{"typography":{"fontSize":"0.8rem","lineHeight":"1.4"}}} -->
 <p style="font-size:0.8rem;line-height:1.4"><?php echo esc_html__( 'The revitalized Art Gallery is set to redefine the cultural landscape of Toronto.', 'twentytwentyfour' ); ?></p>
