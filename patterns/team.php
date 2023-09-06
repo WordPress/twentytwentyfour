@@ -3,7 +3,6 @@
  * Title: Team
  * Slug: twentytwentyfour/team
  * Categories: featured
- *  
  */
 ?>
 <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"}}},"backgroundColor":"base"} -->
