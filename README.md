@@ -28,6 +28,41 @@ The theme is designed in [Figma](https://www.figma.com/file/AlYr03vh4dVimwYwQkTd
 
 As a default WordPress theme, it is important to leverage the existing design system wherever possible. That is the font sizes, [color palette choices](https://github.com/WordPress/twentytwentyfour/pull/106), and [spacing presets](https://github.com/WordPress/twentytwentyfour/pull/102). All patterns and templates will leverage this systems extensively. 
 
+## Token Cheat-sheet
+
+### Colors
+
+| Figma Token | CSS Variable | `color` | `name` | `slug` | decorative visual of color |
+|------------|-----------------------------|-----------|------|--------|----------------------------------------------------------|
+| `Base/One` | `--wp--preset--color--base` | `#f9f9f9` | Base | `base` | ![](https://placehold.co/15x15/f9f9f9/f9f9f9.png) |
+| `Base/Two` | `--wp--preset--color--base-2` | `#ffffff` | Base / Two | `base-2` | ![](https://placehold.co/15x15/ffffff/ffffff.png) |
+| `Base/Three` | `--wp--preset--color--base-3` | `#00000025` | Base / Three | `base-3` | ![](https://placehold.co/15x15/00000025/00000025.png) |
+| `Contrast/One` | `--wp--preset--color--contrast` | `#222222` | Contrast | `contrast` | ![](https://placehold.co/15x15/222222/222222.png) |
+| `Contrast/Two` | `--wp--preset--color--contrast-2` | `#636363` | Contrast / Two | `contrast-2` | ![](https://placehold.co/15x15/636363/636363.png) |
+| `Contrast/Three` | `--wp--preset--color--contrast-3` | `#a4a4a4` | Contrast / Three | `contrast-2` | ![](https://placehold.co/15x15/a4a4a4/a4a4a4.png) |
+| `Accent/One` | `--wp--preset--color--accent` | `#cfcabe` | Accent | `accent` | ![](https://placehold.co/15x15/cfcabe/cfcabe.png) |
+| `Accent/Two` | `--wp--preset--color--accent-2` | `#c2a990` | Accent / Two | `accent-2` | ![](https://placehold.co/15x15/c2a990/c2a990.png) |
+| `Accent/Three` | `--wp--preset--color--accent-3` | `#d8613c` | Accent / Three | `accent-3` | ![](https://placehold.co/15x15/d8613c/d8613c.png) |
+| `Accent/Four` | `--wp--preset--color--accent-4` | `#b1c5a4` | Accent / Four | `accent-4` | ![](https://placehold.co/15x15/b1c5a4/b1c5a4.png) |
+| `Accent/Five` | `--wp--preset--color--accent-5` | `#b5bdbc` | Accent / Five | `accent-5` | ![](https://placehold.co/15x15/b5bdbc/b5bdbc.png) |
+
+### Layout presets
+
+| `theme.json` preset | `theme.json` value |
+|---------------|---------|
+| `contentSize` | `620px` |
+| `wideSize`    | `1280px` |
+
+### Spacing presets
+
+| Figma Token | CSS Variable | `theme.json` value | `theme.json` slug |
+|-------------|--------------|--------------------|-------------------|
+| `Spacing/10` | `--wp--preset--spacing--10` | `min(1rem, 2vw)` | `10` |
+| `Spacing/20` | `--wp--preset--spacing--20` | `min(1.5rem, 3vw)` | `20` |
+| `Spacing/30` | `--wp--preset--spacing--30` | `min(2.5rem, 5vw)` | `30` |
+| `Spacing/40` | `--wp--preset--spacing--40` | `min(4rem, 8vw)` | `40` |
+| `Spacing/50` | `--wp--preset--spacing--50` | `min(6.5rem, 13vw)` | `50` |
+| `Spacing/60` | `--wp--preset--spacing--60` | `min(10.5rem, 24vw)` | `60` |
 
 ### Tips for Contributors
 
