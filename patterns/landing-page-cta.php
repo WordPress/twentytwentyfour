@@ -3,6 +3,7 @@
  * Title: Landing Page - Call To Action
  * Slug: twentytwentyfour/landing-page-cta
  * Categories: call-to-action
+ * Viewport width: 1200
  */
 
 ?>
