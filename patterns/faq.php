@@ -13,6 +13,10 @@
 <!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
 <div class="wp-block-group alignwide">
 
+<!-- wp:separator {"style":{"color":{"background":"#ffffff1a"}},"className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-alpha-channel-opacity has-background is-style-wide" style="background-color:#ffffff1a;color:#ffffff1a"/>
+<!-- /wp:separator -->
+
 <!-- wp:details {"style":{"spacing":{"margin":{"top":"0"}}},"className":"is-style-arrow-icon-details","fontSize":"medium"} -->
 <details class="wp-block-details is-style-arrow-icon-details has-medium-font-size" style="margin-top:0"><summary><?php echo esc_html_x( 'What is your process working in smaller projects?', 'twentytwentyfour' ); ?></summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
 <p>Hidden text to replace</p>
