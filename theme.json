@@ -395,7 +395,7 @@
 				"variations": {
 					"rounded": {
 						"border": {
-							"radius": "16px"
+							"radius": "var(--wp--preset--spacing--10)"
 						}
 					}
 				}
