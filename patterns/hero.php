@@ -36,6 +36,6 @@
 <!-- /wp:group -->
 
 <!-- wp:image {"align":"wide","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"16px"}}} -->
-<figure class="wp-block-image alignwide size-full has-custom-border"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_business_image_hero.jpg" alt="" style="border-radius:16px"/></figure>
+<figure class="wp-block-image alignwide size-full has-custom-border"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_business_image_hero.jpg" alt="<?php echo esc_attr( 'A skyscraper building.', 'twentytwentyfour' ); ?>" style="border-radius:16px"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
