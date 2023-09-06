@@ -32,8 +32,8 @@
 <p class="has-text-align-left has-custom-borders-color has-text-color has-link-color has-large-font-size">✳︎</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3,"fontSize":"large"} -->
-<h3 class="wp-block-heading has-large-font-size"><?php echo esc_html_x( 'Études Architect App', 'A heading for the list.', 'twentytwentyfour' ); ?></h3>
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading><?php echo esc_html_x( 'Études Architect App', 'A heading for the list.', 'twentytwentyfour' ); ?></h3>
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
@@ -76,8 +76,8 @@
 <p class="has-text-align-left has-custom-borders-color has-text-color has-link-color has-large-font-size">✳︎</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3,"fontSize":"large"} -->
-<h3 class="wp-block-heading has-large-font-size"><?php echo esc_html_x( 'Études Newsletter', 'A heading for the list.', 'twentytwentyfour' ); ?></h3>
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading><?php echo esc_html_x( 'Études Newsletter', 'A heading for the list.', 'twentytwentyfour' ); ?></h3>
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
