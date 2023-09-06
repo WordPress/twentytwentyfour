@@ -34,34 +34,21 @@ a {
 	text-underline-offset: .15em;
 }
 
-
-
 /*
- * Styles for the custom Faq checkmark list block style
+ * Styles for the custom Faq arrow details block style
  * https://github.com/WordPress/twentytwentyfour/issues/46
  */
- .is-style-faq-check-lists {
-	list-style-position: inside;
-	list-style-type: none;
-	padding-left: 0px;
-}
 
-.is-style-faq-check-lists li::marker{
-	margin-right:10px;
-} 
-
-.is-style-faq-check-lists li { 
-	position: relative; 
-	padding-top: 12px;
-	padding-bottom: 12px;
-	padding-left: 30px;
-	border-top:1px solid rgba(255, 255, 255, 0.20);
+.is-style-arrow-icon-details  {
+	padding-top: var(--wp--preset--spacing--10);
+	padding-bottom: var(--wp--preset--spacing--10);
 	border-bottom:1px solid rgba(255, 255, 255, 0.20);
-	font-size: var(--wp--preset--font-size--medium) !important;
 }
 
-.is-style-faq-check-lists li::before {
-    content: "\2193"; 
-    position: absolute;
-    left: 0;
+.is-style-arrow-icon-details summary {
+    list-style-type: '\2193\00a0\00a0\00a0';
+}
+
+.is-style-arrow-icon-details[open] > summary {
+	list-style-type: '\2192\00a0\00a0\00a0';
 }

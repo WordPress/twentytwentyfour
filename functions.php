@@ -18,8 +18,7 @@ if ( ! function_exists( 'twentytwentyfour_support' ) ) :
 	 * @since Twenty Twenty Four 1.0
 	 *
 	 */
-	function twentytwentyfour_support()
-	{
+	function twentytwentyfour_support() {
 		// Enqueue editor styles.
 		add_editor_style( 'style.css' );
 	}
@@ -37,9 +36,7 @@ if ( ! function_exists( 'twentytwentyfour_styles' ) ) :
 	 * @since Twenty Twenty Four 1.0
 	 *
 	 */
-	function twentytwentyfour_styles()
-	{
-
+	function twentytwentyfour_styles() {
 		// Register theme stylesheet.
 		wp_register_style(
 			'twentytwentyfour-style',
@@ -61,7 +58,7 @@ add_action( 'wp_enqueue_scripts', 'twentytwentyfour_styles' );
  * Register block Styles
  */
 
-if ( ! function_exists( 'twentytwentyfour_block_styles' ) ):
+if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 	/**
 	 * Register custom block styles
 	 *
@@ -69,16 +66,16 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ):
 	 * @since Twenty Twenty-Four 1.0
 	 *
 	 */
-	function twentytwentyfour_block_styles()
-	{
+	function twentytwentyfour_block_styles() {
 		register_block_style(
-			'core/list',
-			[
-				'name' => 'faq-check-lists',
-				'label' => __( 'Faq Checklist item', 'twentytwentyfour' ),
-			]
+			'core/details',
+			array(
+				'name'  => 'arrow-icon-details',
+				'label' => __( 'Arrow icon', 'twentytwentyfour' ),
+			)
 		);
 	}
 endif;
 
-add_action( 'init', 'twentytwentyfour_block_styles' );add_action( 'init', 'twentytwentyfour_block_styles' );
+add_action( 'init', 'twentytwentyfour_block_styles' );
+add_action( 'init', 'twentytwentyfour_block_styles' );
