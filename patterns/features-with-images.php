@@ -33,28 +33,28 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3,"fontSize":"large"} -->
-<h3 class="wp-block-heading has-large-font-size"><?php echo esc_html__( 'Études Architect App', 'twentytwentyfour' ); ?></h3>
+<h3 class="wp-block-heading has-large-font-size"><?php echo esc_html_x( 'Études Architect App', 'A heading for the list.', 'twentytwentyfour' ); ?></h3>
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph -->
-<p><strong>✓</strong> <?php echo esc_html__( 'Collaborate with fellow architects', 'twentytwentyfour' ); ?></p>
+<p><strong>✓</strong> <?php echo esc_html_x( 'Collaborate with fellow architects', 'A general list item.', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>✓</strong> <?php echo esc_html__( 'Showcase your projects', 'twentytwentyfour' ); ?></p>
+<p><strong>✓</strong> <?php echo esc_html_x( 'Showcase your projects', 'A general list item.', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>✓</strong> <?php echo esc_html__( 'Experience the world of architecture like never before', 'twentytwentyfour' ); ?></p>
+<p><strong>✓</strong> <?php echo esc_html_x( 'Experience the world of architecture like never before', 'A general list item.', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_business_image_app.jpg" alt=""/></figure>
+<figure class="wp-block-image size-large"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_business_image_app.jpg" alt="<?php echo esc_attr( 'Women taking picture of a building.', 'twentytwentyfour' ); ?>"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -66,7 +66,7 @@
 <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|80"}}}} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_home_image-2.jpg" alt=""/></figure>
+<figure class="wp-block-image size-large"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_home_image-2.jpg" alt="<?php echo esc_attr( 'Windows of a building.', 'twentytwentyfour' ); ?>"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -77,21 +77,21 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3,"fontSize":"large"} -->
-<h3 class="wp-block-heading has-large-font-size"><?php echo esc_html__( 'Études Newsletter', 'twentytwentyfour' ); ?></h3>
+<h3 class="wp-block-heading has-large-font-size"><?php echo esc_html_x( 'Études Newsletter', 'A heading for the list.', 'twentytwentyfour' ); ?></h3>
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph -->
-<p><strong>✓</strong> <?php echo esc_html__( 'Dive into a world of thought-provoking articles', 'twentytwentyfour' ); ?></p>
+<p><strong>✓</strong> <?php echo esc_html_x( 'Dive into a world of thought-provoking articles', 'A general list item.', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>✓</strong> <?php echo esc_html__( 'Read case studies that celebrate the artistry of architecture', 'twentytwentyfour' ); ?></p>
+<p><strong>✓</strong> <?php echo esc_html_x( 'Read case studies that celebrate the artistry of architecture', 'A general list item.', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>✓</strong> <?php echo esc_html__( 'Gain exclusive access to design insights', 'twentytwentyfour' ); ?></p>
+<p><strong>✓</strong> <?php echo esc_html_x( 'Gain exclusive access to design insights', 'A general list item.', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
