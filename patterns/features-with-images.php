@@ -53,8 +53,8 @@
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_business_image_app.jpg" alt="<?php echo esc_attr( 'Women taking picture of a building.', 'twentytwentyfour' ); ?>"/></figure>
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_business_image_app.jpg" alt="<?php echo esc_attr( 'Women taking picture of a building.', 'twentytwentyfour' ); ?>"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -65,8 +65,8 @@
 
 <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|80"}}}} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_home_image-2.jpg" alt="<?php echo esc_attr( 'Windows of a building.', 'twentytwentyfour' ); ?>"/></figure>
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_home_image-2.jpg" alt="<?php echo esc_attr( 'Windows of a building.', 'twentytwentyfour' ); ?>"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
