@@ -25,7 +25,7 @@
 <div style="margin-top:0;margin-bottom:0;height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:image {"align":"wide","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image alignwide size-large"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_projectoverview_2-scaled-1.jpg" alt="<?php echo esc_attr( 'An women walking in the stair.', 'twentytwentyfour' ); ?>"/></figure>
+<!-- wp:image {"align":"wide","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image alignwide size-large is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_projectoverview_2-scaled-1.jpg" alt="<?php echo esc_attr( 'An women walking in the stair.', 'twentytwentyfour' ); ?>"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
