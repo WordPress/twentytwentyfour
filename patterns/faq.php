@@ -17,31 +17,36 @@
 <!-- /wp:separator -->
 
 <!-- wp:details {"style":{"spacing":{"margin":{"top":"0"}}},"className":"is-style-arrow-icon-details","fontSize":"medium"} -->
-<details class="wp-block-details is-style-arrow-icon-details has-medium-font-size" style="margin-top:0"><summary>What is your process working in smaller projects?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
-<p>Études offers comprehensive consulting, management, design, and research solutions. Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces. Every architectural endeavor is an opportunity to shape the future.</p>
+<details class="wp-block-details is-style-arrow-icon-details has-medium-font-size" style="margin-top:0"><summary>What is your process working in smaller projects?</summary>
+<!-- wp:paragraph {"placeholder":"Type / to add a hidden block","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-3"}}}},"textColor":"contrast-3"} -->
+<p class="has-contrast-3-color has-text-color has-link-color">Études offers comprehensive consulting, management, design, and research solutions. Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces. Every architectural endeavor is an opportunity to shape the future.</p>
+<!-- /wp:paragraph -->
+</details>
+<!-- /wp:details -->
+
+<!-- wp:details {"style":{"spacing":{"margin":{"top":"0"}}},"className":"is-style-arrow-icon-details","fontSize":"medium"} -->
+<details class="wp-block-details is-style-arrow-icon-details has-medium-font-size" style="margin-top:0"><summary>Who is behind Études?</summary>
+<!-- wp:paragraph {"placeholder":"Type / to add a hidden block","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-3"}}}},"textColor":"contrast-3"} -->
+<p class="has-contrast-3-color has-text-color has-link-color">Études offers comprehensive consulting, management, design, and research solutions. Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces. Every architectural endeavor is an opportunity to shape the future.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->
 
 <!-- wp:details {"style":{"spacing":{"margin":{"top":"0"}}},"className":"is-style-arrow-icon-details","fontSize":"medium"} -->
-<details class="wp-block-details is-style-arrow-icon-details has-medium-font-size" style="margin-top:0"><summary>Who is behind Études?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
-<p>Études offers comprehensive consulting, management, design, and research solutions. Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces. Every architectural endeavor is an opportunity to shape the future.</p>
+<details class="wp-block-details is-style-arrow-icon-details has-medium-font-size" style="margin-top:0"><summary>I'd like to get to meet fellow architects, how can I do that?</summary>
+<!-- wp:paragraph {"placeholder":"Type / to add a hidden block","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-3"}}}},"textColor":"contrast-3"} -->
+<p class="has-contrast-3-color has-text-color has-link-color">Études offers comprehensive consulting, management, design, and research solutions. Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces. Every architectural endeavor is an opportunity to shape the future.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->
 
 <!-- wp:details {"style":{"spacing":{"margin":{"top":"0"}}},"className":"is-style-arrow-icon-details","fontSize":"medium"} -->
-<details class="wp-block-details is-style-arrow-icon-details has-medium-font-size" style="margin-top:0"><summary>I'd like to get to meet fellow architects, how can I do that?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
-<p>Études offers comprehensive consulting, management, design, and research solutions. Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces. Every architectural endeavor is an opportunity to shape the future.</p>
+<details class="wp-block-details is-style-arrow-icon-details has-medium-font-size" style="margin-top:0"><summary>Can I apply to be a part of the team or work as a contractor?</summary>
+<!-- wp:paragraph {"placeholder":"Type / to add a hidden block","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-3"}}}},"textColor":"contrast-3"} -->
+<p class="has-contrast-3-color has-text-color has-link-color">Études offers comprehensive consulting, management, design, and research solutions. Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces. Every architectural endeavor is an opportunity to shape the future.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->
 
-<!-- wp:details {"style":{"spacing":{"margin":{"top":"0"}}},"className":"is-style-arrow-icon-details","fontSize":"medium"} -->
-<details class="wp-block-details is-style-arrow-icon-details has-medium-font-size" style="margin-top:0"><summary>Can I apply to be a part of the team or work as a contractor?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
-<p>Études offers comprehensive consulting, management, design, and research solutions. Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces. Every architectural endeavor is an opportunity to shape the future.</p>
-<!-- /wp:paragraph --></details>
-<!-- /wp:details -->
-
-<!-- wp:spacer {"height":"var:preset|spacing|10"} -->
-<div style="height:var(--wp--preset--spacing--10)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:spacer {"height":"var:preset|spacing|10","style":{"spacing":{"margin":{"top":"var:preset|spacing|10","bottom":"0"}}}} -->
+<div style="margin-top:var(--wp--preset--spacing--10);margin-bottom:0;height:var(--wp--preset--spacing--10)" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
