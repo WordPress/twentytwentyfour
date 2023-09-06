@@ -13,7 +13,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textAlign":"center","fontSize":"x-large"} -->
-<h2 class="wp-block-heading has-text-align-center has-x-large-font-size">A passion for creating spaces</h2>
+<h2 class="wp-block-heading has-text-align-center has-x-large-font-size"><?php echo esc_html_x( 'A passion for creating spaces', 'Heading of the features', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":"0px","style":{"layout":{"flexSize":"1.25rem","selfStretch":"fixed"}}} -->
@@ -21,7 +21,7 @@
 <!-- /wp:spacer -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers.</p>
+<p class="has-text-align-center"><?php echo esc_html_x( 'Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers.', 'Sub-heading of the features', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -36,11 +36,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"left","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"medium"} -->
-<p class="has-text-align-left has-medium-font-size" style="font-style:normal;font-weight:500">Renovation and restoration</p>
+<p class="has-text-align-left has-medium-font-size" style="font-style:normal;font-weight:500"><?php echo esc_html_x( 'Renovation and restoration', 'Sample feature heading', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"left"} -->
-<p class="has-text-align-left">Experience the fusion of imagination and expertise with Études Architectural Solutions.</p>
+<p class="has-text-align-left"><?php echo esc_html_x( 'Experience the fusion of imagination and expertise with Études Architectural Solutions.', 'Sample feature content', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -50,11 +50,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"left","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"medium"} -->
-<p class="has-text-align-left has-medium-font-size" style="font-style:normal;font-weight:500">Continuous Support</p>
+<p class="has-text-align-left has-medium-font-size" style="font-style:normal;font-weight:500"><?php echo esc_html_x( 'Continuous Support', 'Sample feature heading', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"left"} -->
-<p class="has-text-align-left">Experience the fusion of imagination and expertise with Études Architectural Solutions.</p>
+<p class="has-text-align-left"><?php echo esc_html_x( 'Experience the fusion of imagination and expertise with Études Architectural Solutions.', 'Sample feature content', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -64,11 +64,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"left","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"medium"} -->
-<p class="has-text-align-left has-medium-font-size" style="font-style:normal;font-weight:500">App Access</p>
+<p class="has-text-align-left has-medium-font-size" style="font-style:normal;font-weight:500"><?php echo esc_html_x( 'App Access', 'Sample feature heading', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"left"} -->
-<p class="has-text-align-left">Experience the fusion of imagination and expertise with Études Architectural Solutions.</p>
+<p class="has-text-align-left"><?php echo esc_html_x( 'Experience the fusion of imagination and expertise with Études Architectural Solutions.', 'Sample feature content', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -84,11 +84,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"left","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"medium"} -->
-<p class="has-text-align-left has-medium-font-size" style="font-style:normal;font-weight:500">Consulting</p>
+<p class="has-text-align-left has-medium-font-size" style="font-style:normal;font-weight:500"><?php echo esc_html_x( 'Consulting', 'Sample feature heading', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"left"} -->
-<p class="has-text-align-left">Experience the fusion of imagination and expertise with Études Architectural Solutions.</p>
+<p class="has-text-align-left"><?php echo esc_html_x( 'Experience the fusion of imagination and expertise with Études Architectural Solutions.', 'Sample feature content', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -98,11 +98,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"left","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"medium"} -->
-<p class="has-text-align-left has-medium-font-size" style="font-style:normal;font-weight:500">Project Management</p>
+<p class="has-text-align-left has-medium-font-size" style="font-style:normal;font-weight:500"><?php echo esc_html_x( 'Project Management', 'Sample feature heading', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"left"} -->
-<p class="has-text-align-left">Experience the fusion of imagination and expertise with Études Architectural Solutions.</p>
+<p class="has-text-align-left"><?php echo esc_html_x( 'Experience the fusion of imagination and expertise with Études Architectural Solutions.', 'Sample feature content', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -112,11 +112,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"left","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"medium"} -->
-<p class="has-text-align-left has-medium-font-size" style="font-style:normal;font-weight:500">Architectural Solutions</p>
+<p class="has-text-align-left has-medium-font-size" style="font-style:normal;font-weight:500"><?php echo esc_html_x( 'Architectural Solutions', 'Sample feature heading', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"left"} -->
-<p class="has-text-align-left">Experience the fusion of imagination and expertise with Études Architectural Solutions.</p>
+<p class="has-text-align-left"><?php echo esc_html_x( 'Experience the fusion of imagination and expertise with Études Architectural Solutions.', 'Sample feature content', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
