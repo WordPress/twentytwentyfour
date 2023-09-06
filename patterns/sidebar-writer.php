@@ -16,9 +16,8 @@
 <h2 class="wp-block-heading" style="font-size:1.4rem"><?php echo esc_html__( 'Sur l\'auteur', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
-<p style="font-size:0.9rem"><?php echo esc_html__( 'Je suis Adele Diouf, et je suis animée par une curiosité insatiable de dévoiler la tapisserie complexe de la finance et de l\'économie. Au cours de plus d\'une décennie, mon voyage à travers le labyrinthe des marchés mondiaux, des politiques monétaires et des tendances économiques a fourni aux lecteurs les outils nécessaires pour naviguer dans le paysage dynamique de la finance.', 'twentytwentyfour' ); ?></p>
-<!-- /wp:paragraph --></div>
+<!-- wp:post-author-biography /-->
+</div>
 <!-- /wp:group -->
 
 <!-- wp:separator {"backgroundColor":"base-3"} -->
