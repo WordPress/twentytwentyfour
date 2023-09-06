@@ -4,6 +4,7 @@
 		"color": {
 			"defaultDuotone": false,
 			"defaultPalette": false,
+			"defaultGradients": false,
 			"duotone": [
 				{
 					"colors": [
@@ -18,24 +19,24 @@
 						"#111111",
 						"#C2A990"
 					],
-					"slug": "black-and-beige",
-					"name": "Black and beige"
+					"slug": "black-and-sandstone",
+					"name": "Black and sandstone"
 				},
 				{
 					"colors": [
 						"#111111",
 						"#D8613C"
 					],
-					"slug": "black-and-orange",
-					"name": "Black and orange"
+					"slug": "black-and-rust",
+					"name": "Black and rust"
 				},
 				{
 					"colors": [
 						"#111111",
 						"#B1C5A4"
 					],
-					"slug": "black-and-pastel-green",
-					"name": "Black and pastel green"
+					"slug": "black-and-sage",
+					"name": "Black and sage"
 				},
 				{
 					"colors": [
@@ -44,6 +45,68 @@
 					],
 					"slug": "black-and-pastel-blue",
 					"name": "Black and pastel blue"
+				}
+			],
+			"gradients": [
+				{
+					"slug": "vertical-soft-beige-to-white",
+					"gradient": "linear-gradient(to bottom, #cfcabe 0%, #F9F9F9 100%)",
+					"name": "Vertical soft beige to white"
+				},
+				{
+					"slug": "vertical-soft-sandstone-to-white",
+					"gradient": "linear-gradient(to bottom, #C2A990 0%, #F9F9F9 100%)",
+					"name": "Vertical soft sandstone to white"
+				},
+				{
+					"slug": "vertical-soft-rust-to-white",
+					"gradient": "linear-gradient(to bottom, #D8613C 0%, #F9F9F9 100%)",
+					"name": "Vertical soft rust to white"
+				},
+				{
+					"slug": "vertical-soft-sage-to-white",
+					"gradient": "linear-gradient(to bottom, #B1C5A4 0%, #F9F9F9 100%)",
+					"name": "Vertical soft sage to white"
+				},
+				{
+					"slug": "vertical-soft-mint-to-white",
+					"gradient": "linear-gradient(to bottom, #B5BDBC 0%, #F9F9F9 100%)",
+					"name": "Vertical soft mint to white"
+				},
+				{
+					"slug": "vertical-soft-pewter-to-white",
+					"gradient": "linear-gradient(to bottom, #A4A4A4 0%, #F9F9F9 100%)",
+					"name": "Vertical soft pewter to white"
+				},
+				{
+					"slug": "vertical-hard-beige-to-white",
+					"gradient": "linear-gradient(to bottom, #cfcabe 50%, #F9F9F9 50%)",
+					"name": "Vertical hard beige to white"
+				},
+				{
+					"slug": "vertical-hard-sandstone-to-white",
+					"gradient": "linear-gradient(to bottom, #C2A990 50%, #F9F9F9 50%)",
+					"name": "Vertical hard sandstone to white"
+				},
+				{
+					"slug": "vertical-hard-rust-to-white",
+					"gradient": "linear-gradient(to bottom, #D8613C 50%, #F9F9F9 50%)",
+					"name": "Vertical hard rust to white"
+				},
+				{
+					"slug": "vertical-hard-sage-to-white",
+					"gradient": "linear-gradient(to bottom, #B1C5A4 50%, #F9F9F9 50%)",
+					"name": "Vertical hard sage to white"
+				},
+				{
+					"slug": "vertical-hard-mint-to-white",
+					"gradient": "linear-gradient(to bottom, #B5BDBC 50%, #F9F9F9 50%)",
+					"name": "Vertical hard mint to white"
+				},
+				{
+					"slug": "vertical-hard-pewter-to-white",
+					"gradient": "linear-gradient(to bottom, #A4A4A4 50%, #F9F9F9 50%)",
+					"name": "Vertical hard pewter to white"
 				}
 			],
 			"palette": [
