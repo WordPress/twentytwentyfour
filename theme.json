@@ -391,6 +391,15 @@
 					}
 				}
 			},
+			"core/image": {
+				"variations": {
+					"rounded": {
+						"border": {
+							"radius": "1rem"
+						}
+					}
+				}
+			},
 			"core/list": {
 				"spacing": {
 					"padding": {
