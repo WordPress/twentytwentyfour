@@ -45,3 +45,6 @@
 | @ernilambar | @rabmalin |
 | @aplauche | @aplauche |
 | @colorful-tones | @colorful-tones |
+| @khleomix| @khleomix |
+| @pbking| @pbking |
+| @esrat71| |
