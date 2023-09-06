@@ -18,8 +18,8 @@
   <figure class="wp-block-image aligncenter size-thumbnail is-resized has-custom-border is-style-rounded"><img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/tt4_testimonial_avatar.jpg" alt="<?php echo esc_attr( 'Portrait of a woman looking down Side', 'twentytwentyfour' ); ?>" class="" style="border-radius:999px;object-fit:cover;width:64px;height:64px" width="64" height="64" /></figure>
   <!-- /wp:image -->
 
-  <!-- wp:paragraph {"align":"center","fontFamily":"inter"} -->
-  <p class="has-text-align-center has-inter-font-family"><strong><?php echo esc_html_x( 'Annie Steiner', 'Name of Person Provided the Testimonial', 'twentytwentyfour' ); ?></strong></p>
+  <!-- wp:paragraph {"align":"center"} -->
+  <p class="has-text-align-center"><strong><?php echo esc_html_x( 'Annie Steiner', 'Name of Person Provided the Testimonial', 'twentytwentyfour' ); ?></strong></p>
   <!-- /wp:paragraph -->
 
   <!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"0.25rem"}},"typography":{"fontStyle":"normal","fontWeight":"300"}}} -->
