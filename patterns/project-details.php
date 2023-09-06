@@ -3,6 +3,7 @@
  * Title: Project Details
  * Slug: twentytwentyfour/project-details
  * Categories: text, featured
+ * Viewport width: 1400
  */
 
 ?>
