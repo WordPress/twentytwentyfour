@@ -25,7 +25,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"style":{"typography":{"fontSize":"1.6rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:1.6rem"><?php echo esc_html_x( 'Derniers articles', 'Entête de l\'écrivain de la barre latérale', 'twentytwentyfour' ); ?></h2>
+<h2 class="wp-block-heading" style="font-size:1.6rem"><?php echo esc_html_x( 'Derniers articles', 'Title of sidebar-writer', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:query {"queryId":13,"query":{"perPage":3,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
@@ -63,7 +63,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
-<p style="font-size:0.9rem"><?php echo esc_html_x( 'Des choses que je trouve utiles et que je voulais partager avec vous.', 'De précieuses découvertes à partager', 'twentytwentyfour' ); ?></p>
+<p style="font-size:0.9rem"><?php echo esc_html_x( 'Des choses que je trouve utiles et que je voulais partager avec vous.', 'Content of sidebar-writer', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
