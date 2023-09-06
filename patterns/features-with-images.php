@@ -13,11 +13,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center"><?php echo esc_html_x('An array of resources', 'Sample content for heading of the section.', 'twentytwentyfour' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center"><?php echo esc_html_x( 'An array of resources', 'Sample content for heading of the section.', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"layout":{"selfStretch":"fit","flexSize":null}},"fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size" style="padding-right:0;padding-left:0"><?php echo esc_html_x('Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers.', 'Sample content for the subheading for this pattern.', 'twentytwentyfour'); ?></p>
+<p class="has-text-align-center has-small-font-size" style="padding-right:0;padding-left:0"><?php echo esc_html_x( 'Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers.', 'Sample content for the subheading for this pattern.', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -33,21 +33,21 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3,"fontSize":"large"} -->
-<h3 class="wp-block-heading has-large-font-size"><?php echo esc_html__('Études Architect App', 'twentytwentyfour'); ?></h3>
+<h3 class="wp-block-heading has-large-font-size"><?php echo esc_html__( 'Études Architect App', 'twentytwentyfour' ); ?></h3>
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph -->
-<p><strong>✓</strong> <?php echo esc_html__('Collaborate with fellow architects', 'twentytwentyfour'); ?></p>
+<p><strong>✓</strong> <?php echo esc_html__( 'Collaborate with fellow architects', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>✓</strong> <?php echo esc_html__('Showcase your projects', 'twentytwentyfour'); ?></p>
+<p><strong>✓</strong> <?php echo esc_html__( 'Showcase your projects', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>✓</strong> <?php echo esc_html__('Experience the world of architecture like never before', 'twentytwentyfour'); ?></p>
+<p><strong>✓</strong> <?php echo esc_html__( 'Experience the world of architecture like never before', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -77,21 +77,21 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3,"fontSize":"large"} -->
-<h3 class="wp-block-heading has-large-font-size"><?php echo esc_html__('Études Newsletter', 'twentytwentyfour'); ?></h3>
+<h3 class="wp-block-heading has-large-font-size"><?php echo esc_html__( 'Études Newsletter', 'twentytwentyfour' ); ?></h3>
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph -->
-<p><strong>✓</strong> <?php echo esc_html__('Dive into a world of thought-provoking articles', 'twentytwentyfour'); ?></p>
+<p><strong>✓</strong> <?php echo esc_html__( 'Dive into a world of thought-provoking articles', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>✓</strong> <?php echo esc_html__('Read case studies that celebrate the artistry of architecture', 'twentytwentyfour'); ?></p>
+<p><strong>✓</strong> <?php echo esc_html__( 'Read case studies that celebrate the artistry of architecture', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>✓</strong> <?php echo esc_html__('Gain exclusive access to design insights', 'twentytwentyfour'); ?></p>
+<p><strong>✓</strong> <?php echo esc_html__( 'Gain exclusive access to design insights', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
