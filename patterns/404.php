@@ -7,8 +7,8 @@
 
 ?>
 
-<!-- wp:heading {"textAlign":"left","level":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast","fontSize":"x-large"} -->
-<h1 class="wp-block-heading has-text-align-left has-contrast-color has-text-color has-link-color has-x-large-font-size" id="page-not-found"><?php echo esc_html_x( 'Page Not Found', 'Heading for a webpage that is not found', 'twentytwentyfour' ); ?></h1>
+<!-- wp:heading {"textAlign":"left","level":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast","fontSize":"xx-large"} -->
+<h1 class="wp-block-heading has-text-align-left has-contrast-color has-text-color has-link-color has-xx-large-font-size" id="page-not-found"><?php echo esc_html_x( 'Page Not Found', 'Heading for a webpage that is not found', 'twentytwentyfour' ); ?></h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast"} -->

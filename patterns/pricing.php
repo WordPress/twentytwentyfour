@@ -9,8 +9,8 @@
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}}},"backgroundColor":"base-2","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide has-base-2-background-color has-background" style="padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
-<div class="wp-block-group alignwide"><!-- wp:heading {"textAlign":"center","fontSize":"x-large"} -->
-<h2 class="wp-block-heading has-text-align-center has-x-large-font-size"><?php echo esc_html_x( 'Our Services', 'Heading for pricing pattern', 'twentytwentyfour' ); ?></h2>
+<div class="wp-block-group alignwide"><!-- wp:heading {"textAlign":"center","fontSize":"xx-large"} -->
+<h2 class="wp-block-heading has-text-align-center has-xx-large-font-size"><?php echo esc_html_x( 'Our Services', 'Heading for pricing pattern', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":"var:preset|spacing|20","style":{"spacing":{"margin":{"top":"0","bottom":"0"}},"layout":{}}} -->
@@ -28,12 +28,12 @@
 
 <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"left":"var:preset|spacing|20"}}}} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}},"border":{"top":{"color":"var:preset|color|base-3","width":"1px"}}}} -->
-<div class="wp-block-column" style="border-top-color:var(--wp--preset--color--base-3);border-top-width:1px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:heading {"textAlign":"center","level":4,"style":{"spacing":{"padding":{"top":"1px"}}},"fontSize":"medium"} -->
-<h4 class="wp-block-heading has-text-align-center has-medium-font-size" style="padding-top:1px"><em><?php echo esc_html_x( 'Free', 'Title for Free pricing level', 'twentytwentyfour' ); ?></em></h4>
+<div class="wp-block-column" style="border-top-color:var(--wp--preset--color--base-3);border-top-width:1px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:heading {"textAlign":"center","level":4,"style":{"spacing":{"padding":{"top":"1px"}}},"fontSize":"large"} -->
+<h4 class="wp-block-heading has-text-align-center has-large-font-size" style="padding-top:1px"><em><?php echo esc_html_x( 'Free', 'Title for Free pricing level', 'twentytwentyfour' ); ?></em></h4>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"textAlign":"center","level":5,"fontSize":"x-large"} -->
-<h5 class="wp-block-heading has-text-align-center has-x-large-font-size"><?php echo esc_html_x( '$0', 'Price for Free pricing level', 'twentytwentyfour' ); ?></h5>
+<!-- wp:heading {"textAlign":"center","level":5,"fontSize":"xx-large"} -->
+<h5 class="wp-block-heading has-text-align-center has-xx-large-font-size"><?php echo esc_html_x( '$0', 'Price for Free pricing level', 'twentytwentyfour' ); ?></h5>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -64,12 +64,12 @@
 <!-- /wp:column -->
 
 <!-- wp:column {"style":{"border":{"top":{"color":"var:preset|color|contrast","width":"2px"},"right":{},"bottom":{},"left":{}},"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} -->
-<div class="wp-block-column" style="border-top-color:var(--wp--preset--color--contrast);border-top-width:2px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:heading {"textAlign":"center","level":4,"fontSize":"medium"} -->
-<h4 class="wp-block-heading has-text-align-center has-medium-font-size"><em><?php echo esc_html_x( 'Connoisseur', 'Title for Connoisseur pricing level', 'twentytwentyfour' ); ?></em></h4>
+<div class="wp-block-column" style="border-top-color:var(--wp--preset--color--contrast);border-top-width:2px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:heading {"textAlign":"center","level":4,"fontSize":"large"} -->
+<h4 class="wp-block-heading has-text-align-center has-large-font-size"><em><?php echo esc_html_x( 'Connoisseur', 'Title for Connoisseur pricing level', 'twentytwentyfour' ); ?></em></h4>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"textAlign":"center","level":5,"fontSize":"x-large"} -->
-<h5 class="wp-block-heading has-text-align-center has-x-large-font-size"><?php echo esc_html_x( '$12', 'Price for Connoisseur pricing level', 'twentytwentyfour' ); ?></h5>
+<!-- wp:heading {"textAlign":"center","level":5,"fontSize":"xx-large"} -->
+<h5 class="wp-block-heading has-text-align-center has-xx-large-font-size"><?php echo esc_html_x( '$12', 'Price for Connoisseur pricing level', 'twentytwentyfour' ); ?></h5>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -100,12 +100,12 @@
 <!-- /wp:column -->
 
 <!-- wp:column {"style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}},"border":{"top":{"color":"var:preset|color|base-3","width":"1px"}}}} -->
-<div class="wp-block-column" style="border-top-color:var(--wp--preset--color--base-3);border-top-width:1px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:heading {"textAlign":"center","level":4,"style":{"spacing":{"padding":{"top":"1px"}}},"fontSize":"medium"} -->
-<h4 class="wp-block-heading has-text-align-center has-medium-font-size" style="padding-top:1px"><em><?php echo esc_html_x( 'Expert', 'Title for Expert pricing level', 'twentytwentyfour' ); ?></em></h4>
+<div class="wp-block-column" style="border-top-color:var(--wp--preset--color--base-3);border-top-width:1px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:heading {"textAlign":"center","level":4,"style":{"spacing":{"padding":{"top":"1px"}}},"fontSize":"large"} -->
+<h4 class="wp-block-heading has-text-align-center has-large-font-size" style="padding-top:1px"><em><?php echo esc_html_x( 'Expert', 'Title for Expert pricing level', 'twentytwentyfour' ); ?></em></h4>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"textAlign":"center","level":5,"fontSize":"x-large"} -->
-<h5 class="wp-block-heading has-text-align-center has-x-large-font-size"><?php echo esc_html_x( '$28', 'Price for Expert pricing level', 'twentytwentyfour' ); ?></h5>
+<!-- wp:heading {"textAlign":"center","level":5,"fontSize":"xx-large"} -->
+<h5 class="wp-block-heading has-text-align-center has-xx-large-font-size"><?php echo esc_html_x( '$28', 'Price for Expert pricing level', 'twentytwentyfour' ); ?></h5>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
