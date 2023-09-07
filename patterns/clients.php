@@ -17,23 +17,23 @@
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"center"}} -->
 <div class="wp-block-group alignwide"><!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-logo-1.png" alt="<?php echo esc_attr( 'Logo of client 1', 'twentytwentyfour' ); ?>"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-logo-1.webp" alt="<?php echo esc_attr( 'Logo of client 1', 'twentytwentyfour' ); ?>"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-logo-2.png" alt="<?php echo esc_attr( 'Logo of client 2', 'twentytwentyfour' ); ?>"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-logo-2.webp" alt="<?php echo esc_attr( 'Logo of client 2', 'twentytwentyfour' ); ?>"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-logo-3.png" alt="<?php echo esc_attr( 'Logo of client 3', 'twentytwentyfour' ); ?>"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-logo-3.webp" alt="<?php echo esc_attr( 'Logo of client 3', 'twentytwentyfour' ); ?>"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-logo-4.png" alt="<?php echo esc_attr( 'Logo of client 4', 'twentytwentyfour' ); ?>"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-logo-4.webp" alt="<?php echo esc_attr( 'Logo of client 4', 'twentytwentyfour' ); ?>"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-logo-5.png" alt="<?php echo esc_attr( 'Logo of client 5', 'twentytwentyfour' ); ?>"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-logo-5.webp" alt="<?php echo esc_attr( 'Logo of client 5', 'twentytwentyfour' ); ?>"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->

@@ -20,7 +20,7 @@
 <div class="wp-block-columns" style="padding-right:0;padding-left:0"><!-- wp:column {"layout":{"type":"default"}} -->
 <div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:image {"aspectRatio":"1","scale":"cover","sizeSlug":"large","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/team-member-1.png" alt="<?php echo esc_attr( 'Picture of woman tying her hair', 'twentytwentyfour' ); ?>" style="aspect-ratio:1;object-fit:cover"/></figure>
+<figure class="wp-block-image size-large is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/team-member-1.webp" alt="<?php echo esc_attr( 'Picture of woman tying her hair', 'twentytwentyfour' ); ?>" style="aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|0"}},"layout":{"type":"constrained"}} -->
@@ -38,7 +38,7 @@
 <!-- wp:column {"layout":{"type":"default"}} -->
 <div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:image {"aspectRatio":"1","scale":"cover","sizeSlug":"large","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/team-member-2.png" alt="<?php echo esc_attr( 'Portrait of a man looking ahead', 'twentytwentyfour' ); ?>" style="aspect-ratio:1;object-fit:cover"/></figure>
+<figure class="wp-block-image size-large is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/team-member-2.webp" alt="<?php echo esc_attr( 'Portrait of a man looking ahead', 'twentytwentyfour' ); ?>" style="aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|0"}},"layout":{"type":"constrained"}} -->
@@ -56,7 +56,7 @@
 <!-- wp:column {"layout":{"type":"default"}} -->
 <div class="wp-block-column"><!-- wp:group {"layout":{"type":"default"}} -->
 <div class="wp-block-group"><!-- wp:image {"aspectRatio":"1","scale":"cover","sizeSlug":"large","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/team-member-3.jpg" alt="<?php echo esc_attr( 'Portrait of a woman looking to the side', 'twentytwentyfour' ); ?>" style="aspect-ratio:1;object-fit:cover"/></figure>
+<figure class="wp-block-image size-large is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/team-member-3.webp" alt="<?php echo esc_attr( 'Portrait of a woman looking to the side', 'twentytwentyfour' ); ?>" style="aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|0"}},"layout":{"type":"constrained"}} -->
@@ -74,7 +74,7 @@
 <!-- wp:column {"layout":{"type":"default"}} -->
 <div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:image {"aspectRatio":"1","scale":"cover","sizeSlug":"large","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/team-member-4.png" alt="<?php echo esc_attr( 'Picture of a man with a hat wearing a backpack', 'twentytwentyfour' ); ?>" style="aspect-ratio:1;object-fit:cover"/></figure>
+<figure class="wp-block-image size-large is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/team-member-4.webp" alt="<?php echo esc_attr( 'Picture of a man with a hat wearing a backpack', 'twentytwentyfour' ); ?>" style="aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|0"}},"layout":{"type":"constrained"}} -->
