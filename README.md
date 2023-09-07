@@ -64,6 +64,21 @@ As a default WordPress theme, it is important to leverage the existing design sy
 | `Spacing/50` | `--wp--preset--spacing--50` | `min(6.5rem, 13vw)` | `50` |
 | `Spacing/60` | `--wp--preset--spacing--60` | `min(10.5rem, 24vw)` | `60` |
 
+### Font Sizes
+
+| CSS Variable | `theme.json` value | `theme.json` slug |
+|--------------|--------------------|-------------------|
+| `--wp--preset--font-size--small` | `clamp(0.813rem, 0.688rem)` | `small` |
+| `--wp--preset--font-size--medium` | `clamp(1.0625rem, 0.825rem)` | `small` |
+| `--wp--preset--font-size--large` | `clamp(1.25rem, 1rem)` | `small` |
+| `--wp--preset--font-size--x-large` | `clamp(2rem, 1.75rem)` | `small` |
+| `--wp--preset--font-size--xx-large` | `clamp(3rem, 2.5rem)` | `small` |
+
+
+
+
+
+
 ### Tips for Contributors
 
 - As stated above, a goal for the theme is to have as little CSS as possible. Much of the theme's visual treatments should be handled by the Block Editor and Global Styles. As a general rule, if multiple themes would benefit from the CSS you're considering adding, it might reasonably be provided by Gutenberg instead. Let's include clear code comments for any CSS we do include.
