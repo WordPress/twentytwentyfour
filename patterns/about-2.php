@@ -17,9 +17,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:group {"layout":{"type":"constrained","contentSize":"300px","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:spacer {"height":"var:preset|spacing|10"} -->
-<div style="height:var(--wp--preset--spacing--10)" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
+<div class="wp-block-group">
 
 <!-- wp:paragraph {"style":{"layout":{"selfStretch":"fixed","flexSize":"50%"}}} -->
 <p><?php echo esc_html_x( 'Leaving an indelible mark on the landscape of tomorrow.', 'Description for the About pattern', 'twentytwentyfour' ); ?></p>
