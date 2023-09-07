@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: sidebar-writer
- * Slug: twentytwentyfour/sidebar
+ * Slug: twentytwentyfour/sidebar-writer
  * Categories: hidden
  * Inserter: no
  */
@@ -16,7 +16,7 @@
 <h2 class="wp-block-heading" style="font-size:1.4rem"><?php echo esc_html__( 'Sur l\'auteur', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
-<!-- wp:post-author-biography /-->
+<!-- wp:post-author-biography {"style":{"typography":{"fontSize":"0.9rem"}}} /-->
 </div>
 <!-- /wp:group -->
 
