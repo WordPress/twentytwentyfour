@@ -39,7 +39,7 @@ As a default WordPress theme, it is important to leverage the existing design sy
 | `Base/Three` | `--wp--preset--color--base-3` | `#00000025` | Base / Three | `base-3` | ![](https://placehold.co/15x15/00000025/00000025.png) |
 | `Contrast/One` | `--wp--preset--color--contrast` | `#111111` | Contrast | `contrast` | ![](https://placehold.co/15x15/111111/111111.png) |
 | `Contrast/Two` | `--wp--preset--color--contrast-2` | `#636363` | Contrast / Two | `contrast-2` | ![](https://placehold.co/15x15/636363/636363.png) |
-| `Contrast/Three` | `--wp--preset--color--contrast-3` | `#a4a4a4` | Contrast / Three | `contrast-2` | ![](https://placehold.co/15x15/a4a4a4/a4a4a4.png) |
+| `Contrast/Three` | `--wp--preset--color--contrast-3` | `#a4a4a4` | Contrast / Three | `contrast-3` | ![](https://placehold.co/15x15/a4a4a4/a4a4a4.png) |
 | `Accent/One` | `--wp--preset--color--accent` | `#cfcabe` | Accent | `accent` | ![](https://placehold.co/15x15/cfcabe/cfcabe.png) |
 | `Accent/Two` | `--wp--preset--color--accent-2` | `#c2a990` | Accent / Two | `accent-2` | ![](https://placehold.co/15x15/c2a990/c2a990.png) |
 | `Accent/Three` | `--wp--preset--color--accent-3` | `#d8613c` | Accent / Three | `accent-3` | ![](https://placehold.co/15x15/d8613c/d8613c.png) |
