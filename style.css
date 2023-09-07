@@ -52,3 +52,8 @@ a {
 .is-style-arrow-icon-details[open] > summary {
 	list-style-type: '\2192\00a0\00a0\00a0';
 }
+@media (max-width:600px){
+	.hide-on-mobile {
+		display: none;
+	}
+}
