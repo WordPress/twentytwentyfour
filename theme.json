@@ -458,7 +458,7 @@
 				"variations": {
 					"rounded": {
 						"border": {
-							"radius": "var(--wp--preset--spacing--10)"
+							"radius": "var(--wp--preset--spacing--20)"
 						}
 					}
 				}
@@ -548,7 +548,7 @@
 			},
 			"core/post-featured-image": {
 				"border": {
-					"radius": "16px"
+					"radius": "var(--wp--preset--spacing--20)"
 				}
 			},
 			"core/post-terms": {
@@ -597,7 +597,7 @@
 						"style": "none",
 						"width": "0px"
 					},
-					"radius": "16px",
+					"radius": "var(--wp--preset--spacing--20)",
 					"right": {
 						"style": "none",
 						"width": "0px"
