@@ -41,9 +41,8 @@
 		<!-- /wp:group -->
 	<!-- /wp:comment-template -->
 
-	<!-- wp:comments-pagination -->
+	<!-- wp:comments-pagination {"layout":{"type":"flex","justifyContent":"space-between"}} -->
 		<!-- wp:comments-pagination-previous /-->
-		<!-- wp:comments-pagination-numbers /-->
 		<!-- wp:comments-pagination-next /-->
 	<!-- /wp:comments-pagination -->
 
