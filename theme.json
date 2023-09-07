@@ -363,7 +363,7 @@
 					}
 				},
 				"typography": {
-					"fontSize": "0.75rem",
+					"fontSize": "var(--wp--preset--font-size--small)",
 					"fontStyle": "normal",
 					"fontWeight": "600"
 				}
@@ -380,7 +380,7 @@
 					}
 				},
 				"typography": {
-					"fontSize": "0.75rem"
+					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
 			"core/comment-edit-link": {
@@ -392,7 +392,7 @@
 					}
 				},
 				"typography": {
-					"fontSize": "0.75rem"
+					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
 			"core/comment-reply-link": {
@@ -404,27 +404,27 @@
 					}
 				},
 				"typography": {
-					"fontSize": "0.75rem"
+					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
 			"core/comments-pagination": {
 				"typography": {
-					"fontSize": "0.75rem"
+					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
 			"core/comments-pagination-next": {
 				"typography": {
-					"fontSize": "0.75rem"
+					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
 			"core/comments-pagination-numbers": {
 				"typography": {
-					"fontSize": "0.75rem"
+					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
 			"core/comments-pagination-previous": {
 				"typography": {
-					"fontSize": "0.75rem"
+					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
 			"core/gallery": {
@@ -469,7 +469,7 @@
 			},
 			"core/post-author": {
 				"typography": {
-					"fontSize": "0.8rem"
+					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
 			"core/post-author-name": {
@@ -486,7 +486,7 @@
 					}
 				},
 				"typography": {
-					"fontSize": "0.8rem"
+					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
 			"core/post-date": {
@@ -509,7 +509,7 @@
 					}
 				},
 				"typography": {
-					"fontSize": "0.8rem"
+					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
 			"core/post-excerpt": {
@@ -536,7 +536,7 @@
 					}
 				},
 				"typography": {
-					"fontSize": "0.8rem"
+					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
 			"core/post-title": {
