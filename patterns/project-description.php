@@ -25,7 +25,7 @@
 <div style="margin-top:0;margin-bottom:0;height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:image {"align":"wide","id":64,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
+<!-- wp:image {"align":"wide","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
 <figure class="wp-block-image alignwide size-full is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_projectoverview.jpg" alt="Project Overview" /></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
