@@ -1,11 +1,12 @@
 <?php
 /**
- * Title: Project Overview
+ * Title: Portfolio Overview
  * Slug: twentytwentyfour/page-project-overview
  * Categories: about
  * Keywords: page, starter
  * Block Types: core/post-content
  * Post Types: page
+ * Viewport width: 1400
  */
 ?>
 

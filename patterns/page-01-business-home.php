@@ -1,9 +1,12 @@
 <?php
 /**
- * Title: home
+ * Title: Home
  * Slug: twentytwentyfour/home
  * Categories: about
+ * Keywords: page, starter
  * Block Types: core/post-content
+ * Post Types: page
+ * Viewport width: 1400
  * Template Types: home
  */
 ?>
