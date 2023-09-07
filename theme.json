@@ -657,7 +657,7 @@
 				"color": {
 					"text": "var(--wp--preset--color--contrast)"
 				},
-				"css": " &:not(.is-style-wide):not(.is-style-dots):not(.alignwide):not(.alignfull){width: 100px}"
+				"css": " &:not(.is-style-wide):not(.is-style-dots):not(.alignwide):not(.alignfull){width: var(--wp--preset--spacing--60)}"
 			},
 			"core/site-tagline": {
 				"typography": {
