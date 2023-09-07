@@ -10,7 +10,7 @@
 
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}},"backgroundColor":"accent-3","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull has-accent-3-background-color has-background" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)"><!-- wp:image {"align":"center","width":45,"height":49,"scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/icon-message.png" alt="<?php echo esc_attr( 'Envelope icon', 'twentytwentyfour' ); ?>" style="object-fit:cover;width:45px;height:49px" width="45" height="49"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/icon-message.webp" alt="<?php echo esc_attr( 'Envelope icon', 'twentytwentyfour' ); ?>" style="object-fit:cover;width:45px;height:49px" width="45" height="49"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","fontSize":"x-large"} -->
