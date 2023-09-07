@@ -16,7 +16,7 @@
 
 <!-- wp:column {"width":"60%"} -->
 <div class="wp-block-column" style="flex-basis:60%"><!-- wp:heading {"style":{"layout":{"selfStretch":"fixed","flexSize":"50%"}}} -->
-<h2 class="wp-block-heading"><?php echo esc_html_x( 'This transformative project seeks to enhance the gallery\'s infrastructure, accessibility, and exhibition spaces while preserving its rich heritage.', 'A heading type project description.', 'twentytwentyfour' ); ?> </h2>
+<h2 class="wp-block-heading"><?php echo esc_html_x( 'This transformative project seeks to enhance the gallery\'s infrastructure, accessibility, and exhibition spaces while preserving its rich cultural heritage.', 'A heading type project description.', 'twentytwentyfour' ); ?> </h2>
 <!-- /wp:heading --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -26,6 +26,6 @@
 <!-- /wp:spacer -->
 
 <!-- wp:image {"align":"wide","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
-<figure class="wp-block-image alignwide size-large is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_projectoverview_1-scaled-2.jpg" alt="<?php echo esc_attr( 'Project Overview', 'twentytwentyfour' ); ?>"/></figure>
+<figure class="wp-block-image alignwide size-large is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_projectoverview_1-scaled-1.jpg" alt="<?php echo esc_attr( 'Project Overview', 'twentytwentyfour' ); ?>"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
