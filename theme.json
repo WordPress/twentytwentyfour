@@ -551,11 +551,6 @@
 							"textDecoration": "none"
 						}
 					}
-				},
-				"spacing": {
-					"margin": {
-						"bottom": "0"
-					}
 				}
 			},
 			"core/pullquote": {
