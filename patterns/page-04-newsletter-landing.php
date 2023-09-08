@@ -1,8 +1,9 @@
 <?php
 /**
- * Title: Newsletter Subscribe
- * Slug: twentytwentyfour/page-newsletter-subscribe
+ * Title: Newsletter Landing
+ * Slug: twentytwentyfour/page-newsletter-landing
  * Categories: call-to-action
+ * Keywords: page, starter
  * Block Types: core/post-content
  * Post Types: page
  * Viewport width: 1100
