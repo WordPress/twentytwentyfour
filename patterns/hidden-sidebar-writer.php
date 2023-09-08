@@ -69,11 +69,11 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0.6rem"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
-<p style="font-size:0.9rem"><a href="https://tt4writer.mystagingwebsite.com"><?php echo esc_html__( 'Dernier rapport sur l\'inflation', 'twentytwentyfour' ); ?></a><?php echo esc_html__( '↗', 'twentytwentyfour' ); ?></p>
+<p style="font-size:0.9rem"><a href="#"><?php echo esc_html__( 'Dernier rapport sur l\'inflation', 'twentytwentyfour' ); ?></a><?php echo esc_html__( '↗', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
-<p style="font-size:0.9rem"><a href="https://tt4writer.mystagingwebsite.com"><?php echo esc_html__( 'Applications financières pour les familles', 'twentytwentyfour' ); ?></a><?php echo esc_html__( '↗', 'twentytwentyfour' ); ?></p>
+<p style="font-size:0.9rem"><a href="#"><?php echo esc_html__( 'Applications financières pour les familles', 'twentytwentyfour' ); ?></a><?php echo esc_html__( '↗', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
