@@ -15,8 +15,8 @@
 <figure class="wp-block-image size-large is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/project-1.webp " alt="" style="aspect-ratio:9/16;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"0.8rem"}}} -->
-<p style="font-size:0.8rem"><?php echo esc_html_x( "1. Through Études, we aspire to redefine architectural boundaries and usher in a new era of design excellence that leaves an indelible mark on the built environment.", 'give the user a clear understanding of what the photo talks about', 'twentytwentyfour' ); ?></p>
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size"><?php echo esc_html_x( "1. Through Études, we aspire to redefine architectural boundaries and usher in a new era of design excellence that leaves an indelible mark on the built environment.", 'give the user a clear understanding of what the photo talks about', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -28,8 +28,8 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"4vh"}}},"layout":{"type":"default"}} -->
-<div class="wp-block-group" style="padding-top:4vh"><!-- wp:paragraph {"style":{"typography":{"fontSize":"0.8rem"}}} -->
-<p style="font-size:0.8rem"><?php echo esc_html_x( '2. Case studies that celebrate the artistry can fuel curiosity and ignite inspiration.', 'twentytwentyfour' ); ?></p>
+<div class="wp-block-group" style="padding-top:4vh"><!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size"><?php echo esc_html_x( '2. Case studies that celebrate the artistry can fuel curiosity and ignite inspiration.', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"sizeSlug":"large","aspectRatio":"9/16","scale":"cover","linkDestination":"none","className":"is-style-rounded"} -->
