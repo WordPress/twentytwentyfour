@@ -6,26 +6,16 @@
  */
 ?>
 
-<!-- wp:group {"align":"wide","layout":{"type":"constrained","wideSize":"","contentSize":"1280px"}} -->
-<div class="wp-block-group alignwide"><!-- wp:columns {"align":"full"} -->
-<div class="wp-block-columns alignfull"><!-- wp:column {"width":"642px","style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}}} -->
+<!-- wp:group {"align":"wide","style":{"spacing":{"margin":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","wideSize":"","contentSize":"1280px"}} -->
+<div class="wp-block-group alignwide" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"full"} -->
+<div class="wp-block-columns alignfull"><!-- wp:column {"style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"0px"}}}} -->
 <div class="wp-block-column" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px;flex-basis:642px"><!-- wp:heading -->
 <h2 class="wp-block-heading"><?php echo esc_html_x( 'Enhance your architectural journey with the Études Architect App', 'sample heading for call to action', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
-<!-- wp:list {"style":{"typography":{"lineHeight":"1.75"}}} -->
-<ul style="line-height:1.75"><!-- wp:list-item -->
-<li><?php echo esc_html_x( 'Collaborate with fellow architects', 'sample content for call to action', 'twentytwentyfour' ); ?></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><?php echo esc_html_x( 'Showcase your projects', 'sample content for call to action', 'twentytwentyfour' ); ?></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><?php echo esc_html_x( 'Experience the world of architecture like never before', 'sample content for call to action', 'twentytwentyfour' ); ?></li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8"><?php echo wp_kses_post( _x( '✓ Collaborate with fellow architects<br>✓ Showcase your projects<br>✓ Experience the world of architecture like never before', 'sample content for call to action', 'twentytwentyfour' ) ); ?></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
