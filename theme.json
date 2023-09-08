@@ -602,7 +602,7 @@
 				"color": {
 					"background": "var(--wp--preset--color--base-2)"
 				},
-				"css": "&:not(.is-style-plain) :where(p) {font-size:var(--wp--preset--font-size--large);} &.is-style-plain :where(cite) {font-size:var(--wp--preset--font-size--small);} &.is-style-plain :where(p) {font-size:var(--wp--preset--font-size--medium);} :where(p) {margin-block:0;}",
+				"css": "& :where(p) {margin-block-start:0;margin-block-end:var(--wp--preset--spacing--10);} &.is-style-plain :where(cite) {font-size:var(--wp--preset--font-size--small);}",
 				"elements": {
 					"cite": {
 						"typography": {
@@ -623,7 +623,7 @@
 				},
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--cardo)",
-					"fontSize": "var(--wp--preset--font-size--x-large)",
+					"fontSize": "var(--wp--preset--font-size--large)",
 					"fontStyle": "italic"
 				},
 				"variations": {
@@ -644,6 +644,9 @@
 								"right": "var(--wp--preset--spacing--30)",
 								"top": "var(--wp--preset--spacing--10)"
 							}
+						},
+						"typography": {
+							"fontSize": "var(--wp--preset--font-size--medium)"
 						}
 					}
 				}
