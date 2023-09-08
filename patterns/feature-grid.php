@@ -103,7 +103,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"left"} -->
-<p class="has-text-align-left">Experience the fusion of imagination and expertise with Études Architectural Solutions.</p>
+<p class="has-text-align-left"><?php echo esc_html_x( 'Experience the fusion of imagination and expertise with Études Architectural Solutions.', 'Sample feature content', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
