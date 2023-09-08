@@ -16,7 +16,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size"><?php echo esc_html_x( "1. Through Études, we aspire to redefine architectural boundaries and usher in a new era of design excellence that leaves an indelible mark on the built environment.", 'give the user a clear understanding of what the photo talks about', 'twentytwentyfour' ); ?></p>
+<p class="has-small-font-size"><?php echo esc_html_x( '1. Through Études, we aspire to redefine architectural boundaries and usher in a new era of design excellence that leaves an indelible mark on the built environment.', 'give the user a clear understanding of what the photo talks about', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -24,7 +24,7 @@
 <!-- wp:column {"width":"33%"} -->
 <div class="wp-block-column" style="flex-basis:33%"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","verticalAlignment":"space-between","justifyContent":"stretch"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2","fontSize":"1.4rem"}}} -->
-<p style="font-size:1.4rem;line-height:1.2"><strong><?php echo esc_html_x( "A pioneering firm that seamlessly merges creativity and functionality to redefine architectural excellence. Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers. With a commitment to innovation and sustainability, Études is the bridge that transforms architectural dreams into remarkable built realities.", 'an explenation of the objective of the project', 'twentytwentyfour' ); ?></strong></p>
+<p style="font-size:1.4rem;line-height:1.2"><strong><?php echo esc_html_x( 'A pioneering firm that seamlessly merges creativity and functionality to redefine architectural excellence. Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers. With a commitment to innovation and sustainability, Études is the bridge that transforms architectural dreams into remarkable built realities.', 'an explenation of the objective of the project', 'twentytwentyfour' ); ?></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"4vh"}}},"layout":{"type":"default"}} -->
