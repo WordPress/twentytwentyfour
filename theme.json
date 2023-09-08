@@ -770,10 +770,8 @@
 		"spacing": {
 			"blockGap": "1.2rem",
 			"padding": {
-				"bottom": "0vh",
-				"left": "6vw",
-				"right": "6vw",
-				"top": "0vh"
+				"left": "var(--wp--preset--spacing--50)",
+				"right": "var(--wp--preset--spacing--50)"
 			}
 		},
 		"typography": {
