@@ -50,3 +50,10 @@
 | @esrat71 | @esratpopy |
 | @scruffian | @scruffian |
 | @alexandrebuffet | @alexandrebuffet |
+| @gpotter | @gpotter |
+| @michaelshowes | |
+| @lefty55104 | @pbwebd |
+| @anphira | @anphira |
+| @rebekahmarkowitz | |
+| @suprsam | @suprsam |
+| @damonsharp | @damonsharp |
