@@ -22,6 +22,8 @@ If you'd like to help with triage, let @luminuu and @MaggieCabrera know in [Word
 2. Clone / download this repository into your `/wp-content/themes/` directory.
 3. Install and activate the [Gutenberg plugin](https://wordpress.org/plugins/gutenberg/).
 
+Also, consider enabling [development mode](https://make.wordpress.org/core/2023/07/14/configuring-development-mode-in-6-3/) with `define( ‘WP_DEVELOPMENT_MODE’, ‘theme’ );` in your `wp-config.php`. This will help minimize caching of `theme.json` while you're developing.
+
 ### Design
 
 The theme is designed in [Figma](https://www.figma.com/file/AlYr03vh4dVimwYwQkTdf6/Twenty-Twenty-Four?type=design&t=C79166eDp3vX7OOD-6). You can contribute by designing one of the [patterns](https://github.com/WordPress/twentytwentyfour/issues?q=is%3Aissue+is%3Aopen+label%3A%22%5BComponent%5D+Block+Patterns%22) planned for Twenty Twenty-Four. 
