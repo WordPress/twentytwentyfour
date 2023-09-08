@@ -74,9 +74,6 @@
 
 <!-- wp:post-author-name {"isLink":true} /-->
 
-<!-- wp:paragraph -->
-<p>—</p>
-<!-- /wp:paragraph -->
 
 <!-- wp:post-terms {"term":"category"} /--></div>
 <!-- /wp:group --></div>
