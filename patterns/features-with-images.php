@@ -72,7 +72,7 @@
 <!-- /wp:group -->
 
 <!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
-<p style="line-height:1.8">✓ Dive into a world of thought-provoking articles<br>✓ Read case studies that celebrate the artistry of architecture<br>✓ Gain exclusive access to design insights</p>
+<p style="line-height:1.8"><?php echo esc_html_x( '✓ Dive into a world of thought-provoking articles', 'A general list item.', 'twentytwentyfour' ); ?><br><?php echo esc_html_x( '✓ Read case studies that celebrate the artistry of architecture', 'A general list item.', 'twentytwentyfour' ); ?><br><?php echo esc_html_x( '✓ Gain exclusive access to design insights', 'A general list item.', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
