@@ -1,4 +1,6 @@
 {
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
 	"settings": {
 		"appearanceTools": true,
 		"color": {
@@ -881,7 +883,5 @@
 			],
 			"title": "Single with Sidebar"
 		}
-	],
-	"version": 2,
-	"$schema": "https://schemas.wp.org/trunk/theme.json"
+	]
 }
