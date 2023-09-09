@@ -22,7 +22,7 @@ If you'd like to help with triage, let @luminuu and @MaggieCabrera know in [Word
 2. Clone / download this repository into your `/wp-content/themes/` directory.
 3. Install and activate the [Gutenberg plugin](https://wordpress.org/plugins/gutenberg/).
 
-Also, consider enabling [development mode](https://make.wordpress.org/core/2023/07/14/configuring-development-mode-in-6-3/) with `define( ‘WP_DEVELOPMENT_MODE’, ‘theme’ );` in your `wp-config.php`. This will help minimize caching of `theme.json` while you're developing.
+Also, consider enabling [development mode](https://make.wordpress.org/core/2023/07/14/configuring-development-mode-in-6-3/) with `define( 'WP_DEVELOPMENT_MODE', 'theme' );` in your `wp-config.php`. This will help minimize caching of `theme.json` while you're developing.
 
 ### Design
 
