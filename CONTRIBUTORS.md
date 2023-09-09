@@ -57,3 +57,6 @@
 | @rebekahmarkowitz | |
 | @suprsam | @suprsam |
 | @damonsharp | @damonsharp |
+| @maurodf0 | @maurodf |
+| @Soean | @soean |
+| @KawsarAlamEven | @kawsaralameven |
