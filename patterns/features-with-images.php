@@ -38,7 +38,7 @@
 <!-- /wp:group -->
 
 <!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
-<p style="line-height:1.8">✓ Collaborate with fellow architects<br>✓ Showcase your projects<br>✓ Experience the world of architecture like never before</p>
+<p style="line-height:1.8"><?php echo esc_html_x( '✓ Collaborate with fellow architects', 'A general list item.', 'twentytwentyfour' ); ?><br><?php echo esc_html_x( '✓ Showcase your projects', 'A general list item.', 'twentytwentyfour' ); ?><br><?php echo esc_html_x( '✓ Experience the world of architecture like never before', 'A general list item.', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
