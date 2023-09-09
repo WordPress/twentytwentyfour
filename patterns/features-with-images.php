@@ -67,7 +67,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Études Newsletter</h3>
+<h3 class="wp-block-heading"><?php echo esc_html_x( 'Études Newsletter', 'A heading for the list.', 'twentytwentyfour' ); ?></h3>
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
