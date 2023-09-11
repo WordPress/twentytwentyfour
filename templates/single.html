@@ -21,13 +21,16 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-bottom:var(--wp--preset--spacing--50)">
+<div class="wp-block-group" style="padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:post-terms {"term":"post_tag","separator":"  "} /-->
 
-<!-- wp:post-terms {"term":"post_tag","separator":"  "} /-->
 <!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:spacer {"height":"var:preset|spacing|40"} -->
-<div style="height:var(--wp--preset--spacing--40)" aria-hidden="true" class="wp-block-spacer"></div>
+<div class="wp-block-group"><!-- wp:spacer {"height":"var:preset|spacing|50"} -->
+<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
+
+<!-- wp:separator {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}},"backgroundColor":"accent"} -->
+<hr class="wp-block-separator has-text-color has-accent-color has-alpha-channel-opacity has-accent-background-color has-background" style="margin-bottom:var(--wp--preset--spacing--40)"/>
+<!-- /wp:separator -->
 
 <!-- wp:pattern {"slug":"twentytwentyfour/comments"} /-->
 
