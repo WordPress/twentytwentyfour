@@ -883,21 +883,6 @@
 			"title": "Header"
 		},
 		{
-			"area": "header",
-			"name": "header-portfolio",
-			"title": "Header: Portfolio"
-		},
-		{
-			"area": "header",
-			"name": "header-writer",
-			"title": "Header: Writer"
-		},
-		{
-			"area": "header",
-			"name": "header-copy",
-			"title": "Header: Copy"
-		},
-		{
 			"area": "footer",
 			"name": "footer",
 			"title": "Footer"
