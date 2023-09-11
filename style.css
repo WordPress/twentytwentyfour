@@ -33,3 +33,22 @@ a {
 	text-decoration-thickness: .0625em !important;
 	text-underline-offset: .15em;
 }
+
+/*
+ * Styles for the custom Faq arrow details block style
+ * https://github.com/WordPress/twentytwentyfour/issues/46
+ */
+
+.is-style-arrow-icon-details  {
+	padding-top: var(--wp--preset--spacing--10);
+	padding-bottom: var(--wp--preset--spacing--10);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.20);
+}
+
+.is-style-arrow-icon-details summary {
+    list-style-type: '\2193\00a0\00a0\00a0';
+}
+
+.is-style-arrow-icon-details[open] > summary {
+	list-style-type: '\2192\00a0\00a0\00a0';
+}

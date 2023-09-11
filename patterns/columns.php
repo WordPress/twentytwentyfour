@@ -3,35 +3,35 @@
  * Title: Columns
  * Slug: twentytwentyfour/columns
  * Categories: text
-
+ * Viewport width: 1500
  */
 
 ?>
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"7em","right":"7em","bottom":"7em","left":"7em"}}},"backgroundColor":"base","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-base-background-color has-background" style="padding-top:7em;padding-right:7em;padding-bottom:7em;padding-left:7em"><!-- wp:columns {"align":"wide"} -->
-<div class="wp-block-columns alignwide"><!-- wp:column {"width":"33%","style":{"spacing":{"blockGap":"","padding":{"right":"12%"}}}} -->
-<div class="wp-block-column" style="padding-right:12%;flex-basis:33%"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading"><?php echo esc_html__( 'We recognize the crucial role architecture plays in shaping a sustainable future.', 'twentytwentyfour' ); ?></h3>
-<!-- /wp:heading --></div>
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","right":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"33%"} -->
+<div class="wp-block-column" style="flex-basis:33%"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"large","fontFamily":"cardo"} -->
+<p class="has-cardo-font-family has-large-font-size" style="line-height:1.2"><?php echo esc_html__( 'We recognize the role architecture plays in shaping a sustainable future.', 'twentytwentyfour' ); ?></p>
+<!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"style":{"spacing":{"blockGap":"5.6em"}}} -->
-<div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"lineHeight":"1.1","fontStyle":"normal","fontWeight":"700"}},"fontSize":"medium","fontFamily":"system-font"} -->
-<h4 class="wp-block-heading has-system-font-font-family has-medium-font-size" style="font-style:normal;font-weight:700;line-height:1.1"><?php echo esc_html__( 'Consulting', 'twentytwentyfour' ); ?></h4>
-<!-- /wp:heading -->
+<!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|40"}}} -->
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"left","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}}} -->
+<p style="font-style:normal;font-weight:500"><?php echo esc_html__( 'Consulting', 'twentytwentyfour' ); ?></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p><?php echo esc_html__( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"lineHeight":"1.1","fontStyle":"normal","fontWeight":"700"}},"fontSize":"medium","fontFamily":"system-font"} -->
-<h4 class="wp-block-heading has-system-font-font-family has-medium-font-size" style="font-style:normal;font-weight:700;line-height:1.1"><?php echo esc_html__( 'Project Management', 'twentytwentyfour' ); ?></h4>
-<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}}} -->
+<p style="font-style:normal;font-weight:500"><?php echo esc_html__( 'Project Management', 'twentytwentyfour' ); ?></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p><?php echo esc_html__( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'twentytwentyfour' ); ?></p>
@@ -39,21 +39,21 @@
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"lineHeight":"1.1","fontStyle":"normal","fontWeight":"700"}},"fontSize":"medium","fontFamily":"system-font"} -->
-<h4 class="wp-block-heading has-system-font-font-family has-medium-font-size" style="font-style:normal;font-weight:700;line-height:1.1"><?php echo esc_html__( 'Design', 'twentytwentyfour' ); ?></h4>
-<!-- /wp:heading -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}}} -->
+<p style="font-style:normal;font-weight:500"><?php echo esc_html__( 'Design', 'twentytwentyfour' ); ?></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p><?php echo esc_html__( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"lineHeight":"1.1","fontStyle":"normal","fontWeight":"700"}},"fontSize":"medium","fontFamily":"system-font"} -->
-<h4 class="wp-block-heading has-system-font-font-family has-medium-font-size" style="font-style:normal;font-weight:700;line-height:1.1"><?php echo esc_html__( 'Maintenance', 'twentytwentyfour' ); ?></h4>
-<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}}} -->
+<p style="font-style:normal;font-weight:500"><?php echo esc_html__( 'Maintenance', 'twentytwentyfour' ); ?></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p><?php echo esc_html__( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'twentytwentyfour' ); ?></p>
