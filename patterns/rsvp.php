@@ -25,5 +25,5 @@
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>
-<!-- /wp:group --></div><figure class="wp-block-media-text__media" style="background-image:url(<?php echo esc_url( get_template_directory_uri()); ?>/assets/images/rsvp.webp);background-position:50% 50%"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/rsvp.webp" alt="<?php echo esc_attr( 'An abstract Pattern Image', 'twentytwentyfour' ); ?>"/></figure></div>
+<!-- /wp:group --></div><figure class="wp-block-media-text__media" style="background-image:url(<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/rsvp.webp);background-position:50% 50%"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/rsvp.webp" alt="<?php echo esc_attr( 'An abstract Pattern Image', 'twentytwentyfour' ); ?>"/></figure></div>
 <!-- /wp:media-text -->
