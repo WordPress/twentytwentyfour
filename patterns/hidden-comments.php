@@ -10,7 +10,7 @@
 <!-- wp:comments {"className":"wp-block-comments-query-loop"} -->
 <div class="wp-block-comments wp-block-comments-query-loop">
 	<!-- wp:heading {"className":"screen-reader-text"} -->
-	<h2 class="screen-reader-text"><?php esc_html_e( 'Comments', 'twentytwentyfour'); ?></h2>
+	<h2 class="screen-reader-text"><?php esc_html_e( 'Comments', 'twentytwentyfour' ); ?></h2>
 	<!-- /wp:heading -->
 	<!-- wp:comments-title {"level":3} /-->
 
