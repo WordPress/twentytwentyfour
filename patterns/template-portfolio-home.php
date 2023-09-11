@@ -13,4 +13,4 @@
 <!-- wp:pattern {"slug":"twentytwentyfour/hidden-intro-text-left"} /-->
 <!-- wp:pattern {"slug":"twentytwentyfour/offset-grid-image-posts"} /-->
 
-<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfour","area":"footer"} /-->
+<!-- wp:template-part {"slug":"footer-portfolio","theme":"twentytwentyfour","area":"footer"} /-->
