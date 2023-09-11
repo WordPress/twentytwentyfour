@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Portfolio Template
- * Slug: twentytwentyfour/template-portfolio-home
- * Template Types: front-page, index
+ * Slug: twentytwentyfour/template-home-portfolio
+ * Template Types: front-page, index, home
  * Viewport width: 1400
  * Inserter: no
  */
