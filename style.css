@@ -52,3 +52,20 @@ a {
 .is-style-arrow-icon-details[open] > summary {
 	list-style-type: '\2192\00a0\00a0\00a0';
 }
+
+/*
+ * Styles for the taxonomy/tags on single posts
+ * https://github.com/WordPress/twentytwentyfour/issues/XX
+ */
+
+.wp-block-post-terms a {
+	display:inline-block;
+	background-color: #f2f2f2;
+	padding: 6px 14px;
+	border-radius:16px;
+	margin: 0 10px 10px 0;
+}
+
+.wp-block-post-terms a:hover {
+	background:#eee;
+}
