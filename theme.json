@@ -872,14 +872,14 @@
 		{
 			"name": "single-writer",
 			"postTypes": [
-				"page"
+				"post"
 			],
 			"title": "Single Writer"
 		},
 		{
 			"name": "single-with-sidebar",
 			"postTypes": [
-				"page"
+				"post"
 			],
 			"title": "Single with Sidebar"
 		}
