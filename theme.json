@@ -294,7 +294,8 @@
 					"size": "3.27rem",
 					"slug": "xx-large"
 				}
-			]
+			],
+			"writingMode": true
 		},
 		"useRootPaddingAwareAlignments": true
 	},
