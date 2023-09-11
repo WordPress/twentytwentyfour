@@ -58,7 +58,7 @@ a {
  * https://github.com/WordPress/twentytwentyfour/issues/XX
  */
 
-.wp-block-post-terms a {
+.wp-block-post-terms.taxonomy-post_tag a {
 	display:inline-block;
 	background-color: #f2f2f2;
 	padding: 6px 14px;
