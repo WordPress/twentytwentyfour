@@ -7,8 +7,8 @@
  */
 ?>
 
-<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"7vh","bottom":"7vh"}}}} -->
-<div class="wp-block-group alignwide" style="padding-top:7vh;padding-bottom:7vh"><!-- wp:image {"width":"40px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
+<!-- wp:group {"tagName":"footer","align":"wide","style":{"spacing":{"padding":{"top":"7vh","bottom":"7vh"}}}} -->
+<footer class="wp-block-group alignwide" style="padding-top:7vh;padding-bottom:7vh"><!-- wp:image {"width":"40px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/icon-message.webp" alt="" style="width:40px;height:auto"/></figure>
 <!-- /wp:image -->
 
@@ -64,5 +64,5 @@
 <!-- wp:paragraph {"fontSize":"small"} -->
 <p class="has-small-font-size">Designed with <a rel="nofollow" href="https://wordpress.org">WordPress</a></p>
 <!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
+<!-- /wp:group --></footer>
 <!-- /wp:group -->
