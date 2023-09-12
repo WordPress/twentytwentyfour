@@ -34,7 +34,7 @@
 <div class="wp-block-group"><!-- wp:post-title {"isLink":true,"fontSize":"medium"} /-->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0.22em"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"><!-- wp:post-date {"format":"M j, Y", {"isLink":true}} /-->
+<div class="wp-block-group"><!-- wp:post-date {"format":"M j, Y", "isLink":true} /-->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.8rem"},"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}}},"textColor":"contrast-2"} -->
 <p class="has-base-2-color has-text-color has-link-color" style="font-size:0.8rem"><?php echo esc_html__( '—', 'twentytwentyfour' ); ?></p>
