@@ -128,6 +128,11 @@
 					"slug": "base-3"
 				},
 				{
+					"color": "#FAFAFAF5",
+					"name": "Base / Four",
+					"slug": "base-4"
+				},
+				{
 					"color": "#111111",
 					"name": "Contrast",
 					"slug": "contrast"
