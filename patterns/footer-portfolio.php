@@ -71,7 +71,7 @@
 			esc_html__( 'Designed with %1$s', 'twentytwentyfour' ),
 			$wordpress_link
 		);
-	?>
+		?>
 </p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></footer>

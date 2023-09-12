@@ -6,6 +6,7 @@
  * Block Types: core/template-part/footer
  */
 ?>
+
 <!-- wp:group {"tagName":"footer","layout":{"type":"default"},"style":{"spacing":{"padding":{"top":"var(--wp--preset--spacing--50)"}}}} -->
 <footer class="wp-block-group" style="padding-top:var(--wp--preset--spacing--50);">
 	<!-- wp:group {"layout":{"type":"constrained"}} -->
