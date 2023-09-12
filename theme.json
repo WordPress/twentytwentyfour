@@ -478,9 +478,6 @@
 					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
-			"core/comment-template": {
-				"css": "& li ol {border-left: 1px solid var(--wp--preset--color--contrast)}"
-			},
 			"core/gallery": {
 				"spacing": {
 					"margin": {
