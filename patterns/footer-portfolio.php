@@ -62,7 +62,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size"><?php echo esc_html_x( 'Designed with ', 'Developed with text', 'twentytwentyfour' );  ?> <a rel="nofollow" href=" <?php esc_url( 'https://wordpress.org', 'twentytwentyfour'); ?>" > <?php echo esc_html__( 'WordPress ', 'twentytwentyfour' ); ?> </a> </p>
+<p class="has-small-font-size"><?php echo esc_html_x( 'Designed with ', 'Developed with text', 'twentytwentyfour' );  ?><a rel="nofollow" href=" <?php echo esc_url( 'https://wordpress.org', 'twentytwentyfour'); ?>"><?php echo esc_html__( 'WordPress ', 'twentytwentyfour' ); ?></a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
