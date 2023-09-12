@@ -19,18 +19,18 @@
 <!-- wp:columns {"style":{"spacing":{"padding":{"top":"2vh"}}}} -->
 <div class="wp-block-columns" style="padding-top:2vh"><!-- wp:column {"width":"57%"} -->
 <div class="wp-block-column" style="flex-basis:57%"><!-- wp:paragraph {"fontSize":"x-large","fontFamily":"cardo"} -->
-<p class="has-cardo-font-family has-x-large-font-size">Resta al passo, contattaci.</p>
+<p class="has-cardo-font-family has-x-large-font-size"><?php echo esc_html_x("Resta al passo, contattaci.","Portfolio Title","twentytwentyfour"; ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"30%"} -->
 <div class="wp-block-column" style="flex-basis:30%"><!-- wp:group {"style":{"spacing":{"blockGap":"2px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph -->
-<p>Contattami</p>
+<p><?php echo esc_html__("Contattami","twentytwentyfour"; ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="#">example@wordpress.org</a></p>
+<p><a href="<?php echo esc_url("mailto:example@wordpress.org","twentytwentyfour"; ?>"><?php echo esc_html("example@wordpress.org","twentytwentyfour"; ?></a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -40,11 +40,11 @@
 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"2px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph -->
-<p>Seguimi</p>
+<p><?php echo esc_html__("Seguimi","twentytwentyfour"; ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="#">Instagram</a> / <a href="#">Facebook</a></p>
+<p><a href="<?php echo esc_url("#","twentytwentyfour"; ?>"><?php echo esc_html__("Instagram","twentytwentyfour"; ?></a> / <a href="<?php echo esc_url("#","twentytwentyfour"; ?>"><?php echo esc_html__("Facebook","twentytwentyfour"; ?></a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
@@ -58,11 +58,11 @@
 
 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">© 2024 Twenty Twenty Four</p>
+<p class="has-small-font-size"><?php echo esc_html_x("© 2024 Twenty Twenty Four","Copyright text","twentytwentyfour"; ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Designed with <a rel="nofollow" href="https://wordpress.org">WordPress</a></p>
+<p class="has-small-font-size"><?php echo esc_html_x("Designed with ","Developed with text","twentytwentyfour"; ?><a rel="nofollow" href="https://wordpress.org"><?php echo esc_html__("WordPress ","twentytwentyfour"; ?></a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
