@@ -25,8 +25,12 @@
 			</div>
 			<!-- /wp:group -->
 			<!-- wp:comment-content /-->
-			<!-- wp:comment-edit-link /-->
-			<!-- wp:comment-reply-link /-->
+			<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+			<div class="wp-block-group">
+				<!-- wp:comment-edit-link /-->
+				<!-- wp:comment-reply-link /-->
+			</div>
+			<!-- /wp:group -->
 		</div>
 		<!-- /wp:group -->
 	<!-- /wp:comment-template -->

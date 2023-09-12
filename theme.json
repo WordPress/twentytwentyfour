@@ -419,7 +419,6 @@
 				}
 			},
 			"core/comment-edit-link": {
-				"css": "display: inline",
 				"elements": {
 					"link": {
 						"color": {
@@ -440,7 +439,6 @@
 				}
 			},
 			"core/comment-reply-link": {
-				"css": "display: inline",
 				"elements": {
 					"link": {
 						"color": {
