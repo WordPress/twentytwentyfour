@@ -62,7 +62,17 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Designed with <a rel="nofollow" href="https://wordpress.org">WordPress</a></p>
+<p class="has-small-font-size">
+	<?php
+		/* Translators: WordPress link. */
+		$wordpress_link = '<a href="' . esc_url( __( 'https://wordpress.org', 'twentytwentyfour' ) ) . '" rel="nofollow">WordPress</a>';
+		echo sprintf(
+			/* Translators: Designed with WordPress */
+			esc_html__( 'Designed with %1$s', 'twentytwentyfour' ),
+			$wordpress_link
+		);
+		?>
+</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->

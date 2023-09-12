@@ -26,7 +26,7 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button"><?php echo esc_html_x( 'Learn More', 'Button\'s label of the hero section', 'twentytwentyfour' ); ?></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button"><?php echo esc_html_x( 'About us', 'Button\'s label of the hero section', 'twentytwentyfour' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
