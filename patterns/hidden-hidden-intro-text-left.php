@@ -19,7 +19,16 @@
 <div class="wp-block-column" style="flex-basis:70%">
 
 <!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"xx-large","fontFamily":"cardo"} -->
-<p class="has-cardo-font-family has-xx-large-font-size" style="line-height:1.2">Sono <em>Leia Acosta</em>, una fotografa appassionata che trova ispirazione nel catturare la bellezza fugace della vita.</p>
+<p class="has-cardo-font-family has-xx-large-font-size" style="line-height:1.2">
+	<?php
+		echo sprintf(
+			'%1$s<em>%2$s</em>%3$s',
+			esc_html__( 'I’m ', 'twentytwentyfour' ),
+			esc_html__( 'Leia Acosta', 'twentytwentyfour' ),
+			esc_html__( ', a passionate photographer who finds inspiration in capturing the fleeting beauty of life.', 'twentytwentyfour' )
+		);
+		?>
+</p>
 <!-- /wp:paragraph -->
 </div>
 <!-- /wp:column -->
