@@ -73,6 +73,13 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 				'label' => __( 'Arrow icon', 'twentytwentyfour' ),
 			)
 		);
+		register_block_style(
+			'core/post-terms',
+			array(
+				'name'  => 'solid',
+				'label' => __( 'Solid', 'twentytwentyfour' ),
+			)
+		);
 	}
 endif;
 
