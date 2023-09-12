@@ -9,7 +9,7 @@
 ?>
 
 <!-- wp:group {"style":{"position":{"type":"sticky","top":"0px"}},"layout":{"type":"default"},"tagName":"header"} --><header class="wp-block-group">
-	<!-- wp:template-part {"slug":"header"} /-->
+	<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour"} /-->
 </header><!-- /wp:group -->
 
 <!-- wp:pattern {"slug":"twentytwentyfour/hidden-intro-text-left"} /-->
