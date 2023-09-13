@@ -960,13 +960,6 @@
 			"title": "Page Portfolio"
 		},
 		{
-			"name": "page-alternative",
-			"postTypes": [
-				"page"
-			],
-			"title": "Page Alternative"
-		},
-		{
 			"name": "single-writer",
 			"postTypes": [
 				"post"
