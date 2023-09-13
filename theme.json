@@ -633,6 +633,15 @@
 				"color": {
 					"background": "var(--wp--preset--color--tertiary)"
 				},
+				"elements": {
+					"cite": {
+						"typography": {
+							"fontFamily": "var(--wp--preset--font-family--system-font)",
+							"fontSize": "var(--wp--preset--font-size--medium)",
+							"fontStyle": "normal"
+						}
+					}
+				},
 				"spacing": {
 					"padding": {
 						"bottom": "var(--wp--preset--spacing--50)",
