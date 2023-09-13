@@ -55,12 +55,11 @@ a {
 
 /*
  * Styles variation for post terms
- * https://github.com/WordPress/twentytwentyfour/issues/319
+ * https://github.com/WordPress/gutenberg/issues/24956
  */
 
-.is-style-solid a,
-.is-style-solid span:not(.block-editor-rich-text__editable,.wp-block-post-terms__separator),
-.is-style-solid span:not(.block-editor-rich-text__editable) span
+.is-style-pill a,
+.is-style-pill span:not([class], [data-rich-text-placeholder])
 {
 	display:inline-block;
 	background-color: #f2f2f2;
@@ -69,6 +68,6 @@ a {
 	margin: 0 10px 10px 0;
 }
 
-.is-style-solid a:hover {
+.is-style-pill a:hover {
 	background:#eee;
 }

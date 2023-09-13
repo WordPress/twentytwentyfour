@@ -76,8 +76,8 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 		register_block_style(
 			'core/post-terms',
 			array(
-				'name'  => 'solid',
-				'label' => __( 'Solid', 'twentytwentyfour' ),
+				'name'  => 'pill',
+				'label' => __( 'Pill', 'twentytwentyfour' ),
 			)
 		);
 	}
