@@ -503,7 +503,7 @@
 			"core/list": {
 				"spacing": {
 					"padding": {
-						"left": "var(--wp--preset--spacing--70)"
+						"left": "var(--wp--preset--spacing--10)"
 					}
 				}
 			},
