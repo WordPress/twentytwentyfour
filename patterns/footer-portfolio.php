@@ -30,7 +30,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="<?php echo esc_url( 'mailto:example@wordpress.org', 'twentytwentyfour' ); ?>"><?php echo esc_html( 'example@wordpress.org', 'twentytwentyfour' ); ?></a></p>
+<p><a href="#"><?php echo esc_html( 'example@wordpress.org', 'twentytwentyfour' ); ?></a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
