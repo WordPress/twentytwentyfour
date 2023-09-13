@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Title: Centered Call To Action
  * Slug: twentytwentyfour/cta
