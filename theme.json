@@ -294,7 +294,8 @@
 					"size": "3.27rem",
 					"slug": "xx-large"
 				}
-			]
+			],
+			"writingMode": true
 		},
 		"useRootPaddingAwareAlignments": true
 	},
@@ -302,7 +303,7 @@
 		"blocks": {
 			"core/avatar": {
 				"border": {
-					"radius": "100px"
+					"radius": "90px"
 				}
 			},
 			"core/button": {
@@ -361,6 +362,14 @@
 					"link": {
 						"color": {
 							"text": "var(--wp--preset--color--contrast)"
+						},
+						"typography": {
+							"textDecoration": "none"
+						},
+						":hover": {
+							"typography": {
+								"textDecoration": "underline"
+							}
 						}
 					}
 				},
@@ -368,6 +377,17 @@
 					"fontSize": "var(--wp--preset--font-size--small)",
 					"fontStyle": "normal",
 					"fontWeight": "600"
+				}
+			},
+			"core/comment-content": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--small)"
+				},
+				"spacing": {
+					"margin": {
+						"top":  "var(--wp--preset--spacing--20)",
+						"bottom":  "var(--wp--preset--spacing--20)"
+					}
 				}
 			},
 			"core/comment-date": {
@@ -378,11 +398,25 @@
 					"link": {
 						"color": {
 							"text": "var(--wp--preset--color--contrast-2)"
+						},
+						"typography": {
+							"textDecoration": "none"
+						},
+						":hover": {
+							"typography": {
+								"textDecoration": "underline"
+							}
 						}
 					}
 				},
 				"typography": {
 					"fontSize": "var(--wp--preset--font-size--small)"
+				},
+				"spacing": {
+					"margin": {
+						"top": "0px",
+						"bottom": "0px"
+					}
 				}
 			},
 			"core/comment-edit-link": {
@@ -390,6 +424,14 @@
 					"link": {
 						"color": {
 							"text": "var(--wp--preset--color--contrast-2)"
+						},
+						"typography": {
+							"textDecoration": "none"
+						},
+						":hover": {
+							"typography": {
+								"textDecoration": "underline"
+							}
 						}
 					}
 				},
@@ -402,6 +444,14 @@
 					"link": {
 						"color": {
 							"text": "var(--wp--preset--color--contrast-2)"
+						},
+						"typography": {
+							"textDecoration": "none"
+						},
+						":hover": {
+							"typography": {
+								"textDecoration": "underline"
+							}
 						}
 					}
 				},
@@ -653,8 +703,8 @@
 			},
 			"core/search": {
 				"typography": {
-					"fontSize": "var(--wp--preset--font-size--large)",
-					"lineHeight": "1.6"
+					"fontSize": "var(--wp--preset--font-size--small)",
+					"fontWeight": "600"
 				}
 			},
 			"core/separator": {
