@@ -8,7 +8,7 @@
 ?>
 <!-- wp:group {"style":{"spacing":{"blockGap":"2.5rem"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
 <div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:image {"id":60,"width":80,"height":80,"scale":"cover","sizeSlug":"large","linkDestination":"none"} -->
+<div class="wp-block-group"><!-- wp:image {"width":80,"height":80,"scale":"cover","sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/writer-avatar.webp" alt="" class="wp-image-60" style="object-fit:cover;width:80px;height:80px" width="80" height="80"/></figure>
 <!-- /wp:image -->
 
@@ -70,7 +70,7 @@
 <!-- wp:group {"style":{"spacing":{"blockGap":"0.6rem"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
 <p style="font-size:0.9rem"><a href="#"><?php echo esc_html__( 'Dernier rapport sur l\'inflation', 'twentytwentyfour' ); ?></a><?php echo esc_html__( '↗', 'twentytwentyfour' ); ?></p>
-<!-- /wp:paragraph -->
+<!-- /wp:paragraph --> 
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
 <p style="font-size:0.9rem"><a href="#"><?php echo esc_html__( 'Applications financières pour les familles', 'twentytwentyfour' ); ?></a><?php echo esc_html__( '↗', 'twentytwentyfour' ); ?></p>
