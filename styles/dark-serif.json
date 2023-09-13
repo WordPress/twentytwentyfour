@@ -1,0 +1,66 @@
+{
+	"version": 2,
+	"title": "Dark Serif",
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#222222",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#303030",
+					"name": "Base / Two",
+					"slug": "base-2"
+				},
+				{
+					"color": "#ffffff26",
+					"name": "Base / Three",
+					"slug": "base-3"
+				},
+				{
+					"color": "#ffffff",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#a2a2a2",
+					"name": "Contrast / Two",
+					"slug": "contrast-2"
+				},
+				{
+					"color": "#A4A4A4",
+					"name": "Contrast / Three",
+					"slug": "contrast-3"
+				},
+				{
+					"color": "#cfcabe",
+					"name": "Accent",
+					"slug": "accent"
+				},
+				{
+					"color": "#c2a990",
+					"name": "Accent / Two",
+					"slug": "accent-2"
+				},
+				{
+					"color": "#d8613c",
+					"name": "Accent / Three",
+					"slug": "accent-3"
+				},
+				{
+					"color": "#b1c5a4",
+					"name": "Accent / Four",
+					"slug": "accent-4"
+				},
+				{
+					"color": "#b5bdbc",
+					"name": "Accent / Five",
+					"slug": "accent-5"
+				}
+			]
+		}
+	}
+}
