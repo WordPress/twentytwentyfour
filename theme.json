@@ -682,7 +682,7 @@
 					"lineHeight": "1.3"
 				},
 				"variations": {
-					"plain": {
+					"default": {
 						"border": {
 							"color": "var(--wp--preset--color--contrast)",
 							"radius": "0",
