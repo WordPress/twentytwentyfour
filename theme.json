@@ -780,7 +780,24 @@
 					}
 				},
 				"border": {
-					"radius": ".33rem"
+					"radius": ".33rem",
+					"color": "var(--wp--preset--color--contrast)",
+					"bottom": {
+						"style": "solid",
+						"width": "1px"
+					},
+					"left": {
+						"style": "solid",
+						"width": "1px"
+					},
+					"right": {
+						"style": "solid",
+						"width": "1px"
+					},
+					"top": {
+						"style": "solid",
+						"width": "1px"
+					}
 				},
 				"color": {
 					"background": "var(--wp--preset--color--contrast)",
