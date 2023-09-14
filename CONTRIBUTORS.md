@@ -45,7 +45,20 @@
 | @ernilambar | @rabmalin |
 | @aplauche | @aplauche |
 | @colorful-tones | @colorful-tones |
-| @khleomix| @khleomix |
-| @pbking| @pbking |
-| @esrat71| | @esratpopy |
-| @scruffian| | @scruffian |
+| @khleomix | @khleomix |
+| @pbking | @pbking |
+| @esrat71 | @esratpopy |
+| @scruffian | @scruffian |
+| @alexandrebuffet | @alexandrebuffet |
+| @gpotter | @gpotter |
+| @michaelshowes | |
+| @lefty55104 | @pbwebd |
+| @anphira | @anphira |
+| @rebekahmarkowitz | |
+| @suprsam | @suprsam |
+| @damonsharp | @damonsharp |
+| @maurodf0 | @maurodf |
+| @Soean | @soean |
+| @KawsarAlamEven | @kawsaralameven |
+| @mhimon | @mhimon |
+| @rajinsharwar | @rajinsharwar |

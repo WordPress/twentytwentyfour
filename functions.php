@@ -47,7 +47,6 @@ if ( ! function_exists( 'twentytwentyfour_styles' ) ) :
 
 		// Enqueue theme stylesheet.
 		wp_enqueue_style( 'twentytwentyfour-style' );
-
 	}
 
 endif;
@@ -72,6 +71,13 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 			array(
 				'name'  => 'arrow-icon-details',
 				'label' => __( 'Arrow icon', 'twentytwentyfour' ),
+			)
+		);
+		register_block_style(
+			'core/post-terms',
+			array(
+				'name'  => 'pill',
+				'label' => __( 'Pill', 'twentytwentyfour' ),
 			)
 		);
 	}

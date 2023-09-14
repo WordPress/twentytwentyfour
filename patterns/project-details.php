@@ -12,16 +12,18 @@
 <div class="wp-block-group alignfull has-base-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|30"}}}} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"40%"} -->
 <div class="wp-block-column" style="flex-basis:40%"><!-- wp:group {"layout":{"type":"constrained","contentSize":"260px","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">The revitalized art gallery is set to redefine cultural landscape.</p>
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>The revitalized art gallery is set to redefine cultural landscape.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"60%","style":{"spacing":{"blockGap":"var:preset|spacing|40"}}} -->
-<div class="wp-block-column" style="flex-basis:60%"><!-- wp:heading -->
-<h2 class="wp-block-heading">With meticulous attention to detail and a commitment to excellence, we create spaces that inspire, elevate, and enrich the lives of those who inhabit them.</h2>
-<!-- /wp:heading -->
+<div class="wp-block-column" style="flex-basis:60%">
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"x-large","fontFamily":"cardo"} -->
+<p class="has-cardo-font-family has-x-large-font-size" style="line-height:1.2">With meticulous attention to detail and a commitment to excellence, we create spaces that inspire, elevate, and enrich the lives of those who inhabit them.</p>
+<!-- /wp:paragraph -->
 
 <!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|30","left":"var:preset|spacing|30"}}}} -->
 <div class="wp-block-columns"><!-- wp:column -->

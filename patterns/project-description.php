@@ -15,9 +15,13 @@
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"60%"} -->
-<div class="wp-block-column" style="flex-basis:60%"><!-- wp:heading {"style":{"layout":{"selfStretch":"fixed","flexSize":"50%"}}} -->
-<h2 class="wp-block-heading"><?php echo esc_html_x( 'This transformative project seeks to enhance the gallery\'s infrastructure, accessibility, and exhibition spaces while preserving its rich cultural heritage.', 'A heading type project description.', 'twentytwentyfour' ); ?> </h2>
-<!-- /wp:heading --></div>
+<div class="wp-block-column" style="flex-basis:60%">
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"x-large","fontFamily":"cardo"} -->
+<p class="has-cardo-font-family has-x-large-font-size" style="line-height:1.2"><?php echo esc_html_x( 'This transformative project seeks to enhance the gallery\'s infrastructure, accessibility, and exhibition spaces while preserving its rich cultural heritage.', 'A heading type project description.', 'twentytwentyfour' ); ?></p>
+<!-- /wp:paragraph -->
+
+</div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 

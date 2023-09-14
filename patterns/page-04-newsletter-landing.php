@@ -1,8 +1,9 @@
 <?php
 /**
- * Title: Newsletter Subscribe
- * Slug: twentytwentyfour/page-newsletter-subscribe
+ * Title: Newsletter Landing
+ * Slug: twentytwentyfour/page-newsletter-landing
  * Categories: call-to-action
+ * Keywords: page, starter
  * Block Types: core/post-content
  * Post Types: page
  * Viewport width: 1100
@@ -29,7 +30,7 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button"><?php echo esc_html_x( 'Sign Up', 'sample content for newsletter subscription button', 'twentytwentyfour' ); ?></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button"><?php echo esc_html_x( 'Sign up', 'sample content for newsletter subscription button', 'twentytwentyfour' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div></div>
 <!-- /wp:cover -->

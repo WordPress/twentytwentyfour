@@ -1,10 +1,12 @@
 <?php
 /**
- * Title: Business About
+ * Title: About
  * Slug: twentytwentyfour/business-about
  * Categories: about
+ * Keywords: page, starter
  * Block Types: core/post-content
  * Post Types: page
+ * Viewport width: 1400
  */
 ?>
 
