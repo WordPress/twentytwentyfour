@@ -525,13 +525,7 @@
 				}
 			},
 			"core/paragraph": {
-				"variations": {
-					"heading": {
-						"typography": {
-							"fontFamily": "var(--wp--preset--font-family--cardo)"
-						}
-					}
-				}
+				"css": "&.is-style-heading {font-family: var(--wp--preset--font-family--cardo)}"
 			},
 			"core/post-author": {
 				"typography": {
