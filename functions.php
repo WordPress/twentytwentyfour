@@ -84,7 +84,7 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 			'core/paragraph',
 			array(
 				'name'  => 'heading',
-				'label' => __( 'Heading', 'twentytwentyfour' )
+				'label' => __( 'Heading', 'twentytwentyfour' ),
 			)
 		);
 	}
