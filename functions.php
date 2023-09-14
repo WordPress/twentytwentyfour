@@ -80,6 +80,13 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 				'label' => __( 'Pill', 'twentytwentyfour' ),
 			)
 		);
+		register_block_style(
+			'core/separator',
+			array(
+				'name'  => 'asterisk',
+				'label' => __( 'Asterisk', 'twentytwentyfour' ),
+			)
+		);
 	}
 endif;
 
