@@ -524,6 +524,15 @@
 					"fontWeight": "500"
 				}
 			},
+			"core/paragraph": {
+				"variations": {
+					"heading": {
+						"typography": {
+							"fontFamily": "var(--wp--preset--font-family--cardo)"
+						}
+					}
+				}
+			},
 			"core/post-author": {
 				"typography": {
 					"fontSize": "var(--wp--preset--font-size--small)"

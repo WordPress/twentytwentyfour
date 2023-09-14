@@ -84,8 +84,7 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 			'core/paragraph',
 			array(
 				'name'  => 'heading',
-				'label' => __( 'Heading', 'twentytwentyfour' ),
-				'inline_style' => '.is-style-heading{font-family:var(--wp--preset--font-family--cardo);}'
+				'label' => __( 'Heading', 'twentytwentyfour' )
 			)
 		);
 	}
