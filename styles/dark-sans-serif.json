@@ -65,6 +65,9 @@
 	},
 	"styles": {
 		"blocks": {
+			"core/paragraph": {
+				"css": "&.is-style-heading {font-family: var(--wp--preset--font-family--system-font)}"
+			},
 			"core/pullquote": {
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--system-font)"
