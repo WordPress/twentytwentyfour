@@ -1,12 +1,12 @@
 {
 	"version": 2,
-	"title": "Dark Sans Serif",
+	"title": "Onyx",
 	"$schema": "https://schemas.wp.org/trunk/theme.json",
 	"settings": {
 		"color": {
 			"palette": [
 				{
-					"color": "#222222",
+					"color": "#272727",
 					"name": "Base",
 					"slug": "base"
 				},
@@ -21,42 +21,42 @@
 					"slug": "base-3"
 				},
 				{
-					"color": "#ffffff",
+					"color": "#f8f8f8",
 					"name": "Contrast",
 					"slug": "contrast"
 				},
 				{
-					"color": "#a2a2a2",
+					"color": "#B7B7B7",
 					"name": "Contrast / Two",
 					"slug": "contrast-2"
 				},
 				{
-					"color": "#A4A4A4",
+					"color": "#909090",
 					"name": "Contrast / Three",
 					"slug": "contrast-3"
 				},
 				{
-					"color": "#cfcabe",
+					"color": "#5F584F",
 					"name": "Accent",
 					"slug": "accent"
 				},
 				{
-					"color": "#c2a990",
+					"color": "#6D533C",
 					"name": "Accent / Two",
 					"slug": "accent-2"
 				},
 				{
-					"color": "#d8613c",
+					"color": "#973C20",
 					"name": "Accent / Three",
 					"slug": "accent-3"
 				},
 				{
-					"color": "#b1c5a4",
+					"color": "#4D5B48",
 					"name": "Accent / Four",
 					"slug": "accent-4"
 				},
 				{
-					"color": "#b5bdbc",
+					"color": "#4F5959",
 					"name": "Accent / Five",
 					"slug": "accent-5"
 				}
