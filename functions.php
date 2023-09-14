@@ -80,6 +80,14 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 				'label' => __( 'Pill', 'twentytwentyfour' ),
 			)
 		);
+		register_block_style(
+			'core/paragraph',
+			array(
+				'name'  => 'heading',
+				'label' => __( 'Heading', 'twentytwentyfour' ),
+				'inline_style' => '.is-style-heading{font-family:var(--wp--preset--font-family--cardo);}'
+			)
+		);
 	}
 endif;
 
