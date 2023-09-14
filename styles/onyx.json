@@ -4,6 +4,110 @@
 	"$schema": "https://schemas.wp.org/trunk/theme.json",
 	"settings": {
 		"color": {
+			"duotone": [
+				{
+					"colors": [
+						"#272727",
+						"#f9f9f9"
+					],
+					"slug": "duotone-1",
+					"name": "Dark gray and white"
+				},
+				{
+					"colors": [
+						"#272727",
+						"#5F584F"
+					],
+					"slug": "duotone-2",
+					"name": "Dark gray and walnut"
+				},
+				{
+					"colors": [
+						"#272727",
+						"#973C20"
+					],
+					"slug": "duotone-3",
+					"name": "Dark gray and rust"
+				},
+				{
+					"colors": [
+						"#272727",
+						"#4D5B48"
+					],
+					"slug": "duotone-4",
+					"name": "Dark gray and sage"
+				},
+				{
+					"colors": [
+						"#272727",
+						"#4F5959"
+					],
+					"slug": "duotone-5",
+					"name": "Dark gray and mint"
+				}
+			],
+			"gradients": [
+				{
+					"slug": "gradient-1",
+					"gradient": "linear-gradient(to bottom, #5F584F 0%, #272727 100%)",
+					"name": "Vertical soft driftwood to dark gray"
+				},
+				{
+					"slug": "gradient-2",
+					"gradient": "linear-gradient(to bottom, #6D533C 0%, #272727 100%)",
+					"name": "Vertical soft walnut to dark gray"
+				},
+				{
+					"slug": "gradient-3",
+					"gradient": "linear-gradient(to bottom, #973C20 0%, #272727 100%)",
+					"name": "Vertical soft cinnamon to dark gray"
+				},
+				{
+					"slug": "gradient-4",
+					"gradient": "linear-gradient(to bottom, #4D5B48 0%, #272727 100%)",
+					"name": "Vertical soft olive to dark gray"
+				},
+				{
+					"slug": "gradient-5",
+					"gradient": "linear-gradient(to bottom, #4F5959 0%, #272727 100%)",
+					"name": "Vertical soft steel to dark gray"
+				},
+				{
+					"slug": "gradient-6",
+					"gradient": "linear-gradient(to bottom, #909090 0%, #272727 100%)",
+					"name": "Vertical soft pewter to dark gray"
+				},
+				{
+					"slug": "gradient-7",
+					"gradient": "linear-gradient(to bottom, #5F584F 50%, #272727 50%)",
+					"name": "Vertical hard beige to dark gray"
+				},
+				{
+					"slug": "gradient-8",
+					"gradient": "linear-gradient(to bottom, #6D533C 50%, #272727 50%)",
+					"name": "Vertical hard walnut to dark gray"
+				},
+				{
+					"slug": "gradient-9",
+					"gradient": "linear-gradient(to bottom, #973C20 50%, #272727 50%)",
+					"name": "Vertical hard cinnamon to dark gray"
+				},
+				{
+					"slug": "gradient-10",
+					"gradient": "linear-gradient(to bottom, #4D5B48 50%, #272727 50%)",
+					"name": "Vertical hard olive to dark gray"
+				},
+				{
+					"slug": "gradient-11",
+					"gradient": "linear-gradient(to bottom, #4F5959 50%, #272727 50%)",
+					"name": "Vertical hard steel to dark gray"
+				},
+				{
+					"slug": "gradient-12",
+					"gradient": "linear-gradient(to bottom, #A4A4A4 50%, #272727 50%)",
+					"name": "Vertical hard pewter to dark gray"
+				}
+			],
 			"palette": [
 				{
 					"color": "#272727",
@@ -21,7 +125,7 @@
 					"slug": "base-3"
 				},
 				{
-					"color": "#f8f8f8",
+					"color": "#f9f9f9",
 					"name": "Contrast",
 					"slug": "contrast"
 				},
@@ -61,30 +165,6 @@
 					"slug": "accent-5"
 				}
 			]
-		}
-	},
-	"styles": {
-		"blocks": {
-			"core/paragraph": {
-				"css": "&.is-style-heading {font-family: var(--wp--preset--font-family--system-font)}"
-			},
-			"core/pullquote": {
-				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--system-font)"
-				}
-			},
-			"core/quote": {
-				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--system-font)"
-				}
-			}
-		},
-		"elements": {
-			"heading": {
-				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--system-font)"
-				}
-			}
 		}
 	}
 }
