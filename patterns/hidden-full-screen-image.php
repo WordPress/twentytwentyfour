@@ -2,7 +2,7 @@
 /**
  * Title: Full Screen Image
  * Slug: twentytwentyfour/full-screen-image
- * Inserter: false
+ * Inserter: no
  */
 ?>
 
