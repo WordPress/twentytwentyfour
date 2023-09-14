@@ -7,7 +7,6 @@
  * Block Types: core/post-content
  * Post Types: page
  * Viewport width: 1400
- * Template Types: home
  */
 ?>
 

@@ -724,8 +724,11 @@
 				"css": " &:not(.is-style-wide):not(.is-style-dots):not(.alignwide):not(.alignfull){width: var(--wp--preset--spacing--60)}"
 			},
 			"core/site-tagline": {
+				"color": {
+					"text": "var(--wp--preset--color--contrast-2)"
+				},
 				"typography": {
-					"fontSize": "0.92rem"
+					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
 			"core/site-title": {
@@ -733,7 +736,7 @@
 					"link": {
 						":hover": {
 							"typography": {
-								"textDecoration": "underline"
+								"textDecoration": "none"
 							}
 						},
 						"typography": {
@@ -743,7 +746,7 @@
 				},
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--system-font)",
-					"fontSize": "var(--wp--preset--font-size--medium)",
+					"fontSize": "1.2rem",
 					"fontStyle": "normal",
 					"fontWeight": "600"
 				}
@@ -898,21 +901,6 @@
 			"area": "header",
 			"name": "header",
 			"title": "Header"
-		},
-		{
-			"area": "header",
-			"name": "header-portfolio",
-			"title": "Header: Portfolio"
-		},
-		{
-			"area": "header",
-			"name": "header-writer",
-			"title": "Header: Writer"
-		},
-		{
-			"area": "header",
-			"name": "header-copy",
-			"title": "Header: Copy"
 		},
 		{
 			"area": "footer",
