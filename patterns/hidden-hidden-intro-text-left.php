@@ -18,8 +18,8 @@
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"70%"} -->
 <div class="wp-block-column" style="flex-basis:70%">
 
-<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"xx-large","fontFamily":"cardo"} -->
-<p class="has-cardo-font-family has-xx-large-font-size" style="line-height:1.2">Sono <em>Leia Acosta</em>, una fotografa appassionata che trova ispirazione nel catturare la bellezza fugace della vita.</p>
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"xx-large","className":"heading"} -->
+<p class="is-style-heading has-xx-large-font-size" style="line-height:1.2">Sono <em>Leia Acosta</em>, una fotografa appassionata che trova ispirazione nel catturare la bellezza fugace della vita.</p>
 <!-- /wp:paragraph -->
 </div>
 <!-- /wp:column -->

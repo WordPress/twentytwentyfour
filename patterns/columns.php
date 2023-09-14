@@ -11,8 +11,8 @@
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","right":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"}}}} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"33%"} -->
-<div class="wp-block-column" style="flex-basis:33%"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"large","fontFamily":"cardo"} -->
-<p class="has-cardo-font-family has-large-font-size" style="line-height:1.2"><?php echo esc_html__( 'We recognize the role architecture plays in shaping a sustainable future.', 'twentytwentyfour' ); ?></p>
+<div class="wp-block-column" style="flex-basis:33%"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"large","className":"heading"} -->
+<p class="is-style-heading has-large-font-size" style="line-height:1.2"><?php echo esc_html__( 'We recognize the role architecture plays in shaping a sustainable future.', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
