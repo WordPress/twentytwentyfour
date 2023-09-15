@@ -16,18 +16,18 @@
 			<h2 class="wp-block-heading"><?php echo esc_html_x( 'Enhance your architectural journey with the Études Architect App', 'sample heading for call to action', 'twentytwentyfour' ); ?></h2>
 			<!-- /wp:heading -->
 
-			<!-- wp:list {"style":{"typography":{"lineHeight":"1.75"}}} -->
-			<ul style="line-height:1.75">
+			<!-- wp:list {"style":{"typography":{"lineHeight":"1.75"}},"className":"is-style-checkmark-list"} -->
+			<ul class="is-style-checkmark-list" style="line-height:1.75">
 				<!-- wp:list-item -->
-				<li><?php echo esc_html_x( 'Collaborate with fellow architects', 'sample content for call to action', 'twentytwentyfour' ); ?></li>
+				<li><?php echo esc_html_x( 'Collaborate with fellow architects', 'A general list item.', 'twentytwentyfour' ); ?></li>
 				<!-- /wp:list-item -->
 
 				<!-- wp:list-item -->
-				<li><?php echo esc_html_x( 'Showcase your projects', 'sample content for call to action', 'twentytwentyfour' ); ?></li>
+				<li><?php echo esc_html_x( 'Showcase your projects', 'A general list item.', 'twentytwentyfour' ); ?></li>
 				<!-- /wp:list-item -->
 
 				<!-- wp:list-item -->
-				<li><?php echo esc_html_x( 'Experience the world of architecture like never before', 'sample content for call to action', 'twentytwentyfour' ); ?></li>
+				<li><?php echo esc_html_x( 'Experience the world of architecture like never before', 'A general list item.', 'twentytwentyfour' ); ?></li>
 				<!-- /wp:list-item -->
 			</ul>
 			<!-- /wp:list -->
