@@ -5,7 +5,7 @@
  * Categories: call-to-action
  * Keywords: page, starter
  * Block Types: core/post-content
- * Post Types: page
+ * Post Types: page, wp_template
  * Viewport width: 1100
  */
 
