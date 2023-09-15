@@ -46,7 +46,7 @@ a {
 }
 
 .is-style-arrow-icon-details summary {
-    list-style-type: '\2193\00a0\00a0\00a0';
+	list-style-type: '\2193\00a0\00a0\00a0';
 }
 
 .is-style-arrow-icon-details[open] > summary {
