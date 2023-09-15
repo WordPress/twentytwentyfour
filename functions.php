@@ -84,7 +84,6 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 endif;
 
 add_action( 'init', 'twentytwentyfour_block_styles' );
-add_action( 'init', 'twentytwentyfour_block_styles' );
 
 /**
  * Register a block variation for a query loop with only featured images.
@@ -143,3 +142,4 @@ function twentytwentyfour_pre_render_block( $pre_render, $parsed_block ) {
 	return $pre_render;
 }
 add_filter( 'pre_render_block', 'twentytwentyfour_pre_render_block', 10, 2 );
+
