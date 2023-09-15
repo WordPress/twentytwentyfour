@@ -84,4 +84,3 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 endif;
 
 add_action( 'init', 'twentytwentyfour_block_styles' );
-add_action( 'init', 'twentytwentyfour_block_styles' );
