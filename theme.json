@@ -650,6 +650,9 @@
 					"lineHeight": "1.5"
 				}
 			},
+			"core/query-title": {
+				"css": "& span {font-style: italic;}"
+			},
 			"core/quote": {
 				"border": {
 					"radius": "var(--wp--preset--spacing--20)"
