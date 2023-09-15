@@ -4,7 +4,6 @@
  * Slug: twentytwentyfour/about
  * Categories: about
  */
-
 ?>
 
 <!-- wp:group {"layout":{"type":"constrained"}} -->
