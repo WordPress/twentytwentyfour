@@ -630,8 +630,14 @@
 						"width": "0px"
 					}
 				},
-				"color": {
-					"background": "var(--wp--preset--color--tertiary)"
+				"elements": {
+					"cite": {
+						"typography": {
+							"fontFamily": "var(--wp--preset--font-family--system-font)",
+							"fontSize": "var(--wp--preset--font-size--medium)",
+							"fontStyle": "normal"
+						}
+					}
 				},
 				"spacing": {
 					"padding": {
@@ -649,6 +655,9 @@
 					"letterSpacing": "0em",
 					"lineHeight": "1.5"
 				}
+			},
+			"core/query-title": {
+				"css": "& span {font-style: italic;}"
 			},
 			"core/quote": {
 				"border": {
