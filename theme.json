@@ -630,9 +630,6 @@
 						"width": "0px"
 					}
 				},
-				"color": {
-					"background": "var(--wp--preset--color--tertiary)"
-				},
 				"elements": {
 					"cite": {
 						"typography": {
