@@ -85,3 +85,61 @@ endif;
 
 add_action( 'init', 'twentytwentyfour_block_styles' );
 add_action( 'init', 'twentytwentyfour_block_styles' );
+
+/**
+ * Register a block variation for a query loop with only featured images.
+ *
+ * @see https://developer.wordpress.org/block-editor/reference-guides/block-api/block-variations/
+ *  @see https://developer.wordpress.org/news/2022/12/building-a-book-review-grid-with-a-query-loop-block-variation/
+ * @return void
+ * @since Twenty Twenty-Four 1.0
+ *
+ */
+function twentytwentyfour_register_block_variation() {
+	wp_enqueue_script(
+		'twentytwentyfour-block-variations',
+		get_template_directory_uri() . '/assets/js/block-variation.js',
+		array( 'wp-blocks' ),
+		wp_get_theme()->get( 'Version' ),
+		true
+	);
+}
+add_action( 'enqueue_block_assets', 'twentytwentyfour_register_block_variation' );
+
+function twentytwentyfour_rest_filter_query( $args ) {
+	// Only return posts with featured images.
+	$args['meta_query'] = array(
+		array(
+			'key' => '_thumbnail_id',
+			'compare' => 'EXISTS',
+		),
+	);
+	return $args;
+}
+add_filter( 'rest_post_query', 'twentytwentyfour_rest_filter_query', 10, 2 );
+
+function twentytwentyfour_pre_render_block( $pre_render, $parsed_block ) {
+	if (
+		isset( $parsed_block['attrs']['namespace'] ) &&
+		'twentytwentyfour/featured-image-query' === $parsed_block['attrs']['namespace']
+	) {
+		add_filter(
+			'query_loop_block_query_vars',
+			function( $query, $block ) use ( $parsed_block ) {
+				// Only return posts with featured images.
+				$query['meta_query'] = array(
+					array(
+						'key' => '_thumbnail_id',
+						'compare' => 'EXISTS',
+					),
+				);
+				return $query;
+			},
+			10,
+			2
+		);
+	}
+
+	return $pre_render;
+}
+add_filter( 'pre_render_block', 'twentytwentyfour_pre_render_block', 10, 2 );
