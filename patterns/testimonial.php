@@ -14,7 +14,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","width":64,"height":64,"scale":"cover","sizeSlug":"thumbnail","linkDestination":"none","style":{"border":{"radius":"999px"}},"className":"is-style-rounded"} -->
-<figure class="wp-block-image aligncenter size-thumbnail is-resized has-custom-border is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/testimonial-avatar.webp" alt="<?php echo esc_attr( 'Portrait of a woman looking down Side', 'twentytwentyfour' ); ?>" style="border-radius:999px;object-fit:cover;width:64px;height:64px" width="64" height="64"/></figure>
+<figure class="wp-block-image aligncenter size-thumbnail is-resized has-custom-border is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/testimonial-avatar.webp" alt="<?php echo esc_attr__( 'Portrait of a woman looking down Side', 'twentytwentyfour' ); ?>" style="border-radius:999px;object-fit:cover;width:64px;height:64px" width="64" height="64"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
