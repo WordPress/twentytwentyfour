@@ -26,7 +26,7 @@
 <!-- wp:column {"width":"50%","style":{"spacing":{"padding":{"top":"var:preset|spacing|30"}}}} -->
 <div class="wp-block-column" style="padding-top:var(--wp--preset--spacing--30);flex-basis:50%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"medium","fontFamily":"system-font"} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"medium","fontFamily":"body"} -->
 <h3 class="wp-block-heading has-system-font-font-family has-medium-font-size" style="font-style:normal;font-weight:600">About</h3>
 <!-- /wp:heading -->
 
@@ -47,13 +47,13 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"medium","fontFamily":"system-font"} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"medium","fontFamily":"body"} -->
 <h3 class="wp-block-heading has-system-font-font-family has-medium-font-size" style="font-style:normal;font-weight:600">Privacy</h3>
 <!-- /wp:heading -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group">
-	
+
 <!-- wp:navigation {"overlayMenu":"never","layout":{"type":"flex","orientation":"vertical"},"style":{"typography":{"fontStyle":"normal","fontWeight":"400"}},"fontSize":"small"} -->
 
 <!-- wp:navigation-link {"label":"Privacy Policy","url":"#"} /-->
@@ -67,7 +67,7 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"medium","fontFamily":"system-font"} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"medium","fontFamily":"body"} -->
 <h3 class="wp-block-heading has-system-font-font-family has-medium-font-size" style="font-style:normal;font-weight:600">Social Media</h3>
 <!-- /wp:heading -->
 

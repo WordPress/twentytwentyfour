@@ -221,7 +221,7 @@
 				{
 					"fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif",
 					"name": "System Font",
-					"slug": "system-font"
+					"slug": "body"
 				},
 				{
 					"fontFace": [
@@ -251,7 +251,7 @@
 						}
 					],
 					"fontFamily": "Cardo",
-					"slug": "cardo"
+					"slug": "heading"
 				}
 			],
 			"fontSizes": [
@@ -633,7 +633,7 @@
 				"elements": {
 					"cite": {
 						"typography": {
-							"fontFamily": "var(--wp--preset--font-family--system-font)",
+							"fontFamily": "var(--wp--preset--font-family--body)",
 							"fontSize": "var(--wp--preset--font-size--medium)",
 							"fontStyle": "normal"
 						}
@@ -648,7 +648,7 @@
 					}
 				},
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--cardo)",
+					"fontFamily": "var(--wp--preset--font-family--heading)",
 					"fontSize": "var(--wp--preset--font-size--x-large)",
 					"fontStyle": "italic",
 					"fontWeight": "400",
@@ -670,7 +670,7 @@
 				"elements": {
 					"cite": {
 						"typography": {
-							"fontFamily": "var(--wp--preset--font-family--system-font)",
+							"fontFamily": "var(--wp--preset--font-family--body)",
 							"fontSize": "var(--wp--preset--font-size--small)",
 							"fontStyle": "normal"
 						}
@@ -685,7 +685,7 @@
 					}
 				},
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--cardo)",
+					"fontFamily": "var(--wp--preset--font-family--heading)",
 					"fontSize": "var(--wp--preset--font-size--large)",
 					"fontStyle": "italic",
 					"lineHeight": "1.3"
@@ -754,7 +754,7 @@
 					}
 				},
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--system-font)",
+					"fontFamily": "var(--wp--preset--font-family--body)",
 					"fontSize": "1.2rem",
 					"fontStyle": "normal",
 					"fontWeight": "600"
@@ -834,7 +834,7 @@
 					"text": "var(--wp--preset--color--contrast-2)"
 				},
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--system-font)",
+					"fontFamily": "var(--wp--preset--font-family--body)",
 					"fontSize": "0.8rem"
 				}
 			},
@@ -874,7 +874,7 @@
 					"text": "var(--wp--preset--color--contrast)"
 				},
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--cardo)",
+					"fontFamily": "var(--wp--preset--font-family--heading)",
 					"fontWeight": "400",
 					"lineHeight": "1.2"
 				}
@@ -898,7 +898,7 @@
 			}
 		},
 		"typography": {
-			"fontFamily": "var(--wp--preset--font-family--system-font)",
+			"fontFamily": "var(--wp--preset--font-family--body)",
 			"fontSize": "var(--wp--preset--font-size--medium)",
 			"fontStyle": "normal",
 			"fontWeight": "400",

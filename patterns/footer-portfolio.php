@@ -19,8 +19,8 @@
 
 <!-- wp:columns {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10"}}}} -->
 <div class="wp-block-columns" style="padding-top:var(--wp--preset--spacing--10)"><!-- wp:column {"width":"57%"} -->
-<div class="wp-block-column" style="flex-basis:57%"><!-- wp:paragraph {"fontSize":"x-large","fontFamily":"cardo"} -->
-<p class="has-cardo-font-family has-x-large-font-size">Keep up, get in touch.</p>
+<div class="wp-block-column" style="flex-basis:57%"><!-- wp:paragraph {"fontSize":"x-large","fontFamily":"heading"} -->
+<p class="has-heading-font-family has-x-large-font-size">Keep up, get in touch.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
