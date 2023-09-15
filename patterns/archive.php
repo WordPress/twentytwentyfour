@@ -25,19 +25,7 @@
 			<!-- wp:group {"style":{"spacing":{"blockGap":"8px"}},"layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap"}} -->
 			<div class="wp-block-group">
 				<!-- wp:post-title {"isLink":true,"fontSize":"large"} /-->
-				<!-- wp:group {"style":{"spacing":{"blockGap":"6px"},"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}}},"textColor":"contrast-2","layout":{"type":"flex","flexWrap":"nowrap"},"fontSize":"small"} -->
-				<div class="wp-block-group has-contrast-2-color has-text-color has-link-color has-small-font-size">
-					<!-- wp:post-date {"isLink":true} /-->
-					<!-- wp:paragraph -->
-					<p>—</p>
-					<!-- /wp:paragraph -->
-					<!-- wp:post-author-name {"isLink":true} /-->
-					<!-- wp:paragraph -->
-					<p>—</p>
-					<!-- /wp:paragraph -->
-					<!-- wp:post-terms {"term":"category"} /-->
-				</div>
-				<!-- /wp:group -->
+				<!-- wp:pattern {"slug":"twentytwentyfour/post-meta"} /-->
 				<!-- wp:post-excerpt {"fontSize":"small"} /-->
 			</div>
 			<!-- /wp:group -->
