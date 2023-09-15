@@ -633,7 +633,7 @@
 				"elements": {
 					"cite": {
 						"typography": {
-							"fontFamily": "var(--wp--preset--font-family--system-font)",
+							"fontFamily": "var(--wp--preset--font-family--body)",
 							"fontSize": "var(--wp--preset--font-size--medium)",
 							"fontStyle": "normal"
 						}
