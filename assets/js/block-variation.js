@@ -26,6 +26,7 @@ wp.blocks.registerBlockVariation( 'core/query', {
 					'core/post-featured-image',
 					{
 						aspectRatio: 2/3,
+						isLink: true,
 					}
 				],
 			],
