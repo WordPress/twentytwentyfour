@@ -974,6 +974,13 @@
 			"title": "Page Portfolio"
 		},
 		{
+			"name": "single-portfolio",
+			"postTypes": [
+				"post"
+			],
+			"title": "Single Portfolio"
+		},
+		{
 			"name": "single-writer",
 			"postTypes": [
 				"post"
