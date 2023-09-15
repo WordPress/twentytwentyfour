@@ -25,27 +25,15 @@
 			<!-- /wp:spacer -->
 			<!-- wp:post-template {"align":"full","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"default","columnCount":3}} -->
 				<!-- wp:post-featured-image {"isLink":true,"aspectRatio":"3/2"} /-->
-				<!-- wp:spacer {"height":"var:preset|spacing|20","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
-				<div style="margin-top:0;margin-bottom:0;height:var(--wp--preset--spacing--20)" aria-hidden="true" class="wp-block-spacer"></div>
-				<!-- /wp:spacer -->
 				<!-- wp:group {"style":{"spacing":{"blockGap":"8px"}},"layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap"}} -->
 				<div class="wp-block-group">
-					<!-- wp:post-title {"isLink":true,"fontSize":"large"} /-->
-					<!-- wp:group {"style":{"spacing":{"blockGap":"6px"},"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}}},"textColor":"contrast-2","layout":{"type":"flex","flexWrap":"nowrap"},"fontSize":"small"} -->
-						<div class="wp-block-group has-contrast-2-color has-text-color has-link-color has-small-font-size">
-							<!-- wp:post-date {"isLink":true} /-->
-							<!-- wp:paragraph -->
-							<p>—</p>
-							<!-- /wp:paragraph -->
-							<!-- wp:post-author-name {"isLink":true} /-->
-							<!-- wp:paragraph -->
-							<p>—</p>
-							<!-- /wp:paragraph -->
-							<!-- wp:post-terms {"term":"category"} /-->
-						</div>
-						<!-- /wp:group -->
-						<!-- wp:post-excerpt {"fontSize":"small"} /-->
-					</div>
+					<!-- wp:post-title {"isLink":true,"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|10"}}},"fontSize":"large"} /-->
+					<!-- wp:pattern {"slug":"twentytwentyfour/post-meta"} /-->
+					<!-- wp:post-excerpt {"fontSize":"small"} /-->
+					<!-- wp:spacer {"height":"var:preset|spacing|30"} -->
+					<div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
+					<!-- /wp:spacer -->
+				</div>
 				<!-- /wp:group -->
 			<!-- /wp:post-template -->
 			<!-- wp:spacer {"height":"var:preset|spacing|50","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
