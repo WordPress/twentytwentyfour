@@ -1,7 +1,7 @@
 wp.blocks.registerBlockVariation( 'core/query', {
 	name: 'twentytwentyfour/featured-image-query',
-	title: 'Featured Images',
-	description: 'List of posts with featured images',
+	title: __( 'Featured Images' ),
+	description: __( 'List of posts with featured images' ),
 	attributes: {
 		namespace: 'twentytwentyfour/featured-image-query',
 		query: {
