@@ -90,7 +90,7 @@ add_action( 'init', 'twentytwentyfour_block_styles' );
  * Register a block variation for a query loop with only featured images.
  *
  * @see https://developer.wordpress.org/block-editor/reference-guides/block-api/block-variations/
- *  @see https://developer.wordpress.org/news/2022/12/building-a-book-review-grid-with-a-query-loop-block-variation/
+ * @see https://developer.wordpress.org/news/2022/12/building-a-book-review-grid-with-a-query-loop-block-variation/
  * @return void
  * @since Twenty Twenty-Four 1.0
  *
@@ -110,7 +110,7 @@ function twentytwentyfour_rest_filter_query( $args ) {
 	// Only return posts with featured images.
 	$args['meta_query'] = array(
 		array(
-			'key' => '_thumbnail_id',
+			'key'     => '_thumbnail_id',
 			'compare' => 'EXISTS',
 		),
 	);
@@ -129,7 +129,7 @@ function twentytwentyfour_pre_render_block( $pre_render, $parsed_block ) {
 				// Only return posts with featured images.
 				$query['meta_query'] = array(
 					array(
-						'key' => '_thumbnail_id',
+						'key'     => '_thumbnail_id',
 						'compare' => 'EXISTS',
 					),
 				);
