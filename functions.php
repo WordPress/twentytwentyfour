@@ -98,21 +98,24 @@ function twentytwentyfour_register_block_variation() {
 	wp_enqueue_script(
 		'twentytwentyfour-block-variations',
 		get_template_directory_uri() . '/assets/js/block-variation.js',
-		array( 'wp-blocks' ),
+		array( 'wp-blocks', 'wp-i18n' ),
 		wp_get_theme()->get( 'Version' ),
 		true
 	);
 }
 add_action( 'enqueue_block_assets', 'twentytwentyfour_register_block_variation' );
 
-function twentytwentyfour_rest_filter_query( $args ) {
-	// Only return posts with featured images.
-	$args['meta_query'] = array(
-		array(
-			'key'     => '_thumbnail_id',
-			'compare' => 'EXISTS',
-		),
-	);
+function twentytwentyfour_rest_filter_query( $args, $request ) {
+	$has_featured_image = $request->get_param( 'hasFeaturedImage' );
+	if ( $has_featured_image ) {
+		// Only return posts with featured images.
+		$args['meta_query'] = array(
+			array(
+				'key'     => '_thumbnail_id',
+				'compare' => 'EXISTS',
+			),
+		);
+	}
 	return $args;
 }
 add_filter( 'rest_post_query', 'twentytwentyfour_rest_filter_query', 10, 2 );

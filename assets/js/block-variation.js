@@ -1,3 +1,6 @@
+
+const { __ } = wp.i18n;
+
 wp.blocks.registerBlockVariation( 'core/query', {
 	name: 'twentytwentyfour/featured-image-query',
 	title: __( 'Featured Images' ),
@@ -10,6 +13,7 @@ wp.blocks.registerBlockVariation( 'core/query', {
 			order: 'desc',
 			orderBy: 'date',
 			inherit: false,
+			hasFeaturedImage: true,
 		},
 		align: 'full',
 	},
@@ -31,5 +35,6 @@ wp.blocks.registerBlockVariation( 'core/query', {
 				],
 			],
 		]
-	]
+	],
+	isActive: [ 'namespace' ],
 } );
