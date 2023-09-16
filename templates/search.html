@@ -4,45 +4,18 @@
 </div>
 <!-- /wp:group -->
 
-<!-- wp:query {"tagName":"main","layout":{"type":"constrained"}} -->
-<main class="wp-block-query">
-	<!-- wp:query-title {"type":"search"} /-->
+<!-- wp:group {"tagName":"main","align":"full","layout":{"type":"constrained"}} -->
+<main class="wp-block-group alignfull">
+	<!-- wp:query-title {"type":"search","align":"wide","style":{"typography":{"lineHeight":"1"},"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|30"}}}} /-->
 
-	<!-- wp:search {"showLabel":false} /-->
-
-	<!-- wp:spacer {"height":40px} -->
-	<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
-	<!-- /wp:spacer -->
-
-	<!-- wp:post-template -->
-		<!-- wp:group {"tagName":"article"} -->
-		<article class="wp-block-group">
-			<!-- wp:post-title {"isLink":true} /-->
-			<!-- wp:post-featured-image {"isLink":true} /-->
-			<!-- wp:post-excerpt /-->
-			<!-- wp:pattern {"slug":"twentytwentyfour/post-meta"} /-->
-
-			<!-- wp:spacer {"height":40} -->
-			<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
-			<!-- /wp:spacer -->
-		</article>
-		<!-- /wp:group -->
-	<!-- /wp:post-template -->
-
-	<!-- wp:group {"layout":{"type":"constrained"}} -->
-	<div class="wp-block-group">
-		<!-- wp:query-pagination -->
-			<!-- wp:query-pagination-previous /-->
-			<!-- wp:query-pagination-numbers /-->
-			<!-- wp:query-pagination-next /-->
-		<!-- /wp:query-pagination -->
+	<!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
+	<div class="wp-block-group alignwide">
+		<!-- wp:search {"label":"Search","showLabel":false,"width":75,"widthUnit":"%","buttonText":"Search","fontSize":"medium"} /-->
 	</div>
 	<!-- /wp:group -->
-
-	<!-- wp:query-no-results -->
-		<!-- wp:pattern {"slug":"twentytwentyfour/hidden-no-results-content"} /-->
-	<!-- /wp:query-no-results -->
+	
+	<!-- wp:pattern {"slug":"twentytwentyfour/archive"} /-->
 </main>
-<!-- /wp:query -->
+<!-- /wp:group -->
 
 <!-- wp:template-part {"slug":"footer","area":"footer","tagName":"footer"} /-->
