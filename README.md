@@ -95,7 +95,7 @@ WordPress block patterns should be [internationalized](https://developer.wordpre
 
 `esc_html__()`: Similar to `esc_html_x()`, use this function for translating and escaping HTML-embedded text. It's a simpler version when context-specific translations are not needed.
 
-`esc_attr()` and `esc_attr_x()`: Use this function to escape and sanitize text meant for HTML attributes, such as image source URLs or link targets. It helps prevent security vulnerabilities by ensuring that user inputs are safe for use in attributes.
+`esc_attr__()` and `esc_attr_x()`: Use this function to escape and sanitize text meant for HTML attributes, such as image source URLs or link targets. It helps prevent security vulnerabilities by ensuring that user inputs are safe for use in attributes.
 
 These functions enhance security and support localization efforts in WordPress block patterns, ensuring that text is safe and can be easily translated.
 
