@@ -2,7 +2,7 @@
 /**
  * Title: Team
  * Slug: twentytwentyfour/team
- * Categories: featured, team, about
+ * Categories: team, about
  * Viewport width: 1400
  */
 ?>

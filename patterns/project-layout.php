@@ -2,7 +2,7 @@
 /**
  * Title: Project Layout
  * Slug: twentytwentyfour/project-layout
- * Categories: gallery
+ * Categories: gallery, featured
  * Viewport width: 1600
  */
 

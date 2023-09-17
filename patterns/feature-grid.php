@@ -2,7 +2,7 @@
 /**
  * Title: Feature grid
  * Slug: twentytwentyfour/feature-grid
- * Categories: featured, text
+ * Categories: text, about
 * Viewport width: 1400
  */
 ?>
