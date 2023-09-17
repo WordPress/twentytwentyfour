@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: Home
+ * Title: Home Page
  * Slug: twentytwentyfour/home
  * Categories: about
  * Keywords: page, starter
