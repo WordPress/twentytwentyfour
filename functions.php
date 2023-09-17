@@ -83,8 +83,8 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 		register_block_style(
 			'core/list',
 			array(
-				'name'         => 'checkmark-list',
-				'label'        => __( 'Checkmarks', 'twentytwentyfour' ),
+				'name'  => 'checkmark-list',
+				'label' => __( 'Checkmark', 'twentytwentyfour' ),
 			)
 		);
 	}
