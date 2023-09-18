@@ -67,7 +67,7 @@
 <!-- wp:column {"width":"30%"} -->
 <div class="wp-block-column" style="flex-basis:30%">
 
-<!-- wp:pattern {"slug":"twentytwentyfour/sidebar"}	/-->
+<!-- wp:pattern {"slug":"twentytwentyfour/sidebar"} /-->
 
 </div>
 <!-- /wp:column -->
