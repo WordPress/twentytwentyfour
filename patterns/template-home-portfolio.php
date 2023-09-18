@@ -8,9 +8,13 @@
  */
 ?>
 
-<!-- wp:template-part {"slug":"header-portfolio","theme":"twentytwentyfour","area":"header"} /-->
+<!-- wp:group {"style":{"position":{"type":"sticky","top":"0px"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group">
+	<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour"} /-->
+</div>
+<!-- /wp:group -->
 
 <!-- wp:pattern {"slug":"twentytwentyfour/hidden-intro-text-left"} /-->
 <!-- wp:pattern {"slug":"twentytwentyfour/offset-grid-image-posts"} /-->
 
-<!-- wp:template-part {"slug":"footer-portfolio","theme":"twentytwentyfour","area":"footer"} /-->
+<!-- wp:template-part {"slug":"footer-portfolio","area":"footer","tagName":"footer"} /-->

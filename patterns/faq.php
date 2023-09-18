@@ -2,7 +2,7 @@
 /**
 * Title: Faq
 * Slug: twentytwentyfour/faq
-* Categories: about, text, featured
+* Categories: text
 * Viewport width: 1400
 */
 ?>
@@ -13,8 +13,8 @@
 <!-- /wp:heading -->
 
 <!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
-<div class="wp-block-group alignwide"><!-- wp:separator {"style":{"color":{"background":"#ffffff1a"}},"className":"is-style-default"} -->
-<hr class="wp-block-separator has-text-color has-alpha-channel-opacity has-background is-style-default" style="background-color:#ffffff1a;color:#ffffff1a"/>
+<div class="wp-block-group alignwide"><!-- wp:separator {"style":{"color":{"background":"#ffffff1a"}},"className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-alpha-channel-opacity has-background is-style-wide" style="background-color:#ffffff1a;color:#ffffff1a"/>
 <!-- /wp:separator -->
 
 <!-- wp:details {"style":{"spacing":{"margin":{"top":"0"}}},"className":"is-style-arrow-icon-details","fontSize":"medium"} -->

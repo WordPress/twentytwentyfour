@@ -46,9 +46,40 @@ a {
 }
 
 .is-style-arrow-icon-details summary {
-    list-style-type: '\2193\00a0\00a0\00a0';
+	list-style-type: '\2193\00a0\00a0\00a0';
 }
 
 .is-style-arrow-icon-details[open] > summary {
 	list-style-type: '\2192\00a0\00a0\00a0';
+}
+
+/*
+ * Styles variation for post terms
+ * https://github.com/WordPress/gutenberg/issues/24956
+ */
+
+.is-style-pill a,
+.is-style-pill span:not([class], [data-rich-text-placeholder])
+{
+	display:inline-block;
+	background-color: #f2f2f2;
+	padding: 6px 14px;
+	border-radius:16px;
+	margin: 0 10px 10px 0;
+}
+
+.is-style-pill a:hover {
+	background:#eee;
+}
+
+/*
+ * Styles for the custom checkmark list block style
+ * https://github.com/WordPress/gutenberg/issues/51480
+ */
+ul.is-style-checkmark-list {
+	list-style-type: "\2713";
+}
+
+ul.is-style-checkmark-list li {
+	padding-inline-start: 1ch;
 }

@@ -73,8 +73,21 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 				'label' => __( 'Arrow icon', 'twentytwentyfour' ),
 			)
 		);
+		register_block_style(
+			'core/post-terms',
+			array(
+				'name'  => 'pill',
+				'label' => __( 'Pill', 'twentytwentyfour' ),
+			)
+		);
+		register_block_style(
+			'core/list',
+			array(
+				'name'  => 'checkmark-list',
+				'label' => __( 'Checkmark', 'twentytwentyfour' ),
+			)
+		);
 	}
 endif;
 
-add_action( 'init', 'twentytwentyfour_block_styles' );
 add_action( 'init', 'twentytwentyfour_block_styles' );

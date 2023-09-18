@@ -1,4 +1,8 @@
-<!-- wp:template-part {"slug":"header-portfolio","tagName":"header"} /-->
+<!-- wp:group {"style":{"position":{"type":"sticky","top":"0px"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group">
+	<!-- wp:template-part {"slug":"header"} /-->
+</div>
+<!-- /wp:group -->
 
 <!-- wp:group {"tagName":"main","layout":{"type":"default"}} -->
 <main class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0vh","bottom":"6vh"}}},"layout":{"type":"constrained"}} -->
@@ -8,7 +12,7 @@
 <!-- wp:group {"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"1rem","left":"1rem"}}}} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:post-title /--></div>
+<div class="wp-block-column"><!-- wp:post-title {"level":1,"fontSize":"x-large"} /--></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
@@ -18,4 +22,4 @@
 <!-- /wp:group --></main>
 <!-- /wp:group -->
 
-<!-- wp:template-part {"slug":"footer-portfolio","tagName":"footer"} /-->
+<!-- wp:template-part {"slug":"footer-portfolio","area":"footer","tagName":"footer"} /-->
