@@ -15,11 +15,12 @@ Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, feature
 */
 
 /*
- * Control the hover stylings of outline block style.
+ * Control the hover stylings of Button block's Outline style.
  * Unnecessary once block styles are configurable via theme.json
  * https://github.com/WordPress/gutenberg/issues/42794
  */
-.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-background):hover {
+
+.wp-block-button.is-style-outline > .wp-block-button__link:not(.has-background):hover {
 	background-color: var(--wp--preset--color--contrast-2);
 	color: var(--wp--preset--color--base);
 	border-color: var(--wp--preset--color--contrast-2);
@@ -29,13 +30,14 @@ Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, feature
  * Link styles
  * https://github.com/WordPress/gutenberg/issues/42319
  */
+
 a {
-	text-decoration-thickness: .0625em !important;
-	text-underline-offset: .15em;
+	text-decoration-thickness: 0.0625em !important;
+	text-underline-offset: 0.15em;
 }
 
 /*
- * Styles for the custom Faq arrow details block style
+ * Styles for the custom Arrow icon style of the Details block
  * https://github.com/WordPress/twentytwentyfour/issues/46
  */
 
@@ -46,11 +48,11 @@ a {
 }
 
 .is-style-arrow-icon-details summary {
-	list-style-type: '\2193\00a0\00a0\00a0';
+	list-style-type: "\2193\00a0\00a0\00a0";
 }
 
 .is-style-arrow-icon-details[open] > summary {
-	list-style-type: '\2192\00a0\00a0\00a0';
+	list-style-type: "\2192\00a0\00a0\00a0";
 }
 
 /*
@@ -61,21 +63,22 @@ a {
 .is-style-pill a,
 .is-style-pill span:not([class], [data-rich-text-placeholder])
 {
-	display:inline-block;
+	display: inline-block;
 	background-color: #f2f2f2;
 	padding: 6px 14px;
-	border-radius:16px;
+	border-radius: 16px;
 	margin: 0 10px 10px 0;
 }
 
 .is-style-pill a:hover {
-	background:#eee;
+	background-color: #eee;
 }
 
 /*
  * Styles for the custom checkmark list block style
  * https://github.com/WordPress/gutenberg/issues/51480
  */
+
 ul.is-style-checkmark-list {
 	list-style-type: "\2713";
 }
