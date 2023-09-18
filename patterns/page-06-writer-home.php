@@ -66,10 +66,7 @@
 
 <!-- wp:column {"width":"30%"} -->
 <div class="wp-block-column" style="flex-basis:30%">
-
-
-<!-- wp:pattern {"slug":"twentytwentyfour/sidebar"} /-->
-
+<!-- wp:template-part {"slug":"sidebar","theme":"twentytwentyfour"} /-->
 </div>
 <!-- /wp:column -->
 
