@@ -80,6 +80,13 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 				'label' => __( 'Pill', 'twentytwentyfour' ),
 			)
 		);
+		register_block_style(
+			'core/list',
+			array(
+				'name'  => 'checkmark-list',
+				'label' => __( 'Checkmark', 'twentytwentyfour' ),
+			)
+		);
 	}
 endif;
 
