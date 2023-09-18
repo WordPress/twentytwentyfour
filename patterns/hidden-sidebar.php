@@ -10,9 +10,9 @@
 <div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:avatar {"size":80,"style":{"border":{"radius":"16px"}}} /-->
 
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.4rem"}},"fontFamily":"cardo"} -->
-<p class="has-cardo-font-family" style="font-size:1.4rem"><?php echo esc_html__( 'About the author', 'twentytwentyfour' ); ?></p>
-<!-- /wp:paragraph -->
+<!-- wp:heading {"style":{"typography":{"fontSize":"1.4rem"}}} -->
+<h2 class="wp-block-heading" style="font-size:1.4rem"><?php echo esc_html__( 'About the author', 'twentytwentyfour' ); ?></h2>
+<!-- /wp:heading -->
 
 <!-- wp:post-author-biography {"fontSize":"small"} /-->
 </div>
@@ -22,9 +22,9 @@
 <hr class="wp-block-separator has-text-color has-base-3-color has-alpha-channel-opacity has-base-3-background-color has-background is-style-wide"/>
 <!-- /wp:separator -->
 
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.6rem"}},"fontFamily":"cardo"} -->
-<p class="has-cardo-font-family" style="font-size:1.6rem"><?php echo esc_html__( 'Latest Posts', 'twentytwentyfour' ); ?></p>
-<!-- /wp:paragraph -->
+<!-- wp:heading {"style":{"typography":{"fontSize":"1.6rem"}}} -->
+<h2 class="wp-block-heading" style="font-size:1.6rem"><?php echo esc_html__( 'Latest Posts', 'twentytwentyfour' ); ?></h2>
+<!-- /wp:heading -->
 
 <!-- wp:query {"query":{"perPage":3,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
 <div class="wp-block-query"><!-- wp:post-template -->
