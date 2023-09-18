@@ -960,6 +960,13 @@
 			"title": "Page No Title"
 		},
 		{
+			"name": "page-with-sidebar",
+			"postTypes": [
+				"page"
+			],
+			"title": "Page With Sidebar"
+		},
+		{
 			"name": "page-writer",
 			"postTypes": [
 				"page"
