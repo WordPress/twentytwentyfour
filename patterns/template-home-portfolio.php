@@ -2,7 +2,7 @@
 /**
  * Title: Portfolio Template
  * Slug: twentytwentyfour/template-home-portfolio
- * Template Types: front-page, index, home, page
+ * Template Types: front-page, index, home
  * Viewport width: 1400
  * Inserter: no
  */

@@ -2,7 +2,7 @@
 /**
  * Title: RSVP
  * Slug: twentytwentyfour/rsvp
- * Categories: call-to-action, featured
+ * Categories: call-to-action, banner, featured
  * Viewport width: 1400
  */
 ?>

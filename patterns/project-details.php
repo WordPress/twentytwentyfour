@@ -2,7 +2,7 @@
 /**
  * Title: Project Details
  * Slug: twentytwentyfour/project-details
- * Categories: text, featured
+ * Categories: text, portfolio
  * Viewport width: 1400
  */
 

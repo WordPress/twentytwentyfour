@@ -2,7 +2,7 @@
 /**
 * Title: Faq
 * Slug: twentytwentyfour/faq
-* Categories: about, text, featured
+* Categories: text
 * Viewport width: 1400
 */
 ?>

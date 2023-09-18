@@ -1,8 +1,8 @@
 <?php
 /**
- * Title: About 2
- * Slug: twentytwentyfour/about-2
- * Categories: about, featured, text
+ * Title: Title text and button on left with image on right
+ * Slug: twentytwentyfour/text-title-left-image-right
+ * Categories: text, about, featured
  * Viewport width: 1400
  */
 
