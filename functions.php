@@ -87,6 +87,13 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 				'label' => __( 'Checkmark', 'twentytwentyfour' ),
 			)
 		);
+		register_block_style(
+			'core/group',
+			array(
+				'name'  => 'rounded',
+				'label' => __( 'Rounded', 'twentytwentyfour' ),
+			)
+		);
 	}
 endif;
 

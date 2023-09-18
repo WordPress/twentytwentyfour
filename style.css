@@ -83,3 +83,10 @@ ul.is-style-checkmark-list {
 ul.is-style-checkmark-list li {
 	padding-inline-start: 1ch;
 }
+
+/*
+ * Style for the rounded group block style
+ */
+.wp-block-group.is-style-rounded {
+	border-radius: var(--wp--preset--spacing--20);
+}
