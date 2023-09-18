@@ -7,26 +7,27 @@
  */
 ?>
 
-<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}}} -->
+<!-- wp:group {"align":"wide","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}}} -->
 <div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:image {"width":"40px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/icon-message.webp" alt="" style="width:40px;height:auto"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/icon-message.webp" alt="<?php echo esc_attr__( 'Message Icon', 'twentytwentyfour' ); ?>" style="width:40px;height:auto"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 <!-- /wp:separator -->
 
 <!-- wp:columns {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10"}}}} -->
 <div class="wp-block-columns" style="padding-top:var(--wp--preset--spacing--10)"><!-- wp:column {"width":"57%"} -->
-<div class="wp-block-column" style="flex-basis:57%"><!-- wp:paragraph {"fontSize":"x-large","fontFamily":"cardo"} -->
-<p class="has-cardo-font-family has-x-large-font-size">Resta al passo, contattaci.</p>
+<div class="wp-block-column" style="flex-basis:57%"><!-- wp:paragraph {"fontSize":"x-large","fontFamily":"heading"} -->
+<p class="has-heading-font-family has-x-large-font-size">Keep up, get in touch.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"30%"} -->
 <div class="wp-block-column" style="flex-basis:30%"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph -->
-<p>Contattami</p>
+<p>Contact Me</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -40,7 +41,7 @@
 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph -->
-<p>Seguimi</p>
+<p>Follow Me</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -74,5 +75,6 @@
 		?>
 </p>
 <!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->

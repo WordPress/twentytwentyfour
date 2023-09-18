@@ -37,14 +37,27 @@
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
-<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
-<p style="line-height:1.8"><?php echo esc_html_x( '✓ Collaborate with fellow architects', 'A general list item.', 'twentytwentyfour' ); ?><br><?php echo esc_html_x( '✓ Showcase your projects', 'A general list item.', 'twentytwentyfour' ); ?><br><?php echo esc_html_x( '✓ Experience the world of architecture like never before', 'A general list item.', 'twentytwentyfour' ); ?></p>
-<!-- /wp:paragraph --></div>
+<!-- wp:list {"style":{"typography":{"lineHeight":"1.75"}},"className":"is-style-checkmark-list"} -->
+<ul class="is-style-checkmark-list" style="line-height:1.75">
+	<!-- wp:list-item -->
+	<li><?php echo esc_html_x( 'Collaborate with fellow architects', 'A general list item.', 'twentytwentyfour' ); ?></li>
+	<!-- /wp:list-item -->
+
+	<!-- wp:list-item -->
+	<li><?php echo esc_html_x( 'Showcase your projects', 'A general list item.', 'twentytwentyfour' ); ?></li>
+	<!-- /wp:list-item -->
+
+	<!-- wp:list-item -->
+	<li><?php echo esc_html_x( 'Experience the world of architecture like never before', 'A general list item.', 'twentytwentyfour' ); ?></li>
+	<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/business-app.webp" alt="<?php echo esc_attr( 'Woman taking picture of a building.', 'twentytwentyfour' ); ?>"/></figure>
+<figure class="wp-block-image size-large is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/business-app.webp" alt="<?php echo esc_attr__( 'Woman taking picture of a building.', 'twentytwentyfour' ); ?>"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -56,7 +69,7 @@
 <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|80"}}}} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/home.webp" alt="<?php echo esc_attr( 'Windows of a building.', 'twentytwentyfour' ); ?>"/></figure>
+<figure class="wp-block-image size-large is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/home.webp" alt="<?php echo esc_attr__( 'Windows of a building.', 'twentytwentyfour' ); ?>"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -71,8 +84,22 @@
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
-<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
-<p style="line-height:1.8"><?php echo esc_html_x( '✓ Dive into a world of thought-provoking articles', 'A general list item.', 'twentytwentyfour' ); ?><br><?php echo esc_html_x( '✓ Read case studies that celebrate the artistry of architecture', 'A general list item.', 'twentytwentyfour' ); ?><br><?php echo esc_html_x( '✓ Gain exclusive access to design insights', 'A general list item.', 'twentytwentyfour' ); ?></p>
+<!-- wp:list {"style":{"typography":{"lineHeight":"1.75"}},"className":"is-style-checkmark-list"} -->
+<ul class="is-style-checkmark-list" style="line-height:1.75">
+	<!-- wp:list-item -->
+	<li><?php echo esc_html_x( 'Dive into a world of thought-provoking articles', 'A general list item.', 'twentytwentyfour' ); ?></li>
+	<!-- /wp:list-item -->
+
+	<!-- wp:list-item -->
+	<li><?php echo esc_html_x( 'Read case studies that celebrate the artistry of architecture', 'A general list item.', 'twentytwentyfour' ); ?></li>
+	<!-- /wp:list-item -->
+
+	<!-- wp:list-item -->
+	<li><?php echo esc_html_x( 'Gain exclusive access to design insights', 'A general list item.', 'twentytwentyfour' ); ?></li>
+	<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</div>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>

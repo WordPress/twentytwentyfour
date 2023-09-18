@@ -17,8 +17,8 @@
 <!-- wp:column {"width":"60%"} -->
 <div class="wp-block-column" style="flex-basis:60%">
 
-<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"x-large","fontFamily":"cardo"} -->
-<p class="has-cardo-font-family has-x-large-font-size" style="line-height:1.2"><?php echo esc_html_x( 'This transformative project seeks to enhance the gallery\'s infrastructure, accessibility, and exhibition spaces while preserving its rich cultural heritage.', 'A heading type project description.', 'twentytwentyfour' ); ?></p>
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"x-large","fontFamily":"heading"} -->
+<p class="has-heading-font-family has-x-large-font-size" style="line-height:1.2"><?php echo esc_html_x( 'This transformative project seeks to enhance the gallery\'s infrastructure, accessibility, and exhibition spaces while preserving its rich cultural heritage.', 'A heading type project description.', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 </div>
@@ -30,6 +30,6 @@
 <!-- /wp:spacer -->
 
 <!-- wp:image {"align":"wide","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
-<figure class="wp-block-image alignwide size-large is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_projectoverview.jpg" alt="<?php echo esc_attr( 'An women walking in the stair.', 'twentytwentyfour' ); ?>"/></figure>
+<figure class="wp-block-image alignwide size-large is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_projectoverview.jpg" alt="<?php echo esc_attr__( 'An women walking in the stair.', 'twentytwentyfour' ); ?>"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
