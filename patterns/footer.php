@@ -23,8 +23,8 @@
 <div class="wp-block-column" style="flex-basis:20%"></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"width":"50%","style":{"spacing":{"padding":{"top":"var:preset|spacing|30"}}}} -->
-<div class="wp-block-column" style="padding-top:var(--wp--preset--spacing--30);flex-basis:50%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
+<!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
 <div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"medium","fontFamily":"body"} -->
 <h3 class="wp-block-heading has-system-font-font-family has-medium-font-size" style="font-style:normal;font-weight:600">About</h3>
