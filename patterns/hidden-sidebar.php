@@ -53,8 +53,8 @@
 <h2 class="wp-block-heading" style="font-size:1.6rem"><?php echo esc_html__( 'Useful links', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Things that I find useful and wanted to share with you.', 'twentytwentyfour' ); ?></p>
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size"><?php echo esc_html__( 'Things that I find useful and wanted to share with you.', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:navigation {"overlayMenu":"never","layout":{"type":"flex","orientation":"vertical"},"style":{"typography":{"fontStyle":"normal","fontWeight":"400","textDecoration":"underline"}},"fontSize":"small"} -->
