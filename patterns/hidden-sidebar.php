@@ -18,8 +18,8 @@
 </div>
 <!-- /wp:group -->
 
-<!-- wp:separator {"backgroundColor":"base-3"} -->
-<hr class="wp-block-separator has-text-color has-base-3-color has-alpha-channel-opacity has-custom-borders-background-color has-background"/>
+<!-- wp:separator {"backgroundColor":"base-3","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-base-3-color has-alpha-channel-opacity has-base-3-background-color has-background is-style-wide"/>
 <!-- /wp:separator -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"1.6rem"}},"fontFamily":"cardo"} -->
@@ -42,8 +42,8 @@
 <!-- /wp:post-template --></div>
 <!-- /wp:query -->
 
-<!-- wp:separator {"backgroundColor":"base-3"} -->
-<hr class="wp-block-separator has-text-color has-base-3-color has-alpha-channel-opacity has-custom-borders-background-color has-background"/>
+<!-- wp:separator {"backgroundColor":"base-3","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-base-3-color has-alpha-channel-opacity has-base-3-background-color has-background is-style-wide"/>
 <!-- /wp:separator -->
 
 <!-- wp:group {"layout":{"type":"constrained"}} -->
