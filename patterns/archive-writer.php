@@ -2,7 +2,7 @@
 /**
  * Title: Writer Archive Template
  * Slug: twentytwentyfour/archive-writer
- * Template Types: archive
+ * Template Types: archive, page
  * Viewport width: 1400
  * Inserter: no
  */
