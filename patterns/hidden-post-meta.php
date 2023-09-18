@@ -12,8 +12,8 @@
 	<div class="wp-block-group">
 		<!-- wp:post-date {"format":"M j, Y","isLink":true} /-->
 
-		<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}}},"textColor":"contrast-2"} -->
-		<p class="has-contrast-2-color has-text-color has-link-color">—</p>
+		<!-- wp:paragraph {"textColor":"contrast-2"} -->
+		<p class="has-contrast-2-color has-text-color">—</p>
 		<!-- /wp:paragraph -->
 
 		<!-- wp:paragraph {"fontSize":"small"} -->
