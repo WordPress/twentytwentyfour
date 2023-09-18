@@ -13,6 +13,7 @@ wp.blocks.registerBlockVariation( 'core/query', {
 			order: 'desc',
 			orderBy: 'date',
 			inherit: false,
+			sticky: 'exclude',
 			hasFeaturedImage: true,
 		},
 		align: 'full',
