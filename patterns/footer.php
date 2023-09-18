@@ -26,8 +26,8 @@
 <!-- wp:column {"width":"50%"} -->
 <div class="wp-block-column" style="flex-basis:50%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"className":"wp-block-heading has-system-font-font-family has-medium-font-size","fontFamily":"body"} -->
-<h3 class="wp-block-heading has-system-font-font-family has-medium-font-size has-body-font-family" style="font-style:normal;font-weight:600">About</h3>
+<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"className":"wp-block-heading has-medium-font-size","fontFamily":"body"} -->
+<h3 class="wp-block-heading has-medium-font-size has-body-font-family" style="font-style:normal;font-weight:600">About</h3>
 <!-- /wp:heading -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","orientation":"vertical"}} -->
@@ -47,8 +47,8 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"className":"wp-block-heading has-system-font-font-family has-medium-font-size","fontFamily":"body"} -->
-<h3 class="wp-block-heading has-system-font-font-family has-medium-font-size has-body-font-family" style="font-style:normal;font-weight:600">Privacy</h3>
+<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"className":"wp-block-heading has-medium-font-size","fontFamily":"body"} -->
+<h3 class="wp-block-heading has-medium-font-size has-body-font-family" style="font-style:normal;font-weight:600">Privacy</h3>
 <!-- /wp:heading -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","orientation":"vertical"}} -->
@@ -67,8 +67,8 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"className":"wp-block-heading has-system-font-font-family has-medium-font-size","fontFamily":"body"} -->
-<h3 class="wp-block-heading has-system-font-font-family has-medium-font-size has-body-font-family" style="font-style:normal;font-weight:600">Social Media</h3>
+<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"className":"wp-block-heading has-medium-font-size","fontFamily":"body"} -->
+<h3 class="wp-block-heading has-medium-font-size has-body-font-family" style="font-style:normal;font-weight:600">Social Media</h3>
 <!-- /wp:heading -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","orientation":"vertical"}} -->
