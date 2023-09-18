@@ -2,7 +2,8 @@
 /**
  * Title: Posts for Writer templates
  * Slug: twentytwentyfour/posts-writer
- * Inserter: no
+ * Categories: query
+ * Block Types: core/query
  */
 ?>
 

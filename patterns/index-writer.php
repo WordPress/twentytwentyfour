@@ -2,7 +2,7 @@
 /**
  * Title: Writer Index Template
  * Slug: twentytwentyfour/index-writer
- * Template Types: index
+ * Template Types: index, home, page
  * Viewport width: 1400
  * Inserter: no
  */
