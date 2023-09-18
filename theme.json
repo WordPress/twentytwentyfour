@@ -716,9 +716,16 @@
 				}
 			},
 			"core/search": {
+				"css": "& .wp-block-search__input{border-radius:.33rem}",
 				"typography": {
-					"fontSize": "var(--wp--preset--font-size--small)",
-					"fontWeight": "600"
+					"fontSize": "var(--wp--preset--font-size--small)"
+				},
+				"elements": {
+					"button": {
+						"border": {
+							"radius": { "ref": "styles.elements.button.border.radius" }
+						}
+					}
 				}
 			},
 			"core/separator": {
