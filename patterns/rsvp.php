@@ -2,7 +2,7 @@
 /**
  * Title: RSVP
  * Slug: twentytwentyfour/rsvp
- * Categories: call-to-action, featured
+ * Categories: call-to-action, banner, featured
  * Viewport width: 1400
  */
 ?>
@@ -13,8 +13,8 @@
 <div class="wp-block-column is-vertically-aligned-stretch" style="flex-basis:50%"><!-- wp:group {"style":{"dimensions":{"minHeight":"100%"},"spacing":{"blockGap":"var:preset|spacing|50"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left","verticalAlignment":"space-between"}} -->
 <div class="wp-block-group" style="min-height:100%">
 
-<!-- wp:paragraph {"align":"right","style":{"typography":{"writingMode":"vertical-rl","fontSize":"12rem","lineHeight":"1"},"spacing":{"margin":{"right":"0","left":"calc( var(--wp--preset--spacing--30) * -1)"}}},"fontFamily":"cardo"} -->
-<p class="has-text-align-right has-cardo-font-family" style="margin-right:0;margin-left:calc( var(--wp--preset--spacing--30) * -1);font-size:12rem;line-height:1;writing-mode:vertical-rl"><?php echo esc_html_x( 'RSVP', 'Initials for ´please respond´', 'twentytwentyfour' ); ?></p>
+<!-- wp:paragraph {"align":"right","style":{"typography":{"writingMode":"vertical-rl","fontSize":"12rem","lineHeight":"1"},"spacing":{"margin":{"right":"0","left":"calc( var(--wp--preset--spacing--30) * -1)"}}},"fontFamily":"heading"} -->
+<p class="has-text-align-right has-heading-font-family" style="margin-right:0;margin-left:calc( var(--wp--preset--spacing--30) * -1);font-size:12rem;line-height:1;writing-mode:vertical-rl"><?php echo esc_html_x( 'RSVP', 'Initials for ´please respond´', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"layout":{"type":"constrained","contentSize":"300px","justifyContent":"left"}} -->

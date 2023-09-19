@@ -10,7 +10,7 @@
 <!-- wp:group {"align":"wide","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}}} -->
 <div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:image {"width":"40px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="http://wp-stable.test/wp-content/themes/twentytwentyfour/assets/images/icon-message.webp" alt="" style="width:40px;height:auto"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/icon-message.webp" alt="<?php echo esc_attr__( 'Envelope icon', 'twentytwentyfour' ); ?>" style="width:40px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator {"className":"is-style-wide"} -->
@@ -19,8 +19,8 @@
 
 <!-- wp:columns {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10"}}}} -->
 <div class="wp-block-columns" style="padding-top:var(--wp--preset--spacing--10)"><!-- wp:column {"width":"57%"} -->
-<div class="wp-block-column" style="flex-basis:57%"><!-- wp:paragraph {"fontSize":"x-large","fontFamily":"cardo"} -->
-<p class="has-cardo-font-family has-x-large-font-size">Keep up, get in touch.</p>
+<div class="wp-block-column" style="flex-basis:57%"><!-- wp:paragraph {"fontSize":"x-large","fontFamily":"heading"} -->
+<p class="has-heading-font-family has-x-large-font-size">Keep up, get in touch.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 

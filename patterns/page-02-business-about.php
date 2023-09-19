@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: About
+ * Title: About Page
  * Slug: twentytwentyfour/business-about
  * Categories: about
  * Keywords: page, starter
@@ -10,7 +10,7 @@
  */
 ?>
 
-<!-- wp:pattern {"slug":"twentytwentyfour/about-2"} /-->
+<!-- wp:pattern {"slug":"twentytwentyfour/text-title-left-image-right"} /-->
 <!-- wp:pattern {"slug":"twentytwentyfour/project-details"} /-->
 <!-- wp:pattern {"slug":"twentytwentyfour/services-cta"} /-->
 <!-- wp:pattern {"slug":"twentytwentyfour/team"} /-->

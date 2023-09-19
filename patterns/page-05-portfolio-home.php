@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: Portfolio
+ * Title: Portfolio Home Page
  * Slug: twentytwentyfour/page-portfolio-home
  * Categories: portfolio
  * Keywords: page, starter
