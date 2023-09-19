@@ -54,7 +54,7 @@
 							<h3 class="wp-block-heading has-body-font-family has-medium-font-size"><?php esc_html_e( 'Follow Me', 'twentytwentyfour' ); ?></h3>
 							<!-- /wp:heading -->
 							<!-- wp:paragraph -->
-							<p><a href="#"><?php esc_html_e( 'Instagram', 'twentytwentyfour' );?></a> / <a href="#"><?php esc_html_e( 'Facebook', 'twentytwentyfour' ); ?></a></p>
+							<p><a href="#"><?php esc_html_e( 'Instagram', 'twentytwentyfour' ); ?></a> / <a href="#"><?php esc_html_e( 'Facebook', 'twentytwentyfour' ); ?></a></p>
 							<!-- /wp:paragraph -->
 						</div>
 						<!-- /wp:group -->
