@@ -1,6 +1,16 @@
+<?php
+/**
+ * Title: Portfolio Single post Template
+ * Slug: twentytwentyfour/template-single-portfolio
+ * Template Types: posts, single
+ * Viewport width: 1400
+ * Inserter: no
+ */
+?>
+
 <!-- wp:group {"style":{"position":{"type":"sticky","top":"0px"}},"layout":{"type":"default"}} -->
 <div class="wp-block-group">
-	<!-- wp:template-part {"slug":"header"} /-->
+	<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour"} /-->
 </div>
 <!-- /wp:group -->
 
