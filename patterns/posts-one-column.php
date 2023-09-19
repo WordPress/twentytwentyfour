@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Posts for Writer templates
- * Slug: twentytwentyfour/posts-writer
+ * Title: List of Posts in one column
+ * Slug: twentytwentyfour/posts-one-column
  * Categories: query
  * Block Types: core/query
  */

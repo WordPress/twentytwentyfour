@@ -14,5 +14,5 @@
 <!-- wp:pattern {"slug":"twentytwentyfour/feature-grid"} /-->
 <!-- wp:pattern {"slug":"twentytwentyfour/features-with-images"} /-->
 <!-- wp:pattern {"slug":"twentytwentyfour/testimonial-centered"} /-->
-<!-- wp:pattern {"slug":"twentytwentyfour/posts"} /-->
+<!-- wp:pattern {"slug":"twentytwentyfour/posts-featured"} /-->
 <!-- wp:pattern {"slug":"twentytwentyfour/cta"} /-->

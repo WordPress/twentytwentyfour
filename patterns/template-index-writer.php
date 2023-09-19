@@ -1,8 +1,8 @@
 <?php
 /**
- * Title: Writer Archive Template
- * Slug: twentytwentyfour/archive-writer
- * Template Types: archive, page
+ * Title: Writer Index Template
+ * Slug: twentytwentyfour/index-writer
+ * Template Types: index, home, page
  * Viewport width: 1400
  * Inserter: no
  */
@@ -18,10 +18,12 @@
 <main class="wp-block-group" style="margin-top:0">
 	<!-- wp:group {"layout":{"type":"constrained"}} -->
 	<div class="wp-block-group">
-		<!-- wp:query-title {"type":"archive","style":{"typography":{"lineHeight":"1"},"spacing":{"padding":{"top":"var:preset|spacing|50"}}}} /-->
+		<!-- wp:heading {"level":1,"style":{"typography":{"lineHeight":"1"},"spacing":{"padding":{"top":"var:preset|spacing|50"}}}} -->
+		<h1 class="wp-block-heading" style="padding-top:var(--wp--preset--spacing--50);line-height:1">Watch, Read, Listen</h1>
+		<!-- /wp:heading -->
 	</div>
 	<!-- /wp:group -->
-	<!-- wp:pattern {"slug":"twentytwentyfour/posts-writer"} /-->
+	<!-- wp:pattern {"slug":"twentytwentyfour/posts-one-column"} /-->
 </main>
 <!-- /wp:group -->
 

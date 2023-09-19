@@ -22,7 +22,7 @@
 		<!-- wp:search {"label":"Search","showLabel":false,"buttonText":"Search","fontSize":"medium"} /-->
 	</div>
 	<!-- /wp:group -->
-	<!-- wp:pattern {"slug":"twentytwentyfour/posts-writer"} /-->
+	<!-- wp:pattern {"slug":"twentytwentyfour/posts-one-column"} /-->
 </main>
 <!-- /wp:group -->
 
