@@ -73,7 +73,7 @@
 
 		<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 		<div class="wp-block-group">
-			<!-- wp:group {"style":{"spacing":{"blockGap":"6px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+			<!-- wp:group {"style":{"spacing":{"blockGap":"6px"}},"layout":{"type":"flex","flexWrap":"wrap"}} -->
 			<div class="wp-block-group">
 				<!-- wp:paragraph {"fontSize":"small"} -->
 				<p class="has-small-font-size"><?php esc_html_e( '© 2024', 'twentytwentyfour' ); ?></p>
