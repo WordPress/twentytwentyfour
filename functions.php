@@ -66,6 +66,15 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 	 *
 	 */
 	function twentytwentyfour_block_styles() {
+		wp_enqueue_block_style(
+			'core/button',
+			array(
+				'handle' => 'twentytwentyfour-button-style-outline',
+				'src'    => get_template_directory_uri() . '/assets/css/button-outline.css',
+			)
+		);
+		wp_style_add_data( 'twentytwentyfour-button-style-outline', 'path', get_theme_file_path( 'assets/css/button-outline.css' ) );
+
 		register_block_style(
 			'core/details',
 			array(
