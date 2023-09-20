@@ -953,20 +953,6 @@
 	],
 	"customTemplates": [
 		{
-			"name": "home-portfolio",
-			"postTypes": [
-				"page"
-			],
-			"title": "Home Portfolio"
-		},
-		{
-			"name": "home-writer",
-			"postTypes": [
-				"page"
-			],
-			"title": "Home Writer"
-		},
-		{
 			"name": "page-no-title",
 			"postTypes": [
 				"page"
@@ -981,25 +967,11 @@
 			"title": "Page With Sidebar"
 		},
 		{
-			"name": "page-writer",
+			"name": "page-wide",
 			"postTypes": [
 				"page"
 			],
-			"title": "Page Writer"
-		},
-		{
-			"name": "page-portfolio",
-			"postTypes": [
-				"page"
-			],
-			"title": "Page Portfolio"
-		},
-		{
-			"name": "single-writer",
-			"postTypes": [
-				"post"
-			],
-			"title": "Single Writer"
+			"title": "Page with wide Image"
 		},
 		{
 			"name": "single-with-sidebar",
