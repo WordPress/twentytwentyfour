@@ -65,4 +65,4 @@
 | @labunchemjong | @labunchemjong |
 | @thetwopct | @bonkerz |
 | @karmacharya50 | @karmacharya50 |
-| aristath | @aristath |
+| @aristath | @aristath |
