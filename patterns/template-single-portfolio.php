@@ -27,7 +27,7 @@
 	<!-- /wp:column -->
 	
 	<!-- wp:column {"width":"55%"} -->
-	<div class="wp-block-column" style="flex-basis:55%"><!-- wp:pattern {"slug":"twentytwentyfour/post-meta"} /--></div>
+	<div class="wp-block-column" style="flex-basis:55%"><!-- wp:template-part {"slug":"post-meta"} /--></div>
 	<!-- /wp:column --></div>
 	<!-- /wp:columns -->
 
