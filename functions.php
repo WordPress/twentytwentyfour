@@ -66,6 +66,14 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 	 *
 	 */
 	function twentytwentyfour_block_styles() {
+		/**
+		 * The wp_enqueue_block_style() function allows us to enqueue a stylesheet
+		 * for a specific block. These will only get loaded when the block is rendered
+		 * (both in the editor and on the front end), improving performance
+		 * and reducing the amount of data requested by visitors.
+		 *
+		 * See https://make.wordpress.org/core/2021/12/15/using-multiple-stylesheets-per-block/ for more info.
+		 */
 		wp_enqueue_block_style(
 			'core/button',
 			array(
@@ -73,6 +81,15 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 				'src'    => get_template_directory_uri() . '/assets/css/button-outline.css',
 			)
 		);
+
+		/**
+		 * Add the `path` data to our stylesheet.
+		 *
+		 * This will let WordPress determine the best loading strategy for the stylesheet:
+		 * Small stylesheets will get inlined, while larger stylesheets will be loaded separately.
+		 *
+		 * See https://make.wordpress.org/core/2021/07/01/block-styles-loading-enhancements-in-wordpress-5-8/#inlining-small-assets for more info.
+		 */
 		wp_style_add_data( 'twentytwentyfour-button-style-outline', 'path', get_theme_file_path( 'assets/css/button-outline.css' ) );
 
 		register_block_style(
