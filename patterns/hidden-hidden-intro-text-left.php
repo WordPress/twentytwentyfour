@@ -19,7 +19,7 @@
 <div class="wp-block-column" style="flex-basis:70%">
 
 <!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"xx-large","fontFamily":"heading"} -->
-<p class="has-heading-font-family has-xx-large-font-size" style="line-height:1.2"><?php echo wp_kses_post( __( 'I’m <em>Leia Acosta</em>, a passionate photographer who finds inspiration in capturing the fleeting beauty of life.' ) );?>
+<p class="has-heading-font-family has-xx-large-font-size" style="line-height:1.2"><?php echo wp_kses_post( __( 'I’m <em>Leia Acosta</em>, a passionate photographer who finds inspiration in capturing the fleeting beauty of life.' ) ); ?>
 <!-- /wp:paragraph -->
 </div>
 <!-- /wp:column -->
