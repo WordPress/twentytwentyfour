@@ -3,6 +3,7 @@
  * Title: Pricing
  * Slug: twentytwentyfour/pricing
  * Categories: call-to-action
+ * Viewport width: 1400
  */
 
 ?>

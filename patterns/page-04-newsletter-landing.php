@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: Newsletter Landing
+ * Title: Newsletter Landing Page
  * Slug: twentytwentyfour/page-newsletter-landing
  * Categories: call-to-action
  * Keywords: page, starter
