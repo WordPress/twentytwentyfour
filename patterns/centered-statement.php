@@ -4,6 +4,8 @@
  * Slug: twentytwentyfour/centered-statement
  * Categories: text, about, featured
  * Viewport width: 1400
+ *
+ * @url https://www.figma.com/file/AlYr03vh4dVimwYwQkTdf6/Twenty-Twenty-Four?type=design&node-id=492-4337&mode=dev
  */
 ?>
 
