@@ -10,7 +10,7 @@
 <!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}}},"backgroundColor":"base-2","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull has-base-2-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group">
-<!-- wp:separator {"align":"center","backgroundColor":"accent-3","className":"is-style-asterisk"} -->
+<!-- wp:separator {"align":"center","backgroundColor":"contrast-2","className":"is-style-asterisk"} -->
 <hr class="wp-block-separator aligncenter has-alpha-channel-opacity has-contrast-2-background-color has-background is-style-asterisk"/>
 <!-- /wp:separator -->
 
@@ -34,7 +34,7 @@
 <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|30","left":"var:preset|spacing|40"}}}} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}}} -->
 <div class="wp-block-column">
-<!-- wp:separator {"backgroundColor":"accent-3","className":"is-style-asterisk"} -->
+<!-- wp:separator {"backgroundColor":"contrast-2","className":"is-style-asterisk"} -->
 <hr class="wp-block-separator has-alpha-channel-opacity has-contrast-2-background-color has-background is-style-asterisk"/>
 <!-- /wp:separator -->
 
@@ -49,7 +49,7 @@
 
 <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}}} -->
 <div class="wp-block-column">
-<!-- wp:separator {"backgroundColor":"accent-3","className":"is-style-asterisk"} -->
+<!-- wp:separator {"backgroundColor":"contrast-2","className":"is-style-asterisk"} -->
 <hr class="wp-block-separator has-alpha-channel-opacity has-contrast-2-background-color has-background is-style-asterisk"/>
 <!-- /wp:separator -->
 
@@ -64,7 +64,7 @@
 
 <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}}} -->
 <div class="wp-block-column">
-<!-- wp:separator {"backgroundColor":"accent-3","className":"is-style-asterisk"} -->
+<!-- wp:separator {"backgroundColor":"contrast-2","className":"is-style-asterisk"} -->
 <hr class="wp-block-separator has-alpha-channel-opacity has-contrast-2-background-color has-background is-style-asterisk"/>
 <!-- /wp:separator -->
 
@@ -85,7 +85,7 @@
 <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|30","left":"var:preset|spacing|40"}}}} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}}} -->
 <div class="wp-block-column">
-<!-- wp:separator {"backgroundColor":"accent-3","className":"is-style-asterisk"} -->
+<!-- wp:separator {"backgroundColor":"contrast-2","className":"is-style-asterisk"} -->
 <hr class="wp-block-separator has-alpha-channel-opacity has-contrast-2-background-color has-background is-style-asterisk"/>
 <!-- /wp:separator -->
 
@@ -100,7 +100,7 @@
 
 <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}}} -->
 <div class="wp-block-column">
-<!-- wp:separator {"backgroundColor":"accent-3","className":"is-style-asterisk"} -->
+<!-- wp:separator {"backgroundColor":"contrast-2","className":"is-style-asterisk"} -->
 <hr class="wp-block-separator has-alpha-channel-opacity has-contrast-2-background-color has-background is-style-asterisk"/>
 <!-- /wp:separator -->
 
@@ -115,7 +115,7 @@
 
 <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}}} -->
 <div class="wp-block-column">
-<!-- wp:separator {"backgroundColor":"accent-3","className":"is-style-asterisk"} -->
+<!-- wp:separator {"backgroundColor":"contrast-2","className":"is-style-asterisk"} -->
 <hr class="wp-block-separator has-alpha-channel-opacity has-contrast-2-background-color has-background is-style-asterisk"/>
 <!-- /wp:separator -->
 
