@@ -251,6 +251,7 @@
 						}
 					],
 					"fontFamily": "Cardo",
+					"name": "Cardo",
 					"slug": "heading"
 				}
 			],
@@ -459,6 +460,9 @@
 					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
+			"core/post-comments-form": {
+				"css": "& textarea, input{border-radius:.33rem}"
+			},
 			"core/comments-pagination": {
 				"typography": {
 					"fontSize": "var(--wp--preset--font-size--small)"
@@ -506,6 +510,9 @@
 						"left": "var(--wp--preset--spacing--10)"
 					}
 				}
+			},
+			"core/loginout": {
+				"css": "& input{border-radius:.33rem;padding:calc(0.667em + 2px);border:1px solid #949494;}"
 			},
 			"core/navigation": {
 				"elements": {
@@ -716,9 +723,16 @@
 				}
 			},
 			"core/search": {
+				"css": "& .wp-block-search__input{border-radius:.33rem}",
 				"typography": {
-					"fontSize": "var(--wp--preset--font-size--small)",
-					"fontWeight": "600"
+					"fontSize": "var(--wp--preset--font-size--small)"
+				},
+				"elements": {
+					"button": {
+						"border": {
+							"radius": { "ref": "styles.elements.button.border.radius" }
+						}
+					}
 				}
 			},
 			"core/separator": {
@@ -939,20 +953,6 @@
 	],
 	"customTemplates": [
 		{
-			"name": "home-portfolio",
-			"postTypes": [
-				"page"
-			],
-			"title": "Home Portfolio"
-		},
-		{
-			"name": "home-writer",
-			"postTypes": [
-				"page"
-			],
-			"title": "Home Writer"
-		},
-		{
 			"name": "page-no-title",
 			"postTypes": [
 				"page"
@@ -960,25 +960,18 @@
 			"title": "Page No Title"
 		},
 		{
-			"name": "page-writer",
+			"name": "page-with-sidebar",
 			"postTypes": [
 				"page"
 			],
-			"title": "Page Writer"
+			"title": "Page With Sidebar"
 		},
 		{
-			"name": "page-portfolio",
+			"name": "page-wide",
 			"postTypes": [
 				"page"
 			],
-			"title": "Page Portfolio"
-		},
-		{
-			"name": "single-writer",
-			"postTypes": [
-				"post"
-			],
-			"title": "Single Writer"
+			"title": "Page with wide Image"
 		},
 		{
 			"name": "single-with-sidebar",
