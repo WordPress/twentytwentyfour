@@ -21,7 +21,7 @@
 			<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--20);padding-top:0">
 				<!-- wp:post-title {"isLink":true,"style":{"layout":{"flexSize":"min(2.5rem, 3vw)","selfStretch":"fixed"}},"fontSize":"large"} /-->
 
-				<!-- wp:pattern {"slug":"twentytwentyfour/post-meta"} /-->
+				<!-- wp:template-part {"slug":"post-meta"} /-->
 
 				<!-- wp:post-excerpt {"style":{"layout":{"flexSize":"min(2.5rem, 3vw)","selfStretch":"fixed"}},"textColor":"contrast-2","fontSize":"small"} /-->
 

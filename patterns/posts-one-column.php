@@ -16,7 +16,7 @@
 			<!-- wp:group {"style":{"spacing":{"blockGap":"8px"}},"layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap"}} -->
 			<div class="wp-block-group">
 				<!-- wp:post-title {"isLink":true,"style":{"spacing":{"margin":{"bottom":"0"}}},"fontSize":"x-large"} /-->
-				<!-- wp:pattern {"slug":"twentytwentyfour/post-meta"} /-->
+				<!-- wp:template-part {"slug":"post-meta"} /-->
 				<!-- wp:post-excerpt {"fontSize":"small"} /-->
 				<!-- wp:spacer {"height":"var:preset|spacing|30"} -->
 				<div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
