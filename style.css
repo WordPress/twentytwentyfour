@@ -24,9 +24,3 @@ a {
 	text-underline-offset: 0.15em;
 }
 
-/*
- * Style for the rounded group block style
- */
-.wp-block-group.is-style-rounded {
-	border-radius: var(--wp--preset--spacing--20);
-}

@@ -133,6 +133,7 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 			array(
 				'name'  => 'rounded',
 				'label' => __( 'Rounded', 'twentytwentyfour' ),
+				'inline_style' => '.is-style-rounded{border-radius:16px;background-color:var(--wp--preset--color--base-2);padding:var(--wp--preset--spacing--40);}',
 			)
 		);
 	}
