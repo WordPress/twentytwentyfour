@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Posts
- * Slug: twentytwentyfour/posts
+ * Title: Three Featured posts
+ * Slug: twentytwentyfour/posts-featured
  * Categories: query
  * Block Types: core/query
  */

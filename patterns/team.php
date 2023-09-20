@@ -30,7 +30,7 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|0"}},"layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"align":"center","fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size"><?php echo esc_html_x( 'Francesca Piovani', 'Team Member Name', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-center has-small-font-size"><strong><?php echo esc_html_x( 'Francesca Piovani', 'Team Member Name', 'twentytwentyfour' ); ?></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"small"} -->
@@ -62,7 +62,7 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|0"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"align":"center","fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size"><?php echo esc_html_x( 'Helga Steiner', 'Team Member Name', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-center has-small-font-size"><strong><?php echo esc_html_x( 'Helga Steiner', 'Team Member Name', 'twentytwentyfour' ); ?></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"small"} -->
