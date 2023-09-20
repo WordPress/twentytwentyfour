@@ -128,6 +128,13 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 				'inline_css' => 'ul.is-style-checkmark-list{list-style-type:"\2713";}ul.is-style-checkmark-list li{padding-inline-start:1ch;}',
 			)
 		);
+		register_block_style(
+			'core/separator',
+			array(
+				'name'  => 'asterisk',
+				'label' => __( 'Asterisk', 'twentytwentyfour' ),
+			)
+		);
 	}
 endif;
 

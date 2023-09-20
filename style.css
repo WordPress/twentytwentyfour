@@ -23,3 +23,32 @@ a {
 	text-decoration-thickness: 0.0625em;
 	text-underline-offset: 0.15em;
 }
+
+/*
+ * Block style for post separator
+ */
+.is-style-asterisk.wp-block-separator {
+	background-color: currentColor;
+	border: none;
+	display: inline-block;
+	flex-shrink: 0;
+	height: 1.5rem;
+	vertical-align: middle;
+	width: 1.5rem;
+	-webkit-mask-image: url(./assets/images/asterisk.svg);
+	mask-image: url(./assets/images/asterisk.svg);
+	-webkit-mask-position: center;
+	mask-position: center;
+	-webkit-mask-repeat: no-repeat;
+	mask-repeat: no-repeat;
+}
+
+.is-style-asterisk.wp-block-separator:where(.alignwide, .alignfull, .aligncenter) {
+	display: block;
+	margin-inline-start: auto;
+	margin-inline-end: auto;
+}
+
+.is-style-asterisk.wp-block-separator:not(.is-style-wide):not(.is-style-dots):not(.alignwide):not(.alignfull) {
+	width: 1.5rem;
+}
