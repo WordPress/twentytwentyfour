@@ -8,32 +8,6 @@
  * @since Twenty Twenty Four 1.0
  */
 
-if ( ! function_exists( 'twentytwentyfour_styles' ) ) :
-
-	/**
-	 * Enqueue styles.
-	 *
-	 * @return void
-	 * @since Twenty Twenty Four 1.0
-	 *
-	 */
-	function twentytwentyfour_styles() {
-		// Register theme stylesheet.
-		wp_register_style(
-			'twentytwentyfour-style',
-			get_template_directory_uri() . '/style.css',
-			array(),
-			wp_get_theme()->get( 'Version' )
-		);
-
-		// Enqueue theme stylesheet.
-		wp_enqueue_style( 'twentytwentyfour-style' );
-	}
-
-endif;
-
-add_action( 'wp_enqueue_scripts', 'twentytwentyfour_styles' );
-
 /**
  * Register block Styles
  */
