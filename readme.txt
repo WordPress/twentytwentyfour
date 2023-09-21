@@ -49,7 +49,7 @@ project-2.webp - https://www.rawpixel.com/image/430585/free-photo-image-stairs-s
 project-overview.webp - https://www.rawpixel.com/image/3286187/free-photo-image-person-stairs-architecture
 rsvp.webp - https://www.rawpixel.com/image/430558/free-photo-image-abstract-architecture-art-public-domain
 services.webp - https://www.rawpixel.com/image/5928302/photo-image-public-domain-person-construction
-tt4_projectoverview.jpg - https://www.rawpixel.com/image/3286725/free-photo-image-black-and-white-background-photos'
+tt4_projectoverview.jpg - https://www.rawpixel.com/image/3286725/free-photo-image-black-and-white-background-photos
 
 License: UNICODE LICENSE V3 https://www.unicode.org/license.txt
 icon-message.webp
