@@ -38,4 +38,4 @@
 </main>
 <!-- /wp:group -->
 
-<!-- wp:template-part {"slug":"footer-portfolio","area":"footer","tagName":"footer","theme":"twentytwentyfour"} /-->
+<!-- wp:template-part {"slug":"footer","area":"footer","tagName":"footer","theme":"twentytwentyfour"} /-->
