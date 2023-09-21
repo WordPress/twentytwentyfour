@@ -779,6 +779,7 @@
 			"background": "var(--wp--preset--color--base)",
 			"text": "var(--wp--preset--color--contrast)"
 		},
+		"css": "a{text-decoration-thickness:0.0625em;text-underline-offset: 0.15em}",
 		"elements": {
 			"button": {
 				":active": {
