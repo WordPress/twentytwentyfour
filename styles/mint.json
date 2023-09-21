@@ -1,4 +1,7 @@
 {
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"title": "Mint ",
 	"settings": {
 		"color": {
 			"palette": [
@@ -108,8 +111,5 @@
 		"typography": {
 			"fontFamily": "var(--wp--preset--font-family--jost)"
 		}
-	},
-	"title": "Mint 2",
-	"version": 2,
-	"$schema": "https://schemas.wp.org/trunk/theme.json"
+	}
 }
