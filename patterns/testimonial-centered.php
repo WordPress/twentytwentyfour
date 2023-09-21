@@ -18,11 +18,9 @@
 <div style="height:var(--wp--preset--spacing--10)" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-
-
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"><!-- wp:image {"align":"center","width":"60px","aspectRatio":"1","scale":"cover","sizeSlug":"thumbnail","linkDestination":"none","style":{"border":{"radius":"100px"}},"className":"is-style-default"} -->
-<figure class="wp-block-image aligncenter size-thumbnail is-resized has-custom-border is-style-default"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/testimonial-avatar.webp" alt="<?php echo esc_attr__( 'Portrait of a woman looking down Side', 'twentytwentyfour' ); ?>" style="border-radius:100px;aspect-ratio:1;object-fit:cover;width:60px"/></figure>
+<div class="wp-block-group"><!-- wp:image {"align":"center","width":"60px","aspectRatio":"1","scale":"cover","sizeSlug":"thumbnail","linkDestination":"none","style":{"border":{"radius":"100%"}}} -->
+<figure class="wp-block-image aligncenter size-thumbnail is-resized has-custom-border"><img alt="" style="border-radius:100%;aspect-ratio:1;object-fit:cover;width:60px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|10","bottom":"0"}}}} -->
