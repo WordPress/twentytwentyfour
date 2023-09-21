@@ -23,11 +23,11 @@
 
 	<!-- wp:columns {"align":"wide"} -->
 	<div class="wp-block-columns alignwide"><!-- wp:column {"width":"45%"} -->
-	<div class="wp-block-column" style="flex-basis:45%"></div>
+	<div class="wp-block-column" style="flex-basis:45%"><!-- wp:template-part {"slug":"post-meta","theme":"twentytwentyfour"} /--></div>
 	<!-- /wp:column -->
 
 	<!-- wp:column {"width":"55%"} -->
-	<div class="wp-block-column" style="flex-basis:55%"><!-- wp:template-part {"slug":"post-meta"} /--></div>
+	<div class="wp-block-column" style="flex-basis:55%"></div>
 	<!-- /wp:column --></div>
 	<!-- /wp:columns -->
 
@@ -38,4 +38,4 @@
 </main>
 <!-- /wp:group -->
 
-<!-- wp:template-part {"slug":"footer-portfolio","area":"footer","tagName":"footer"} /-->
+<!-- wp:template-part {"slug":"footer-portfolio","area":"footer","tagName":"footer","theme":"twentytwentyfour"} /-->
