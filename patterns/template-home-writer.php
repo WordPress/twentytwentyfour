@@ -22,4 +22,4 @@
 </main>
 <!-- /wp:group -->
 
-<!-- wp:template-part {"slug":"footer-writer","area":"footer"} /-->
+<!-- wp:template-part {"slug":"footer","area":"footer"} /-->
