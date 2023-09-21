@@ -21,15 +21,9 @@
 
 	<!-- wp:post-featured-image {"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}}} /-->
 
-	<!-- wp:columns {"align":"wide"} -->
-	<div class="wp-block-columns alignwide"><!-- wp:column {"width":"45%"} -->
-	<div class="wp-block-column" style="flex-basis:45%"><!-- wp:template-part {"slug":"post-meta","theme":"twentytwentyfour"} /--></div>
-	<!-- /wp:column -->
-
-	<!-- wp:column {"width":"55%"} -->
-	<div class="wp-block-column" style="flex-basis:55%"></div>
-	<!-- /wp:column --></div>
-	<!-- /wp:columns -->
+	<!-- wp:group {"align":"wide","layout":{"type":"constrained","justifyContent":"left"}} -->
+	<div class="wp-block-group alignwide"><!-- wp:template-part {"slug":"post-meta","theme":"twentytwentyfour"} /--></div>
+	<!-- /wp:group -->
 
 	<!-- wp:spacer {"height":"var:preset|spacing|40"} -->
 	<div style="height:var(--wp--preset--spacing--40)" aria-hidden="true" class="wp-block-spacer"></div>
