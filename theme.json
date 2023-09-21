@@ -9,42 +9,27 @@
 			"defaultGradients": false,
 			"duotone": [
 				{
-					"colors": [
-						"#111111",
-						"#ffffff"
-					],
+					"colors": ["#111111", "#ffffff"],
 					"slug": "duotone-1",
 					"name": "Black and white"
 				},
 				{
-					"colors": [
-						"#111111",
-						"#C2A990"
-					],
+					"colors": ["#111111", "#C2A990"],
 					"slug": "duotone-2",
 					"name": "Black and sandstone"
 				},
 				{
-					"colors": [
-						"#111111",
-						"#D8613C"
-					],
+					"colors": ["#111111", "#D8613C"],
 					"slug": "duotone-3",
 					"name": "Black and rust"
 				},
 				{
-					"colors": [
-						"#111111",
-						"#B1C5A4"
-					],
+					"colors": ["#111111", "#B1C5A4"],
 					"slug": "duotone-4",
 					"name": "Black and sage"
 				},
 				{
-					"colors": [
-						"#111111",
-						"#B5BDBC"
-					],
+					"colors": ["#111111", "#B5BDBC"],
 					"slug": "duotone-5",
 					"name": "Black and pastel blue"
 				}
@@ -206,14 +191,7 @@
 					"slug": "60"
 				}
 			],
-			"units": [
-				"%",
-				"px",
-				"em",
-				"rem",
-				"vh",
-				"vw"
-			]
+			"units": ["%", "px", "em", "rem", "vh", "vw"]
 		},
 		"typography": {
 			"fluid": true,
@@ -229,25 +207,19 @@
 							"fontFamily": "Cardo",
 							"fontStyle": "normal",
 							"fontWeight": "400",
-							"src": [
-								"file:./assets/fonts/cardo/cardo_normal_400.woff2"
-							]
+							"src": ["file:./assets/fonts/cardo/cardo_normal_400.woff2"]
 						},
 						{
 							"fontFamily": "Cardo",
 							"fontStyle": "italic",
 							"fontWeight": "400",
-							"src": [
-								"file:./assets/fonts/cardo/cardo_italic_400.woff2"
-							]
+							"src": ["file:./assets/fonts/cardo/cardo_italic_400.woff2"]
 						},
 						{
 							"fontFamily": "Cardo",
 							"fontStyle": "normal",
 							"fontWeight": "700",
-							"src": [
-								"file:./assets/fonts/cardo/cardo_normal_700.woff2"
-							]
+							"src": ["file:./assets/fonts/cardo/cardo_normal_700.woff2"]
 						}
 					],
 					"fontFamily": "Cardo",
@@ -386,8 +358,8 @@
 				},
 				"spacing": {
 					"margin": {
-						"top":  "var(--wp--preset--spacing--20)",
-						"bottom":  "var(--wp--preset--spacing--20)"
+						"top": "var(--wp--preset--spacing--20)",
+						"bottom": "var(--wp--preset--spacing--20)"
 					}
 				}
 			},
@@ -537,18 +509,6 @@
 				}
 			},
 			"core/post-author-name": {
-				"elements": {
-					"link": {
-						":hover": {
-							"typography": {
-								"textDecoration": "underline"
-							}
-						},
-						"typography": {
-							"textDecoration": "none"
-						}
-					}
-				},
 				"typography": {
 					"fontSize": "var(--wp--preset--font-size--small)"
 				}
@@ -559,16 +519,8 @@
 				},
 				"elements": {
 					"link": {
-						":hover": {
-							"typography": {
-								"textDecoration": "underline"
-							}
-						},
 						"color": {
 							"text": "var(--wp--preset--color--contrast-2)"
-						},
-						"typography": {
-							"textDecoration": "none"
 						}
 					}
 				},
@@ -587,18 +539,6 @@
 				}
 			},
 			"core/post-terms": {
-				"elements": {
-					"link": {
-						":hover": {
-							"typography": {
-								"textDecoration": "underline"
-							}
-						},
-						"typography": {
-							"textDecoration": "none"
-						}
-					}
-				},
 				"typography": {
 					"fontSize": "var(--wp--preset--font-size--small)"
 				}
@@ -953,30 +893,22 @@
 	"customTemplates": [
 		{
 			"name": "page-no-title",
-			"postTypes": [
-				"page"
-			],
+			"postTypes": ["page"],
 			"title": "Page No Title"
 		},
 		{
 			"name": "page-with-sidebar",
-			"postTypes": [
-				"page"
-			],
+			"postTypes": ["page"],
 			"title": "Page With Sidebar"
 		},
 		{
 			"name": "page-wide",
-			"postTypes": [
-				"page"
-			],
+			"postTypes": ["page"],
 			"title": "Page with wide Image"
 		},
 		{
 			"name": "single-with-sidebar",
-			"postTypes": [
-				"post"
-			],
+			"postTypes": ["post"],
 			"title": "Single with Sidebar"
 		}
 	]
