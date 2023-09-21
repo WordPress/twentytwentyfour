@@ -1,7 +1,7 @@
 {
-	"title": "Milky",
-	"version": 2,
 	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"title": "Milky",	
 	"settings": {
 		"color": {
 			"palette": [
