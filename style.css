@@ -13,13 +13,3 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: twentytwentyfour
 Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready, wide-blocks, block-styles, style-variations, accessibility-ready, blog, portfolio, news
 */
-
-/*
- * Link styles
- * https://github.com/WordPress/gutenberg/issues/42319
- */
-
-a {
-	text-decoration-thickness: 0.0625em;
-	text-underline-offset: 0.15em;
-}

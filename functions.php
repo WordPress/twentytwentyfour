@@ -8,25 +8,6 @@
  * @since Twenty Twenty Four 1.0
  */
 
-
-if ( ! function_exists( 'twentytwentyfour_support' ) ) :
-
-	/**
-	 * Sets up theme defaults and registers support for various WordPress features.
-	 *
-	 * @return void
-	 * @since Twenty Twenty Four 1.0
-	 *
-	 */
-	function twentytwentyfour_support() {
-		// Enqueue editor styles.
-		add_editor_style( 'style.css' );
-	}
-
-endif;
-
-add_action( 'after_setup_theme', 'twentytwentyfour_support' );
-
 if ( ! function_exists( 'twentytwentyfour_styles' ) ) :
 
 	/**
