@@ -74,8 +74,8 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 		register_block_style(
 			'core/list',
 			array(
-				'name'       => 'checkmark-list',
-				'label'      => __( 'Checkmark', 'twentytwentyfour' ),
+				'name'         => 'checkmark-list',
+				'label'        => __( 'Checkmark', 'twentytwentyfour' ),
 				/*
 				 * Styles for the custom checkmark list block style
 				 * https://github.com/WordPress/gutenberg/issues/51480
