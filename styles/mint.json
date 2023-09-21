@@ -1,0 +1,115 @@
+{
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#e4efeb",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#f1fefb",
+					"name": "Base / Two",
+					"slug": "base-2"
+				},
+				{
+					"color": "#00000025",
+					"name": "Base / Three",
+					"slug": "base-3"
+				},
+				{
+					"color": "#000000",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#353535",
+					"name": "Contrast / Two",
+					"slug": "contrast-2"
+				},
+				{
+					"color": "#A4A4A4",
+					"name": "Contrast / Three",
+					"slug": "contrast-3"
+				}
+			]
+		}
+	},
+	"styles": {
+		"blocks": {
+			"core/navigation": {
+				"typography": {
+					"fontStyle": "normal",
+					"fontWeight": "400"
+				}
+			},
+			"core/pullquote": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--instrument-sans)",
+					"fontSize": "var(--wp--preset--font-size--x-large)",
+					"fontStyle": "normal",
+					"fontWeight": "600",
+					"lineHeight": "1.3"
+				}
+			},
+			"core/quote": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--instrument-sans)",
+					"fontSize": "var(--wp--preset--font-size--large)",
+					"fontStyle": "normal",
+					"fontWeight": "400"
+				}
+			},
+			"core/site-title": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--instrument-sans)"
+				}
+			}
+		},
+		"elements": {
+			"caption": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--jost)"
+				}
+			},
+			"h1": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--x-large)"
+				}
+			},
+			"h2": {
+				"typography": {
+					"fontSize": "2.1rem"
+				}
+			},
+			"h3": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--large)"
+				}
+			},
+			"h4": {
+				"typography": {
+					"fontSize": "1.6rem"
+				}
+			},
+			"h5": {
+				"typography": {
+					"fontSize": "1.4rem"
+				}
+			},
+			"heading": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--instrument-sans)",
+					"fontStyle": "normal",
+					"fontWeight": "600"
+				}
+			}
+		},
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--jost)"
+		}
+	},
+	"title": "Mint 2",
+	"version": 2,
+	"$schema": "https://schemas.wp.org/trunk/theme.json"
+}
