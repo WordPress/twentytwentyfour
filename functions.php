@@ -80,7 +80,7 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 				 * Styles for the custom checkmark list block style
 				 * https://github.com/WordPress/gutenberg/issues/51480
 				 */
-				'inline_css' => 'ul.is-style-checkmark-list{list-style-type:"\2713";}ul.is-style-checkmark-list li{padding-inline-start:1ch;}',
+				'inline_style' => 'ul.is-style-checkmark-list{list-style-type:"\2713";}ul.is-style-checkmark-list li{padding-inline-start:1ch;}',
 			)
 		);
 	}
