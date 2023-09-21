@@ -13,4 +13,4 @@
 <!-- wp:paragraph -->
 <p><?php echo esc_html_x( 'The page you are looking for doesn’t exist, or it has been moved. Please try searching using the form below.', 'Message to convey that a webpage could not be found', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph -->
-<!-- wp:search {"label":"<?php echo esc_attr_x( 'Search', 'search form label', 'twentytwentyfour' ); ?>","showLabel":false,"buttonText":"<?php echo esc_attr_x( 'Search', 'search button text', 'twentytwentyfour' ); ?>"} /-->
+<!-- wp:pattern {"slug":"twentytwentyfour/hidden-search"} /-->
