@@ -35,3 +35,19 @@ Copyright (c) 2002-2011, David J. Perry (hospes02@scholarsfonts.net)
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL  
 Source: http://scholarsfonts.net
 -- End of Cardo Font credits --
+
+=== Images ===
+License: CC0 https://creativecommons.org/publicdomain/zero/1.0/
+
+about.webp - https://www.rawpixel.com/image/3297419/free-photo-image-interior-hallway-architecture
+business-app.webp - https://www.rawpixel.com/image/5928004/photo-image-public-domain-hand-person
+business-hero.webp - https://www.rawpixel.com/image/430335/free-photo-image-architecture-building-roof
+home.webp - https://www.rawpixel.com/image/3286615/free-photo-image-texture-architecture-building
+left-aligned-cta.webp - https://www.rawpixel.com/image/3283970/free-photo-image-pattern-artwork-abstract
+project-1.webp - https://www.rawpixel.com/image/3289063/free-photo-image-architectural-detail-architecture
+project-2.webp - https://www.rawpixel.com/image/430585/free-photo-image-stairs-staircase-concrete
+project-overview.webp - https://www.rawpixel.com/image/3286187/free-photo-image-person-stairs-architecture
+rsvp.webp - https://www.rawpixel.com/image/430558/free-photo-image-abstract-architecture-art-public-domain
+services.webp - https://www.rawpixel.com/image/5928302/photo-image-public-domain-person-construction
+tt4_projectoverview.jpg - https://www.rawpixel.com/image/3286725/free-photo-image-black-and-white-background-photos'
+icon-message.webp ?
