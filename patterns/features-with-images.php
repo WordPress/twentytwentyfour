@@ -14,8 +14,8 @@
 <p class="has-text-align-center has-contrast-2-color has-text-color has-link-color has-large-font-size">✳︎</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center"><?php echo esc_html_x( 'An array of resources', 'Sample content for heading of the section.', 'twentytwentyfour' ); ?></h2>
+<!-- wp:heading {"textAlign":"center","className":"is-style-asterisk"} -->
+<h2 class="wp-block-heading has-text-align-center is-style-asterisk"><?php echo esc_html_x( 'An array of resources', 'Sample content for heading of the section.', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"layout":{"selfStretch":"fit","flexSize":null}}} -->
@@ -33,9 +33,8 @@
 <div class="wp-block-group"><!-- wp:paragraph {"align":"left","style":{"layout":{"selfStretch":"fit","flexSize":null},"elements":{"link":{"color":{"text":"var:preset|color|custom-borders"}}}},"textColor":"contrast-2","fontSize":"large"} -->
 <p class="has-text-align-left has-contrast-2-color has-text-color has-link-color has-large-font-size">✳︎</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading"><?php echo esc_html_x( 'Études Architect App', 'A heading for the list.', 'twentytwentyfour' ); ?></h3>
+<!-- wp:heading {"level":3,"className":"is-style-asterisk"} -->
+<h3 class="wp-block-heading is-style-asterisk"><?php echo esc_html_x( 'Études Architect App', 'A heading for the list.', 'twentytwentyfour' ); ?></h3>
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
@@ -82,8 +81,8 @@
 <p class="has-text-align-left has-contrast-2-color has-text-color has-link-color has-large-font-size">✳︎</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading"><?php echo esc_html_x( 'Études Newsletter', 'A heading for the list.', 'twentytwentyfour' ); ?></h3>
+<!-- wp:heading {"level":3,"className":"is-style-asterisk"} -->
+<h3 class="wp-block-heading is-style-asterisk"><?php echo esc_html_x( 'Études Newsletter', 'A heading for the list.', 'twentytwentyfour' ); ?></h3>
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
