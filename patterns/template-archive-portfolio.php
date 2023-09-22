@@ -19,7 +19,7 @@
 
 	<!-- wp:query-title {"type":"archive","align":"wide","style":{"typography":{"lineHeight":"1"},"spacing":{"padding":{"top":"var:preset|spacing|50"}}}} /-->
 
-	<!-- wp:pattern {"slug":"twentytwentyfour/posts-three-columns"} /-->
+	<!-- wp:pattern {"slug":"twentytwentyfour/posts-three-columns-images"} /-->
 
 </main>
 <!-- /wp:group -->
