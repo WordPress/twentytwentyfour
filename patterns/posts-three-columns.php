@@ -2,7 +2,7 @@
 /**
  * Title: List of posts with featured images in three columns
  * Description: This pattern only shows featured images. Make sure that you have assigned images to your posts.
- * Slug: twentytwentyfour/portfolio-posts
+ * Slug: twentytwentyfour/posts-three-columns
  * Categories: query
  * Block Types: core/query
  */

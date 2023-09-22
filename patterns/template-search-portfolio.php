@@ -37,7 +37,7 @@
 	</div>
 	<!-- /wp:columns -->
 	
-	<!-- wp:pattern {"slug":"twentytwentyfour/portfolio-posts"} /-->
+	<!-- wp:pattern {"slug":"twentytwentyfour/posts-three-columns"} /-->
 </main>
 <!-- /wp:group -->
 
