@@ -23,7 +23,7 @@
 	<div class="wp-block-columns alignwide">
 		<!-- wp:column {"width":"66.66%"} -->
 		<div class="wp-block-column" style="flex-basis:66.66%">
-			<!-- wp:search {"label":"Search","showLabel":false,"width":null,"widthUnit":"%","buttonText":"Search","fontSize":"medium"} /-->
+			<!-- wp:pattern {"slug":"twentytwentyfour/hidden-search"} /-->
 		</div>
 		<!-- /wp:column -->
 	
