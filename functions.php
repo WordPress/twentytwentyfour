@@ -68,7 +68,7 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 				 * Styles variation for post terms
 				 * https://github.com/WordPress/gutenberg/issues/24956
 				 */
-				'inline_style' => '.is-style-pill a,.is-style-pill span:not([class], [data-rich-text-placeholder]){display:inline-block;background-color:#f2f2f2;padding:6px 14px;border-radius:16px;margin:0 0 10px;}.is-style-pill a:hover{background-color:#eee;}',
+				'inline_style' => '.is-style-pill a,.is-style-pill span:not([class], [data-rich-text-placeholder]){display:inline-block;background-color:var(--wp--preset--color--base-2);padding:0.375rem 0.875rem;border-radius:var(--wp--preset--spacing--20);}.is-style-pill a:hover{background-color:var(--wp--preset--color--contrast-3);}',
 			)
 		);
 		register_block_style(
