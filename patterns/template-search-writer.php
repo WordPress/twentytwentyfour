@@ -2,7 +2,7 @@
 /**
  * Title: Writer Search Results Template
  * Slug: twentytwentyfour/search-writer
- * Template Types: search, page
+ * Template Types: search
  * Viewport width: 1400
  * Inserter: no
  */
