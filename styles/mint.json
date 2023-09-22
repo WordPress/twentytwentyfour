@@ -1,7 +1,7 @@
 {
 	"$schema": "https://schemas.wp.org/trunk/theme.json",
 	"version": 2,
-	"title": "Mint ",
+	"title": "Mint",
 	"settings": {
 		"color": {
 			"palette": [
@@ -61,7 +61,7 @@
 					],
 					"fontFamily": "\"Instrument Sans\", sans-serif",
 					"name": "Instrument Sans",
-					"slug": "body"
+					"slug": "heading"
 				},
 				{
 					"fontFace": [
@@ -84,7 +84,7 @@
 					],
 					"fontFamily": "\"Jost\", sans-serif",
 					"name": "Jost",
-					"slug": "heading"
+					"slug": "body"
 				}
 			]
 		}
@@ -99,7 +99,7 @@
 			},
 			"core/pullquote": {
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--instrument-sans)",
+					"fontFamily": "var(--wp--preset--font-family--body)",
 					"fontSize": "var(--wp--preset--font-size--x-large)",
 					"fontStyle": "normal",
 					"fontWeight": "600",
@@ -108,7 +108,7 @@
 			},
 			"core/quote": {
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--instrument-sans)",
+					"fontFamily": "var(--wp--preset--font-family--body)",
 					"fontSize": "var(--wp--preset--font-size--large)",
 					"fontStyle": "normal",
 					"fontWeight": "400"
@@ -116,14 +116,14 @@
 			},
 			"core/site-title": {
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--instrument-sans)"
+					"fontFamily": "var(--wp--preset--font-family--heading)"
 				}
 			}
 		},
 		"elements": {
 			"caption": {
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--jost)"
+					"fontFamily": "var(--wp--preset--font-family--body)"
 				}
 			},
 			"h1": {
@@ -153,14 +153,14 @@
 			},
 			"heading": {
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--instrument-sans)",
+					"fontFamily": "var(--wp--preset--font-family--heading)",
 					"fontStyle": "normal",
 					"fontWeight": "600"
 				}
 			}
 		},
 		"typography": {
-			"fontFamily": "var(--wp--preset--font-family--jost)"
+			"fontFamily": "var(--wp--preset--font-family--body)"
 		}
 	}
 }
