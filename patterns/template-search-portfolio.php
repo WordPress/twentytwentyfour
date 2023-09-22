@@ -1,6 +1,16 @@
+<?php
+/**
+ * Title: Portfolio Search Template
+ * Slug: twentytwentyfour/template-search-portfolio
+ * Template Types: search
+ * Viewport width: 1400
+ * Inserter: no
+ */
+?>
+
 <!-- wp:group {"style":{"position":{"type":"sticky","top":"0px"}},"layout":{"type":"default"}} -->
 <div class="wp-block-group">
-	<!-- wp:template-part {"slug":"header"} /-->
+	<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour"} /-->
 </div>
 <!-- /wp:group -->
 
@@ -27,8 +37,8 @@
 	</div>
 	<!-- /wp:columns -->
 	
-	<!-- wp:pattern {"slug":"twentytwentyfour/posts-three-columns"} /-->
+	<!-- wp:pattern {"slug":"twentytwentyfour/posts-three-columns-images"} /-->
 </main>
 <!-- /wp:group -->
 
-<!-- wp:template-part {"slug":"footer","area":"footer","tagName":"footer"} /-->
+<!-- wp:template-part {"slug":"footer","area":"footer","tagName":"footer","theme":"twentytwentyfour"} /-->

@@ -26,17 +26,9 @@
 
 <!-- wp:post-title {"isLink":true,"fontSize":"large"} /-->
 
-<!-- wp:group {"style":{"spacing":{"blockGap":"0.22em"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"><!-- wp:post-date {"format":"M j, Y","isLink":true} /-->
+<!-- wp:template-part {"slug":"post-meta","theme":"twentytwentyfour"} /-->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">—</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:post-author-name {"isLink":true} /-->
-
-<!-- wp:post-terms {"term":"category","prefix":"in "} /--></div>
-<!-- /wp:group --></article>
+</article>
 <!-- /wp:group -->
 
 <!-- wp:post-excerpt {"moreText":"","excerptLength":40} /-->

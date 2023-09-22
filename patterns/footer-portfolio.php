@@ -36,7 +36,7 @@
 					<h3 class="wp-block-heading has-body-font-family has-medium-font-size"><?php esc_html_e( 'Contact Me', 'twentytwentyfour' ); ?></h3>
 					<!-- /wp:heading -->
 					<!-- wp:paragraph -->
-					<p><a href="#"><?php echo esc_html_x( 'example@wordpress.org', 'Example email in site footer', 'twentytwentyfour' ); ?></a></p>
+					<p><a href="#"><?php echo esc_html_x( 'info@example.com', 'Example email in site footer', 'twentytwentyfour' ); ?></a></p>
 					<!-- /wp:paragraph -->
 				</div>
 				<!-- /wp:group -->

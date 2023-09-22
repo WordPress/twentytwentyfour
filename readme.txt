@@ -8,7 +8,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Twenty Twenty-Four is a simple theme that supports full-site editing. It comes with a set of minimal templates and design settings that can be manipulated through Global Styles. Use it to build something beautiful.
+Twenty Twenty-Four is designed to be flexible, versatile and applicable to any website. Its collection of templates and patterns tailor to different needs, such as presenting a business, blogging and writing or showcasing work. A multitude of possibilities open up with just a few adjustments to color and typography. Twenty Twenty-Four comes with style variations and full page designs to help speed up the site building process, is fully compatible with the site editor, and takes advantage of new design tools introduced in WordPress 6.4.
 
 == Changelog ==
 
@@ -30,8 +30,20 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
-Cardo Font
-Copyright (c) 2002-2011, David J. Perry (hospes02@scholarsfonts.net) 
-This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL  
-Source: http://scholarsfonts.net
--- End of Cardo Font credits --
+=== Images ===
+License: CC0 https://creativecommons.org/publicdomain/zero/1.0/
+
+about.webp - https://www.rawpixel.com/image/3297419/free-photo-image-interior-hallway-architecture
+business-app.webp - https://www.rawpixel.com/image/5928004/photo-image-public-domain-hand-person
+business-hero.webp - https://www.rawpixel.com/image/430335/free-photo-image-architecture-building-roof
+home.webp - https://www.rawpixel.com/image/3286615/free-photo-image-texture-architecture-building
+left-aligned-cta.webp - https://www.rawpixel.com/image/3283970/free-photo-image-pattern-artwork-abstract
+project-1.webp - https://www.rawpixel.com/image/3289063/free-photo-image-architectural-detail-architecture
+project-2.webp - https://www.rawpixel.com/image/430585/free-photo-image-stairs-staircase-concrete
+project-overview.webp - https://www.rawpixel.com/image/3286187/free-photo-image-person-stairs-architecture
+rsvp.webp - https://www.rawpixel.com/image/430558/free-photo-image-abstract-architecture-art-public-domain
+services.webp - https://www.rawpixel.com/image/5928302/photo-image-public-domain-person-construction
+tt4_projectoverview.jpg - https://www.rawpixel.com/image/3286725/free-photo-image-black-and-white-background-photos
+
+License: UNICODE LICENSE V3 https://www.unicode.org/license.txt
+icon-message.webp

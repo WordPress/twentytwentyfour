@@ -12,7 +12,7 @@
 <div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"}}}} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"33%"} -->
 <div class="wp-block-column" style="flex-basis:33%"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"large","fontFamily":"heading"} -->
-<p class="has-heading-font-family has-large-font-size" style="line-height:1.2"><?php echo esc_html__( 'We recognize the role architecture plays in shaping a sustainable future.', 'twentytwentyfour' ); ?></p>
+<p class="has-heading-font-family has-large-font-size" style="line-height:1.2"><?php echo esc_html_x( 'We recognize the role architecture plays in shaping a sustainable future.', 'Heading of the Columns', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -24,7 +24,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'twentytwentyfour' ); ?></p>
+<p><?php echo esc_html_x( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'Vision Content for Columns', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -34,7 +34,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'twentytwentyfour' ); ?></p>
+<p><?php echo esc_html_x( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'Vision Content for Columns', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
@@ -46,7 +46,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'twentytwentyfour' ); ?></p>
+<p><?php echo esc_html_x( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'Vision Content for Columns', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -56,7 +56,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'twentytwentyfour' ); ?></p>
+<p><?php echo esc_html_x( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'Vision Content for Columns', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>

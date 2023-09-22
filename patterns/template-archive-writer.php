@@ -2,7 +2,7 @@
 /**
  * Title: Writer Archive Template
  * Slug: twentytwentyfour/archive-writer
- * Template Types: archive, page
+ * Template Types: archive, category, tag, author, date
  * Viewport width: 1400
  * Inserter: no
  */
@@ -25,4 +25,4 @@
 </main>
 <!-- /wp:group -->
 
-<!-- wp:template-part {"slug":"footer-writer","area":"footer","tagName":"footer","theme":"twentytwentyfour"} /-->
+<!-- wp:template-part {"slug":"footer","area":"footer","tagName":"footer","theme":"twentytwentyfour"} /-->
