@@ -22,7 +22,7 @@
 				<!-- wp:group -->
 				<div class="wp-block-group">
 					<!-- wp:comment-author-name /-->
-					<!-- wp:comment-date {"format":"F j, Y - g:i a"} /-->
+					<!-- wp:comment-date /-->
 				</div>
 				<!-- /wp:group -->
 			</div>
