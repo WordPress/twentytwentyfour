@@ -10,7 +10,7 @@
 
 <!-- wp:group {"style":{"position":{"type":"sticky","top":"0px"}},"layout":{"type":"default"}} -->
 <div class="wp-block-group">
-	<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour"} /-->
+	<!-- wp:template-part {"slug":"header"} /-->
 </div>
 <!-- /wp:group -->
 
@@ -24,4 +24,4 @@
 </main>
 <!-- /wp:group -->
 
-<!-- wp:template-part {"slug":"footer","area":"footer","tagName":"footer","theme":"twentytwentyfour"} /-->
+<!-- wp:template-part {"slug":"footer","area":"footer","tagName":"footer"} /-->

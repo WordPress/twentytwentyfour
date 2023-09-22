@@ -58,7 +58,7 @@
 
 <!-- wp:column {"width":"30%"} -->
 <div class="wp-block-column" style="flex-basis:30%">
-<!-- wp:template-part {"slug":"sidebar","theme":"twentytwentyfour"} /-->
+<!-- wp:template-part {"slug":"sidebar"} /-->
 </div>
 <!-- /wp:column -->
 
