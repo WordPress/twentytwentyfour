@@ -584,7 +584,8 @@
 				},
 				"typography": {
 					"fontSize": "var(--wp--preset--font-size--small)"
-				}
+				},
+				"css":"& .wp-block-post-terms__prefix{color: var(--wp--preset--color--contrast-2);}"
 			},
 			"core/post-title": {
 				"elements": {
