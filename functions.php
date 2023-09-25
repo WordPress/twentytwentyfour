@@ -99,7 +99,8 @@ add_action( 'init', 'twentytwentyfour_block_styles' );
 /**
  * Add a fallback image when no featured image is set.
  *
- * @param string $html The HTML markup for the featured image.
+ * @param string  $html The HTML markup for the featured image.
+ * @param int     $post_id The post ID.
  * @return string $html The filtered HTML markup for the featured image.
  *
  * @since Twenty Twenty-Four 1.0
