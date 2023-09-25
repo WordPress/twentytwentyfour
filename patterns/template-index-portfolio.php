@@ -15,8 +15,8 @@
 
 <!-- wp:group {"tagName":"main","align":"full","layout":{"type":"constrained"}} -->
 <main class="wp-block-group alignfull">
-	<!-- wp:heading {"level":1,"className="screen-reader-text} -->
-	<h1 class="wp-block-heading screen-reader-text"><?php echo esc_html__( 'Posts', 'twentytwentyfour' ); ?></h1>
+	<!-- wp:heading {"level":1} -->
+	<h1 class="wp-block-heading"><?php echo esc_html__( 'Posts', 'twentytwentyfour' ); ?></h1>
 	<!-- /wp:heading -->
 
 	<!-- wp:pattern {"slug":"twentytwentyfour/offset-grid-image-posts"} /-->
