@@ -99,11 +99,20 @@ add_action( 'init', 'twentytwentyfour_block_styles' );
 /**
  * Add a fallback image when no featured image is set.
  * 
+ * @param string $html The HTML markup for the featured image.
+ * @return string $html The filtered HTML markup for the featured image.
+ * 
  * @since Twenty Twenty-Four 1.0
  */
 function twentytwentyfour_featured_image_fallback( $html, $post_id ) {
 	if ( ! has_post_thumbnail( $post_id ) ) {
-		$html = '<img src="' . esc_url( get_template_directory_uri() ) . '/assets/images/featured-image.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="' . the_title_attribute( array( 'echo' => false, 'post' => $post_id ) ) . '" style="width:100%;height:100%;object-fit:cover;">';
+		$alt = the_title_attribute(
+			array(
+				'echo' => false,
+				'post' => $post_id
+			)
+		);
+		$html = '<img src="' . esc_url( get_template_directory_uri() ) . '/assets/images/featured-image.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="' . $alt . '" style="width:100%;height:100%;object-fit:cover;">';
 	}
 	return $html;
 }
