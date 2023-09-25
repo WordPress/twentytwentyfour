@@ -95,3 +95,16 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 endif;
 
 add_action( 'init', 'twentytwentyfour_block_styles' );
+
+/**
+ * Add a fallback image when no featured image is set.
+ * 
+ * @since Twenty Twenty-Four 1.0
+ */
+function twentytwentyfour_featured_image_fallback( $html, $post_id ) {
+	if ( ! has_post_thumbnail( $post_id ) ) {
+		$html = '<img src="' . esc_url( get_template_directory_uri() ) . '/assets/images/featured-image.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="' . the_title_attribute( array( 'echo' => false, 'post' => $post_id ) ) . '" style="width:100%;height:100%;object-fit:cover;">';
+	}
+	return $html;
+}
+add_filter( 'post_thumbnail_html', 'twentytwentyfour_featured_image_fallback', 10, 2 );
