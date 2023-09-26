@@ -30,6 +30,6 @@
 <!-- /wp:spacer -->
 
 <!-- wp:image {"align":"wide","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
-<figure class="wp-block-image alignwide size-large is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tt4_projectoverview.webp" alt="<?php echo esc_attr__( 'The facade of a building', 'twentytwentyfour' ); ?>"/></figure>
+<figure class="wp-block-image alignwide size-large is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/hotel-facade.webp" alt="<?php echo esc_attr__( 'Hyatt Regency San Francisco, San Francisco, United States', 'twentytwentyfour' ); ?>"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
