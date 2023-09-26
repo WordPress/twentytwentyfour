@@ -26,7 +26,7 @@
 			<!-- wp:pattern {"slug":"twentytwentyfour/hidden-search"} /-->
 		</div>
 		<!-- /wp:column -->
-	
+
 		<!-- wp:column {"width":"33.33%"} -->
 		<div class="wp-block-column" style="flex-basis:33.33%">
 			<!-- wp:spacer {"height":"0"} -->
@@ -36,7 +36,7 @@
 		<!-- /wp:column -->
 	</div>
 	<!-- /wp:columns -->
-	
+
 	<!-- wp:pattern {"slug":"twentytwentyfour/posts-three-columns-images"} /-->
 </main>
 <!-- /wp:group -->
