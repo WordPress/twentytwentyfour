@@ -204,7 +204,7 @@
 							"fontStyle": "normal",
 							"fontWeight": "300 900",
 							"src": [
-								"file:./assets/fonts/inter/Inter-Variable.woff2"
+								"file:./assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2"
 							]
 						}
 					],
