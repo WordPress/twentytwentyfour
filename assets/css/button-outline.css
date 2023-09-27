@@ -4,3 +4,7 @@
 	color: var(--wp--preset--color--base);
 	border-color: var(--wp--preset--color--contrast-2);
 }
+.wp-block-button.is-style-fill
+	> .wp-block-button__link:not(.has-background):hover {
+		border-color: var(--wp--preset--color--contrast-2);
+	}
