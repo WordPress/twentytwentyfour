@@ -1,9 +1,9 @@
 <?php
 /**
-* Title: Faq
-* Slug: twentytwentyfour/faq
-* Categories: text
-* Viewport width: 1400
+ * Title: Faq
+ * Slug: twentytwentyfour/faq
+ * Categories: text
+ * Viewport width: 1400
 */
 ?>
 
