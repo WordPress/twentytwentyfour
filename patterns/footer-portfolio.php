@@ -82,8 +82,7 @@
 			</div>
 			<!-- /wp:group -->
 			<!-- wp:paragraph {"fontSize":"small"} -->
-			<p class="has-small-font-size">
-				<?php
+			<p class="has-small-font-size"><?php
 					/* Translators: WordPress link. */
 					$wordpress_link = '<a href="' . esc_url( __( 'https://wordpress.org', 'twentytwentyfour' ) ) . '" rel="nofollow">WordPress</a>';
 					echo sprintf(
