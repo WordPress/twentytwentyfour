@@ -281,6 +281,13 @@
 			],
 			"writingMode": true
 		},
+		"blocks": {
+			"core/image": {
+				"lightbox": {
+					"enabled": true
+				}
+			}
+		},
 		"useRootPaddingAwareAlignments": true
 	},
 	"styles": {
