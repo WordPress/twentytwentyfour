@@ -26,7 +26,7 @@
 
 <!-- wp:post-title {"isLink":true,"fontSize":"large"} /-->
 
-<!-- wp:template-part {"slug":"post-meta","theme":"twentytwentyfour"} /-->
+<!-- wp:template-part {"slug":"post-meta"} /-->
 
 </article>
 <!-- /wp:group -->

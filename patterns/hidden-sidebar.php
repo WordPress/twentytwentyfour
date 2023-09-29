@@ -38,7 +38,7 @@
 	<div class="wp-block-query"><!-- wp:post-template -->
 	<!-- wp:group {"style":{"spacing":{"blockGap":"2px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 	<div class="wp-block-group"><!-- wp:post-title {"isLink":true,"fontSize":"medium"} /-->
-	<!-- wp:template-part {"slug":"post-meta","theme":"twentytwentyfour"} /-->
+	<!-- wp:template-part {"slug":"post-meta"} /-->
 	</div>
 	<!-- /wp:group -->
 
