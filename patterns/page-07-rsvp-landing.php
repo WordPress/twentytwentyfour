@@ -1,9 +1,12 @@
 <?php
 /**
- * Title: RSVP
- * Slug: twentytwentyfour/rsvp
- * Categories: call-to-action, banner, featured
- * Viewport width: 1400
+ * Title: RSVP Landing Page
+ * Slug: twentytwentyfour/rsvp-landing
+ * Categories: call-to-action
+ * Keywords: page, starter
+ * Block Types: core/post-content
+ * Post Types: page, wp_template
+ * Viewport width: 1100
  */
 ?>
 
@@ -13,9 +16,9 @@
 <div class="wp-block-column is-vertically-aligned-stretch" style="flex-basis:50%"><!-- wp:group {"style":{"dimensions":{"minHeight":"100%"},"spacing":{"blockGap":"var:preset|spacing|50"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left","verticalAlignment":"space-between"}} -->
 <div class="wp-block-group" style="min-height:100%">
 
-<!-- wp:paragraph {"align":"right","style":{"typography":{"writingMode":"vertical-rl","fontSize":"12rem","lineHeight":"1"},"spacing":{"margin":{"right":"0","left":"calc( var(--wp--preset--spacing--30) * -1)"}}},"fontFamily":"heading"} -->
-<p class="has-text-align-right has-heading-font-family" style="margin-right:0;margin-left:calc( var(--wp--preset--spacing--30) * -1);font-size:12rem;line-height:1;writing-mode:vertical-rl"><?php echo esc_html_x( 'RSVP', 'Initials for ´please respond´', 'twentytwentyfour' ); ?></p>
-<!-- /wp:paragraph -->
+<!-- wp:heading {"textAlign":"right","level":1,"style":{"typography":{"fontSize":"12rem","writingMode":"vertical-rl","lineHeight":"1"},"spacing":{"margin":{"right":"0","left":"calc( var(--wp--preset--spacing--20) * -1)"}}}} -->
+<h1 class="wp-block-heading has-text-align-right" style="margin-right:0;margin-left:calc( var(--wp--preset--spacing--20) * -1);font-size:12rem;line-height:1;writing-mode:vertical-rl"><?php echo esc_html_x( 'RSVP', 'Initials for ´please respond´', 'twentytwentyfour' ); ?></h1>
+<!-- /wp:heading -->
 
 <!-- wp:group {"layout":{"type":"constrained","contentSize":"300px","justifyContent":"left"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"layout":{"selfStretch":"fixed","flexSize":"50%"}}} -->
