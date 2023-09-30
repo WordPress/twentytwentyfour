@@ -605,7 +605,7 @@
 				"border": {
 					"bottom": {
 						"style": "none",
-						"width": "0px"
+						"width": "1px"
 					},
 					"left": {
 						"style": "none",
@@ -618,7 +618,7 @@
 					},
 					"top": {
 						"style": "none",
-						"width": "0px"
+						"width": "1px"
 					}
 				},
 				"elements": {
