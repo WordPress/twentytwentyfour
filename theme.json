@@ -604,7 +604,7 @@
 			"core/pullquote": {
 				"border": {
 					"bottom": {
-						"style": "none",
+						"style": "solid",
 						"width": "1px"
 					},
 					"left": {
@@ -617,7 +617,7 @@
 						"width": "0px"
 					},
 					"top": {
-						"style": "none",
+						"style": "solid",
 						"width": "1px"
 					}
 				},
