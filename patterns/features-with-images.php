@@ -13,11 +13,11 @@
 <div class="wp-block-group">
 
 <!-- wp:heading {"textAlign":"center","className":"is-style-asterisk"} -->
-<h2 class="wp-block-heading has-text-align-center is-style-asterisk"><?php echo esc_html_x( 'An array of resources', 'Sample content for heading of the Features with Images', 'twentytwentyfour' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center is-style-asterisk"><?php echo esc_html_x( 'An array of resources', 'Heading of the features', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"layout":{"selfStretch":"fit","flexSize":null}}} -->
-<p class="has-text-align-center"><?php echo esc_html_x( 'Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers.', 'Sample content for the subheading of the Features with Images', 'twentytwentyfour' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html_x( 'Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers.', 'Sub-heading of the features', 'twentytwentyfour' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
