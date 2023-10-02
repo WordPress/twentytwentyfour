@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Writer Index Template
- * Slug: twentytwentyfour/index-writer
+ * Slug: twentytwentyfour/template-index-writer
  * Template Types: index, home
  * Viewport width: 1400
  * Inserter: no
