@@ -8,11 +8,7 @@
  */
 ?>
 
-<!-- wp:group {"style":{"position":{"type":"sticky","top":"0px"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group">
-	<!-- wp:template-part {"slug":"header"} /-->
-</div>
-<!-- /wp:group -->
+<!-- wp:template-part {"slug":"header"} /-->
 
 <!-- wp:pattern {"slug":"twentytwentyfour/intro-text-left"} /-->
 <!-- wp:pattern {"slug":"twentytwentyfour/offset-grid-image-posts"} /-->
