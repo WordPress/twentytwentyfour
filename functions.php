@@ -130,6 +130,7 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 					display: block;
 				}
 
+				/* Hide the asterisk if the heading has no content, to avoid using empty headings to display the asterisk only, which is an A11Y issue */
 				.is-style-asterisk:empty:before {
 					content: none;
 				}
