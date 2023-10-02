@@ -8,7 +8,7 @@
  */
 ?>
 
-<!-- wp:group {"style":{"position":{"type":"sticky","top":"0px"}},"layout":{"type":"default"}} -->
+<!-- wp:group {"layout":{"type":"default"}} -->
 <div class="wp-block-group">
 		<!-- wp:template-part {"slug":"header"} /-->
 	</div>
