@@ -116,6 +116,24 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 			)
 		);
 		register_block_style(
+			'core/navigation-link',
+			array(
+				'name'         => 'arrow-link',
+				'label'        => __( 'With arrow', 'twentytwentyfour' ),
+				/*
+				 * Styles for the custom arrow nav link block style
+				 */
+				'inline_style' => '
+				.is-style-arrow-link .wp-block-navigation-item__label:after {
+					content: "\2197";
+					padding-inline-start: 0.25rem;
+					vertical-align: middle;
+					text-decoration: none;
+					display: inline-block;
+				}',
+			)
+		);
+		register_block_style(
 			'core/heading',
 			array(
 				'name'         => 'asterisk',
