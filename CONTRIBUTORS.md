@@ -54,7 +54,7 @@
 | @michaelshowes | |
 | @lefty55104 | @pbwebd |
 | @anphira | @anphira |
-| @rebekahmarkowitz | |
+| @rebekahmarkowitz | @rebekowitz |
 | @suprsam | @suprsam |
 | @damonsharp | @damonsharp |
 | @maurodf0 | @maurodf |
