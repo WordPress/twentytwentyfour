@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Writer Home Page
- * Slug: twentytwentyfour/page-writer-home
+ * Slug: twentytwentyfour/writer-home
  * Categories: text, page
  * Keywords: page, starter
  * Block Types: core/post-content
@@ -47,7 +47,7 @@
 <!-- /wp:query-pagination -->
 
 <!-- wp:query-no-results -->
-<!-- wp:pattern {"slug":"twentytwentyfour/hidden-no-results-content"} /-->
+<!-- wp:pattern {"slug":"twentytwentyfour/no-results-content"} /-->
 <!-- /wp:query-no-results --></div>
 <!-- /wp:query --></div>
 <!-- /wp:column -->

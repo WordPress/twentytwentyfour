@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Writer Search Results Template
- * Slug: twentytwentyfour/search-writer
+ * Slug: twentytwentyfour/template-search-writer
  * Template Types: search
  * Viewport width: 1400
  * Inserter: no
@@ -19,7 +19,7 @@
 	<!-- wp:group {"layout":{"type":"constrained"}} -->
 	<div class="wp-block-group">
 		<!-- wp:query-title {"type":"search","style":{"typography":{"lineHeight":"1"},"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|30"}}}} /-->
-		<!-- wp:pattern {"slug":"twentytwentyfour/hidden-search"} /-->
+		<!-- wp:pattern {"slug":"twentytwentyfour/search"} /-->
 	</div>
 	<!-- /wp:group -->
 	<!-- wp:pattern {"slug":"twentytwentyfour/posts-one-column"} /-->
