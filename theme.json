@@ -789,6 +789,9 @@
 						"offset": "2px",
 						"style": "dotted",
 						"width": "1px"
+					},
+					"border": {
+						"color": "var(--wp--preset--color--contrast-2)"
 					}
 				},
 				":hover": {
