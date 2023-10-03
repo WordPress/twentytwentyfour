@@ -52,7 +52,6 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 				.is-style-arrow-icon-details {
 					padding-top: var(--wp--preset--spacing--10);
 					padding-bottom: var(--wp--preset--spacing--10);
-					border-bottom: 1px solid rgba(255, 255, 255, 0.20);
 				}
 
 				.is-style-arrow-icon-details summary {
