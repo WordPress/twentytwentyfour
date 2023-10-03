@@ -54,7 +54,7 @@
 | @michaelshowes | |
 | @lefty55104 | @pbwebd |
 | @anphira | @anphira |
-| @rebekahmarkowitz | |
+| @rebekahmarkowitz | @rebekowitz |
 | @suprsam | @suprsam |
 | @damonsharp | @damonsharp |
 | @maurodf0 | @maurodf |
@@ -89,3 +89,8 @@
 | @webmandesign | @webmandesign |
 | @jeflopodev | @jeflopodev |
 | @sumisubedi | @sumisubedi |
+| @bobmatyas | @lastsplash |
+| @viralsampat-multidots | @viralsampat |
+| @bimalsht | @bmalsht |
+| @ValentinGratz | @valentindu62 |
+| @felixarntz | @flixos90 |
