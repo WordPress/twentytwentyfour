@@ -91,5 +91,5 @@
 | @sumisubedi | @sumisubedi |
 | @bobmatyas | @lastsplash |
 | @viralsampat-multidots | |
-| @bimalsht | |
+| @bimalsht | @bmalsht |
 | @ValentinGratz | @valentindu62 |
