@@ -90,6 +90,6 @@
 | @jeflopodev | @jeflopodev |
 | @sumisubedi | @sumisubedi |
 | @bobmatyas | @lastsplash |
-| @viralsampat-multidots | |
+| @viralsampat-multidots | @viralsampat |
 | @bimalsht | @bmalsht |
 | @ValentinGratz | @valentindu62 |
