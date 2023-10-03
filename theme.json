@@ -613,21 +613,21 @@
 			"core/pullquote": {
 				"border": {
 					"bottom": {
-						"style": "none",
-						"width": "0px"
+						"style": "solid",
+						"width": "1px"
 					},
 					"left": {
-						"style": "none",
-						"width": "0px"
+						"style": "solid",
+						"width": "1px"
 					},
 					"radius": "var(--wp--preset--spacing--20)",
 					"right": {
-						"style": "none",
-						"width": "0px"
+						"style": "solid",
+						"width": "1px"
 					},
 					"top": {
-						"style": "none",
-						"width": "0px"
+						"style": "solid",
+						"width": "1px"
 					}
 				},
 				"elements": {
