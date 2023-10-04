@@ -4,7 +4,7 @@
  * Slug: twentytwentyfour/faq
  * Categories: text
  * Viewport width: 1400
-*/
+ */
 ?>
 
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"},"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"backgroundColor":"contrast","textColor":"base-2","layout":{"type":"constrained"}} -->
@@ -13,8 +13,8 @@
 <!-- /wp:heading -->
 
 <!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
-<div class="wp-block-group alignwide"><!-- wp:separator {"style":{"color":{"background":"#ffffff1a"}},"className":"is-style-wide"} -->
-<hr class="wp-block-separator has-text-color has-alpha-channel-opacity has-background is-style-wide" style="background-color:#ffffff1a;color:#ffffff1a"/>
+<div class="wp-block-group alignwide"><!-- wp:separator {"backgroundColor":"contrast-2","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-contrast-2-color has-alpha-channel-opacity has-contrast-2-background-color has-background is-style-wide"/>
 <!-- /wp:separator -->
 
 <!-- wp:details {"style":{"spacing":{"margin":{"top":"0"}}},"className":"is-style-arrow-icon-details","fontSize":"medium"} -->
