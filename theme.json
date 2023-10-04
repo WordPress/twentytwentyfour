@@ -612,23 +612,7 @@
 			},
 			"core/pullquote": {
 				"border": {
-					"bottom": {
-						"style": "none",
-						"width": "0px"
-					},
-					"left": {
-						"style": "none",
-						"width": "0px"
-					},
-					"radius": "var(--wp--preset--spacing--20)",
-					"right": {
-						"style": "none",
-						"width": "0px"
-					},
-					"top": {
-						"style": "none",
-						"width": "0px"
-					}
+					"radius": "var(--wp--preset--spacing--20)"
 				},
 				"elements": {
 					"cite": {
