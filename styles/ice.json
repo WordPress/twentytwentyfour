@@ -30,7 +30,7 @@
 						"style": "none",
 						"width": "0px"
 					},
-					"radius": "16px",
+					"radius": "var(--wp--preset--spacing--20)",
 					"right": {
 						"style": "none",
 						"width": "0px"

@@ -331,7 +331,7 @@
 			"core/code": {
 				"border": {
 					"color": "var(--wp--preset--color--contrast)",
-					"radius": "0.25rem",
+					"radius": "var(--wp--preset--spacing--20)",
 					"style": "solid",
 					"width": "2px"
 				},
