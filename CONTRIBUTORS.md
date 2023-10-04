@@ -99,5 +99,5 @@
 | @tellthemachines | @isabel_brison |
 | @NidhiDhandhukiya74 | @nidhidhandhukiya |
 | @trinisha05 | @trinisha |
-| @vraja-pro | |
+| @vraja-pro | @vrajadas |
 | @mhkuu | @mhkuu |
