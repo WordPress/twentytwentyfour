@@ -612,23 +612,9 @@
 			},
 			"core/pullquote": {
 				"border": {
-					"bottom": {
-						"style": "solid",
-						"width": "1px"
-					},
-					"left": {
-						"style": "solid",
-						"width": "1px"
-					},
 					"radius": "var(--wp--preset--spacing--20)",
-					"right": {
-						"style": "solid",
-						"width": "1px"
-					},
-					"top": {
-						"style": "solid",
-						"width": "1px"
-					}
+					"style": "solid",
+					"width": "1px"
 				},
 				"elements": {
 					"cite": {
