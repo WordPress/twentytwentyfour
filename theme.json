@@ -612,8 +612,7 @@
 			},
 			"core/pullquote": {
 				"border": {
-					"radius": "var(--wp--preset--spacing--20)",
-					"style": "solid"
+					"radius": "var(--wp--preset--spacing--20)"
 				},
 				"elements": {
 					"cite": {
