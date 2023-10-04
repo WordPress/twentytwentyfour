@@ -94,3 +94,7 @@
 | @bimalsht | @bmalsht |
 | @ValentinGratz | @valentindu62 |
 | @felixarntz | @flixos90 |
+| @artemiomorales | @artemiosans |
+| @annezazu | @annezazu |
+| @tellthemachines | @isabel_brison |
+| @NidhiDhandhukiya74 | @nidhidhandhukiya |
