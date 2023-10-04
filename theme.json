@@ -613,8 +613,7 @@
 			"core/pullquote": {
 				"border": {
 					"radius": "var(--wp--preset--spacing--20)",
-					"style": "solid",
-					"width": "1px"
+					"style": "solid"
 				},
 				"elements": {
 					"cite": {
