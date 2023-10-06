@@ -2,7 +2,7 @@
 /**
  * Title: Newsletter Landing Page
  * Slug: twentytwentyfour/newsletter-landing
- * Categories: call-to-action
+ * Categories: call-to-action, featured
  * Keywords: page, starter
  * Block Types: core/post-content
  * Post Types: page, wp_template
