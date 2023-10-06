@@ -2,7 +2,7 @@
 /**
  * Title: Centered Statement
  * Slug: twentytwentyfour/centered-statement
- * Categories: text, about, featured
+ * Categories: text, about
  * Viewport width: 1400
  */
 ?>
