@@ -7,14 +7,14 @@
  */
 ?>
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"},"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"backgroundColor":"contrast","textColor":"base-2","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-base-2-color has-contrast-background-color has-text-color has-background has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:heading {"align":"wide","style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}},"typography":{"fontSize":"10rem","letterSpacing":"-0.02em"}},"textColor":"base-2"} -->
-<h2 class="wp-block-heading alignwide has-base-2-color has-text-color has-link-color" style="font-size:10rem;letter-spacing:-0.02em"><?php echo esc_html_x( 'FAQs', 'Heading of the FAQs', 'twentytwentyfour' ); ?></h2>
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"},"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|base"}}}},"backgroundColor":"contrast","textColor":"base","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-base-color has-contrast-background-color has-text-color has-background has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:heading {"align":"wide","style":{"elements":{"link":{"color":{"text":"var:preset|color|base"}}},"typography":{"fontSize":"10rem","letterSpacing":"-0.02em"}},"textColor":"base"} -->
+<h2 class="wp-block-heading alignwide has-base-color has-text-color has-link-color" style="font-size:10rem;letter-spacing:-0.02em"><?php echo esc_html_x( 'FAQs', 'Heading of the FAQs', 'twentytwentyfour' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
-<div class="wp-block-group alignwide"><!-- wp:separator {"backgroundColor":"contrast-2","className":"is-style-wide"} -->
-<hr class="wp-block-separator has-text-color has-contrast-2-color has-alpha-channel-opacity has-contrast-2-background-color has-background is-style-wide"/>
+<div class="wp-block-group alignwide"><!-- wp:separator {"style":{"color":{"background":"#ffffff1a"}},"className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-alpha-channel-opacity has-background is-style-wide" style="background-color:#ffffff1a;color:#ffffff1a"/>
 <!-- /wp:separator -->
 
 <!-- wp:details {"style":{"spacing":{"margin":{"top":"0"}}},"className":"is-style-arrow-icon-details","fontSize":"medium"} -->
