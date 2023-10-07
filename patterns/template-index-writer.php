@@ -4,7 +4,7 @@
  * Slug: twentytwentyfour/template-index-writer
  * Template Types: index, home
  * Viewport width: 1400
- * Inserter: no
+ * Inserter: false
  */
 ?>
 

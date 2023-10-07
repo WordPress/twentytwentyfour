@@ -4,7 +4,7 @@
  * Slug: twentytwentyfour/template-search-portfolio
  * Template Types: search
  * Viewport width: 1400
- * Inserter: no
+ * Inserter: false
  */
 ?>
 

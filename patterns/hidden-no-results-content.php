@@ -2,7 +2,7 @@
 /**
  * Title: Hidden No Results Content
  * Slug: twentytwentyfour/no-results-content
- * Inserter: no
+ * Inserter: false
  */
 ?>
 <!-- wp:paragraph -->

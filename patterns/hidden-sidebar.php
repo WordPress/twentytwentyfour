@@ -3,7 +3,7 @@
  * Title: sidebar
  * Slug: twentytwentyfour/sidebar
  * Categories: hidden
- * Inserter: no
+ * Inserter: false
  */
 ?>
 <!-- wp:group {"style":{"spacing":{"blockGap":"36px","padding":{"right":"0","left":"0"}}},"layout":{"type":"default"}} -->

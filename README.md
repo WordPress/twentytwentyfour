@@ -83,7 +83,7 @@ We do this for patterns we don't want the user to access via the inserter or the
 
 We do this by adding the following line:
 
-` * Inserter: no`
+` * Inserter: false`
 
 Let's prefix hidden patterns using `hidden-` when we name the pattern file.
 

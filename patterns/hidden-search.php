@@ -2,7 +2,7 @@
 /**
  * Title: Hidden Search form
  * Slug: twentytwentyfour/search
- * Inserter: no
+ * Inserter: false
  */
 ?>
 

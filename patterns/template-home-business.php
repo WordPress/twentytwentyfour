@@ -4,7 +4,7 @@
  * Slug: twentytwentyfour/template-home
  * Template Types: front-page, index, home
  * Viewport width: 1400
- * Inserter: no
+ * Inserter: false
  */
 ?>
 

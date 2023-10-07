@@ -4,7 +4,7 @@
  * Slug: twentytwentyfour/template-single-portfolio
  * Template Types: posts, single
  * Viewport width: 1400
- * Inserter: no
+ * Inserter: false
  */
 ?>
 

@@ -3,7 +3,7 @@
  * Title: Heading on left
  * Slug: twentytwentyfour/intro-text-left
  * Categories: text
- * Inserter: no
+ * Inserter: false
  */
 ?>
 

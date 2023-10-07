@@ -2,7 +2,7 @@
 /**
  * Title: Post Meta
  * slug: twentytwentyfour/post-meta
- * inserter: no
+ * Inserter: false
  */
 ?>
 

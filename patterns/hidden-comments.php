@@ -2,7 +2,7 @@
 /**
  * Title: Comments
  * slug: twentytwentyfour/comments
- * inserter: no
+ * Inserter: false
  */
 ?>
 

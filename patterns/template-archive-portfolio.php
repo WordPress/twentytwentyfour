@@ -4,7 +4,7 @@
  * Slug: twentytwentyfour/template-archive-portfolio
  * Template Types: archive
  * Viewport width: 1400
- * Inserter: no
+ * Inserter: false
  */
 ?>
 

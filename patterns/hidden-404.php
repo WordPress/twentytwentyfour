@@ -2,7 +2,7 @@
 /**
  * Title: A 404 page
  * Slug: twentytwentyfour/404
- * Inserter: no
+ * Inserter: false
  */
 ?>
 
