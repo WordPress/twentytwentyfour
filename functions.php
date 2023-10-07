@@ -178,7 +178,8 @@ if (
 	/**
 	 * Inject the theme attribute into Template Part if needed.
 	 *
-	 * @return void
+	 * @param array $block The block being rendered.
+	 * @return array
 	 * @since Twenty Twenty-Four 1.0
 	 * @see _inject_theme_attribute_in_block_template_content()
 	 * @see gutenberg_render_block_core_pattern()
