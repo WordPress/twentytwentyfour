@@ -165,3 +165,35 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 endif;
 
 add_action( 'init', 'twentytwentyfour_block_styles' );
+
+/**
+ * WordPress pre-6.4 compatibility
+ */
+
+if (
+	! function_exists( 'traverse_and_serialize_blocks' ) &&
+	! ( defined( 'IS_GUTENBERG_PLUGIN' ) && IS_GUTENBERG_PLUGIN ) &&
+	! function_exists( 'twentytwentyfour_template_part_theme_attribute' )
+) :
+	/**
+	 * Inject the theme attribute into Template Part if needed.
+	 *
+	 * @return void
+	 * @since Twenty Twenty-Four 1.0
+	 * @see _inject_theme_attribute_in_block_template_content()
+	 * @see gutenberg_render_block_core_pattern()
+	 *
+	 */
+	function twentytwentyfour_template_part_theme_attribute( $block ) {
+		if (
+			'core/template-part' === $block['blockName'] &&
+			! isset( $block['attrs']['theme'] )
+		) {
+			$block['attrs']['theme'] = get_stylesheet();
+		}
+
+		return $block;
+	}
+
+	add_action( 'render_block_data', 'twentytwentyfour_template_part_theme_attribute' );
+endif;
