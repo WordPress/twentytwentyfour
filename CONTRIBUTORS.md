@@ -104,5 +104,5 @@
 | @benoitchantre | @benoitchantre |
 | @webashrafians | @webashrafians |
 | @alishabajra | @alishabajracharya27 |
-| @Yos0107 | |
+| @Yos0107 | @yosephtamang |
 | @gregoryfu |  |
