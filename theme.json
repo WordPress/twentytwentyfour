@@ -646,6 +646,13 @@
 			"core/query-title": {
 				"css": "& span {font-style: italic;}"
 			},
+			"core/query-no-results": {
+				"spacing": {
+					"padding": {
+						"top": "var(--wp--preset--spacing--30)"
+					}
+				}
+			},
 			"core/quote": {
 				"border": {
 					"radius": "var(--wp--preset--spacing--20)"
