@@ -162,7 +162,7 @@
 			"spacingSizes": [
 				{
 					"name": "1",
-					"size": "min(1rem, 1vw)",
+					"size": "1rem",
 					"slug": "10"
 				},
 				{
