@@ -3,6 +3,7 @@
  * Title: Faq
  * Slug: twentytwentyfour/faq
  * Categories: text, about, featured
+ * Keywords: faq, about
  * Viewport width: 1400
  */
 ?>
