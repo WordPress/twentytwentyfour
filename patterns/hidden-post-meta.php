@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Post Meta
- * slug: twentytwentyfour/post-meta
- * inserter: no
+ * Slug: twentytwentyfour/post-meta
+ * Inserter: no
  */
 ?>
 
