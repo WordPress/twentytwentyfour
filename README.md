@@ -4,15 +4,15 @@ Welcome to the development repository for the default theme that will launch wit
 
 <img width="1920" alt="2023" src="https://github.com/WordPress/twentytwentyfour/assets/1813435/d965b75d-03cd-4365-b963-b3862d482329">
 
-Twenty Twenty-Four is built as a [block theme](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/). The theme aims to ship with as little CSS as possible: our goal is for all theme styles to be configured through [`theme.json`](https://developer.wordpress.org/block-editor/how-to-guides/themes/theme-json/) and editable through Global Styles. The theme development team will work closely with [Gutenberg](https://github.com/wordpress/gutenberg) contributors to build design tools in the block editor that enable this goal.
+The Twenty Twenty-Four theme is designed as a [block theme](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/). Its primary objective is to minimize the use of CSS. We aspire to have all theme styles customizable through [`theme.json`](https://developer.wordpress.org/block-editor/how-to-guides/themes/theme-json/) and editable via Global Styles. The theme development team will collaborate closely with contributors to [Gutenberg](https://github.com/wordpress/gutenberg) to create design tools within the block editor that facilitate this aim.
 
-You can view a demo of this theme at [2024.wordpress.net](https://2024.wordpress.net/), which is synced to `trunk` branch of this repository every 2 minutes.
+You can explore a live demonstration of this theme by visiting [2024.wordpress.net](https://2024.wordpress.net/). This site is regularly updated with the latest changes from the `trunk` branch of this repository, syncing every 2 minutes.
 
 ## Contributing
 
-If you would like to contribute code, the list of [open issues](https://github.com/WordPress/twentytwentyfour/issues) is a great place to start looking for tasks — but contributing is not just for developers. There are many opportunities to help with testing, triage, discussion, design, building [patterns](https://github.com/WordPress/twentytwentyfour/issues?q=is%3Aissue+is%3Aopen+label%3A%22%5BComponent%5D+Block+Patterns%22) and templates, and more. 
+If you're interested in contributing code, the [open issues](https://github.com/WordPress/twentytwentyfour/issues) list is an excellent resource for finding tasks to get involved with. However, contributing is not limited to developers alone. There are various opportunities to assist with testing, triage, engaging in discussions, designing, creating [patterns](https://github.com/WordPress/twentytwentyfour/issues?q=is%3Aissue+is%3Aopen+label%3A%22%5BComponent%5D+Block+Patterns%22) and templates, and more. 
 
-If you'd like to help with triage, let @luminuu and @MaggieCabrera know in [WordPress.org's Slack instance](https://make.wordpress.org/chat/). We'll help you get set up with the ability to add labels to issues and PRs.
+If you're interested in assisting with triage, please reach out to @luminuu and @MaggieCabrera in [WordPress.org's Slack instance](https://make.wordpress.org/chat/). They will guide you through the process of gaining the necessary permissions to add labels to issues and pull requests.
 
 ## Getting Started
 
