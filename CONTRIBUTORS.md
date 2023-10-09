@@ -101,3 +101,8 @@
 | @NidhiDhandhukiya74 | @nidhidhandhukiya |
 | @trinisha05 | @trinisha |
 | @mhkuu | @mhkuu |
+| @benoitchantre | @benoitchantre |
+| @webashrafians | @webashrafians |
+| @alishabajra | @alishabajracharya27 |
+| @Yos0107 | @yosephtamang |
+| @gregoryfu |  |
