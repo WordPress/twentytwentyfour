@@ -11,7 +11,7 @@
 <div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)">
 	<!-- wp:heading {"align":"wide","style":{"typography":{"lineHeight":"1"},"spacing":{"margin":{"top":"0"}}},"fontSize":"x-large"} -->
 	<h2 class="wp-block-heading alignwide has-x-large-font-size" style="margin-top:0;line-height:1">
-		<?php esc_html_e('Watch, Read, Listen', 'twentytwentyfour'); ?>
+		<?php esc_html_e( 'Watch, Read, Listen', 'twentytwentyfour' ); ?>
 	</h2>
 	<!-- /wp:heading -->
 

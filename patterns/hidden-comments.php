@@ -10,7 +10,7 @@
 <div class="wp-block-comments wp-block-comments-query-loop">
 	<!-- wp:heading -->
 	<h2>
-		<?php esc_html_e('Comments', 'twentytwentyfour'); ?>
+		<?php esc_html_e( 'Comments', 'twentytwentyfour' ); ?>
 	</h2>
 	<!-- /wp:heading -->
 	<!-- wp:comments-title {"level":3} /-->

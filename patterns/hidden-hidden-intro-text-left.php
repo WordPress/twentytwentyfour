@@ -20,7 +20,7 @@
 
 			<!-- wp:heading {"level":1,"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"xx-large"} -->
 			<h1 class="wp-block-heading has-xx-large-font-size" style="line-height:1.2">
-				<?php echo wp_kses_post(__('I’m <em>Leia Acosta</em>, a passionate photographer who finds inspiration in capturing the fleeting beauty of life.')); ?>
+				<?php echo wp_kses_post( __( 'I’m <em>Leia Acosta</em>, a passionate photographer who finds inspiration in capturing the fleeting beauty of life.' ) ); ?>
 			</h1>
 			<!-- /wp:heading -->
 

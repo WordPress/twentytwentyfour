@@ -13,13 +13,13 @@
 	<div class="wp-block-group">
 		<!-- wp:heading {"textAlign":"center","fontSize":"xx-large"} -->
 		<h2 class="wp-block-heading has-text-align-center has-xx-large-font-size">
-			<?php echo esc_html_x('Meet our team', 'Heading of Team Pattern', 'twentytwentyfour'); ?>
+			<?php echo esc_html_x( 'Meet our team', 'Heading of Team Pattern', 'twentytwentyfour' ); ?>
 		</h2>
 		<!-- /wp:heading -->
 
 		<!-- wp:paragraph {"align":"center"} -->
 		<p class="has-text-align-center">
-			<?php echo esc_html_x('Our comprehensive suite of professionals caters to a diverse team, ranging from seasoned architects to renowned engineers.', 'Description of Team Pattern', 'twentytwentyfour'); ?>
+			<?php echo esc_html_x( 'Our comprehensive suite of professionals caters to a diverse team, ranging from seasoned architects to renowned engineers.', 'Description of Team Pattern', 'twentytwentyfour' ); ?>
 		</p>
 		<!-- /wp:paragraph -->
 	</div>
@@ -45,14 +45,14 @@
 				<!-- wp:paragraph {"align":"center","fontSize":"small"} -->
 				<p class="has-text-align-center has-small-font-size">
 					<strong>
-						<?php echo esc_html_x('Francesca Piovani', 'Team Member Name', 'twentytwentyfour'); ?>
+						<?php echo esc_html_x( 'Francesca Piovani', 'Team Member Name', 'twentytwentyfour' ); ?>
 					</strong>
 				</p>
 				<!-- /wp:paragraph -->
 
 				<!-- wp:paragraph {"align":"center","fontSize":"small"} -->
 				<p class="has-text-align-center has-small-font-size">
-					<?php echo esc_html_x('Founder, CEO & Architect', 'Team Member Designation', 'twentytwentyfour'); ?>
+					<?php echo esc_html_x( 'Founder, CEO & Architect', 'Team Member Designation', 'twentytwentyfour' ); ?>
 				</p>
 				<!-- /wp:paragraph -->
 			</div>
@@ -73,14 +73,14 @@
 				<!-- wp:paragraph {"align":"center","fontSize":"small"} -->
 				<p class="has-text-align-center has-small-font-size">
 					<strong>
-						<?php echo esc_html_x('Rhye Moore', 'Team Member Name', 'twentytwentyfour'); ?>
+						<?php echo esc_html_x( 'Rhye Moore', 'Team Member Name', 'twentytwentyfour' ); ?>
 					</strong>
 				</p>
 				<!-- /wp:paragraph -->
 
 				<!-- wp:paragraph {"align":"center","fontSize":"small"} -->
 				<p class="has-text-align-center has-small-font-size">
-					<?php echo esc_html_x('Engineering Manager', 'Team Member Designation', 'twentytwentyfour'); ?>
+					<?php echo esc_html_x( 'Engineering Manager', 'Team Member Designation', 'twentytwentyfour' ); ?>
 				</p>
 				<!-- /wp:paragraph -->
 			</div>
@@ -101,14 +101,14 @@
 				<!-- wp:paragraph {"align":"center","fontSize":"small"} -->
 				<p class="has-text-align-center has-small-font-size">
 					<strong>
-						<?php echo esc_html_x('Helga Steiner', 'Team Member Name', 'twentytwentyfour'); ?>
+						<?php echo esc_html_x( 'Helga Steiner', 'Team Member Name', 'twentytwentyfour' ); ?>
 					</strong>
 				</p>
 				<!-- /wp:paragraph -->
 
 				<!-- wp:paragraph {"align":"center","fontSize":"small"} -->
 				<p class="has-text-align-center has-small-font-size">
-					<?php echo esc_html_x('Architect', 'Team Member Designation', 'twentytwentyfour'); ?>
+					<?php echo esc_html_x( 'Architect', 'Team Member Designation', 'twentytwentyfour' ); ?>
 				</p>
 				<!-- /wp:paragraph -->
 			</div>
@@ -129,14 +129,14 @@
 				<!-- wp:paragraph {"align":"center","fontSize":"small"} -->
 				<p class="has-text-align-center has-small-font-size">
 					<strong>
-						<?php echo esc_html_x('Ivan Lawrence', 'Team Member Name', 'twentytwentyfour'); ?>
+						<?php echo esc_html_x( 'Ivan Lawrence', 'Team Member Name', 'twentytwentyfour' ); ?>
 					</strong>
 				</p>
 				<!-- /wp:paragraph -->
 
 				<!-- wp:paragraph {"align":"center","fontSize":"small"} -->
 				<p class="has-text-align-center has-small-font-size">
-					<?php echo esc_html_x('Project Manager', 'Team Member Designation', 'twentytwentyfour'); ?>
+					<?php echo esc_html_x( 'Project Manager', 'Team Member Designation', 'twentytwentyfour' ); ?>
 				</p>
 				<!-- /wp:paragraph -->
 			</div>

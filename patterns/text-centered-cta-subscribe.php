@@ -17,13 +17,13 @@
 
 		<!-- wp:heading {"textAlign":"center","fontSize":"x-large"} -->
 		<h2 class="wp-block-heading has-text-align-center has-x-large-font-size">
-			<?php echo esc_html_x('Join 900+ subscribers', 'Sample text for Subscriber Heading with numbers', 'twentytwentyfour'); ?>
+			<?php echo esc_html_x( 'Join 900+ subscribers', 'Sample text for Subscriber Heading with numbers', 'twentytwentyfour' ); ?>
 		</h2>
 		<!-- /wp:heading -->
 
 		<!-- wp:paragraph {"align":"center"} -->
 		<p class="has-text-align-center">
-			<?php echo esc_html_x('Stay in the loop with everything you need to know.', 'Sample text for Subscriber Description', 'twentytwentyfour'); ?>
+			<?php echo esc_html_x( 'Stay in the loop with everything you need to know.', 'Sample text for Subscriber Description', 'twentytwentyfour' ); ?>
 		</p>
 		<!-- /wp:paragraph -->
 
@@ -32,7 +32,7 @@
 			<!-- wp:button -->
 			<div class="wp-block-button">
 				<a class="wp-block-button__link wp-element-button">
-					<?php echo esc_html_x('Sign up', 'Sample text for Sign Up Button', 'twentytwentyfour'); ?>
+					<?php echo esc_html_x( 'Sign up', 'Sample text for Sign Up Button', 'twentytwentyfour' ); ?>
 				</a>
 			</div>
 			<!-- /wp:button -->

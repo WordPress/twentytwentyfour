@@ -16,13 +16,13 @@
 
 			<!-- wp:heading {"textAlign":"center","className":"is-style-asterisk"} -->
 			<h2 class="wp-block-heading has-text-align-center is-style-asterisk">
-				<?php echo esc_html_x('An array of resources', 'Sample content for heading of the section.', 'twentytwentyfour'); ?>
+				<?php echo esc_html_x( 'An array of resources', 'Sample content for heading of the section.', 'twentytwentyfour' ); ?>
 			</h2>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph {"align":"center","style":{"layout":{"selfStretch":"fit","flexSize":null}}} -->
 			<p class="has-text-align-center">
-				<?php echo esc_html_x('Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers.', 'Sample content for the subheading for this pattern.', 'twentytwentyfour'); ?>
+				<?php echo esc_html_x( 'Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers.', 'Sample content for the subheading for this pattern.', 'twentytwentyfour' ); ?>
 			</p>
 			<!-- /wp:paragraph -->
 		</div>
@@ -40,7 +40,7 @@
 				<div class="wp-block-group">
 					<!-- wp:heading {"level":3,"className":"is-style-asterisk"} -->
 					<h3 class="wp-block-heading is-style-asterisk">
-						<?php echo esc_html_x('Études Architect App', 'A heading for the list.', 'twentytwentyfour'); ?>
+						<?php echo esc_html_x( 'Études Architect App', 'A heading for the list.', 'twentytwentyfour' ); ?>
 					</h3>
 					<!-- /wp:heading -->
 				</div>
@@ -51,19 +51,19 @@
 
 					<!-- wp:list-item -->
 					<li>
-						<?php echo esc_html_x('Collaborate with fellow architects.', 'A general list item.', 'twentytwentyfour'); ?>
+						<?php echo esc_html_x( 'Collaborate with fellow architects.', 'A general list item.', 'twentytwentyfour' ); ?>
 					</li>
 					<!-- /wp:list-item -->
 
 					<!-- wp:list-item -->
 					<li>
-						<?php echo esc_html_x('Showcase your projects.', 'A general list item.', 'twentytwentyfour'); ?>
+						<?php echo esc_html_x( 'Showcase your projects.', 'A general list item.', 'twentytwentyfour' ); ?>
 					</li>
 					<!-- /wp:list-item -->
 
 					<!-- wp:list-item -->
 					<li>
-						<?php echo esc_html_x('Experience the world of architecture.', 'A general list item.', 'twentytwentyfour'); ?>
+						<?php echo esc_html_x( 'Experience the world of architecture.', 'A general list item.', 'twentytwentyfour' ); ?>
 					</li>
 					<!-- /wp:list-item -->
 
@@ -76,7 +76,7 @@
 			<div class="wp-block-column" style="flex-basis:50%">
 				<!-- wp:image {"aspectRatio":"4/3","scale":"cover","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
 				<figure class="wp-block-image size-large is-style-rounded">
-					<img src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/images/tourist-and-building.webp" alt="<?php esc_attr_e('Tourist taking photo of a building', 'twentytwentyfour'); ?>" />
+					<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tourist-and-building.webp" alt="<?php esc_attr_e( 'Tourist taking photo of a building', 'twentytwentyfour' ); ?>" />
 				</figure>
 				<!-- /wp:image -->
 			</div>
@@ -94,7 +94,7 @@
 			<div class="wp-block-column" style="flex-basis:50%">
 				<!-- wp:image {"aspectRatio":"4/3","scale":"cover","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
 				<figure class="wp-block-image size-large is-style-rounded">
-					<img src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/images/windows.webp" alt="<?php esc_attr_e('Windows of a building in Nuremberg, Germany', 'twentytwentyfour'); ?>" />
+					<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/windows.webp" alt="<?php esc_attr_e( 'Windows of a building in Nuremberg, Germany', 'twentytwentyfour' ); ?>" />
 				</figure>
 				<!-- /wp:image -->
 			</div>
@@ -107,7 +107,7 @@
 
 					<!-- wp:heading {"level":3,"className":"is-style-asterisk"} -->
 					<h3 class="wp-block-heading is-style-asterisk">
-						<?php echo esc_html_x('Études Newsletter', 'A heading for the list.', 'twentytwentyfour'); ?>
+						<?php echo esc_html_x( 'Études Newsletter', 'A heading for the list.', 'twentytwentyfour' ); ?>
 					</h3>
 					<!-- /wp:heading -->
 				</div>
@@ -117,19 +117,19 @@
 				<ul class="is-style-checkmark-list" style="line-height:1.75">
 					<!-- wp:list-item -->
 					<li>
-						<?php echo esc_html_x('A world of thought-provoking articles.', 'A general list item.', 'twentytwentyfour'); ?>
+						<?php echo esc_html_x( 'A world of thought-provoking articles.', 'A general list item.', 'twentytwentyfour' ); ?>
 					</li>
 					<!-- /wp:list-item -->
 
 					<!-- wp:list-item -->
 					<li>
-						<?php echo esc_html_x('Case studies that celebrate architecture.', 'A general list item.', 'twentytwentyfour'); ?>
+						<?php echo esc_html_x( 'Case studies that celebrate architecture.', 'A general list item.', 'twentytwentyfour' ); ?>
 					</li>
 					<!-- /wp:list-item -->
 
 					<!-- wp:list-item -->
 					<li>
-						<?php echo esc_html_x('Exclusive access to design insights.', 'A general list item.', 'twentytwentyfour'); ?>
+						<?php echo esc_html_x( 'Exclusive access to design insights.', 'A general list item.', 'twentytwentyfour' ); ?>
 					</li>
 					<!-- /wp:list-item -->
 				</ul>

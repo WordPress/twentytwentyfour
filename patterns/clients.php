@@ -14,7 +14,7 @@
 	<div class="wp-block-group alignwide has-base-2-background-color has-background" style="border-radius:16px;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)">
 		<!-- wp:paragraph {"align":"center"} -->
 		<p class="has-text-align-center">
-			<?php echo esc_html_x('We’ve worked with some of the best companies.', 'Sample content above the list of companies.', 'twentytwentyfour'); ?>
+			<?php echo esc_html_x( 'We’ve worked with some of the best companies.', 'Sample content above the list of companies.', 'twentytwentyfour' ); ?>
 		</p>
 		<!-- /wp:paragraph -->
 

@@ -14,7 +14,7 @@
 		<div class="wp-block-column" style="flex-basis:40%">
 			<!-- wp:paragraph {"style":{"layout":{"selfStretch":"fixed","flexSize":"50%"}}} -->
 			<p>
-				<?php echo esc_html_x('Art Gallery — Overview', 'Project Name or Title', 'twentytwentyfour'); ?>
+				<?php echo esc_html_x( 'Art Gallery — Overview', 'Project Name or Title', 'twentytwentyfour' ); ?>
 			</p>
 			<!-- /wp:paragraph -->
 		</div>
@@ -25,7 +25,7 @@
 
 			<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"x-large","fontFamily":"heading"} -->
 			<p class="has-heading-font-family has-x-large-font-size" style="line-height:1.2">
-				<?php echo esc_html_x('This transformative project seeks to enhance the gallery\'s infrastructure, accessibility, and exhibition spaces while preserving its rich cultural heritage.', 'A heading type project description.', 'twentytwentyfour'); ?>
+				<?php echo esc_html_x( 'This transformative project seeks to enhance the gallery\'s infrastructure, accessibility, and exhibition spaces while preserving its rich cultural heritage.', 'A heading type project description.', 'twentytwentyfour' ); ?>
 			</p>
 			<!-- /wp:paragraph -->
 
@@ -41,7 +41,7 @@
 
 	<!-- wp:image {"align":"wide","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
 	<figure class="wp-block-image alignwide size-large is-style-rounded">
-		<img src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/images/hotel-facade.webp" alt="<?php esc_attr_e('Hyatt Regency San Francisco, San Francisco, United States', 'twentytwentyfour'); ?>" />
+		<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/hotel-facade.webp" alt="<?php esc_attr_e( 'Hyatt Regency San Francisco, San Francisco, United States', 'twentytwentyfour' ); ?>" />
 	</figure>
 	<!-- /wp:image -->
 </div>

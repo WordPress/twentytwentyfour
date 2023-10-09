@@ -13,7 +13,7 @@
 	<div class="wp-block-group">
 		<!-- wp:heading {"textAlign":"center","fontSize":"x-large","level":1} -->
 		<h1 class="wp-block-heading has-text-align-center has-x-large-font-size">
-			<?php echo esc_html_x('A commitment to innovation and sustainability', 'Heading of the hero section', 'twentytwentyfour'); ?>
+			<?php echo esc_html_x( 'A commitment to innovation and sustainability', 'Heading of the hero section', 'twentytwentyfour' ); ?>
 		</h1>
 		<!-- /wp:heading -->
 
@@ -23,7 +23,7 @@
 
 		<!-- wp:paragraph {"align":"center"} -->
 		<p class="has-text-align-center">
-			<?php echo esc_html_x('Études is a pioneering firm that seamlessly merges creativity and functionality to redefine architectural excellence.', 'Content of the hero section', 'twentytwentyfour'); ?>
+			<?php echo esc_html_x( 'Études is a pioneering firm that seamlessly merges creativity and functionality to redefine architectural excellence.', 'Content of the hero section', 'twentytwentyfour' ); ?>
 		</p>
 		<!-- /wp:paragraph -->
 
@@ -36,7 +36,7 @@
 			<!-- wp:button -->
 			<div class="wp-block-button">
 				<a class="wp-block-button__link wp-element-button">
-					<?php echo esc_html_x('About us', 'Button\'s label of the hero section', 'twentytwentyfour'); ?>
+					<?php echo esc_html_x( 'About us', 'Button\'s label of the hero section', 'twentytwentyfour' ); ?>
 				</a>
 			</div>
 			<!-- /wp:button -->
@@ -52,7 +52,7 @@
 
 	<!-- wp:image {"align":"wide","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
 	<figure class="wp-block-image alignwide size-full is-style-rounded">
-		<img src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/images/building-exterior.webp" alt="<?php esc_attr_e('Building exterior in Toronto, Canada', 'twentytwentyfour'); ?>" />
+		<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/building-exterior.webp" alt="<?php esc_attr_e( 'Building exterior in Toronto, Canada', 'twentytwentyfour' ); ?>" />
 	</figure>
 	<!-- /wp:image -->
 </div>

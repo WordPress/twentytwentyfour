@@ -15,13 +15,13 @@
 		<div class="wp-block-group alignwide">
 			<!-- wp:heading {"textAlign":"center"} -->
 			<h2 class="wp-block-heading has-text-align-center">
-				<?php echo esc_html_x('Our Services', 'Heading for pricing pattern', 'twentytwentyfour'); ?>
+				<?php echo esc_html_x( 'Our Services', 'Heading for pricing pattern', 'twentytwentyfour' ); ?>
 			</h2>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"1.125rem"},"spacing":{"margin":{"top":"var:preset|spacing|10"}}}} -->
 			<p class="has-text-align-center" style="margin-top:var(--wp--preset--spacing--10);font-size:1.125rem">
-				<?php echo esc_html_x('We offer flexible options, which you can adapt to the different needs of each project.', 'Short blurb for pricing pattern', 'twentytwentyfour'); ?>
+				<?php echo esc_html_x( 'We offer flexible options, which you can adapt to the different needs of each project.', 'Short blurb for pricing pattern', 'twentytwentyfour' ); ?>
 			</p>
 			<!-- /wp:paragraph -->
 		</div>
@@ -38,14 +38,14 @@
 				<!-- wp:heading {"textAlign":"center","level":4,"style":{"spacing":{"padding":{"top":"1px"}}},"fontSize":"medium"} -->
 				<h4 class="wp-block-heading has-text-align-center has-medium-font-size" style="padding-top:1px">
 					<em>
-						<?php echo esc_html_x('Free', 'Title for Free pricing level', 'twentytwentyfour'); ?>
+						<?php echo esc_html_x( 'Free', 'Title for Free pricing level', 'twentytwentyfour' ); ?>
 					</em>
 				</h4>
 				<!-- /wp:heading -->
 
 				<!-- wp:heading {"textAlign":"center","level":5,"fontSize":"x-large"} -->
 				<h5 class="wp-block-heading has-text-align-center has-x-large-font-size">
-					<?php echo esc_html_x('$0', 'Price for Free pricing level', 'twentytwentyfour'); ?>
+					<?php echo esc_html_x( '$0', 'Price for Free pricing level', 'twentytwentyfour' ); ?>
 				</h5>
 				<!-- /wp:heading -->
 
@@ -58,7 +58,7 @@
 				<div class="wp-block-group">
 					<!-- wp:paragraph {"align":"center"} -->
 					<p class="has-text-align-center">
-						<?php echo wp_kses_post(_x('Access to 5 exclusive <em>Études Articles</em> per month.', 'Feature for pricing level', 'twentytwentyfour')); ?>
+						<?php echo wp_kses_post( _x( 'Access to 5 exclusive <em>Études Articles</em> per month.', 'Feature for pricing level', 'twentytwentyfour' ) ); ?>
 					</p>
 					<!-- /wp:paragraph -->
 
@@ -69,7 +69,7 @@
 					<!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}}},"textColor":"contrast-2"} -->
 					<p class="has-text-align-center has-contrast-2-color has-text-color has-link-color">
 						<s>
-							<?php echo esc_html_x('Weekly print edition.', 'Feature for pricing level', 'twentytwentyfour'); ?>
+							<?php echo esc_html_x( 'Weekly print edition.', 'Feature for pricing level', 'twentytwentyfour' ); ?>
 						</s>
 					</p>
 					<!-- /wp:paragraph -->
@@ -81,7 +81,7 @@
 					<!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}}},"textColor":"contrast-2"} -->
 					<p class="has-text-align-center has-contrast-2-color has-text-color has-link-color">
 						<s>
-							<?php echo wp_kses_post(_x('Exclusive access to the <em>Études</em> app for iOS and Android.', 'Feature for pricing level', 'twentytwentyfour')); ?>
+							<?php echo wp_kses_post( _x( 'Exclusive access to the <em>Études</em> app for iOS and Android.', 'Feature for pricing level', 'twentytwentyfour' ) ); ?>
 						</s>
 					</p>
 					<!-- /wp:paragraph -->
@@ -98,7 +98,7 @@
 					<!-- wp:button {"width":100,"className":"is-style-outline"} -->
 					<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-outline">
 						<a class="wp-block-button__link wp-element-button">
-							<?php echo esc_html_x('Subscribe', 'Call to action pricing level', 'twentytwentyfour'); ?>
+							<?php echo esc_html_x( 'Subscribe', 'Call to action pricing level', 'twentytwentyfour' ); ?>
 						</a>
 					</div>
 					<!-- /wp:button -->
@@ -112,14 +112,14 @@
 				<!-- wp:heading {"textAlign":"center","level":4} -->
 				<h4 class="wp-block-heading has-text-align-center">
 					<em>
-						<?php echo esc_html_x('Connoisseur', 'Title for Connoisseur pricing level', 'twentytwentyfour'); ?>
+						<?php echo esc_html_x( 'Connoisseur', 'Title for Connoisseur pricing level', 'twentytwentyfour' ); ?>
 					</em>
 				</h4>
 				<!-- /wp:heading -->
 
 				<!-- wp:heading {"textAlign":"center","level":5,"fontSize":"x-large"} -->
 				<h5 class="wp-block-heading has-text-align-center has-x-large-font-size">
-					<?php echo esc_html_x('$12', 'Price for Connoisseur pricing level', 'twentytwentyfour'); ?>
+					<?php echo esc_html_x( '$12', 'Price for Connoisseur pricing level', 'twentytwentyfour' ); ?>
 				</h5>
 				<!-- /wp:heading -->
 
@@ -132,7 +132,7 @@
 				<div class="wp-block-group">
 					<!-- wp:paragraph {"align":"center"} -->
 					<p class="has-text-align-center">
-						<?php echo wp_kses_post(_x('Access to 20 exclusive <em>Études Articles</em> per month.', 'Feature for pricing level', 'twentytwentyfour')); ?>
+						<?php echo wp_kses_post( _x( 'Access to 20 exclusive <em>Études Articles</em> per month.', 'Feature for pricing level', 'twentytwentyfour' ) ); ?>
 					</p>
 					<!-- /wp:paragraph -->
 
@@ -142,7 +142,7 @@
 
 					<!-- wp:paragraph {"align":"center"} -->
 					<p class="has-text-align-center">
-						<?php echo esc_html_x('Weekly print edition.', 'Feature for pricing level', 'twentytwentyfour'); ?>
+						<?php echo esc_html_x( 'Weekly print edition.', 'Feature for pricing level', 'twentytwentyfour' ); ?>
 					</p>
 					<!-- /wp:paragraph -->
 
@@ -152,7 +152,7 @@
 
 					<!-- wp:paragraph {"align":"center"} -->
 					<p class="has-text-align-center">
-						<?php echo wp_kses_post(_x('Exclusive access to the <em>Études</em> app for iOS and Android.', 'Feature for pricing level', 'twentytwentyfour')); ?>
+						<?php echo wp_kses_post( _x( 'Exclusive access to the <em>Études</em> app for iOS and Android.', 'Feature for pricing level', 'twentytwentyfour' ) ); ?>
 					</p>
 					<!-- /wp:paragraph -->
 				</div>
@@ -168,7 +168,7 @@
 					<!-- wp:button {"width":100,"className":"is-style-fill"} -->
 					<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill">
 						<a class="wp-block-button__link wp-element-button">
-							<?php echo esc_html_x('Subscribe', 'Call to action pricing level', 'twentytwentyfour'); ?>
+							<?php echo esc_html_x( 'Subscribe', 'Call to action pricing level', 'twentytwentyfour' ); ?>
 						</a>
 					</div>
 					<!-- /wp:button -->
@@ -182,14 +182,14 @@
 				<!-- wp:heading {"textAlign":"center","level":4,"style":{"spacing":{"padding":{"top":"1px"}}},"fontSize":"medium"} -->
 				<h4 class="wp-block-heading has-text-align-center has-medium-font-size" style="padding-top:1px">
 					<em>
-						<?php echo esc_html_x('Expert', 'Title for Expert pricing level', 'twentytwentyfour'); ?>
+						<?php echo esc_html_x( 'Expert', 'Title for Expert pricing level', 'twentytwentyfour' ); ?>
 					</em>
 				</h4>
 				<!-- /wp:heading -->
 
 				<!-- wp:heading {"textAlign":"center","level":5,"fontSize":"x-large"} -->
 				<h5 class="wp-block-heading has-text-align-center has-x-large-font-size">
-					<?php echo esc_html_x('$28', 'Price for Expert pricing level', 'twentytwentyfour'); ?>
+					<?php echo esc_html_x( '$28', 'Price for Expert pricing level', 'twentytwentyfour' ); ?>
 				</h5>
 				<!-- /wp:heading -->
 
@@ -202,7 +202,7 @@
 				<div class="wp-block-group">
 					<!-- wp:paragraph {"align":"center"} -->
 					<p class="has-text-align-center">
-						<?php echo wp_kses_post(_x('Exclusive, unlimited access to <em>Études Articles</em>.', 'Feature for pricing level', 'twentytwentyfour')); ?>
+						<?php echo wp_kses_post( _x( 'Exclusive, unlimited access to <em>Études Articles</em>.', 'Feature for pricing level', 'twentytwentyfour' ) ); ?>
 					</p>
 					<!-- /wp:paragraph -->
 
@@ -212,7 +212,7 @@
 
 					<!-- wp:paragraph {"align":"center"} -->
 					<p class="has-text-align-center">
-						<?php echo esc_html_x('Weekly print edition.', 'Feature for pricing level', 'twentytwentyfour'); ?>
+						<?php echo esc_html_x( 'Weekly print edition.', 'Feature for pricing level', 'twentytwentyfour' ); ?>
 					</p>
 					<!-- /wp:paragraph -->
 
@@ -222,7 +222,7 @@
 
 					<!-- wp:paragraph {"align":"center"} -->
 					<p class="has-text-align-center">
-						<?php echo wp_kses_post(_x('Exclusive access to the <em>Études</em> app for iOS and Android', 'Feature for pricing level', 'twentytwentyfour')); ?>
+						<?php echo wp_kses_post( _x( 'Exclusive access to the <em>Études</em> app for iOS and Android', 'Feature for pricing level', 'twentytwentyfour' ) ); ?>
 					</p>
 					<!-- /wp:paragraph -->
 				</div>
@@ -238,7 +238,7 @@
 					<!-- wp:button {"width":100,"className":"is-style-outline"} -->
 					<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-outline">
 						<a class="wp-block-button__link wp-element-button">
-							<?php echo esc_html_x('Subscribe', 'Call to action pricing level', 'twentytwentyfour'); ?>
+							<?php echo esc_html_x( 'Subscribe', 'Call to action pricing level', 'twentytwentyfour' ); ?>
 						</a>
 					</div>
 					<!-- /wp:button -->
