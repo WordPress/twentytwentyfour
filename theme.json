@@ -236,6 +236,11 @@
 					"fontFamily": "Cardo",
 					"name": "Cardo",
 					"slug": "heading"
+				},
+				{
+					"fontFamily": "Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif",
+					"name": "Neo-Grotesque",
+					"slug": "neo-grotesque"
 				}
 			],
 			"fontSizes": [
