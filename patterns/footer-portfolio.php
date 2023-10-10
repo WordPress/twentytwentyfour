@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: Footer portfolio
+ * Title: Two column footer with colophon
  * Slug: twentytwentyfour/footer-portfolio
  * Categories: footer
  * Block Types: core/template-part/footer
