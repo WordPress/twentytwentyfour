@@ -153,11 +153,11 @@ turns into
 
 and 
 
-`<!-- wp:template-part {"slug":"header-portfolio","theme":"twentytwentyfour","area":"header"} /-->`
+`<!-- wp:template-part {"slug":"header-portfolio","theme":"twentytwentyfour","area":"header","tagName":"header"} /-->`
 
 turns into 
 
-`<!-- wp:template-part {"slug":"header-portfolio","area":"header"} /-->`
+`<!-- wp:template-part {"slug":"header-portfolio","area":"header","tagName":"header"} /-->`
 
 If we are constantly assigning properties to the same block over and over again (ie: border radius to images), consider moving those properties to the theme.json. 
 

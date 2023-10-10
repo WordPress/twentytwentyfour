@@ -8,7 +8,7 @@
  */
 ?>
 
-<!-- wp:template-part {"slug":"header"} /-->
+<!-- wp:template-part {"slug":"header","area":"header","tagName":"header"} /-->
 
 <!-- wp:group {"tagName":"main","align":"full","layout":{"type":"constrained"}} -->
 <main class="wp-block-group alignfull"><!-- wp:spacer {"height":"var:preset|spacing|40"} -->
