@@ -236,6 +236,11 @@
 					"fontFamily": "Cardo",
 					"name": "Cardo",
 					"slug": "heading"
+				},
+				{
+					"fontFamily": "'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif",
+					"name": "Old Style",
+					"slug": "old-style"
 				}
 			],
 			"fontSizes": [
