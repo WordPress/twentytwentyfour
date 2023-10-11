@@ -922,17 +922,7 @@
 		{
 			"area": "footer",
 			"name": "footer",
-			"title": "Three column footer with colophon"
-		},
-		{
-			"area": "footer",
-			"name": "footer-portfolio",
-			"title": "Two column footer with colophon"
-		},
-		{
-			"area": "footer",
-			"name": "footer-writer",
-			"title": "Minimal centered footer with logo and navigation"
+			"title": "Footer"
 		},
 		{
 			"area": "uncategorized",
