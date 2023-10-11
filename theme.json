@@ -867,7 +867,7 @@
 			},
 			"h4": {
 				"typography": {
-					"fontSize": "var(--wp--preset--font-size--medium)"
+					"fontSize": "clamp(1.1rem, 1.1rem + ((1vw - 0.2rem) * 0.767), 1.5rem)"
 				}
 			},
 			"h5": {
@@ -877,7 +877,7 @@
 			},
 			"h6": {
 				"typography": {
-					"fontSize": "var(--wp--preset--font-size--medium)"
+					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
 			"heading": {
