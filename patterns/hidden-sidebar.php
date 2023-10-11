@@ -15,9 +15,9 @@
 		<!-- wp:group {"style":{"spacing":{"blockGap":"16px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 		<div class="wp-block-group">
 			<!-- wp:heading {"style":{"typography":{"fontSize":"1.6rem"}}} -->
-			<h2 class="wp-block-heading" style="font-size:1.6rem">
-				<?php esc_html_e( 'About the author', 'twentytwentyfour' ); ?>
-			</h2>
+			<h2 class="wp-block-heading" style="font-size:1.6rem"><?php
+				esc_html_e( 'About the author', 'twentytwentyfour' );
+			?></h2>
 			<!-- /wp:heading -->
 
 			<!-- wp:post-author-biography {"fontSize":"small"} /-->
@@ -33,9 +33,9 @@
 	<!-- wp:group {"style":{"spacing":{"blockGap":"16px"}},"layout":{"type":"constrained"}} -->
 	<div class="wp-block-group">
 		<!-- wp:heading {"style":{"typography":{"fontSize":"1.6rem"}}} -->
-		<h2 class="wp-block-heading" style="font-size:1.6rem">
-			<?php esc_html_e( 'Popular Categories', 'twentytwentyfour' ); ?>
-		</h2>
+		<h2 class="wp-block-heading" style="font-size:1.6rem"><?php
+			esc_html_e( 'Popular Categories', 'twentytwentyfour' );
+		?></h2>
 		<!-- /wp:heading -->
 
 		<!-- wp:categories {"showHierarchy":true,"showPostCounts":true,"fontSize":"small"} /-->
@@ -51,15 +51,15 @@
 		<!-- wp:group {"style":{"spacing":{"blockGap":"16px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 		<div class="wp-block-group">
 			<!-- wp:heading {"style":{"typography":{"fontSize":"1.6rem"}}} -->
-			<h2 class="wp-block-heading" style="font-size:1.6rem">
-				<?php esc_html_e( 'Useful Links', 'twentytwentyfour' ); ?>
-			</h2>
+			<h2 class="wp-block-heading" style="font-size:1.6rem"><?php
+				esc_html_e( 'Useful Links', 'twentytwentyfour' );
+			?></h2>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph {"fontSize":"small"} -->
-			<p class="has-small-font-size">
-				<?php esc_html_e( 'Links I found useful and wanted to share.', 'twentytwentyfour' ); ?>
-			</p>
+			<p class="has-small-font-size"><?php
+				esc_html_e( 'Links I found useful and wanted to share.', 'twentytwentyfour' );
+			?></p>
 			<!-- /wp:paragraph -->
 		</div>
 		<!-- /wp:group -->
@@ -78,9 +78,9 @@
 	<!-- wp:group {"style":{"spacing":{"blockGap":"16px"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
 	<div class="wp-block-group">
 		<!-- wp:heading {"style":{"typography":{"fontSize":"1.6rem"}}} -->
-		<h2 class="wp-block-heading" style="font-size:1.6rem">
-			<?php esc_html_e( 'Search the website', 'twentytwentyfour' ); ?>
-		</h2>
+		<h2 class="wp-block-heading" style="font-size:1.6rem"><?php
+			esc_html_e( 'Search the website', 'twentytwentyfour' );
+		?></h2>
 		<!-- /wp:heading -->
 
 		<!-- wp:search {"label":"<?php echo esc_attr_x( 'Search', 'search form label', 'twentytwentyfour' ); ?>","showLabel":false,"placeholder":"<?php echo esc_attr_x( 'Search...', 'search form placeholder', 'twentytwentyfour' ); ?>","width":100,"widthUnit":"%","buttonText":"<?php echo esc_attr_x( 'Search', 'search form label', 'twentytwentyfour' ); ?>"} /-->

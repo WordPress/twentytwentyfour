@@ -15,15 +15,15 @@
 		<div class="wp-block-group">
 
 			<!-- wp:heading {"textAlign":"center","className":"is-style-asterisk"} -->
-			<h2 class="wp-block-heading has-text-align-center is-style-asterisk">
-				<?php echo esc_html_x( 'An array of resources', 'Sample content for heading of the section.', 'twentytwentyfour' ); ?>
-			</h2>
+			<h2 class="wp-block-heading has-text-align-center is-style-asterisk"><?php
+				echo esc_html_x( 'An array of resources', 'Sample content for heading of the section.', 'twentytwentyfour' );
+			?></h2>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph {"align":"center","style":{"layout":{"selfStretch":"fit","flexSize":null}}} -->
-			<p class="has-text-align-center">
-				<?php echo esc_html_x( 'Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers.', 'Sample content for the subheading for this pattern.', 'twentytwentyfour' ); ?>
-			</p>
+			<p class="has-text-align-center"><?php
+				echo esc_html_x( 'Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers.', 'Sample content for the subheading for this pattern.', 'twentytwentyfour' );
+			?></p>
 			<!-- /wp:paragraph -->
 		</div>
 		<!-- /wp:group -->
@@ -37,30 +37,30 @@
 			<!-- wp:column {"verticalAlignment":"center","width":"40%"} -->
 			<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:40%">
 				<!-- wp:heading {"level":3,"className":"is-style-asterisk"} -->
-				<h3 class="wp-block-heading is-style-asterisk">
-					<?php echo esc_html_x( 'Études Architect App', 'A heading for the list.', 'twentytwentyfour' ); ?>
-				</h3>
+				<h3 class="wp-block-heading is-style-asterisk"><?php
+					echo esc_html_x( 'Études Architect App', 'A heading for the list.', 'twentytwentyfour' );
+				?></h3>
 				<!-- /wp:heading -->
 
 				<!-- wp:list {"style":{"typography":{"lineHeight":"1.75"}},"className":"is-style-checkmark-list"} -->
 				<ul class="is-style-checkmark-list" style="line-height:1.75">
 
 					<!-- wp:list-item -->
-					<li>
-						<?php echo esc_html_x( 'Collaborate with fellow architects.', 'A general list item.', 'twentytwentyfour' ); ?>
-					</li>
+					<li><?php
+						echo esc_html_x( 'Collaborate with fellow architects.', 'A general list item.', 'twentytwentyfour' );
+					?></li>
 					<!-- /wp:list-item -->
 
 					<!-- wp:list-item -->
-					<li>
-						<?php echo esc_html_x( 'Showcase your projects.', 'A general list item.', 'twentytwentyfour' ); ?>
-					</li>
+					<li><?php
+						echo esc_html_x( 'Showcase your projects.', 'A general list item.', 'twentytwentyfour' );
+					?></li>
 					<!-- /wp:list-item -->
 
 					<!-- wp:list-item -->
-					<li>
-						<?php echo esc_html_x( 'Experience the world of architecture.', 'A general list item.', 'twentytwentyfour' ); ?>
-					</li>
+					<li><?php
+						echo esc_html_x( 'Experience the world of architecture.', 'A general list item.', 'twentytwentyfour' );
+					?></li>
 					<!-- /wp:list-item -->
 
 				</ul>
@@ -99,29 +99,29 @@
 			<!-- wp:column {"verticalAlignment":"center","width":"40%"} -->
 			<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:40%">
 				<!-- wp:heading {"level":3,"className":"is-style-asterisk"} -->
-				<h3 class="wp-block-heading is-style-asterisk">
-					<?php echo esc_html_x( 'Études Newsletter', 'A heading for the list.', 'twentytwentyfour' ); ?>
-				</h3>
+				<h3 class="wp-block-heading is-style-asterisk"><?php
+					echo esc_html_x( 'Études Newsletter', 'A heading for the list.', 'twentytwentyfour' );
+				?></h3>
 				<!-- /wp:heading -->
 
 				<!-- wp:list {"style":{"typography":{"lineHeight":"1.75"}},"className":"is-style-checkmark-list"} -->
 				<ul class="is-style-checkmark-list" style="line-height:1.75">
 					<!-- wp:list-item -->
-					<li>
-						<?php echo esc_html_x( 'A world of thought-provoking articles.', 'A general list item.', 'twentytwentyfour' ); ?>
-					</li>
+					<li><?php
+						echo esc_html_x( 'A world of thought-provoking articles.', 'A general list item.', 'twentytwentyfour' );
+					?></li>
 					<!-- /wp:list-item -->
 
 					<!-- wp:list-item -->
-					<li>
-						<?php echo esc_html_x( 'Case studies that celebrate architecture.', 'A general list item.', 'twentytwentyfour' ); ?>
-					</li>
+					<li><?php
+						echo esc_html_x( 'Case studies that celebrate architecture.', 'A general list item.', 'twentytwentyfour' );
+					?></li>
 					<!-- /wp:list-item -->
 
 					<!-- wp:list-item -->
-					<li>
-						<?php echo esc_html_x( 'Exclusive access to design insights.', 'A general list item.', 'twentytwentyfour' ); ?>
-					</li>
+					<li><?php
+						echo esc_html_x( 'Exclusive access to design insights.', 'A general list item.', 'twentytwentyfour' );
+					?></li>
 					<!-- /wp:list-item -->
 				</ul>
 				<!-- /wp:list -->

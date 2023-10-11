@@ -12,15 +12,15 @@
 	<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 	<div class="wp-block-group">
 		<!-- wp:heading {"textAlign":"center","fontSize":"xx-large"} -->
-		<h2 class="wp-block-heading has-text-align-center has-xx-large-font-size">
-			<?php echo esc_html_x( 'Meet our team', 'Heading of Team Pattern', 'twentytwentyfour' ); ?>
-		</h2>
+		<h2 class="wp-block-heading has-text-align-center has-xx-large-font-size"><?php
+			echo esc_html_x( 'Meet our team', 'Heading of Team Pattern', 'twentytwentyfour' );
+		?></h2>
 		<!-- /wp:heading -->
 
 		<!-- wp:paragraph {"align":"center"} -->
-		<p class="has-text-align-center">
-			<?php echo esc_html_x( 'Our comprehensive suite of professionals caters to a diverse team, ranging from seasoned architects to renowned engineers.', 'Description of Team Pattern', 'twentytwentyfour' ); ?>
-		</p>
+		<p class="has-text-align-center"><?php
+			echo esc_html_x( 'Our comprehensive suite of professionals caters to a diverse team, ranging from seasoned architects to renowned engineers.', 'Description of Team Pattern', 'twentytwentyfour' );
+		?></p>
 		<!-- /wp:paragraph -->
 	</div>
 	<!-- /wp:group -->
@@ -44,44 +44,16 @@
 			<div class="wp-block-group">
 				<!-- wp:paragraph {"align":"center","fontSize":"small"} -->
 				<p class="has-text-align-center has-small-font-size">
-					<strong>
-						<?php echo esc_html_x( 'Francesca Piovani', 'Team Member Name', 'twentytwentyfour' ); ?>
-					</strong>
+					<strong><?php
+						echo esc_html_x( 'Francesca Piovani', 'Team Member Name', 'twentytwentyfour' );
+					?></strong>
 				</p>
 				<!-- /wp:paragraph -->
 
 				<!-- wp:paragraph {"align":"center","fontSize":"small"} -->
-				<p class="has-text-align-center has-small-font-size">
-					<?php echo esc_html_x( 'Founder, CEO & Architect', 'Team Member Designation', 'twentytwentyfour' ); ?>
-				</p>
-				<!-- /wp:paragraph -->
-			</div>
-			<!-- /wp:group -->
-		</div>
-		<!-- /wp:column -->
-
-		<!-- wp:column {"layout":{"type":"default"}} -->
-		<div class="wp-block-column">
-			<!-- wp:image {"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
-			<figure class="wp-block-image size-full is-style-rounded">
-				<img alt="" style="aspect-ratio:1;object-fit:cover" />
-			</figure>
-			<!-- /wp:image -->
-
-			<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|0"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center","flexWrap":"nowrap"}} -->
-			<div class="wp-block-group">
-				<!-- wp:paragraph {"align":"center","fontSize":"small"} -->
-				<p class="has-text-align-center has-small-font-size">
-					<strong>
-						<?php echo esc_html_x( 'Rhye Moore', 'Team Member Name', 'twentytwentyfour' ); ?>
-					</strong>
-				</p>
-				<!-- /wp:paragraph -->
-
-				<!-- wp:paragraph {"align":"center","fontSize":"small"} -->
-				<p class="has-text-align-center has-small-font-size">
-					<?php echo esc_html_x( 'Engineering Manager', 'Team Member Designation', 'twentytwentyfour' ); ?>
-				</p>
+				<p class="has-text-align-center has-small-font-size"><?php
+					echo esc_html_x( 'Founder, CEO & Architect', 'Team Member Designation', 'twentytwentyfour' );
+				?></p>
 				<!-- /wp:paragraph -->
 			</div>
 			<!-- /wp:group -->
@@ -100,16 +72,44 @@
 			<div class="wp-block-group">
 				<!-- wp:paragraph {"align":"center","fontSize":"small"} -->
 				<p class="has-text-align-center has-small-font-size">
-					<strong>
-						<?php echo esc_html_x( 'Helga Steiner', 'Team Member Name', 'twentytwentyfour' ); ?>
-					</strong>
+					<strong><?php
+						echo esc_html_x( 'Rhye Moore', 'Team Member Name', 'twentytwentyfour' );
+					?></strong>
 				</p>
 				<!-- /wp:paragraph -->
 
 				<!-- wp:paragraph {"align":"center","fontSize":"small"} -->
+				<p class="has-text-align-center has-small-font-size"><?php
+					echo esc_html_x( 'Engineering Manager', 'Team Member Designation', 'twentytwentyfour' );
+				?></p>
+				<!-- /wp:paragraph -->
+			</div>
+			<!-- /wp:group -->
+		</div>
+		<!-- /wp:column -->
+
+		<!-- wp:column {"layout":{"type":"default"}} -->
+		<div class="wp-block-column">
+			<!-- wp:image {"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
+			<figure class="wp-block-image size-full is-style-rounded">
+				<img alt="" style="aspect-ratio:1;object-fit:cover" />
+			</figure>
+			<!-- /wp:image -->
+
+			<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|0"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center","flexWrap":"nowrap"}} -->
+			<div class="wp-block-group">
+				<!-- wp:paragraph {"align":"center","fontSize":"small"} -->
 				<p class="has-text-align-center has-small-font-size">
-					<?php echo esc_html_x( 'Architect', 'Team Member Designation', 'twentytwentyfour' ); ?>
+					<strong><?php
+						echo esc_html_x( 'Helga Steiner', 'Team Member Name', 'twentytwentyfour' );
+					?></strong>
 				</p>
+				<!-- /wp:paragraph -->
+
+				<!-- wp:paragraph {"align":"center","fontSize":"small"} -->
+				<p class="has-text-align-center has-small-font-size"><?php
+					echo esc_html_x( 'Architect', 'Team Member Designation', 'twentytwentyfour' );
+				?></p>
 				<!-- /wp:paragraph -->
 			</div>
 			<!-- /wp:group -->
@@ -128,16 +128,16 @@
 			<div class="wp-block-group">
 				<!-- wp:paragraph {"align":"center","fontSize":"small"} -->
 				<p class="has-text-align-center has-small-font-size">
-					<strong>
-						<?php echo esc_html_x( 'Ivan Lawrence', 'Team Member Name', 'twentytwentyfour' ); ?>
-					</strong>
+					<strong><?php
+						echo esc_html_x( 'Ivan Lawrence', 'Team Member Name', 'twentytwentyfour' );
+					?></strong>
 				</p>
 				<!-- /wp:paragraph -->
 
 				<!-- wp:paragraph {"align":"center","fontSize":"small"} -->
-				<p class="has-text-align-center has-small-font-size">
-					<?php echo esc_html_x( 'Project Manager', 'Team Member Designation', 'twentytwentyfour' ); ?>
-				</p>
+				<p class="has-text-align-center has-small-font-size"><?php
+					echo esc_html_x( 'Project Manager', 'Team Member Designation', 'twentytwentyfour' );
+				?></p>
 				<!-- /wp:paragraph -->
 			</div>
 			<!-- /wp:group -->
