@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: Footer writer
+ * Title: Minimal centered footer with logo and navigation
  * Slug: twentytwentyfour/footer-writer
  * Categories: footer
  * Block Types: core/template-part/footer

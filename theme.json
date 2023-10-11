@@ -925,16 +925,6 @@
 			"title": "Footer"
 		},
 		{
-			"area": "footer",
-			"name": "footer-portfolio",
-			"title": "Footer: Portfolio"
-		},
-		{
-			"area": "footer",
-			"name": "footer-writer",
-			"title": "Footer: Writer"
-		},
-		{
 			"area": "uncategorized",
 			"name": "sidebar",
 			"title": "Sidebar"
