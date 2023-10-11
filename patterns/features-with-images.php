@@ -36,15 +36,11 @@
 		<div class="wp-block-columns alignwide">
 			<!-- wp:column {"verticalAlignment":"center","width":"40%"} -->
 			<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:40%">
-				<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-				<div class="wp-block-group">
-					<!-- wp:heading {"level":3,"className":"is-style-asterisk"} -->
-					<h3 class="wp-block-heading is-style-asterisk">
-						<?php echo esc_html_x( 'Études Architect App', 'A heading for the list.', 'twentytwentyfour' ); ?>
-					</h3>
-					<!-- /wp:heading -->
-				</div>
-				<!-- /wp:group -->
+				<!-- wp:heading {"level":3,"className":"is-style-asterisk"} -->
+				<h3 class="wp-block-heading is-style-asterisk">
+					<?php echo esc_html_x( 'Études Architect App', 'A heading for the list.', 'twentytwentyfour' ); ?>
+				</h3>
+				<!-- /wp:heading -->
 
 				<!-- wp:list {"style":{"typography":{"lineHeight":"1.75"}},"className":"is-style-checkmark-list"} -->
 				<ul class="is-style-checkmark-list" style="line-height:1.75">
@@ -102,16 +98,11 @@
 
 			<!-- wp:column {"verticalAlignment":"center","width":"40%"} -->
 			<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:40%">
-				<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-				<div class="wp-block-group">
-
-					<!-- wp:heading {"level":3,"className":"is-style-asterisk"} -->
-					<h3 class="wp-block-heading is-style-asterisk">
-						<?php echo esc_html_x( 'Études Newsletter', 'A heading for the list.', 'twentytwentyfour' ); ?>
-					</h3>
-					<!-- /wp:heading -->
-				</div>
-				<!-- /wp:group -->
+				<!-- wp:heading {"level":3,"className":"is-style-asterisk"} -->
+				<h3 class="wp-block-heading is-style-asterisk">
+					<?php echo esc_html_x( 'Études Newsletter', 'A heading for the list.', 'twentytwentyfour' ); ?>
+				</h3>
+				<!-- /wp:heading -->
 
 				<!-- wp:list {"style":{"typography":{"lineHeight":"1.75"}},"className":"is-style-checkmark-list"} -->
 				<ul class="is-style-checkmark-list" style="line-height:1.75">
