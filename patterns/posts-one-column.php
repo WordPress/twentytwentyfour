@@ -7,8 +7,8 @@
  */
 ?>
 
-<!-- wp:query {"query":{"perPage":3,"pages":0,"offset":"0","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"align":"full","layout":{"type":"constrained"}} -->
-<div class="wp-block-query alignfull">
+<!-- wp:query {"query":{"perPage":3,"pages":0,"offset":"0","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"layout":{"type":"constrained"}} -->
+<div class="wp-block-query">
 	<!-- wp:query-no-results -->
 	<!-- wp:pattern {"slug":"twentytwentyfour/no-results-content"} /-->
 	<!-- /wp:query-no-results -->
