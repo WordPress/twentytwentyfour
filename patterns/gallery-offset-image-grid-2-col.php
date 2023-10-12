@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Offset Image Grid, 3 Columns
- * Slug: twentytwentyfour/gallery-offset-image-grid-3-col
+ * Title: Offset Image Grid, 2 Columns
+ * Slug: twentytwentyfour/gallery-offset-image-grid-2-col
  * Categories: gallery, featured, portfolio
  * Keywords: project, images, media, masonry, columns
  * Viewport width: 1400
@@ -12,14 +12,6 @@
 <div class="wp-block-columns alignwide" style="margin-top:0;margin-bottom:0"><!-- wp:column {"style":{"spacing":{"blockGap":"0"}}} -->
 <div class="wp-block-column"><!-- wp:image {"aspectRatio":"4/3","scale":"cover","className":"is-style-rounded"} -->
 <figure class="wp-block-image is-style-rounded"><img alt="" style="aspect-ratio:4/3;object-fit:cover"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:spacer {"height":"var:preset|spacing|50"} -->
-<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:image {"aspectRatio":"3/4","scale":"cover","className":"is-style-rounded"} -->
-<figure class="wp-block-image is-style-rounded"><img alt="" style="aspect-ratio:3/4;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer {"height":"var:preset|spacing|50"} -->
@@ -46,36 +38,6 @@
 
 <!-- wp:image {"aspectRatio":"1","scale":"cover","className":"is-style-rounded"} -->
 <figure class="wp-block-image is-style-rounded"><img alt="" style="aspect-ratio:1;object-fit:cover"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:spacer {"height":"var:preset|spacing|50"} -->
-<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:image {"aspectRatio":"1","scale":"cover","className":"is-style-rounded"} -->
-<figure class="wp-block-image is-style-rounded"><img alt="" style="aspect-ratio:1;object-fit:cover"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"style":{"spacing":{"blockGap":"0"}}} -->
-<div class="wp-block-column"><!-- wp:image {"aspectRatio":"3/4","scale":"cover","className":"is-style-rounded"} -->
-<figure class="wp-block-image is-style-rounded"><img alt="" style="aspect-ratio:3/4;object-fit:cover"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:spacer {"height":"var:preset|spacing|50"} -->
-<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:image {"aspectRatio":"3/4","scale":"cover","className":"is-style-rounded"} -->
-<figure class="wp-block-image is-style-rounded"><img alt="" style="aspect-ratio:3/4;object-fit:cover"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:spacer {"height":"var:preset|spacing|50"} -->
-<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:image {"aspectRatio":"16/9","scale":"cover","className":"is-style-rounded"} -->
-<figure class="wp-block-image is-style-rounded"><img alt="" style="aspect-ratio:16/9;object-fit:cover"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
