@@ -2,7 +2,7 @@
 /**
  * Title: Services - Call To Action
  * Slug: twentytwentyfour/services-cta
- * Categories: call-to-action, banner, featured
+ * Categories: call-to-action, banner, featured, services
  * Viewport width: 1400
  */
 ?>
