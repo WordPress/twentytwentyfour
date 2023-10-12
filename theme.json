@@ -703,7 +703,7 @@
 							"padding": {
 								"bottom": "var(--wp--preset--spacing--20)",
 								"left": "calc(var(--wp--preset--spacing--20) + 0.5rem)",
-								"right": "0",
+								"right": "calc(var(--wp--preset--spacing--20) + 0.5rem)",
 								"top": "var(--wp--preset--spacing--20)"
 							}
 						},
