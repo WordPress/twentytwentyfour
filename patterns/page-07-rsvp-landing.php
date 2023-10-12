@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: Fullscreen RSVP
+ * Title: RSVP Landing Page
  * Slug: twentytwentyfour/rsvp-landing
  * Categories: page
  * Keywords: starter
@@ -10,7 +10,7 @@
  */
 ?>
 
-<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}},"dimensions":{"minHeight":"100vh"}},"backgroundColor":"accent-4","layout":{"type":"flex","orientation":"vertical","verticalAlignment":"center","justifyContent":"center"}} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}},"dimensions":{"minHeight":"100vh"}},"backgroundColor":"accent-4","layout":{"type":"flex","orientation":"vertical","verticalAlignment":"center","justifyContent":"center","flexWrap":"nowrap"}} -->
 <div class="wp-block-group alignfull has-accent-4-background-color has-background" style="min-height:100vh;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)">
 	<!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|50"}}}} -->
 	<div class="wp-block-columns alignwide are-vertically-aligned-center">
@@ -41,8 +41,8 @@
 			<!-- /wp:group -->
 		</div>
 		<!-- /wp:column -->
-		<!-- wp:column {"verticalAlignment":"center","width":"60%"} -->
-		<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:60%">
+		<!-- wp:column {"verticalAlignment":"top","width":"60%"} -->
+		<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:60%">
 				<!-- wp:image {"aspectRatio":"3/4","scale":"cover","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
 					<figure class="wp-block-image size-large is-style-rounded">
 						<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/green-staircase.webp" alt="<?php esc_attr_e( 'Green staircase at Western University, London, Canada', 'twentytwentyfour' ); ?>" style="aspect-ratio:3/4;object-fit:cover" />
