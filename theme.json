@@ -2,7 +2,8 @@
 	"$schema": "https://schemas.wp.org/trunk/theme.json",
 	"version": 2,
 	"patterns": [
-		"three-columns-of-services"
+		"three-columns-of-services",
+		"clients-section"
 	],
 	"settings": {
 		"appearanceTools": true,
