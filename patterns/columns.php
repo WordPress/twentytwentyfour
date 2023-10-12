@@ -14,9 +14,7 @@
 		<!-- wp:column {"width":"33%"} -->
 		<div class="wp-block-column" style="flex-basis:33%">
 			<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"large","fontFamily":"heading"} -->
-			<p class="has-heading-font-family has-large-font-size" style="line-height:1.2">
-				<?php echo esc_html_x( 'We recognize the role architecture plays in shaping a sustainable future.', 'Heading of the Columns', 'twentytwentyfour' ); ?>
-			</p>
+			<p class="has-heading-font-family has-large-font-size" style="line-height:1.2"><?php echo esc_html_x( 'We recognize the role architecture plays in shaping a sustainable future.', 'Heading of the Columns', 'twentytwentyfour' ); ?></p>
 			<!-- /wp:paragraph -->
 		</div>
 		<!-- /wp:column -->
@@ -28,15 +26,11 @@
 				<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"left","flexWrap":"nowrap"}} -->
 				<div class="wp-block-group">
 					<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}}} -->
-					<p style="font-style:normal;font-weight:500">
-						<?php esc_html_e( 'Consulting', 'twentytwentyfour' ); ?>
-					</p>
+					<p style="font-style:normal;font-weight:500"><?php esc_html_e( 'Consulting', 'twentytwentyfour' ); ?></p>
 					<!-- /wp:paragraph -->
 
 					<!-- wp:paragraph -->
-					<p>
-						<?php echo esc_html_x( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'Vision Content for Columns', 'twentytwentyfour' ); ?>
-					</p>
+					<p><?php echo esc_html_x( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'Vision Content for Columns', 'twentytwentyfour' ); ?></p>
 					<!-- /wp:paragraph -->
 				</div>
 				<!-- /wp:group -->
@@ -44,15 +38,11 @@
 				<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap"}} -->
 				<div class="wp-block-group">
 					<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}}} -->
-					<p style="font-style:normal;font-weight:500">
-						<?php esc_html_e( 'Project Management', 'twentytwentyfour' ); ?>
-					</p>
+					<p style="font-style:normal;font-weight:500"><?php esc_html_e( 'Project Management', 'twentytwentyfour' ); ?></p>
 					<!-- /wp:paragraph -->
 
 					<!-- wp:paragraph -->
-					<p>
-						<?php echo esc_html_x( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'Vision Content for Columns', 'twentytwentyfour' ); ?>
-					</p>
+					<p><?php echo esc_html_x( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'Vision Content for Columns', 'twentytwentyfour' ); ?></p>
 					<!-- /wp:paragraph -->
 				</div>
 				<!-- /wp:group -->
@@ -64,15 +54,11 @@
 				<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap"}} -->
 				<div class="wp-block-group">
 					<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}}} -->
-					<p style="font-style:normal;font-weight:500">
-						<?php esc_html_e( 'Design', 'twentytwentyfour' ); ?>
-					</p>
+					<p style="font-style:normal;font-weight:500"><?php esc_html_e( 'Design', 'twentytwentyfour' ); ?></p>
 					<!-- /wp:paragraph -->
 
 					<!-- wp:paragraph -->
-					<p>
-						<?php echo esc_html_x( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'Vision Content for Columns', 'twentytwentyfour' ); ?>
-					</p>
+					<p><?php echo esc_html_x( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'Vision Content for Columns', 'twentytwentyfour' ); ?></p>
 					<!-- /wp:paragraph -->
 				</div>
 				<!-- /wp:group -->
@@ -80,15 +66,11 @@
 				<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap"}} -->
 				<div class="wp-block-group">
 					<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}}} -->
-					<p style="font-style:normal;font-weight:500">
-						<?php esc_html_e( 'Maintenance', 'twentytwentyfour' ); ?>
-					</p>
+					<p style="font-style:normal;font-weight:500"><?php esc_html_e( 'Maintenance', 'twentytwentyfour' ); ?></p>
 					<!-- /wp:paragraph -->
 
 					<!-- wp:paragraph -->
-					<p>
-						<?php echo esc_html_x( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'Vision Content for Columns', 'twentytwentyfour' ); ?>
-					</p>
+					<p><?php echo esc_html_x( 'Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.', 'Vision Content for Columns', 'twentytwentyfour' ); ?></p>
 					<!-- /wp:paragraph -->
 				</div>
 				<!-- /wp:group -->

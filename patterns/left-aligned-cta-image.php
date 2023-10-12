@@ -14,29 +14,21 @@
 		<!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
 		<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%">
 			<!-- wp:heading -->
-			<h2 class="wp-block-heading">
-				<?php echo esc_html_x( 'Enhance your architectural journey with the Études Architect app.', 'sample heading for call to action', 'twentytwentyfour' ); ?>
-			</h2>
+			<h2 class="wp-block-heading"><?php echo esc_html_x( 'Enhance your architectural journey with the Études Architect app.', 'sample heading for call to action', 'twentytwentyfour' ); ?></h2>
 			<!-- /wp:heading -->
 
 			<!-- wp:list {"style":{"typography":{"lineHeight":"1.75"}},"className":"is-style-checkmark-list"} -->
 			<ul class="is-style-checkmark-list" style="line-height:1.75">
 				<!-- wp:list-item -->
-				<li>
-					<?php echo esc_html_x( 'Collaborate with fellow architects.', 'A general list item.', 'twentytwentyfour' ); ?>
-				</li>
+				<li><?php echo esc_html_x( 'Collaborate with fellow architects.', 'A general list item.', 'twentytwentyfour' ); ?></li>
 				<!-- /wp:list-item -->
 
 				<!-- wp:list-item -->
-				<li>
-					<?php echo esc_html_x( 'Showcase your projects.', 'A general list item.', 'twentytwentyfour' ); ?>
-				</li>
+				<li><?php echo esc_html_x( 'Showcase your projects.', 'A general list item.', 'twentytwentyfour' ); ?></li>
 				<!-- /wp:list-item -->
 
 				<!-- wp:list-item -->
-				<li>
-					<?php echo esc_html_x( 'Experience the world of architecture.', 'A general list item.', 'twentytwentyfour' ); ?>
-				</li>
+				<li><?php echo esc_html_x( 'Experience the world of architecture.', 'A general list item.', 'twentytwentyfour' ); ?></li>
 				<!-- /wp:list-item -->
 			</ul>
 			<!-- /wp:list -->
@@ -45,17 +37,13 @@
 			<div class="wp-block-buttons">
 				<!-- wp:button -->
 				<div class="wp-block-button">
-					<a class="wp-block-button__link wp-element-button">
-						<?php echo esc_html_x( 'Download app', 'sample content for call to action button', 'twentytwentyfour' ); ?>
-					</a>
+					<a class="wp-block-button__link wp-element-button"><?php echo esc_html_x( 'Download app', 'sample content for call to action button', 'twentytwentyfour' ); ?></a>
 				</div>
 				<!-- /wp:button -->
 
 				<!-- wp:button {"className":"is-style-outline"} -->
 				<div class="wp-block-button is-style-outline">
-					<a class="wp-block-button__link wp-element-button">
-						<?php echo esc_html_x( 'How it works', 'sample content for call to action button', 'twentytwentyfour' ); ?>
-					</a>
+					<a class="wp-block-button__link wp-element-button"><?php echo esc_html_x( 'How it works', 'sample content for call to action button', 'twentytwentyfour' ); ?></a>
 				</div>
 				<!-- /wp:button -->
 			</div>

@@ -24,24 +24,18 @@
 		<!-- wp:column {"width":"40%"} -->
 		<div class="wp-block-column" style="flex-basis:40%">
 			<!-- wp:heading -->
-			<h2 class="wp-block-heading">
-				<?php echo esc_html_x( 'Guiding your business through the project', 'Heading of The Service Call to Action', 'twentytwentyfour' ); ?>
-			</h2>
+			<h2 class="wp-block-heading"><?php echo esc_html_x( 'Guiding your business through the project', 'Heading of The Service Call to Action', 'twentytwentyfour' ); ?></h2>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph -->
-			<p>
-				<?php echo esc_html_x( 'Experience the fusion of imagination and expertise with Études—the catalyst for architectural transformations that enrich the world around us.', 'Service Description of Call to Action', 'twentytwentyfour' ); ?>
-			</p>
+			<p><?php echo esc_html_x( 'Experience the fusion of imagination and expertise with Études—the catalyst for architectural transformations that enrich the world around us.', 'Service Description of Call to Action', 'twentytwentyfour' ); ?></p>
 			<!-- /wp:paragraph -->
 
 			<!-- wp:buttons -->
 			<div class="wp-block-buttons">
 				<!-- wp:button -->
 				<div class="wp-block-button">
-					<a class="wp-block-button__link wp-element-button">
-						<?php echo esc_html_x( 'Our services', 'Call to Action Button Text', 'twentytwentyfour' ); ?>
-					</a>
+					<a class="wp-block-button__link wp-element-button"><?php echo esc_html_x( 'Our services', 'Call to Action Button Text', 'twentytwentyfour' ); ?></a>
 				</div>
 				<!-- /wp:button -->
 			</div>
