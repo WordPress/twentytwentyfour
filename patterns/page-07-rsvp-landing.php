@@ -2,8 +2,8 @@
 /**
  * Title: RSVP Landing Page
  * Slug: twentytwentyfour/rsvp-landing
- * Categories: call-to-action, featured
- * Keywords: page, starter
+ * Categories: page, call-to-action, featured
+ * Keywords: starter
  * Block Types: core/post-content
  * Post Types: page, wp_template
  * Viewport width: 1100
