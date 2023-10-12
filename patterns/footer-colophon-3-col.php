@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Two column footer with colophon
- * Slug: twentytwentyfour/footer-portfolio
+ * Title: Footer with colophon, 3 columns
+ * Slug: twentytwentyfour/footer-colophon-3-col
  * Categories: footer
  * Block Types: core/template-part/footer
  */
