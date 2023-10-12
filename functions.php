@@ -180,10 +180,13 @@ if ( ! function_exists( 'twentytwentyfour_pattern_categories' ) ) :
 	 */
 	function twentytwentyfour_pattern_categories() {
 
-		register_block_pattern_category( 'page', array(
-			'label' => __( 'Pages', 'twentytwentyfour' ),
-		) );
-
+		register_block_pattern_category(
+			'page',
+			array(
+				'label'       => _x( 'Pages', 'Block pattern category' ),
+				'description' => __( 'A collection of full page layouts.' ),
+			)
+		);
 	}
 endif;
 
