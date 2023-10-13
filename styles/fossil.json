@@ -138,8 +138,7 @@
 							}
 						},
 						"border": {
-							"style": "solid",
-							"width": "1px"
+							"width": "2px"
 						}
 					}
 				}

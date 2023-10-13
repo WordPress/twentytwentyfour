@@ -309,7 +309,6 @@
 							}
 						},
 						"border": {
-							"style": "solid",
 							"width": "1px"
 						}
 					}
