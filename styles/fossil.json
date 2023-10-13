@@ -153,6 +153,9 @@
 				"typography": {
 					"fontWeight": "400"
 				}
+			},
+			"core/button": {
+				"css": ".wp-block-button.is-style-outline > .wp-block-button__link {padding:0.9rem 2rem;}"
 			}
 		},
 		"elements": {
@@ -185,8 +188,7 @@
 					"border": {
 						"color": "var(--wp--preset--color--contrast)"
 					}
-				},
-				"css": "&.is-style-outline > .wp-block-button__link {padding:0.9rem 2rem;}"
+				}
 			},
 			"heading": {
 				"typography": {

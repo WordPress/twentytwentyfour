@@ -139,7 +139,7 @@
 					"fontSize": "var(--wp--preset--font-size--medium)",
 					"textTransform": "capitalize"
 				},
-				"css": "&.is-style-outline > .wp-block-button__link {padding:var(--wp--preset--spacing--10) var(--wp--preset--spacing--20);}"
+				"css": ".wp-block-button.is-style-outline > .wp-block-button__link {padding:var(--wp--preset--spacing--10) var(--wp--preset--spacing--20);}"
 			},
 			"core/navigation": {
 				"typography": {
