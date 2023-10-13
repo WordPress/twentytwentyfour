@@ -131,10 +131,10 @@
 					"outline": {
 						"spacing": {
 							"padding": {
-								"bottom": "calc(0.9rem - 1px)",
-								"left": "calc(2rem - 1px)",
-								"right": "calc(2rem - 1px)",
-								"top": "calc(0.9rem - 1px)"
+								"bottom": "calc(0.9rem - 2px)",
+								"left": "calc(2rem - 2px)",
+								"right": "calc(2rem - 2px)",
+								"top": "calc(0.9rem - 2px)"
 							}
 						},
 						"border": {
