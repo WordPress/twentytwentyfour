@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Minimal centered footer with logo and navigation
- * Slug: twentytwentyfour/footer-writer
+ * Title: Footer with centered logo and navigation
+ * Slug: twentytwentyfour/footer-centered-logo-nav
  * Categories: footer
  * Block Types: core/template-part/footer
  */
