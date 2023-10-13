@@ -165,14 +165,6 @@
 					"background": "var(--wp--preset--color--contrast-2)",
 					"text": "var(--wp--preset--color--white)"
 				},
-				"spacing": {
-					"padding": {
-						"bottom": "0.9rem",
-						"left": "2rem",
-						"right": "2rem",
-						"top": "0.9rem"
-					}
-				},
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--heading)",
 					"fontSize": "var(--wp--preset--font-size--small)",
