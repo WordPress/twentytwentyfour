@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Writer Search Results Template
- * Slug: twentytwentyfour/template-search-writer
+ * Title: Blogging Search Results
+ * Slug: twentytwentyfour/template-search-blogging
  * Template Types: search
  * Viewport width: 1400
  * Inserter: no

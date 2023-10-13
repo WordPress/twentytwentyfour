@@ -1,8 +1,8 @@
 <?php
 /**
- * Title: Writer Index Template
- * Slug: twentytwentyfour/template-index-writer
- * Template Types: index, home
+ * Title: Blogging Archive
+ * Slug: twentytwentyfour/template-archive-blogging
+ * Template Types: archive, category, tag, author, date
  * Viewport width: 1400
  * Inserter: no
  */
@@ -12,9 +12,7 @@
 
 <!-- wp:group {"tagName":"main","style":{"spacing":{"blockGap":"0","margin":{"top":"0"}}},"layout":{"type":"constrained"}} -->
 <main class="wp-block-group" style="margin-top:0">
-	<!-- wp:heading {"level":1,"style":{"typography":{"lineHeight":"1"},"spacing":{"padding":{"top":"var:preset|spacing|50"}}}} -->
-	<h1 class="wp-block-heading" style="padding-top:var(--wp--preset--spacing--50);line-height:1"><?php esc_html_e( 'Watch, Read, Listen', 'twentytwentyfour' ); ?></h1>
-	<!-- /wp:heading -->
+	<!-- wp:query-title {"type":"archive","style":{"typography":{"lineHeight":"1"},"spacing":{"padding":{"top":"var:preset|spacing|50"}}}} /-->
 
 	<!-- wp:pattern {"slug":"twentytwentyfour/posts-one-column"} /-->
 </main>
