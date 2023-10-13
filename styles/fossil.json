@@ -185,7 +185,8 @@
 					"border": {
 						"color": "var(--wp--preset--color--contrast)"
 					}
-				}
+				},
+				"css": "&.is-style-outline > .wp-block-button__link {padding:0.9rem 2rem;}"
 			},
 			"heading": {
 				"typography": {
