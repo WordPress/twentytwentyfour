@@ -198,9 +198,6 @@
 				":hover": {
 					"color": {
 						"background": "var(--wp--preset--color--contrast)"
-					},
-					"border": {
-						"color": "var(--wp--preset--color--contrast)"
 					}
 				}
 			},
