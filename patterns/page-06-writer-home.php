@@ -2,9 +2,8 @@
 /**
  * Title: Writer Home Page
  * Slug: twentytwentyfour/writer-home
- * Categories: page
- * Keywords: starter
- * Block Types: core/post-content
+ * Categories: text, page
+ * Keywords: page, starter
  * Post Types: page, wp_template
  * Viewport width: 1400
  */

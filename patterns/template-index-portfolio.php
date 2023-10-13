@@ -4,6 +4,7 @@
  * Slug: twentytwentyfour/template-index-portfolio
  * Template Types: index
  * Viewport width: 1400
+ * Inserter: no
  */
 ?>
 
