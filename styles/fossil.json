@@ -7,8 +7,8 @@
 			"gradients": [
 				{
 					"slug": "gradient-1",
-					"gradient": "linear-gradient(to bottom, #D6D2CE 0%, #E1DFDB 100%)",
-					"name": "Vertical beige to linen"
+					"gradient": "linear-gradient(to bottom, #E1DFDB 0%, #D6D2CE 100%)",
+					"name": "Vertical linen to beige"
 				},
 				{
 					"slug": "gradient-2",
@@ -28,7 +28,7 @@
 				{
 					"slug": "gradient-5",
 					"gradient": "linear-gradient(to bottom, #65574E 0%, #958D86 100%)",
-					"name": "Vertical soft mint to beige"
+					"name": "Vertical sable to beige"
 				},
 				{
 					"slug": "gradient-6",
@@ -58,7 +58,7 @@
 				{
 					"slug": "gradient-11",
 					"gradient": "linear-gradient(to bottom, #65574E 50%, #958D86 50%)",
-					"name": "Vertical hard soft mint to beige"
+					"name": "Vertical hard sable to taupe"
 				},
 				{
 					"slug": "gradient-12",
