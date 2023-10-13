@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: Portfolio Index Template
+ * Title: Portfolio Index
  * Slug: twentytwentyfour/template-index-portfolio
  * Template Types: index
  * Viewport width: 1400

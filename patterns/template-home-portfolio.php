@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: Portfolio Home Template
+ * Title: Portfolio Home
  * Slug: twentytwentyfour/template-home-portfolio
  * Template Types: front-page, index, home, page
  * Viewport width: 1400
