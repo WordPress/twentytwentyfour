@@ -126,6 +126,24 @@
 	},
 	"styles": {
 		"blocks": {
+			"core/button": {
+				"variations": {
+					"outline": {
+						"spacing": {
+							"padding": {
+								"bottom": "calc(0.9rem - 1px)",
+								"left": "calc(2rem - 1px)",
+								"right": "calc(2rem - 1px)",
+								"top": "calc(0.9rem - 1px)"
+							}
+						},
+						"border": {
+							"style": "solid",
+							"width": "1px"
+						}
+					}
+				}
+			},
 			"core/pullquote": {
 				"typography": {
 					"fontSize": "var(--wp--preset--font-size--large)",
