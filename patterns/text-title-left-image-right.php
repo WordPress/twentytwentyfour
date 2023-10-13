@@ -2,7 +2,7 @@
 /**
  * Title: Title text and button on left with image on right
  * Slug: twentytwentyfour/text-title-left-image-right
- * Categories: text, about, featured
+ * Categories: banner, about, featured
  * Viewport width: 1400
  */
 ?>

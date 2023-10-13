@@ -163,6 +163,9 @@
 			"wideSize": "1280px"
 		},
 		"spacing": {
+			"spacingScale": {
+				"steps": 0
+			},
 			"spacingSizes": [
 				{
 					"name": "1",

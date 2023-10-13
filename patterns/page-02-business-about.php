@@ -2,8 +2,8 @@
 /**
  * Title: About Page
  * Slug: twentytwentyfour/business-about
- * Categories: about
- * Keywords: page, starter
+ * Categories: page
+ * Keywords: starter
  * Block Types: core/post-content
  * Post Types: page, wp_template
  * Viewport width: 1400
