@@ -7,23 +7,23 @@
 			"gradients": [
 				{
 					"slug": "gradient-1",
-					"gradient": "linear-gradient(to bottom, #cbd9e1 0%, #ffffff 100%)",
-					"name": "Vertical azure to white"
+					"gradient": "linear-gradient(to bottom, #cbd9e1 0%, #EBEBEF 100%)",
+					"name": "Vertical azure to ice"
 				},
 				{
 					"slug": "gradient-2",
-					"gradient": "linear-gradient(to bottom, #466577 0%, #FFFFFF 100%)",
-					"name": "Vertical slate to white"
+					"gradient": "linear-gradient(to bottom, #466577 0%, #EBEBEF 100%)",
+					"name": "Vertical slate to ice"
 				},
 				{
 					"slug": "gradient-3",
-					"gradient": "linear-gradient(to bottom, #37505d 0%, #FFFFFF 100%)",
-					"name": "Vertical ocean to white"
+					"gradient": "linear-gradient(to bottom, #37505d 0%, #EBEBEF 100%)",
+					"name": "Vertical ocean to ice"
 				},
 				{
 					"slug": "gradient-4",
-					"gradient": "linear-gradient(to bottom, #24343d 0%, #FFFFFF 100%)",
-					"name": "Vertical ink to white"
+					"gradient": "linear-gradient(to bottom, #1C2930 0%, #EBEBEF 100%)",
+					"name": "Vertical ink to ice"
 				},
 				{
 					"slug": "gradient-5",
@@ -32,28 +32,28 @@
 				},
 				{
 					"slug": "gradient-6",
-					"gradient": "linear-gradient(to bottom, #24343d 0%, #37505d 100%)",
+					"gradient": "linear-gradient(to bottom, #1C2930 0%, #37505d 100%)",
 					"name": "Vertical ink to ocean"
 				},
 				{
 					"slug": "gradient-7",
-					"gradient": "linear-gradient(to bottom, #FFFFFF 50%, #cbd9e1 50%)",
-					"name": "Vertical hard white to azure"
+					"gradient": "linear-gradient(to bottom, #EBEBEF 50%, #cbd9e1 50%)",
+					"name": "Vertical hard ice to azure"
 				},
 				{
 					"slug": "gradient-8",
-					"gradient": "linear-gradient(to bottom, #466577 50%, #FFFFFF 50%)",
-					"name": "Vertical hard slate to white"
+					"gradient": "linear-gradient(to bottom, #466577 50%, #EBEBEF 50%)",
+					"name": "Vertical hard slate to ice"
 				},
 				{
 					"slug": "gradient-9",
-					"gradient": "linear-gradient(to bottom, #37505d 50%, #FFFFFF 50%)",
-					"name": "Vertical hard ocean to white"
+					"gradient": "linear-gradient(to bottom, #37505d 50%, #EBEBEF 50%)",
+					"name": "Vertical hard ocean to ice"
 				},
 				{
 					"slug": "gradient-10",
-					"gradient": "linear-gradient(to bottom, #24343d 50%, #FFFFFF 50%)",
-					"name": "Vertical hard ink to white"
+					"gradient": "linear-gradient(to bottom, #1C2930 50%, #EBEBEF 50%)",
+					"name": "Vertical hard ink to ice"
 				},
 				{
 					"slug": "gradient-11",
@@ -62,18 +62,18 @@
 				},
 				{
 					"slug": "gradient-12",
-					"gradient": "linear-gradient(to bottom, #24343d 50%, #37505d 50%)",
+					"gradient": "linear-gradient(to bottom, #1C2930 50%, #37505d 50%)",
 					"name": "Vertical hard ink to ocean"
 				}
 			],
 			"palette": [
 				{
-					"color": "#FFFFFF",
+					"color": "#EBEBEF",
 					"name": "Base",
 					"slug": "base"
 				},
 				{
-					"color": "#cbd9e1",
+					"color": "#DCE0E6",
 					"name": "Base / Two",
 					"slug": "base-2"
 				},
@@ -83,7 +83,7 @@
 					"slug": "base-3"
 				},
 				{
-					"color": "#24343d",
+					"color": "#1C2930",
 					"name": "Contrast",
 					"slug": "contrast"
 				},
