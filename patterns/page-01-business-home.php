@@ -10,7 +10,7 @@
  */
 ?>
 
-<!-- wp:pattern {"slug":"twentytwentyfour/hero"} /-->
+<!-- wp:pattern {"slug":"twentytwentyfour/banner-hero"} /-->
 <!-- wp:pattern {"slug":"twentytwentyfour/text-feature-grid-3-col"} /-->
 <!-- wp:pattern {"slug":"twentytwentyfour/text-alternating-images"} /-->
 <!-- wp:pattern {"slug":"twentytwentyfour/testimonial-centered"} /-->
