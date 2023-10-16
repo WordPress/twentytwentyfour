@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Project Details
- * Slug: twentytwentyfour/project-details
+ * Title: Project details
+ * Slug: twentytwentyfour/text-project-details
  * Categories: text, portfolio
  * Viewport width: 1400
  */

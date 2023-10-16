@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Project Layout
- * Slug: twentytwentyfour/project-layout
+ * Title: Project layout
+ * Slug: twentytwentyfour/gallery-project-layout
  * Categories: gallery, featured, portfolio
  * Viewport width: 1600
  */
