@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: A 404 page
- * Slug: twentytwentyfour/404
+ * Title: 404
+ * Slug: twentytwentyfour/hidden-404
  * Inserter: no
  */
 ?>
