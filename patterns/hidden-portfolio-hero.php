@@ -1,8 +1,7 @@
 <?php
 /**
  * Title: Heading on left
- * Slug: twentytwentyfour/intro-text-left
- * Categories: text
+ * Slug: twentytwentyfour/hidden-portfolio-hero
  * Inserter: no
  */
 ?>
