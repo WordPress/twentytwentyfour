@@ -53,10 +53,6 @@
 					"slug": "contrast"
 				}
 			]
-		},
-		"layout": {
-			"contentSize": "620px",
-			"wideSize": "90vw"
 		}
 	},
 	"styles": {
