@@ -1,8 +1,8 @@
 <?php
 /**
- * Title: Features with Images
- * Slug: twentytwentyfour/features-with-images
- * Categories: text
+ * Title: Text with alternating images
+ * Slug: twentytwentyfour/text-alternating-images
+ * Categories: text, about
  * Viewport width: 1400
  */
 ?>
