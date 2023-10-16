@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: Business Home Template
+ * Title: Business Home
  * Slug: twentytwentyfour/template-home
  * Template Types: front-page, index, home
  * Viewport width: 1400

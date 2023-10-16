@@ -105,4 +105,10 @@
 | @webashrafians | @webashrafians |
 | @alishabajra | @alishabajracharya27 |
 | @Yos0107 | @yosephtamang |
-| @gregoryfu |  |
+| @gregoryfu | @gregfuller |
+| @Subodhsun01 | @subodhsun |
+| @benharri | @benharri |
+| @enodekciw | @enodekciw |
+| @glendaviesnz | @glendaviesnz |
+| @JosephGabito | @dunhakdis |
+| @shshanker | @shivashankerbhatta |

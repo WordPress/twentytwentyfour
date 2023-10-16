@@ -42,6 +42,6 @@
 	<!-- wp:comments-pagination-next /-->
 	<!-- /wp:comments-pagination -->
 
-	<!-- wp:post-comments-form /-->
+	<!-- wp:post-comments-form {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}}}} /-->
 </div>
 <!-- /wp:comments -->

@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: Home Page
+ * Title: Business Home Page
  * Slug: twentytwentyfour/home
  * Categories: page
  * Keywords: starter
