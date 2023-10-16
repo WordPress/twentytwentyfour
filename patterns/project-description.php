@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Project description
- * Slug: twentytwentyfour/project-description
- * Categories: featured, banner, about
+ * Slug: twentytwentyfour/banner-project-description
+ * Categories: featured, banner, about, portfolio
  * Viewport width: 1400
  */
 ?>

@@ -10,7 +10,7 @@
  */
 ?>
 
-<!-- wp:pattern {"slug":"twentytwentyfour/project-description"} /-->
+<!-- wp:pattern {"slug":"twentytwentyfour/banner-project-description"} /-->
 <!-- wp:pattern {"slug":"twentytwentyfour/project-details"} /-->
 <!-- wp:pattern {"slug":"twentytwentyfour/gallery-full-screen-image"} /-->
 <!-- wp:pattern {"slug":"twentytwentyfour/text-centered-statement"} /-->
