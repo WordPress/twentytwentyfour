@@ -45,8 +45,7 @@
 			]
 		},
 		"layout": {
-			"contentSize": "620px",
-			"wideSize": "90vw"
+			"contentSize": "620px"
 		},
 		"typography": {
 			"fontSizes": [
