@@ -11,8 +11,8 @@
 ?>
 
 <!-- wp:pattern {"slug":"twentytwentyfour/hero"} /-->
-<!-- wp:pattern {"slug":"twentytwentyfour/feature-grid"} /-->
-<!-- wp:pattern {"slug":"twentytwentyfour/features-with-images"} /-->
+<!-- wp:pattern {"slug":"twentytwentyfour/text-feature-grid-3-col"} /-->
+<!-- wp:pattern {"slug":"twentytwentyfour/text-alternating-images"} /-->
 <!-- wp:pattern {"slug":"twentytwentyfour/testimonial-centered"} /-->
 <!-- wp:pattern {"slug":"twentytwentyfour/posts-featured"} /-->
 <!-- wp:pattern {"slug":"twentytwentyfour/text-centered-cta-subscribe"} /-->
