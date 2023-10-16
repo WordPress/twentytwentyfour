@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: About Page
+ * Title: Business About Page
  * Slug: twentytwentyfour/business-about
  * Categories: page
  * Keywords: starter

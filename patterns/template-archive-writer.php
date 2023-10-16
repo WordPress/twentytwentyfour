@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: Writer Archive Template
+ * Title: Writer Archive
  * Slug: twentytwentyfour/template-archive-writer
  * Template Types: archive, category, tag, author, date
  * Viewport width: 1400

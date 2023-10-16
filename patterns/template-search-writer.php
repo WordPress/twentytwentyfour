@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: Writer Search Results Template
+ * Title: Writer Search Results
  * Slug: twentytwentyfour/template-search-writer
  * Template Types: search
  * Viewport width: 1400

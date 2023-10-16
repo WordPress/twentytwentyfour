@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: Portfolio Archive Template
+ * Title: Portfolio Archive
  * Slug: twentytwentyfour/template-archive-portfolio
  * Template Types: archive
  * Viewport width: 1400
