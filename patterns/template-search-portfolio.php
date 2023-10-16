@@ -16,7 +16,7 @@
 
 	<!-- wp:group {"align":"wide","layout":{"type":"constrained","contentSize":"840px","justifyContent":"left"}} -->
 	<div class="wp-block-group alignwide">
-		<!-- wp:pattern {"slug":"twentytwentyfour/search"} /-->
+		<!-- wp:pattern {"slug":"twentytwentyfour/hidden-search"} /-->
 	</div>
 	<!-- /wp:group -->
 

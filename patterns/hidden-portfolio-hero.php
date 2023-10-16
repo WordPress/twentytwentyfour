@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: Heading on left
+ * Title: Portfolio hero
  * Slug: twentytwentyfour/hidden-portfolio-hero
  * Inserter: no
  */

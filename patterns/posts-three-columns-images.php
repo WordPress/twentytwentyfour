@@ -11,7 +11,7 @@
 <!-- wp:query {"query":{"perPage":10,"pages":0,"offset":"0","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"align":"wide","layout":{"type":"default"}} -->
 <div class="wp-block-query alignwide">
 	<!-- wp:query-no-results -->
-	<!-- wp:pattern {"slug":"twentytwentyfour/no-results-content"} /-->
+	<!-- wp:pattern {"slug":"twentytwentyfour/hidden-no-results"} /-->
 	<!-- /wp:query-no-results -->
 
 	<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"default"}} -->

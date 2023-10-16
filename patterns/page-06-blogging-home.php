@@ -53,7 +53,7 @@
 				<!-- /wp:query-pagination -->
 
 				<!-- wp:query-no-results -->
-				<!-- wp:pattern {"slug":"twentytwentyfour/no-results-content"} /-->
+				<!-- wp:pattern {"slug":"twentytwentyfour/hidden-no-results"} /-->
 				<!-- /wp:query-no-results -->
 			</div>
 			<!-- /wp:query -->

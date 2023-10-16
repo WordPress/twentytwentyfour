@@ -15,7 +15,7 @@
 	<!-- wp:group {"layout":{"type":"default"}} -->
 	<div class="wp-block-group">
 		<!-- wp:query-title {"type":"search","style":{"typography":{"lineHeight":"1"},"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|30"}}}} /-->
-		<!-- wp:pattern {"slug":"twentytwentyfour/search"} /-->
+		<!-- wp:pattern {"slug":"twentytwentyfour/hidden-search"} /-->
 	</div>
 	<!-- /wp:group -->
 
