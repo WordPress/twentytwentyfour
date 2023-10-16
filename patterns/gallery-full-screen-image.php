@@ -13,8 +13,8 @@
 	<div role="img" class="wp-block-cover__image-background has-parallax" style="background-position:50% 50%;background-image:url(<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/art-gallery.webp)">
 	</div>
 	<div class="wp-block-cover__inner-container">
-		<!-- wp:spacer {"height":"var:preset|spacing|60"} -->
-		<div style="height:var(--wp--preset--spacing--60)" aria-hidden="true" class="wp-block-spacer"></div>
+		<!-- wp:spacer {"height":"500px"} -->
+		<div style="height:500px" aria-hidden="true" class="wp-block-spacer"></div>
 		<!-- /wp:spacer -->
 	</div>
 </div>
