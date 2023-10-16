@@ -270,15 +270,15 @@
 				{
 					"fluid": {
 						"min": "1.85rem",
-						"max": "2.46rem"
+						"max": "2.5rem"
 					},
 					"name": "Extra Large",
-					"size": "2.46rem",
+					"size": "2.5rem",
 					"slug": "x-large"
 				},
 				{
 					"fluid": {
-						"min": "2.46rem",
+						"min": "2.5rem",
 						"max": "3.27rem"
 					},
 					"name": "Extra Extra Large",
