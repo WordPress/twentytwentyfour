@@ -17,16 +17,16 @@
 		<h1 class="wp-block-heading has-text-align-center has-x-large-font-size"><?php echo esc_html_x( 'A commitment to innovation and sustainability', 'Heading of the hero section', 'twentytwentyfour' ); ?></h1>
 		<!-- /wp:heading -->
 
-		<!-- wp:spacer {"height":"0px","style":{"layout":{"flexSize":"1.25rem","selfStretch":"fixed"}}} -->
-		<div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
+		<!-- wp:spacer {"height":"1.25rem"} -->
+		<div style="height:1.25rem" aria-hidden="true" class="wp-block-spacer"></div>
 		<!-- /wp:spacer -->
 
 		<!-- wp:paragraph {"align":"center"} -->
 		<p class="has-text-align-center"><?php echo esc_html_x( 'Études is a pioneering firm that seamlessly merges creativity and functionality to redefine architectural excellence.', 'Content of the hero section', 'twentytwentyfour' ); ?></p>
 		<!-- /wp:paragraph -->
 
-		<!-- wp:spacer {"height":"0px","style":{"layout":{"flexSize":"1.25rem","selfStretch":"fixed"}}} -->
-		<div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
+		<!-- wp:spacer {"height":"1.25rem"} -->
+		<div style="height:1.25rem" aria-hidden="true" class="wp-block-spacer"></div>
 		<!-- /wp:spacer -->
 
 		<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
