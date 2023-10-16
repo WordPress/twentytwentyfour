@@ -300,23 +300,16 @@
 			"core/button": {
 				"variations": {
 					"outline": {
-						"border": {
-							"bottom": {
-								"style": "solid",
-								"width": "1px"
-							},
-							"left": {
-								"style": "solid",
-								"width": "1px"
-							},
-							"right": {
-								"style": "solid",
-								"width": "1px"
-							},
-							"top": {
-								"style": "solid",
-								"width": "1px"
+						"spacing": {
+							"padding": {
+								"bottom": "calc(0.6rem - 1px)",
+								"left": "calc(1rem - 1px)",
+								"right": "calc(1rem - 1px)",
+								"top": "calc(0.6rem - 1px)"
 							}
+						},
+						"border": {
+							"width": "1px"
 						}
 					}
 				}
@@ -811,23 +804,7 @@
 				},
 				"border": {
 					"radius": ".33rem",
-					"color": "var(--wp--preset--color--contrast)",
-					"bottom": {
-						"style": "solid",
-						"width": "1px"
-					},
-					"left": {
-						"style": "solid",
-						"width": "1px"
-					},
-					"right": {
-						"style": "solid",
-						"width": "1px"
-					},
-					"top": {
-						"style": "solid",
-						"width": "1px"
-					}
+					"color": "var(--wp--preset--color--contrast)"
 				},
 				"color": {
 					"background": "var(--wp--preset--color--contrast)",
