@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: Project overview
+ * Title: Portfolio project overview
  * Slug: twentytwentyfour/page-portfolio-overview
  * Categories: page, featured
  * Keywords: starter
