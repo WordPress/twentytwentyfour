@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Feature grid
- * Slug: twentytwentyfour/feature-grid
+ * Title: Feature grid, 3 columns
+ * Slug: twentytwentyfour/text-feature-grid-3-col
  * Categories: text, about
  * Viewport width: 1400
  */
