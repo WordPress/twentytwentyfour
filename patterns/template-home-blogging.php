@@ -2,7 +2,7 @@
 /**
  * Title: Blogging home template
  * Slug: twentytwentyfour/template-home-blogging
- * Template Types: front-page, index, home, page
+ * Template Types: front-page, index, home
  * Viewport width: 1400
  * Inserter: no
  */
