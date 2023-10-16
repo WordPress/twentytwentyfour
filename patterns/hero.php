@@ -13,31 +13,31 @@
 	<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"constrained","contentSize":"565px"}} -->
 	<div class="wp-block-group">
 
-	<!-- wp:heading {"textAlign":"center","fontSize":"x-large","level":1} -->
-	<h1 class="wp-block-heading has-text-align-center has-x-large-font-size"><?php echo esc_html_x( 'A commitment to innovation and sustainability', 'Heading of the hero section', 'twentytwentyfour' ); ?></h1>
-			<!-- /wp:heading -->
+		<!-- wp:heading {"textAlign":"center","fontSize":"x-large","level":1} -->
+		<h1 class="wp-block-heading has-text-align-center has-x-large-font-size"><?php echo esc_html_x( 'A commitment to innovation and sustainability', 'Heading of the hero section', 'twentytwentyfour' ); ?></h1>
+		<!-- /wp:heading -->
 
-			<!-- wp:spacer {"height":"0px","style":{"layout":{"flexSize":"1.25rem","selfStretch":"fixed"}}} -->
-			<div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
-			<!-- /wp:spacer -->
+		<!-- wp:spacer {"height":"0px","style":{"layout":{"flexSize":"1.25rem","selfStretch":"fixed"}}} -->
+		<div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
+		<!-- /wp:spacer -->
 
-			<!-- wp:paragraph {"align":"center"} -->
-			<p class="has-text-align-center"><?php echo esc_html_x( 'Études is a pioneering firm that seamlessly merges creativity and functionality to redefine architectural excellence.', 'Content of the hero section', 'twentytwentyfour' ); ?></p>
-			<!-- /wp:paragraph -->
+		<!-- wp:paragraph {"align":"center"} -->
+		<p class="has-text-align-center"><?php echo esc_html_x( 'Études is a pioneering firm that seamlessly merges creativity and functionality to redefine architectural excellence.', 'Content of the hero section', 'twentytwentyfour' ); ?></p>
+		<!-- /wp:paragraph -->
 
-			<!-- wp:spacer {"height":"0px","style":{"layout":{"flexSize":"1.25rem","selfStretch":"fixed"}}} -->
-			<div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
-			<!-- /wp:spacer -->
+		<!-- wp:spacer {"height":"0px","style":{"layout":{"flexSize":"1.25rem","selfStretch":"fixed"}}} -->
+		<div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
+		<!-- /wp:spacer -->
 
-			<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-			<div class="wp-block-buttons">
-				<!-- wp:button -->
-				<div class="wp-block-button">
-					<a class="wp-block-button__link wp-element-button"><?php echo esc_html_x( 'About us', 'Button\'s label of the hero section', 'twentytwentyfour' ); ?></a>
-				</div>
-				<!-- /wp:button -->
+		<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+		<div class="wp-block-buttons">
+			<!-- wp:button -->
+			<div class="wp-block-button">
+				<a class="wp-block-button__link wp-element-button"><?php echo esc_html_x( 'About us', 'Button\'s label of the hero section', 'twentytwentyfour' ); ?></a>
 			</div>
-			<!-- /wp:buttons -->
+			<!-- /wp:button -->
+		</div>
+		<!-- /wp:buttons -->
 	</div>
 	<!-- /wp:group -->
 
