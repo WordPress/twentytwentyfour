@@ -1,8 +1,7 @@
 <?php
 /**
- * Title: List of posts with featured images in three columns
- * Description: This pattern only shows featured images. Make sure that you have assigned images to your posts.
- * Slug: twentytwentyfour/posts-three-columns-images
+ * Title: Posts with featured images only, 3 columns
+ * Slug: twentytwentyfour/posts-images-only-3-col
  * Categories: query
  * Block Types: core/query
  */

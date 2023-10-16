@@ -20,7 +20,7 @@
 	</div>
 	<!-- /wp:group -->
 
-	<!-- wp:pattern {"slug":"twentytwentyfour/posts-three-columns-images"} /-->
+	<!-- wp:pattern {"slug":"twentytwentyfour/posts-images-only-3-col"} /-->
 </main>
 <!-- /wp:group -->
 

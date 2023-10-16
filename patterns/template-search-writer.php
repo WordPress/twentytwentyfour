@@ -19,7 +19,7 @@
 	</div>
 	<!-- /wp:group -->
 
-	<!-- wp:pattern {"slug":"twentytwentyfour/posts-one-column"} /-->
+	<!-- wp:pattern {"slug":"twentytwentyfour/posts-1-col"} /-->
 </main>
 <!-- /wp:group -->
 

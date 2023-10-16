@@ -14,7 +14,7 @@
 <main class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
 
 	<!-- wp:pattern {"slug":"twentytwentyfour/hidden-portfolio-hero"} /-->
-	<!-- wp:pattern {"slug":"twentytwentyfour/posts-offset-images-only-4-col"} /-->
+	<!-- wp:pattern {"slug":"twentytwentyfour/posts-images-only-offset-4-col"} /-->
 
 </main>
 <!-- /wp:group -->

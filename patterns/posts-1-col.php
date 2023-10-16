@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: List of Posts in one column
- * Slug: twentytwentyfour/posts-one-column
+ * Title: List of posts, 1 column
+ * Slug: twentytwentyfour/posts-1-col
  * Categories: query
  * Block Types: core/query
  */

@@ -1,8 +1,7 @@
 <?php
 /**
- * Title: List of posts in three columns
- * Description: The default post list with featured images, title, date, author, categories and excerpt.
- * Slug: twentytwentyfour/posts-three-columns
+ * Title: List of posts, 3 columns
+ * Slug: twentytwentyfour/posts-3-col
  * Categories: query
  * Block Types: core/query
  */
