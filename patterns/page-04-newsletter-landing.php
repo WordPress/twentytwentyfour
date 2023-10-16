@@ -36,7 +36,7 @@
 		<div class="wp-block-buttons">
 			<!-- wp:button -->
 			<div class="wp-block-button">
-				<a class="wp-block-button__link wp-element-button"><?php echo esc_html_x( 'Sign up', 'sample content for newsletter subscription button', 'twentytwentyfour' ); ?></a>
+				<a class="wp-block-button__link wp-element-button"><?php echo esc_html_x( 'Sign up', 'Sample content for newsletter subscribe button', 'twentytwentyfour' ); ?></a>
 			</div>
 			<!-- /wp:button -->
 		</div>

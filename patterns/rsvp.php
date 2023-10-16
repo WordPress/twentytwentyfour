@@ -30,7 +30,7 @@
 					<div class="wp-block-buttons">
 						<!-- wp:button -->
 						<div class="wp-block-button">
-							<a class="wp-block-button__link wp-element-button"><?php echo esc_html_x( 'Reserve your spot', 'Call to action to the reservation', 'twentytwentyfour' ); ?></a>
+							<a class="wp-block-button__link wp-element-button"><?php echo esc_html_x( 'Reserve your spot', 'Call to action button text for the reservation button', 'twentytwentyfour' ); ?></a>
 						</div>
 						<!-- /wp:button -->
 					</div>
