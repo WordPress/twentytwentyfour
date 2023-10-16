@@ -1,8 +1,8 @@
 <?php
 /**
- * Title: Left Aligned Call to Action with Image
- * Slug: twentytwentyfour/left-aligned-cta-image
- * Categories: call-to-action
+ * Title: Call to action with image on right
+ * Slug: twentytwentyfour/cta-content-image-on-right
+ * Categories: call-to-action, banner
  * Viewport width: 1400
  */
 ?>

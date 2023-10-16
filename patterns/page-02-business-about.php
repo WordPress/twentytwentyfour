@@ -16,4 +16,4 @@
 <!-- wp:pattern {"slug":"twentytwentyfour/team-4-col"} /-->
 <!-- wp:pattern {"slug":"clients-section"} /-->
 <!-- wp:pattern {"slug":"twentytwentyfour/text-faq"} /-->
-<!-- wp:pattern {"slug":"twentytwentyfour/left-aligned-cta-image"} /-->
+<!-- wp:pattern {"slug":"twentytwentyfour/cta-content-image-on-right"} /-->
