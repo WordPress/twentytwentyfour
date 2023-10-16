@@ -112,3 +112,5 @@
 | @glendaviesnz | @glendaviesnz |
 | @JosephGabito | @dunhakdis |
 | @shshanker | @shivashankerbhatta |
+| @Dajeema | @dajeema |
+| @aayushastha | |
