@@ -1,8 +1,8 @@
 <?php
 /**
- * Title: Full Screen Image
- * Slug: twentytwentyfour/full-screen-image
- * Inserter: no
+ * Title: Full screen image
+ * Slug: twentytwentyfour/gallery-full-screen-image
+ * Categories: gallery, portfolio
  */
 ?>
 
