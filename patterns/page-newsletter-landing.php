@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Newsletter Landing Page
- * Slug: twentytwentyfour/newsletter-landing
+ * Title: Newsletter landing
+ * Slug: twentytwentyfour/page-newsletter-landing
  * Categories: call-to-action, page, featured
  * Keywords: starter
  * Block Types: core/post-content

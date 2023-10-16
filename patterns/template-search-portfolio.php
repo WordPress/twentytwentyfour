@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: Portfolio Search
+ * Title: Portfolio search template
  * Slug: twentytwentyfour/template-search-portfolio
  * Template Types: search
  * Viewport width: 1400

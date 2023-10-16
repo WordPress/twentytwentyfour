@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: Blogging Archive
+ * Title: Blogging archive template
  * Slug: twentytwentyfour/template-archive-blogging
  * Template Types: archive, category, tag, author, date
  * Viewport width: 1400

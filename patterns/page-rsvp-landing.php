@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: RSVP Landing Page
- * Slug: twentytwentyfour/rsvp-landing
+ * Title: RSVP landing
+ * Slug: twentytwentyfour/page-rsvp-landing
  * Categories: page
  * Keywords: starter
  * Block Types: core/post-content

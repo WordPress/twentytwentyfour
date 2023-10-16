@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Business Home Page
- * Slug: twentytwentyfour/home
+ * Title: Business home
+ * Slug: twentytwentyfour/home-business
  * Categories: page
  * Keywords: starter
  * Block Types: core/post-content

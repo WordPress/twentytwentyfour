@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Portfolio Home Page
- * Slug: twentytwentyfour/portfolio-home
+ * Title: Portfolio home, with posts
+ * Slug: twentytwentyfour/page-home-portfolio
  * Categories: page
  * Keywords: starter
  * Block Types: core/post-content

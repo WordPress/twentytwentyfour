@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: Blogging Index
+ * Title: Blogging index template
  * Slug: twentytwentyfour/template-index-blogging
  * Template Types: index, home
  * Viewport width: 1400

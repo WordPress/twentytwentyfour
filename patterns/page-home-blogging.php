@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Blogging Home
- * Slug: twentytwentyfour/blogging-home
+ * Title: Blogging home
+ * Slug: twentytwentyfour/page-home-blogging
  * Categories: page
  * Keywords: page, starter
  * Post Types: page, wp_template
