@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Offset gallery, 3 columns
- * Slug: twentytwentyfour/gallery-offset-images-grid-2-col
+ * Slug: twentytwentyfour/gallery-offset-images-grid-3-col
  * Categories: gallery, portfolio
  * Keywords: project, images, media, masonry, columns
  * Viewport width: 1400
