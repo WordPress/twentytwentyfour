@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Faq
- * Slug: twentytwentyfour/faq
+ * Slug: twentytwentyfour/text-faq
  * Categories: text, about, featured
  * Keywords: faq, about
  * Viewport width: 1400

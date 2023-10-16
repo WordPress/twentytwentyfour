@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Team
- * Slug: twentytwentyfour/team
+ * Title: Team members, 4 columns
+ * Slug: twentytwentyfour/team-4-col
  * Categories: team, about
  * Viewport width: 1400
  */
