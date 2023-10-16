@@ -9,7 +9,7 @@
  */
 ?>
 
-<!-- wp:pattern {"slug":"twentytwentyfour/text-centered-title"}	/-->
+<!-- wp:pattern {"slug":"twentytwentyfour/text-centered-statement-small"}	/-->
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40)">
@@ -80,4 +80,4 @@
 </div>
 <!-- /wp:group -->
 
-<!-- wp:pattern {"slug":"twentytwentyfour/text-centered-cta-subscribe"}	/-->
+<!-- wp:pattern {"slug":"twentytwentyfour/cta-subscribe-centered"}	/-->

@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Services - Call To Action
- * Slug: twentytwentyfour/services-cta
+ * Title: Services call to action with image on left
+ * Slug: twentytwentyfour/cta-services-image-left
  * Categories: call-to-action, banner, featured, services
  * Viewport width: 1400
  */

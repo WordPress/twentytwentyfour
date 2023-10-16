@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: RSVP
- * Slug: twentytwentyfour/rsvp
+ * Slug: twentytwentyfour/cta-rsvp
  * Categories: call-to-action, featured
  * Viewport width: 1100
  */

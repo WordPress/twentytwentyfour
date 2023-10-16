@@ -1,8 +1,9 @@
 <?php
 /**
- * Title: Centered title
- * Slug: twentytwentyfour/text-centered-title
+ * Title: Centered statement, small
+ * Slug: twentytwentyfour/text-centered-statement-small
  * Categories: text, about
+ * Keywords: mission, introduction
  * Viewport width: 1200
  */
 ?>
