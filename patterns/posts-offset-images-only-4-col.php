@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Offset Grid of Image Posts
- * Slug: twentytwentyfour/offset-grid-image-posts
+ * Title: Offset posts with images, 4 columns
+ * Slug: twentytwentyfour/posts-offset-images-only-4-col
  * Categories: posts
  */
 ?>
