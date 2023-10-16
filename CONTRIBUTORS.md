@@ -114,3 +114,4 @@
 | @shshanker | @shivashankerbhatta |
 | @Dajeema | @dajeema |
 | @aayushastha | aayusha |
+| lada7042 | lada7042 |
