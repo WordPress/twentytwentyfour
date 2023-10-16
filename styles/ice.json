@@ -93,7 +93,7 @@
 					"slug": "contrast-2"
 				},
 				{
-					"color": "#466577",
+					"color": "#96A5B2",
 					"name": "Contrast / Three",
 					"slug": "contrast-3"
 				}
@@ -180,10 +180,6 @@
 					"slug": "xx-large"
 				}
 			]
-		},
-		"layout": {
-			"contentSize": "620px",
-			"wideSize": "99vw"
 		}
 	},
 	"styles": {
