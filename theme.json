@@ -319,6 +319,12 @@
 					"blockGap": "0.7rem"
 				}
 			},
+			"core/calendar": {
+				"color": {
+					"text": "var(--wp--preset--color--contrast)"
+				},
+				"css": ".wp-block-calendar table:where(:not(.has-text-color)) th{background-color:var(--wp--preset--color--contrast-2);color:var(--wp--preset--color--base);border-color:var(--wp--preset--color--contrast-2)} & table:where(:not(.has-text-color)) td{border-color:var(--wp--preset--color--contrast-2)}"
+			},
 			"core/categories": {
 				"spacing": {
 					"padding": {

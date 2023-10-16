@@ -94,6 +94,9 @@
 	},
 	"styles": {
 		"blocks": {
+			"core/calendar": {
+				"css": ".wp-block-calendar table:where(:not(.has-text-color)) th{background-color:var(--wp--preset--color--contrast);color:var(--wp--preset--color--base);border-color:var(--wp--preset--color--contrast)} & table:where(:not(.has-text-color)) td{border-color:var(--wp--preset--color--contrast)}"
+			},
 			"core/comment-date": {
 				"color": {
 					"text": "var(--wp--preset--color--contrast)"
