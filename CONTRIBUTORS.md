@@ -113,4 +113,5 @@
 | @JosephGabito | @dunhakdis |
 | @shshanker | @shivashankerbhatta |
 | @Dajeema | @dajeema |
-| @aayushastha | |
+| @aayushastha | @aayusha |
+| @lada7042 | @lada7042 |
