@@ -119,4 +119,4 @@
 | @KalmanG | @kalmang |
 | @nilovelez | @nilovelez |
 | @swissspidy | @swissspidy |
-| @Yari2u | @Yari2u |
+| @Yari2u | @yari2u |
