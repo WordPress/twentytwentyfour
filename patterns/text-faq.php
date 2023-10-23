@@ -16,8 +16,8 @@
 
 	<!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
 	<div class="wp-block-group alignwide">
-		<!-- wp:separator {"style":{"color":{"background":"#ffffff1a"}},"className":"is-style-wide"} -->
-		<hr class="wp-block-separator has-text-color has-alpha-channel-opacity has-background is-style-wide" style="background-color:#ffffff1a;color:#ffffff1a" />
+		<!-- wp:separator {"backgroundColor":"contrast-2","className":"is-style-wide"} -->
+		<hr class="wp-block-separator has-text-color has-contrast-2-color has-alpha-channel-opacity has-contrast-2-background-color has-background is-style-wide"/>
 		<!-- /wp:separator -->
 
 		<!-- wp:details {"style":{"spacing":{"margin":{"top":"0"}}},"className":"is-style-arrow-icon-details","fontSize":"medium"} -->
