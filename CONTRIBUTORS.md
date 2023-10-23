@@ -118,3 +118,5 @@
 | @neilorangepeel | @neilorangepeel |
 | @KalmanG | @kalmang |
 | @nilovelez | @nilovelez |
+| @swissspidy | @swissspidy |
+| @Yari2u | @yari2u |
