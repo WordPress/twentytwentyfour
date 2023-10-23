@@ -115,3 +115,5 @@
 | @Dajeema | @dajeema |
 | @aayushastha | @aayusha |
 | @lada7042 | @lada7042 |
+| @neilorangepeel | @neilorangepeel |
+| @KalmanG | @kalmang |
