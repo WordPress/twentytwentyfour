@@ -32,7 +32,7 @@
 			<!-- wp:column {"style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"var:preset|spacing|30","bottom":"var:preset|spacing|10"}},"border":{"top":{"color":"var:preset|color|base-3","width":"1px"}}}} -->
 			<div class="wp-block-column" style="border-top-color:var(--wp--preset--color--base-3);border-top-width:1px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--30)">
 				<!-- wp:heading {"textAlign":"center","level":4,"style":{"spacing":{"padding":{"top":"1px"}}},"fontSize":"medium"} -->
-				<h4 class="wp-block-heading has-text-align-center has-medium-font-size" style="padding-top:1px">
+				<h4 class="wp-block-heading has-text-align-center has-medium-font-size">
 					<em><?php echo esc_html_x( 'Free', 'Sample heading for the first pricing level', 'twentytwentyfour' ); ?></em>
 				</h4>
 				<!-- /wp:heading -->
@@ -94,7 +94,7 @@
 			<!-- wp:column {"style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"var:preset|spacing|30","bottom":"var:preset|spacing|10"}},"border":{"top":{"color":"var:preset|color|contrast","width":"2px"}}}} -->
 			<div class="wp-block-column" style="border-top-color:var(--wp--preset--color--contrast);border-top-width:2px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--30)">
 				<!-- wp:heading {"textAlign":"center","level":4} -->
-				<h4 class="wp-block-heading has-text-align-center">
+				<h4 class="wp-block-heading has-text-align-center has-medium-font-size">
 					<em><?php echo esc_html_x( 'Connoisseur', 'Sample heading for the second pricing level', 'twentytwentyfour' ); ?></em>
 				</h4>
 				<!-- /wp:heading -->
@@ -152,7 +152,7 @@
 			<!-- wp:column {"style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"var:preset|spacing|30","bottom":"var:preset|spacing|10"}},"border":{"top":{"color":"var:preset|color|base-3","width":"1px"}}}} -->
 			<div class="wp-block-column" style="border-top-color:var(--wp--preset--color--base-3);border-top-width:1px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--30)">
 				<!-- wp:heading {"textAlign":"center","level":4,"style":{"spacing":{"padding":{"top":"1px"}}},"fontSize":"medium"} -->
-				<h4 class="wp-block-heading has-text-align-center has-medium-font-size" style="padding-top:1px">
+				<h4 class="wp-block-heading has-text-align-center has-medium-font-size">
 					<em><?php echo esc_html_x( 'Expert', 'Sample heading for the third pricing level', 'twentytwentyfour' ); ?></em>
 				</h4>
 				<!-- /wp:heading -->
