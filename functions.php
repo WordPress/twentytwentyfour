@@ -45,7 +45,6 @@ if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 				'label'        => __( 'Arrow icon', 'twentytwentyfour' ),
 				/*
 				 * Styles for the custom Arrow icon style of the Details block
-				 * https://github.com/WordPress/twentytwentyfour/issues/46
 				 */
 				'inline_style' => '
 				.is-style-arrow-icon-details {
