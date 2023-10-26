@@ -124,5 +124,4 @@
 | @SavPhill | @phillsav |
 | @cybeardjm | @didierjm |
 | @fabiorubioglio | @fabiorubioglio |
-| @hanneslsm | @hanneslsm |
 | @KevinTaron | @ktaron |
