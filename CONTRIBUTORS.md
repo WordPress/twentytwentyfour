@@ -120,3 +120,7 @@
 | @nilovelez | @nilovelez |
 | @swissspidy | @swissspidy |
 | @Yari2u | @yari2u |
+| @andersnoren | @anlino |
+| @SavPhill | @phillsav |
+| @cybeardjm | @didierjm |
+| @fabiorubioglio | @fabiorubioglio |
