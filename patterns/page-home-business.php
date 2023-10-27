@@ -19,8 +19,8 @@
 	<!-- wp:heading {"align":"wide","style":{"typography":{"lineHeight":"1"},"spacing":{"margin":{"top":"0"}}},"fontSize":"x-large"} -->
 	<h2 class="wp-block-heading alignwide has-x-large-font-size" style="margin-top:0;line-height:1"><?php esc_html_e( 'Watch, Read, Listen', 'twentytwentyfour' ); ?></h2>
 	<!-- /wp:heading -->
-    
-    <!-- wp:pattern {"slug":"twentytwentyfour/posts-3-col"} /-->
+
+	<!-- wp:pattern {"slug":"twentytwentyfour/posts-3-col"} /-->
 </div>
 <!-- /wp:group -->
 <!-- wp:pattern {"slug":"twentytwentyfour/cta-subscribe-centered"} /-->
