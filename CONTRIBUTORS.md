@@ -51,7 +51,7 @@
 | @scruffian | @scruffian |
 | @alexandrebuffet | @alexandrebuffet |
 | @gpotter | @gpotter |
-| @michaelshowes | |
+| @michaelshowes | @mshowes |
 | @lefty55104 | @pbwebd |
 | @anphira | @anphira |
 | @rebekahmarkowitz | @rebekowitz |
@@ -124,3 +124,4 @@
 | @SavPhill | @phillsav |
 | @cybeardjm | @didierjm |
 | @fabiorubioglio | @fabiorubioglio |
+| @KevinTaron | @ktaron |
