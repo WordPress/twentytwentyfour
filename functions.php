@@ -151,7 +151,7 @@ add_action( 'init', 'twentytwentyfour_block_styles' );
  * Enqueue block stylesheets.
  */
 
- if ( ! function_exists( 'twentytwentyfour_block_stylesheets' ) ) :
+if ( ! function_exists( 'twentytwentyfour_block_stylesheets' ) ) :
 	/**
 	 * Enqueue custom block stylesheets
 	 *
