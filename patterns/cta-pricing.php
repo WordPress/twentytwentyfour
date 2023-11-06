@@ -52,19 +52,11 @@
 					<p class="has-text-align-center"><?php echo wp_kses_post( _x( 'Access to 5 exclusive <em>Études Articles</em> per month.', 'Feature for pricing level', 'twentytwentyfour' ) ); ?></p>
 					<!-- /wp:paragraph -->
 
-					<!-- wp:separator {"backgroundColor":"base-3"} -->
-					<hr class="wp-block-separator has-text-color has-base-3-color has-alpha-channel-opacity has-base-3-background-color has-background is-style-wide" />
-					<!-- /wp:separator -->
-
 					<!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}}},"textColor":"contrast-2"} -->
 					<p class="has-text-align-center has-contrast-2-color has-text-color has-link-color">
 						<s><?php echo esc_html_x( 'Weekly print edition.', 'Feature for pricing level', 'twentytwentyfour' ); ?></s>
 					</p>
 					<!-- /wp:paragraph -->
-
-					<!-- wp:separator {"backgroundColor":"base-3"} -->
-					<hr class="wp-block-separator has-text-color has-base-3-color has-alpha-channel-opacity has-base-3-background-color has-background is-style-wide" />
-					<!-- /wp:separator -->
 
 					<!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}}},"textColor":"contrast-2"} -->
 					<p class="has-text-align-center has-contrast-2-color has-text-color has-link-color">
@@ -114,17 +106,9 @@
 					<p class="has-text-align-center"><?php echo wp_kses_post( _x( 'Access to 20 exclusive <em>Études Articles</em> per month.', 'Feature for pricing level', 'twentytwentyfour' ) ); ?></p>
 					<!-- /wp:paragraph -->
 
-					<!-- wp:separator {"backgroundColor":"base-3"} -->
-					<hr class="wp-block-separator has-text-color has-base-3-color has-alpha-channel-opacity has-base-3-background-color has-background is-style-wide" />
-					<!-- /wp:separator -->
-
 					<!-- wp:paragraph {"align":"center"} -->
 					<p class="has-text-align-center"><?php echo esc_html_x( 'Weekly print edition.', 'Feature for pricing level', 'twentytwentyfour' ); ?></p>
 					<!-- /wp:paragraph -->
-
-					<!-- wp:separator {"backgroundColor":"base-3"} -->
-					<hr class="wp-block-separator has-text-color has-base-3-color has-alpha-channel-opacity has-base-3-background-color has-background is-style-wide" />
-					<!-- /wp:separator -->
 
 					<!-- wp:paragraph {"align":"center"} -->
 					<p class="has-text-align-center"><?php echo wp_kses_post( _x( 'Exclusive access to the <em>Études</em> app for iOS and Android.', 'Feature for pricing level', 'twentytwentyfour' ) ); ?></p>
@@ -172,17 +156,9 @@
 					<p class="has-text-align-center"><?php echo wp_kses_post( _x( 'Exclusive, unlimited access to <em>Études Articles</em>.', 'Feature for pricing level', 'twentytwentyfour' ) ); ?></p>
 					<!-- /wp:paragraph -->
 
-					<!-- wp:separator {"backgroundColor":"base-3"} -->
-					<hr class="wp-block-separator has-text-color has-base-3-color has-alpha-channel-opacity has-base-3-background-color has-background is-style-wide" />
-					<!-- /wp:separator -->
-
 					<!-- wp:paragraph {"align":"center"} -->
 					<p class="has-text-align-center"><?php echo esc_html_x( 'Weekly print edition.', 'Feature for pricing level', 'twentytwentyfour' ); ?></p>
 					<!-- /wp:paragraph -->
-
-					<!-- wp:separator {"backgroundColor":"base-3"} -->
-					<hr class="wp-block-separator has-text-color has-base-3-color has-alpha-channel-opacity has-base-3-background-color has-background is-style-wide" />
-					<!-- /wp:separator -->
 
 					<!-- wp:paragraph {"align":"center"} -->
 					<p class="has-text-align-center"><?php echo wp_kses_post( _x( 'Exclusive access to the <em>Études</em> app for iOS and Android', 'Feature for pricing level', 'twentytwentyfour' ) ); ?></p>
