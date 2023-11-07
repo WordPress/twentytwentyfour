@@ -18,8 +18,8 @@
 		"url": "https://github.com/WordPress/twentytwentyfour/issues"
 	},
 	"devDependencies": {
-		"@wordpress/stylelint-config": "^20.0.2",
-		"stylelint": "^14.10.0"
+		"@wordpress/stylelint-config": "^21.24.0",
+		"stylelint": "^14.16.1"
 	},
 	"scripts": {
 		"lint:css": "stylelint **/*.css -i .gitignore",
