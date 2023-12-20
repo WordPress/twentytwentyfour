@@ -200,7 +200,7 @@ You can install the test-specific development dependencies by running `npm i && 
 
 - [Twenty Twenty-Four Figma Mockups](https://www.figma.com/file/AlYr03vh4dVimwYwQkTdf6/Twenty-Twenty-Four?type=design&node-id=16%3A14852&mode=design&t=yad81XRtp200JLes-1)
 - [Setting up a development environment](https://developer.wordpress.org/block-editor/handbook/tutorials/devenv/)
-- [Block Theme documentation](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview)
+- [Theme development documentation](https://developer.wordpress.org/themes/)
 - [Global Styles & theme.json documentation](https://developer.wordpress.org/block-editor/how-to-guides/themes/theme-json/)
 
 ## Timeline
